@@ -12,6 +12,7 @@ authors:
     given-names: Hailu
   - family-names: Cui
     given-names: Wencong
+    orcid: "https://orcid.org/0000-0001-6579-3724"
   - family-names: Bakker
     given-names: Rebecca
 repository-code: "https://github.com/Keven1894/KG-Metadata-Generation"
@@ -28,6 +29,7 @@ preferred-citation:
       given-names: Hailu
     - family-names: Cui
       given-names: Wencong
+      orcid: "https://orcid.org/0000-0001-6579-3724"
     - family-names: Bakker
       given-names: Rebecca
   collection-title: "Proceedings of the 2nd Workshop on Smarter Extraction of Scholarly Metadata using Knowledge Graphs, Language Models and Agents (SESAME 2026), co-located with JCDL 2026"
