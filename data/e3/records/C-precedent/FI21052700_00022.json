@@ -1,0 +1,94 @@
+{
+  "doc_id": "FI21052700_00022",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "FI21052700_00022",
+    "title": "MIAMI LIFE, 1927-06-11 (Volume 4, Number 20)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1927-06-11",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Lions of America convention (Miami, Fla.)",
+      "Miami (Fla.)—Politics and government https://www.geonames.org/4164138",
+      "Miami (Fla.)—Elections",
+      "City commissioners (Miami, Fla.)",
+      "Miami Beach (Fla.)—Politics and government https://www.geonames.org/4164143",
+      "Miami Beach (Fla.)—Municipal courts",
+      "Judicial ethics",
+      "Concealed weapons—Florida—Dade County",
+      "Bond issues—Florida—Dade County",
+      "Causeways—Florida—Biscayne Bay https://www.geonames.org/4147971",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Prohibition https://id.loc.gov/authorities/subjects/sh85107330",
+      "Entertainment events https://id.loc.gov/authorities/subjects/sh96009616",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466"
+    ],
+    "description": "Issue includes local political commentary and election aftermath coverage concerning Miami city commissioners and related civic disputes, alongside editorials on law enforcement practices (including gun-toting and beach policing) and municipal justice. Considerable attention is given to welcoming and entertaining visiting Lions for an upcoming convention, with extensive tourism, dining, nightlife, and travel-related content and advertisements. Mentions ongoing development and infrastructure around Biscayne Bay, including causeways and the Venetian bridge.",
+    "coverage": [
+      "Miami (Fla.) https://www.geonames.org/4164138",
+      "Miami Beach (Fla.) https://www.geonames.org/4164143",
+      "Biscayne Bay https://www.geonames.org/4147971",
+      "1927-06"
+    ],
+    "contributor": [
+      "Harry Platt https://id.loc.gov/authorities/names/n87843336",
+      "Ed Romfh",
+      "J. E. Lummus",
+      "Ev Sewell",
+      "Cliff Reeder",
+      "Abe Aronovitz",
+      "Jimmy Donn",
+      "Lelia Russell",
+      "Avery Guyton",
+      "Thomas J. Wiggins",
+      "S. Grover Morrow",
+      "Senator Watson",
+      "Representatives Wilson",
+      "Dillon",
+      "Weede",
+      "Judge Atkinson"
+    ],
+    "relation": [
+      "Volume 4, Number 20"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 10.28,
+    "context_chars": 71175,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

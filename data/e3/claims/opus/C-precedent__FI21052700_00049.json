@@ -1,0 +1,220 @@
+{
+  "doc_id": "FI21052700_00049",
+  "judge": "opus",
+  "n_claims": 38,
+  "n_supported": 38,
+  "n_contradicted": 0,
+  "claim_precision": 1.0,
+  "per_field": {
+    "subject": {
+      "n": 13,
+      "supported": 13
+    },
+    "description": {
+      "n": 17,
+      "supported": 17
+    },
+    "coverage": {
+      "n": 5,
+      "supported": 5
+    },
+    "relation": {
+      "n": 3,
+      "supported": 3
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses local government efficiency in Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses repair and reconstruction of bridges at Baker's Haulover, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses traffic and parking regulation in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses automobile licenses in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses inspection of canned foods in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses public health in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses police misconduct in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses fraudulent practices by employment agencies in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses Prohibition.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses tourism in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses business advertising in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses crime.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials and commentary on delayed restoration of traffic at Baker's Haulover between Miami Beach and the north.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes criticism of public inefficiency.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes criticism of voter apathy.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes discussion of traffic conditions affecting tourists and commercial vehicles.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes discussion of parking conditions affecting tourists and commercial vehicles.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes reports noting official actions on food safety involving destruction of unfit canned goods.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes reports on other public health matters.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue prints letters to the editor concerning utility deposits.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue prints letters to the editor concerning employment agency practices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue prints letters to the editor calling for investigation of the Miami police department.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local political commentary.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local political commentary about the gubernatorial race.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local political commentary about eligibility questions.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains society items.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains column items.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains extensive local advertising.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains holiday-related content.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Baker's Haulover in North Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Lincoln Road in Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is dated 1927-12-17.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is part of Miami Life (Miami, Florida).",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is in Volume 4 of Miami Life (Miami, Florida).",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Number 44 of Volume 4 of Miami Life (Miami, Florida).",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-precedent"
+}

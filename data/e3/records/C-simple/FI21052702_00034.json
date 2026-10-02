@@ -1,0 +1,97 @@
+{
+  "doc_id": "FI21052702_00034",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052702_00034",
+    "title": "Miami Life (Miami, Florida), Vol. 9, No. 34 (May 11, 1935)",
+    "creator": [
+      "Life Publishing Company"
+    ],
+    "publisher": "Miami Life",
+    "date": "1935-05-11",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Miami politics",
+      "Municipal elections",
+      "Recall elections",
+      "Coral Gables (Fla.)",
+      "Labor disputes",
+      "Wage theft",
+      "NRA code violations",
+      "Loan sharks",
+      "Small loans",
+      "Salary assignments",
+      "Gambling",
+      "Boxing",
+      "University of Miami"
+    ],
+    "description": "Issue dated May 11, 1935 (Vol. 9, No. 34) featuring prominent coverage of Miami-area politics and civic affairs, including discussion of a recall effort against Mayor Sewell and commentary on city commission candidates. Major articles include an account alleging wage and hour violations and an assault involving a Miami-Biltmore hotel kitchen worker and hotel personnel in Coral Gables, and a campaign against illegal small-loan \"loan shark\" practices with statements from local corporations refusing to honor salary assignments. Additional columns and advertisements cover Mothers' Day, local sports (boxing), University of Miami campus notes, and assorted local news and commentary.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Coral Gables (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "1935-05-11"
+    ],
+    "contributor": [
+      "Arthur J. Milhaupt",
+      "Henry L. Dougherty",
+      "J. C. Campbell",
+      "Milton Chapman",
+      "Clement L. Theed",
+      "Deputy Sheriff Hardy",
+      "Victor Powe",
+      "P. B. Norton",
+      "Dalton & Company",
+      "Florida Power & Light Company",
+      "Southern Bell Telephone Company",
+      "Postal Telegraph Company",
+      "Western Union",
+      "N. Vernon Hawthorne",
+      "Governor Dave Sholtz",
+      "Robert H. Taylor",
+      "Fred Pine",
+      "Alexander Orr Jr.",
+      "Robert Williams",
+      "Orville Rigby",
+      "Jockey Jimmy"
+    ],
+    "relation": [
+      "Miami Life, Volume 9, Number 34"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.99,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

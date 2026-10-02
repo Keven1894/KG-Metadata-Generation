@@ -1,0 +1,83 @@
+{
+  "doc_id": "FI21052702_00030",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00030",
+    "title": "MIAMI LIFE, April 13, 1935 (Vol. 9, No. 30)",
+    "creator": [],
+    "publisher": "LIFE PUBLISHING COMPANY",
+    "date": "1935-04-13",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Gambling—Florida",
+      "Pari-mutuel betting—Florida",
+      "Loan sharks—Florida",
+      "Usury—Florida",
+      "Slot machines—Florida",
+      "Marble games (Gambling)—Florida",
+      "Liquor taxes—Florida",
+      "Prohibition—Florida",
+      "Horse racing—Maryland",
+      "Dog racing—Florida",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "sports https://id.loc.gov/authorities/subjects/sh00007735"
+    ],
+    "description": "Issue of MIAMI LIFE (\"Florida's Most Influential Weekly\") dated April 13, 1935. Prominent editorial content addresses loan-shark lending and calls for legal reforms; extensive commentary debates legal gambling and pari-mutuel racing in Florida, including discussion of state politics and the role of Tallahassee. Additional sections include campus and society columns, nightlife and entertainment listings/advertising, and sports coverage with horse-racing tips and local sporting news.",
+    "coverage": [
+      "Miami, Florida https://www.geonames.org/4164138",
+      "Greater Miami https://www.geonames.org/4157383",
+      "Tallahassee, Florida https://www.geonames.org/4174715",
+      "Chattahoochee, Florida https://www.geonames.org/4150673",
+      "Hibiscus Island https://www.geonames.org/4158505",
+      "1935"
+    ],
+    "contributor": [
+      "David Sholtz https://id.loc.gov/authorities/names/n98060121",
+      "E. R. Bradley https://id.loc.gov/authorities/names/n82014508",
+      "Joseph E. Widener https://id.loc.gov/authorities/names/n86047552",
+      "John Dillinger https://id.loc.gov/authorities/names/n82147276",
+      "Mahatma Gandhi https://id.loc.gov/authorities/names/n79041626",
+      "Rudy Vallee https://id.loc.gov/authorities/names/no2008185615"
+    ],
+    "relation": [
+      "MIAMI LIFE (Miami, Florida), Vol. 9, No. 30"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 9.92,
+    "context_chars": 68243,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

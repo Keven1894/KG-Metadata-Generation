@@ -1,0 +1,329 @@
+{
+  "doc_id": "FI21052703_00010",
+  "judge": "opus",
+  "n_claims": 59,
+  "n_supported": 59,
+  "n_contradicted": 0,
+  "claim_precision": 1.0,
+  "per_field": {
+    "subject": {
+      "n": 16,
+      "supported": 16
+    },
+    "description": {
+      "n": 18,
+      "supported": 18
+    },
+    "coverage": {
+      "n": 4,
+      "supported": 4
+    },
+    "contributor": {
+      "n": 18,
+      "supported": 18
+    },
+    "relation": {
+      "n": 3,
+      "supported": 3
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses police misconduct.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses police corruption.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses a grand jury.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses gambling.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses arrests.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses local politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the Republican Party in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses primary elections.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses politics and government in Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses finance in Coral Gables, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses Prohibition.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses bootlegging.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses Al Capone.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses religious conflict.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses beauty contests.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the Dade County Fair.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains editorials.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains commentary.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials and commentary about Miami police scandals.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials and commentary about oversight related to Miami police scandals.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes information about arrests connected to gambling.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes information about alleged leaks from a grand juror to the police.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes political columns about Florida factions.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes political columns about upcoming primaries.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes discussion of Coral Gables Corporation refinancing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local notes about Prohibition-era liquor trade.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local notes about Al Capone’s visit.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue reports on violent conflict involving religious factions.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage of a Miami beauty contest.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage of the Dade County Fair.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes letters to the editor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes legal notices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes advertisements.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes candidate announcements.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Coral Gables, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is dated 1928-03-10.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "State's Attorney Hawthorne appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "J. K. Fink appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Jeff Lanier appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "C. E. Purnell appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Chief of Police Quigg appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "George Bean appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Samuel Rountree appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Cecil Watson appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Joe Yates appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Judge Cowart appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "C. H. Cranden appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Nathan Mayo appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Sidney Catts appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Al Capone appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Princess Laura Kofeyr appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Fred Pine appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Effie Knowles appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Stuart Witham appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is part of Miami Life.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is in volume 5 of Miami Life.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is number 8 of Miami Life.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-simple"
+}

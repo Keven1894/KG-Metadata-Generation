@@ -1,0 +1,81 @@
+{
+  "doc_id": "FI21052700_00015",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00015",
+    "title": "MIAMI LIFE, Saturday, April 23, 1927 (Volume 4, Number 15)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life Co.",
+    "date": "1927-04-23",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Florida Power & Light Company (https://id.loc.gov/authorities/names/n79075512)",
+      "Municipal elections—Miami (Fla.)",
+      "City commissioners—Florida—Miami",
+      "Public utilities—Rates—Florida—Miami",
+      "Street railroads—Franchises—Florida—Miami",
+      "Everglades drainage—Florida",
+      "Democratic Party—Congresses—Miami (Fla.)",
+      "Politics (https://id.loc.gov/authorities/subjects/sh85104466)",
+      "Business (https://id.loc.gov/authorities/subjects/sh85018260)",
+      "Sports (https://id.loc.gov/authorities/subjects/sh00007735)",
+      "Editorial cartoons (https://id.loc.gov/authorities/subjects/sh85040974)"
+    ],
+    "description": "Issue includes editorials and political commentary on Miami city commission elections and slates, criticism of Florida Power & Light Company and public-utility contracts (including bus and water-rate issues), and discussion of Everglades drainage proposals. Coverage also notes efforts to attract the Democratic National Convention to Miami, local civic promotion and boosterism, and a campaign to fund a University of Miami football stadium. Includes recurring humor/columns (e.g., “Little Geraldine,” “What a Miami Bride Should Know”), letters to the editor, and advertisements for local businesses and services.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (https://www.geonames.org/4164143)",
+      "Key Biscayne (https://www.geonames.org/4160789)",
+      "Everglades (https://www.geonames.org/4154657)",
+      "1927"
+    ],
+    "contributor": [
+      "D. A. McDougal (https://id.loc.gov/authorities/names/nb2015021914)",
+      "Al Smith (https://id.loc.gov/authorities/names/n83152205)",
+      "A. ARONOVITZ",
+      "JAMES DONN",
+      "E. C. Romfh",
+      "W. E. CLARK",
+      "Seaboard Air Line Railway (https://id.loc.gov/authorities/names/n86111430)"
+    ],
+    "relation": [
+      "Volume 4, Number 15"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 10.87,
+    "context_chars": 67563,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

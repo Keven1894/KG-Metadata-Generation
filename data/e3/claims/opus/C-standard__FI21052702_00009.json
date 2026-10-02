@@ -1,0 +1,254 @@
+{
+  "doc_id": "FI21052702_00009",
+  "judge": "opus",
+  "n_claims": 44,
+  "n_supported": 43,
+  "n_contradicted": 0,
+  "claim_precision": 0.9773,
+  "per_field": {
+    "subject": {
+      "n": 12,
+      "supported": 11
+    },
+    "description": {
+      "n": 17,
+      "supported": 17
+    },
+    "coverage": {
+      "n": 5,
+      "supported": 5
+    },
+    "contributor": {
+      "n": 8,
+      "supported": 8
+    },
+    "relation": {
+      "n": 2,
+      "supported": 2
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue contains content about horse racing in the Miami area of Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about pari-mutuel betting in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about legal proceedings involving the Miami Jockey Club.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about municipal government in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about license taxation in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about Prohibition in Key West, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about nightlife.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about entertainment events.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about sports.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about transportation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about business.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about practical politics.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local political coverage focused on conflict within Miami city government.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes criticism of Mayor Sewell’s leadership.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes criticism of Mayor Sewell’s proposed business fees.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes criticism of Mayor Sewell’s proposed liquor fees.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue reports on a legal challenge involving the Miami Jockey Club.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue reports on a legal challenge involving pari-mutuel operations.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue reports that interrogatories were filed in circuit court.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The interrogatories raise questions about horse-racing finances.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The interrogatories raise questions about alleged corruption.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains nightlife listings or advertising.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains entertainment listings or advertising.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains sports-related items.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains racing tips.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains boxing promotions.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains radio program schedules.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains assorted local columns.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains assorted local notices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Bayfront Park.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers the Hialeah race track.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is dated 1934-11-17.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Joseph E. Widener appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Mayor Sewell appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "A. D. H. Fossey appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Attorney Bart A. Riley appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Charles R. Myers appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Buck Leatherman appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Duncan, Hamlin & Duncan appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Earle Barr Hanson appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Volume 9.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Number 9.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-standard"
+}

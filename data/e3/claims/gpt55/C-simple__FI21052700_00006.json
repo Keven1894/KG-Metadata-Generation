@@ -1,0 +1,324 @@
+{
+  "doc_id": "FI21052700_00006",
+  "judge": "gpt55",
+  "n_claims": 58,
+  "n_supported": 47,
+  "n_contradicted": 0,
+  "claim_precision": 0.8103,
+  "per_field": {
+    "subject": {
+      "n": 14,
+      "supported": 14
+    },
+    "description": {
+      "n": 25,
+      "supported": 25
+    },
+    "coverage": {
+      "n": 5,
+      "supported": 5
+    },
+    "contributor": {
+      "n": 13,
+      "supported": 2
+    },
+    "relation": {
+      "n": 1,
+      "supported": 1
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue contains content about social life and customs in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about tourism in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about public utilities in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about the Florida Power & Light Company.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about horse racing in Hialeah, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about the Jockey Club in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about railroad-crossing safety in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about courts in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about prisons in Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about Red Cross disaster relief in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about the card game bridge.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about civic affairs in Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about real estate development in the Miami area of Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about oil leases in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue is dated February 19, 1927.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue is Volume 4, Number 6.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Wen R. Phillips is the editor of the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials and commentary about Florida Power & Light stock.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials and commentary about public-utility profits.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue calls to extend the Jockey Club racing season.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes notes on Miami’s winter tourist season.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes notes on pricing during Miami’s winter tourist season.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue criticizes railroad crossing safety.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses railroad crossing safety in relation to the FEC railroad.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses railroad crossing safety in relation to the Seaboard railroad.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a letter about American Railway Express delivery-zone charges.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue reports that Municipal Judge Dave J. Heffernan sentenced a merchant for an anti-Miami sign.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue reprints a petition or letter from prisoners in the Dade County stockade.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The reprinted petition or letter protests food conditions in the Dade County stockade.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue features a bridge column by Sidney S. Lenz.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local humor items.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a local humor item titled “Little Geraldine.”",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes society notes.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes extensive local advertising.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains advertising for casinos.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains advertising for clubs.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains advertising for retail businesses.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains advertising for oil leases.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains advertising for services.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Hialeah, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers the date 1927-02-19.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "John Kimble appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Sidney S. Lenz appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Dave J. Heffernan appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Florida Power & Light Company appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "American Railway Express Company appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The Red Cross appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Joe Smoot appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Harry Rogers appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "W. Hammerhead Greeby appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Frank Wharton appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "A. C. Bowden appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Princess Zoraida appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Professor Prescott appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is part of Miami Life, Volume 4, Number 6.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-simple"
+}

@@ -1,0 +1,294 @@
+{
+  "doc_id": "FI21052700_00034",
+  "judge": "opus",
+  "n_claims": 52,
+  "n_supported": 52,
+  "n_contradicted": 0,
+  "claim_precision": 1.0,
+  "per_field": {
+    "subject": {
+      "n": 18,
+      "supported": 18
+    },
+    "description": {
+      "n": 20,
+      "supported": 20
+    },
+    "coverage": {
+      "n": 6,
+      "supported": 6
+    },
+    "contributor": {
+      "n": 5,
+      "supported": 5
+    },
+    "relation": {
+      "n": 3,
+      "supported": 3
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses rent control in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses housing rents in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses landlords in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses landlord-tenant matters in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses street railroad (streetcar) safety in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses traffic-circle planning in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses gasoline weights-and-measures inspections in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses justices of the peace in Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about tourism.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about transportation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about business.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about entertainment events.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about nightlife.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about sports.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about commerce between the Bahamas and Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about the tourist trade in Nassau, Bahamas.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about oil prospecting in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses ethics in advertising in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local commentary on Miami-area rents.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local commentary on Miami-area landlords.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local commentary on streetcar safety in the Miami area.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local commentary on traffic safety in the Miami area.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local commentary on proposed traffic improvements in the Miami area.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes reports on municipal matters.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes bulletins on municipal matters.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes content about gasoline pump inspections.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes content about a resignation petition involving Dade County justices of the peace.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage of tourism between Miami and the Bahamas (including Nassau).",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage of trade between Miami and the Bahamas (including Nassau).",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes entertainment listings.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes nightlife listings.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes advertisements for clubs.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes advertisements for dances.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes advertisements for theaters.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes substantial promotional content concerning Florida oil prospects.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes substantial news content concerning Florida oil prospects.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes substantial content concerning investment ventures related to Florida oil prospects.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Buena Vista.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Nassau, Bahamas.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue dates to 1927.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Bobo Dean contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Mr. Arnold contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Bob Taylor contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Bill Green contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "S. C. Ebbets contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is part of the newspaper Miami Life (Miami, Florida).",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is in Volume 4 of Miami Life.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Number 32 of Miami Life.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-standard"
+}

@@ -1,0 +1,289 @@
+{
+  "doc_id": "FI21052701_00009",
+  "judge": "gpt55",
+  "n_claims": 51,
+  "n_supported": 51,
+  "n_contradicted": 0,
+  "claim_precision": 1.0,
+  "per_field": {
+    "subject": {
+      "n": 15,
+      "supported": 15
+    },
+    "description": {
+      "n": 19,
+      "supported": 19
+    },
+    "coverage": {
+      "n": 7,
+      "supported": 7
+    },
+    "contributor": {
+      "n": 8,
+      "supported": 8
+    },
+    "relation": {
+      "n": 2,
+      "supported": 2
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses the Dr. T. E. Moore (\"Torture Doctor\") case.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses an investigation into the death of Mary Jane Korn.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses psychiatry-related abuse or malpractice in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes allegations of drugging and shock treatment.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses suicide investigations in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses gambling in Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses Florida politics and government.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses crime.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses rent control or rent decontrol in Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses employment in the Miami area of Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses tourism in the Miami area of Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes weather-related content about Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes information about entertainment events in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about nightlife in Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses business conditions in the Miami area of Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue features extensive coverage of the death of Mary Jane Korn.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue features extensive coverage of allegations against Dr. T. E. Moore.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Dr. T. E. Moore is referred to in the issue as the \"Torture Doctor\".",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses documentary evidence related to the death of Mary Jane Korn.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses discrepancies between police and coroner accounts related to the death of Mary Jane Korn.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes calls for a renewed investigation into the death of Mary Jane Korn.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes calls for action by state authorities regarding the death of Mary Jane Korn.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on Florida politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on gambling enforcement in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes letters about Miami Beach rent increases after rent decontrol.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes reporting about Miami Beach rent increases after rent decontrol.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes content about local employment conditions.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes content about local business conditions.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes assorted local court items.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes assorted local police items.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes entertainment advertisements.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes nightlife advertisements.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes entertainment listings.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes nightlife listings.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Coral Gables.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Biscayne Bay.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers the Tamiami Trail.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue dates to 1949.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Fuller Warren appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Eddie Melchen appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Stanley Milledge appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Jay Shulenberger appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Bob Gautier appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Dr. Forthman appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Mary Jane Korn appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Dr. T. E. Moore appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Volume XXIII.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Number 9.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-standard"
+}

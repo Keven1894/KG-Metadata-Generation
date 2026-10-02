@@ -1,0 +1,84 @@
+{
+  "doc_id": "FI21052703_00027",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00027",
+    "title": "MIAMI LIFE, 1928-07-07, Noue 5 umber 24",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "MIAMI LIFE",
+    "date": "1928-07-07",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "B. P. O. E. convention (Miami, Fla.)",
+      "Conventions and congresses—Miami (Fla.)",
+      "City government—Miami (Fla.)",
+      "Public safety—Miami (Fla.)",
+      "Police—Miami (Fla.)",
+      "Mosquitoes—Florida—Miami area",
+      "Prohibition—Florida https://id.loc.gov/authorities/subjects/sh85107330",
+      "Prohibition agents—Florida",
+      "Nightlife—Florida—Miami https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Tourism—Florida—Miami https://id.loc.gov/authorities/subjects/sh85136255",
+      "Business—Florida—Miami https://id.loc.gov/authorities/subjects/sh85018260",
+      "Entertainment—Florida—Miami https://id.loc.gov/authorities/subjects/sh96009616",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466"
+    ],
+    "description": "Issue published Saturday, July 7, 1928 (\"Noue 5 umber 24\"), with editorial and local commentary focused on Miami’s preparations for the forthcoming B.P.O.E. (Elks) convention and the city’s reliance on conventions and publicity. Includes a satirical \"Guide to Miami\" about nightlife and getting home from night clubs, discussion of city budget priorities (police/fire protection vs. publicity spending), notes on mosquitoes (including reports tied to Biscayne Key), and items on Prohibition enforcement and bootlegging. Contains letters to the editor regarding the Miami Police Department and public safety, along with local society/entertainment notices and advertisements.",
+    "coverage": [
+      "Miami, Florida https://www.geonames.org/4164138",
+      "Miami Beach, Florida https://www.geonames.org/4164143",
+      "Biscayne Key, Florida https://www.geonames.org/4160789",
+      "Hialeah, Florida https://www.geonames.org/4158476",
+      "Fort Pierce, Florida https://www.geonames.org/7259773",
+      "1928-07"
+    ],
+    "contributor": [
+      "Rose Mahoney https://id.loc.gov/authorities/names/no2007050896",
+      "Dan Moody https://id.loc.gov/authorities/names/n96022858",
+      "NATHAN MIIA",
+      "H. H. ARNOLD",
+      "F. A. HATHAWAY",
+      "R. Hammerhead Greeby",
+      "VERNON HAWTHORNE"
+    ],
+    "relation": [
+      "MIAMI LIFE; Noue 5 umber 24"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": "Digitized for access by FIU Libraries; rights status not stated in provided evidence."
+  },
+  "provenance": {
+    "latency_s": 13.36,
+    "context_chars": 59332,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

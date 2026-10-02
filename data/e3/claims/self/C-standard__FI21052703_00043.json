@@ -1,0 +1,302 @@
+{
+  "doc_id": "FI21052703_00043",
+  "n_claims": 54,
+  "n_supported": 54,
+  "n_contradicted": 0,
+  "claim_precision": 1.0,
+  "per_field": {
+    "subject": {
+      "n": 15,
+      "supported": 15
+    },
+    "description": {
+      "n": 21,
+      "supported": 21
+    },
+    "coverage": {
+      "n": 5,
+      "supported": 5
+    },
+    "contributor": {
+      "n": 11,
+      "supported": 11
+    },
+    "relation": {
+      "n": 2,
+      "supported": 2
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the Ku Klux Klan.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the 1928 United States presidential election.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "Herbert Hoover is discussed in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "Al Smith is discussed in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "Indiana is discussed in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "D. C. Stephenson is discussed in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "Jackson Memorial Hospital is discussed in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "James Deering is discussed in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses hospitals/charities in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses horse racetracks in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses prohibition in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses business.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses health.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes humor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials on the 1928 presidential campaign.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on the 1928 presidential campaign.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses Herbert Hoover in connection with the 1928 presidential campaign.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses Al Smith in connection with the 1928 presidential campaign.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue criticizes Ku Klux Klan activity.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue reproduces Ku Klux Klan documents.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses the Indiana Ku Klux Klan.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses Ku Klux Klan organizer Stephenson.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local civic coverage about governance at Jackson Memorial Hospital.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local civic coverage about funding concerns at Jackson Memorial Hospital.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local civic coverage about the James Deering trust.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses Miami-area politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses tourism-season business.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes debate over racing as a tourist draw.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses prohibition enforcement.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses dangers of illicit liquor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue covers a labor dispute related to the Capitol Theatre.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes recurring humor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes recurring columns.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local notices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes advertising.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers New York.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Indiana.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Jackson Memorial Hospital.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is dated 1928-11-03.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Herbert Hoover appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Al Smith appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "D. C. Stephenson appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "James Deering appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "John B. Gordon appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "W. R. Twiford appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Lilburn R. Railey appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "R. R. Hiammerhead Greeby appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Warren L. Newcomb appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "John W. Scott appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "James E. Flood appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Volume 5.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Number 4.",
+      "verdict": "supported"
+    }
+  ],
+  "tier": "C-standard"
+}

@@ -1,0 +1,369 @@
+{
+  "doc_id": "FI21052701_00020",
+  "judge": "gpt55",
+  "n_claims": 67,
+  "n_supported": 67,
+  "n_contradicted": 0,
+  "claim_precision": 1.0,
+  "per_field": {
+    "subject": {
+      "n": 20,
+      "supported": 20
+    },
+    "description": {
+      "n": 22,
+      "supported": 22
+    },
+    "coverage": {
+      "n": 4,
+      "supported": 4
+    },
+    "contributor": {
+      "n": 19,
+      "supported": 19
+    },
+    "relation": {
+      "n": 2,
+      "supported": 2
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses legalized gambling.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses off-track betting.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the Crime Commission of Greater Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses local government.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses politics in Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses police conduct.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses civil rights.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses county courts.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses judicial ethics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses divorce proceedings.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses homestead exemption.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses taxation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses water rates.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses public utilities regulation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses harbor and dock development.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses Intracoastal Waterway dredging.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses labor wages.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses housing and rents.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses spiritualism.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses newspapers and journalism.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local reporting.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses the likelihood of legalized gambling in Dade County.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses the likelihood of off-track betting in Dade County.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue criticizes the tactics of the Crime Commission.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses local political representation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue raises concerns about emergency medical access.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes proposals for a medical clearing house.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses attempts to shift control of Miami water rates to a board commission.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses attempts to shift control of Miami water rates to a railroad commission.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue covers proposals for harbor and dock expansion.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue covers proposals for Intracoastal Waterway dredging.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on police handling of minor offenses.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes allegations of police cruelty.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue reports on the Crime Commission probing county courts.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes excerpts from the Esther Regina Jacobson v. Joseph E. Jacobson divorce matter.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes allegations from the Esther Regina Jacobson v. Joseph E. Jacobson divorce matter.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The Esther Regina Jacobson v. Joseph E. Jacobson divorce matter involves claims of judicial influence.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The Esther Regina Jacobson v. Joseph E. Jacobson divorce matter involves claims of attorney influence.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes notes on homestead exemption opinions by Florida Attorney General Richard Ervin.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes additional local columns.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes advertisements.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is dated 1949-05-14.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Daniel P. Sullivan appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Claude Renshaw appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Reubin Clein appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ben F. Drucker appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ross Williams appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Esther Regina Jacobson appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Joseph E. Jacobson appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Marion E. Sibley appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Edward E. Fleming appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "J. M. Flowers appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "I. A. Drillick appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "John S. Knight appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Richard Ervin appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Burnett Roth appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "C. M. Gay appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "H. N. Kirkman appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Bertie Lilly Candler appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Sherman T. Smith appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Dr. Howard Candler appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is part of Miami Life (Miami, Florida), Volume XXIII.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Miami Life (Miami, Florida), Number 20.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-simple"
+}

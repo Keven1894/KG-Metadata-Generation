@@ -1,0 +1,102 @@
+{
+  "doc_id": "FI21052701_00023",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052701_00023",
+    "title": "Miami Life (Miami, Fla.), Vol. XXIII, No. 23 (Saturday, June 4, 1949)",
+    "creator": [
+      "Reubin Clein",
+      "Ben F. Drucker"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-06-04",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Gambling",
+      "Political corruption",
+      "Police misconduct",
+      "Grand jury investigations",
+      "Sheriffs",
+      "Municipal government",
+      "Bars",
+      "Liquor laws",
+      "Curfew laws",
+      "Miami Traffic Board",
+      "Florida East Coast Railway",
+      "Lobbying",
+      "Pressure groups",
+      "Public health",
+      "Emergency medical services",
+      "Cancer prevention",
+      "Real estate development",
+      "Key Largo (Fla.)"
+    ],
+    "description": "Issue features editorials and reporting on alleged municipal graft and vice enforcement in Miami, including claims about the authorship of anonymous “gambling graft” letters and criticism of local daily newspapers’ campaigns; notes Gov. Fuller Warren’s retention of Sheriff Jimmy Sullivan and discussion of a $30,000 investigation appropriation. Coverage includes controversy over enforcement of bar closing rules for private clubs (e.g., American Legion, Variety Club, Elks), commentary on police lieutenant Huttoe’s legal strategy and related court matters, and civic issues such as the Miami Traffic Board’s dealings with the F.E.C. Railway. Additional content includes letters to the editor (insurance complaint; cancer fund appeal), a reprinted/continued article on lobbying and the “Fair Deal,” local property development news in Key Largo, and a call for centralized emergency medical aid following reported deaths and complaints about medical services and billing.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "Key Largo (Fla.)",
+      "1949-06-04"
+    ],
+    "contributor": [
+      "Fuller Warren",
+      "Jimmy Sullivan",
+      "Charles L. Gabriel",
+      "Charles Lord",
+      "R. C. McLendon",
+      "C. O. Huttoe",
+      "Vincent Giblin",
+      "Cecil C. Curry",
+      "Wayne Allen",
+      "Herman H. Gerhard",
+      "Westbrook Pegler",
+      "Drew Pearson",
+      "Oscar F. Miller",
+      "Richard W. Ervin",
+      "Hylan \"Hy\" Kout",
+      "Mrs. Helen Dorsey",
+      "Dr. M. E. Edelman",
+      "Beatrice Hunt",
+      "Ruth Welsh",
+      "Mary Louisa Smith"
+    ],
+    "relation": [
+      "Vol. XXIII, No. 23"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 9.3,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

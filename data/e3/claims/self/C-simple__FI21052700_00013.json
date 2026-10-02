@@ -1,0 +1,228 @@
+{
+  "doc_id": "FI21052700_00013",
+  "n_claims": 40,
+  "n_supported": 37,
+  "n_contradicted": 0,
+  "claim_precision": 0.925,
+  "per_field": {
+    "subject": {
+      "n": 18,
+      "supported": 18
+    },
+    "description": {
+      "n": 15,
+      "supported": 13
+    },
+    "coverage": {
+      "n": 4,
+      "supported": 3
+    },
+    "relation": {
+      "n": 3,
+      "supported": 3
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses municipal elections.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses city government.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses public-utilities franchises.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses Florida Power & Light.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses political corruption.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses Prohibition.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses bootlegging.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses law enforcement.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses milk prices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the dairy industry.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses consumer prices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses apartment houses.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses real estate.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses golf courses.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the American Legion.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses a drum and bugle corps.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses oil exploration.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials urging careful voting in Miami’s municipal election.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials criticizing the outgoing administration for costly utility decisions.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials criticizing the outgoing administration for costly franchise decisions.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on a municipal “shakedown” approach to Prohibition enforcement.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses Miami Beach’s negotiations for a municipal golf course.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes consumer-price notes about a milk price drop.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes consumer-price notes about other costs besides milk.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage of a local milk industry dispute.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a lengthy letter on the apartment-house financial situation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes analysis on the apartment-house financial situation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a lengthy letter on the real-estate financial situation.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes analysis on the real-estate financial situation.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local news.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes humor columns.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue reports that the Harvey Seeds Post Drum and Bugle Corps won a 100% rating at the American Legion state meeting in Tarpon Springs.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Dade County, Florida.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is dated 1927-04-09.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is part of the publication Miami Life.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Volume 4 of Miami Life.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Number 13 of Miami Life.",
+      "verdict": "supported"
+    }
+  ],
+  "tier": "C-simple"
+}

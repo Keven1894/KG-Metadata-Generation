@@ -1,0 +1,92 @@
+{
+  "doc_id": "FI21052703_00051",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00051",
+    "title": "Miami Life, 1928-12-29 (Volume 5, Number 13)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-12-29",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue with OCR text",
+    "language": "eng",
+    "subject": [
+      "editorial https://id.loc.gov/authorities/subjects/sh85040974",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Automobile accidents—Miami (Fla.)",
+      "Traffic safety—Miami (Fla.)",
+      "Municipal finance—Florida",
+      "Bonds (Finance)—Florida",
+      "Post offices—Location—Miami (Fla.)",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "Theater—Florida—Miami",
+      "Greyhound racing—Florida—Miami Beach",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Prohibition—Florida—Miami",
+      "Bootlegging—Florida—Miami-Dade County"
+    ],
+    "description": "Issue includes editorials and commentary on South Florida’s post-boom economic conditions, municipal bond obligations, and local public safety concerns (notably automobile accidents). Reports and opinion pieces address crime and law enforcement, including a coroner’s jury verdict in a Hialeah shooting and discussion of bondsmen and legal technicalities. Local civic news notes the selection of the old Central School site for a new Miami post office. The issue also contains extensive seasonal entertainment and nightlife listings and advertisements (theaters, New Year’s Eve events, clubs), plus sports and racing promotions including greyhound racing and boxing-related items.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Central School https://www.geonames.org/4164151",
+      "Little River https://www.geonames.org/4177865",
+      "Hialeah https://www.geonames.org/4158476",
+      "Wadena https://id.loc.gov/authorities/names/n2015021658",
+      "1928-12",
+      "1929 (New Year context)"
+    ],
+    "contributor": [
+      "Herbert Hoover https://id.loc.gov/authorities/names/n80104366",
+      "Dix https://id.loc.gov/authorities/names/no2016087588",
+      "SERGEANT FRANCIS C. GUEST",
+      "B. C. Dove",
+      "Paul J. (Big Bill) Simpson",
+      "Robert Malone",
+      "Squire Gorman",
+      "O. S. PARMER",
+      "W. W. Farnham",
+      "Fred Girton",
+      "Hal W. Potter"
+    ],
+    "relation": [
+      "Volume 5, Number 13"
+    ],
+    "source": "FIU Libraries dPanther (Florida International University)",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 10.81,
+    "context_chars": 67573,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

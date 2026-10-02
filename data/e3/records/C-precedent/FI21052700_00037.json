@@ -1,0 +1,88 @@
+{
+  "doc_id": "FI21052700_00037",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00037",
+    "title": "MIAMI LIFE, September 24, 1927 (Volume 4, Number 4)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1927-09-24",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Municipal finance—Bonds—Miami (Fla.)",
+      "Convention centers—Finance—Miami (Fla.)",
+      "Chambers of commerce—Miami (Fla.)",
+      "Landlord and tenant—Rent increases—Miami (Fla.)",
+      "Tourism—Economic aspects—Miami (Fla.)",
+      "City managers—Miami Beach (Fla.)",
+      "Justices of the peace—Florida",
+      "American Legion—Elections—Coral Gables (Fla.)",
+      "Boxing—Dempsey, Jack—Tunney, Gene",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "humor https://id.loc.gov/authorities/subjects/sh2003003666"
+    ],
+    "description": "Issue includes editorials and commentary on Greater Miami public finance and proposed bond issues (including discussion of a convention hall), criticism of the Miami Chamber of Commerce, and a column on rent increases anticipated for November 1. Local government items include discussion of Miami Beach city management and a notice about Justice of the Peace H. W. Penney’s residence and jurisdiction. The issue also contains extensive sports coverage and commentary on boxing (including the Dempsey–Tunney fight and local fight cards), along with recurring humor/features such as “Little Geraldine,” letters to the editor, and substantial advertising.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Biscayne Bay https://www.geonames.org/4147971",
+      "Miami River https://www.geonames.org/4164208",
+      "1927-09-24"
+    ],
+    "contributor": [
+      "Claude Renshaw https://id.loc.gov/authorities/names/n97073195",
+      "Spearman Lewis https://id.loc.gov/authorities/names/n2013024515",
+      "Ev Sewell",
+      "Mr. Snow",
+      "H. W. PENNEY",
+      "Sheriff Henry Chase",
+      "Louis Allen",
+      "\"Pop\" Lehman",
+      "S. B. EBBETTS"
+    ],
+    "relation": [
+      "Volume 4, Number 4"
+    ],
+    "source": "FIU Libraries dPanther (Miami Life newspaper digitized issue)",
+    "rights": "Digitized for access by FIU Libraries; rights status not stated in provided evidence. Use may be subject to copyright and repository terms."
+  },
+  "provenance": {
+    "latency_s": 10.84,
+    "context_chars": 71331,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "doc_id": "FI21052700_00005",
+  "judge": "opus",
+  "n_claims": 59,
+  "n_supported": 59,
+  "n_contradicted": 0,
+  "claim_precision": 1.0,
+  "per_field": {
+    "subject": {
+      "n": 10,
+      "supported": 10
+    },
+    "description": {
+      "n": 21,
+      "supported": 21
+    },
+    "coverage": {
+      "n": 6,
+      "supported": 6
+    },
+    "contributor": {
+      "n": 22,
+      "supported": 22
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses taxation in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses local taxation in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses public transportation bus lines in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses municipal contracts in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses street-railroad fares in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses oil well drilling in Florida's Tamiami Trail region.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses real estate speculation in Florida's Miami region.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses tourism in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses law enforcement in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses sports in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editor’s mail.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on local taxation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on economic conditions.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a continuing investigative series analyzing the City of Miami’s bus agreement with the Miami Beach Railway company.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue analyzes contract terms of the City of Miami’s bus agreement with the Miami Beach Railway company.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue analyzes fares in the City of Miami’s bus agreement with the Miami Beach Railway company.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue analyzes transfers in the City of Miami’s bus agreement with the Miami Beach Railway company.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue analyzes limits on city control in the City of Miami’s bus agreement with the Miami Beach Railway company.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes reporting on oil-lease speculation west of Miami along the Tamiami Trail.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes opinion on oil-lease speculation west of Miami along the Tamiami Trail.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes reporting on drilling west of Miami along the Tamiami Trail.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes opinion on drilling west of Miami along the Tamiami Trail.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local civic complaints about policing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local civic complaints about public services.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes society notes.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes sports coverage.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes boxing coverage.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes golf coverage.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes tennis coverage.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local humor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes advertisements.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Coral Gables, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue dates to 1927.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Lysle E. Fesler appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Howard Shank appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "S. C. Ebbets appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Walter L. Greene appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Thomas J. Peters appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "B. B. Tatum appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ray Parker appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Captain Jaudon appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Mr. Tiechenor appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Mr. Romfh appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Mr. Gilman appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Judge Penney appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Molla Mallory appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Bob Gifford appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "A. H. Casear appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Hugh Martin appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Benny Touchstone appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Sergeant Jack Adams appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Bea Gottlieb appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Mrs. R. W. Gipson appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "June Jasmine appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Bonnie Busch appears in the issue as a contributor.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-precedent"
+}

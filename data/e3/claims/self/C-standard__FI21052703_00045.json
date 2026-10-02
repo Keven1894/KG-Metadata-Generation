@@ -1,0 +1,292 @@
+{
+  "doc_id": "FI21052703_00045",
+  "n_claims": 52,
+  "n_supported": 51,
+  "n_contradicted": 0,
+  "claim_precision": 0.9808,
+  "per_field": {
+    "subject": {
+      "n": 15,
+      "supported": 14
+    },
+    "description": {
+      "n": 27,
+      "supported": 27
+    },
+    "coverage": {
+      "n": 6,
+      "supported": 6
+    },
+    "contributor": {
+      "n": 3,
+      "supported": 3
+    },
+    "relation": {
+      "n": 1,
+      "supported": 1
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses Florida Power & Light Company.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses public-utility rates in Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses electric-power rates in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses telephone-service rates in Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses housing rent in Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses tourism.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses prohibition.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses liquor traffic involving the Bahamas.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses federal aid to local governments in Florida.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses harbor dredging in Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses drainage in the Everglades.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses canals in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses business.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes humor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on Miami-area economic conditions.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on consumer costs in the Miami area.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue criticizes Florida Power & Light Company deposit requirements.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue criticizes electric rates charged by Florida Power & Light Company.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue mentions the telephone company.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses high seasonal rents.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses foreclosure-driven property practices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses tourism.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses seasonal pricing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses local civic matters.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses local political matters.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a satirical letter addressed to Herbert Hoover.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The satirical letter discusses federal projects.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The satirical letter mentions a post office project.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The satirical letter mentions a judge as part of the discussed federal projects.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The satirical letter mentions harbor dredging as part of the discussed federal projects.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The satirical letter mentions Everglades drainage as part of the discussed federal projects.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The satirical letter discusses prohibition enforcement.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses liquor smuggling routes involving the Bahamas.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue mentions Nassau in connection with liquor smuggling routes.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue mentions Bimini in connection with liquor smuggling routes.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses local elections.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses civic affairs.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes columns.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes letters.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes advertisements.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers the Everglades.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Nassau.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Bimini.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue dates to November 1928.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Herbert Hoover appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Fred Girton appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "R. H. appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is related to the newspaper Miami Life.",
+      "verdict": "supported"
+    }
+  ],
+  "tier": "C-standard"
+}

@@ -1,0 +1,429 @@
+{
+  "doc_id": "FI21052703_00046",
+  "judge": "opus",
+  "n_claims": 79,
+  "n_supported": 79,
+  "n_contradicted": 0,
+  "claim_precision": 1.0,
+  "per_field": {
+    "subject": {
+      "n": 28,
+      "supported": 28
+    },
+    "description": {
+      "n": 23,
+      "supported": 23
+    },
+    "coverage": {
+      "n": 6,
+      "supported": 6
+    },
+    "contributor": {
+      "n": 20,
+      "supported": 20
+    },
+    "relation": {
+      "n": 2,
+      "supported": 2
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses traffic regulation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses one-way streets.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses employment.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses women workers.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses teacher salaries.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses education.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses Florida politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses Governor John W. Martin.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses Herbert Hoover.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses publicity budgets.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses greyhound racing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses dog racing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses kennel clubs.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses police.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses crime prevention.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses American flag etiquette.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses labor disputes.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses motion picture theaters.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the Florida Power & Light Company.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses public utilities.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses franchises.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses municipal ownership.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses Coral Gables, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses sports venues.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses college football.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the University of Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local commentary.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue comments on Miami’s switch from one-way to two-way downtown streets.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses anticipated traffic accidents related to Miami’s switch from one-way to two-way downtown streets.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses employment conditions affecting working women.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses low teacher pay in Dade County.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue describes Governor John W. Martin criticizing Dade County.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue describes Governor John W. Martin making threats regarding betting.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue raises concerns about American flag etiquette at a Flagler Street barbecue stand.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue describes police efforts to remove con artists.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue describes police efforts to remove other “undesirables.”",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses whether to spend $50,000 on northern publicity.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue reports that president-elect Herbert Hoover will visit Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes promotion related to greyhound racing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes satire related to greyhound racing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue mentions the Miami Beach Kennel Club.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a humorous item titled “Souse Beach Handicap.”",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes notes on labor conflict involving the Capitol theatre.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes letters about Florida Power & Light franchise disputes.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes material about Florida Power & Light franchise disputes.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes Florida Power & Light franchise disputes involving Fort Myers.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local items about a Coral Gables Coliseum leasing controversy.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local items about upcoming University of Miami football.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Coral Gables, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Fort Myers, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue dates to November 1928.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Marjorie Stoneman Douglas appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "John W. Martin appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Herbert Hoover appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Officer King appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Frank J. Novak, Jr. appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "F. A. Powel appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "F. E. Kane appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Mayor Montanus appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "W. H. Ebsary appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Guy F. Springer appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "J. C. Penney appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Val C. Cleary appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "W. A. Pickert appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Sid Sutherland appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "O. O. McIntyre appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Roy Martin appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Eddie Hartnett appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Al Jenning appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Chief Wood appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Mickey McGee appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "This issue is Miami Life, volume 5.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "This issue is Miami Life, number 38.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-simple"
+}

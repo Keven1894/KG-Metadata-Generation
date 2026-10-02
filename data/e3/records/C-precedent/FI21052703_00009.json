@@ -1,0 +1,94 @@
+{
+  "doc_id": "FI21052703_00009",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "FI21052703_00009",
+    "title": "MIAMI LIFE, 1928-02-25 (Volume 5, Number 6)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-02-25",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue; OCR text",
+    "language": "eng",
+    "subject": [
+      "Police brutality—Florida—Miami",
+      "Civil rights—Florida—Miami",
+      "Grand juries—Florida—Miami",
+      "City managers—Florida—Miami",
+      "City councils—Florida—Miami",
+      "Elections—Florida—Dade County",
+      "Political campaigns—Florida—Dade County",
+      "Public schools—Florida—Miami",
+      "High schools—Florida—Miami",
+      "Portland cement industry and trade—Florida—Miami",
+      "Foreign trade policy—Florida—Miami",
+      "Airports—Florida—Miami",
+      "Aviation law and legislation—Florida—Miami Beach",
+      "Community Chest (Organization)",
+      "Playgrounds—Supervision—Florida—Miami",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466"
+    ],
+    "description": "Issue includes editorials and commentary on an alleged police beating of Charles Haynes and the city commissioners' investigation, with discussion of grand jury action and civic accountability. Coverage also addresses local politics and upcoming elections (\"Political Peeps\" and a call for candidates to submit platforms for a forthcoming political issue), criticism of restrictive policies at the new Miami High School, and debate over a city resolution favoring American-made cement and its implications for foreign trade and port development. Additional items include notes on aviation enforcement over Miami Beach, discussion of airport location at Gratigny and alternatives such as Biscayne Bay, Community Chest fundraising, and local civic and social news with advertisements.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Biscayne Bay https://www.geonames.org/4147971",
+      "City Hall https://www.geonames.org/4157886",
+      "Gratigny https://www.geonames.org/4157342",
+      "1928-02-25"
+    ],
+    "contributor": [
+      "Charles Haynes https://id.loc.gov/authorities/names/n80025095",
+      "Harry Brooks https://id.loc.gov/authorities/names/n87121594",
+      "H. F. KROPP",
+      "R. R. HAMMERHEAD GREEBY",
+      "Clarence Chamberlain",
+      "W. R. Thomas",
+      "I. E. Schilling",
+      "H. Leslie Quigg",
+      "ONLY ONE DISGUSTED CITIZEN"
+    ],
+    "relation": [
+      "Volume 5, Number 6"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 10.12,
+    "context_chars": 71692,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

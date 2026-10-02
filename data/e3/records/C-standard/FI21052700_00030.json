@@ -1,0 +1,92 @@
+{
+  "doc_id": "FI21052700_00030",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00030",
+    "title": "MIAMI LIFE, 1927-08-06 (Volume 4, Number 28)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1927-08-06",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue with OCR text",
+    "language": "eng",
+    "subject": [
+      "City managers—Florida—Miami",
+      "Municipal government—Florida—Miami",
+      "City councils—Florida—Miami",
+      "Political patronage—Florida—Miami",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Publicity—Florida—Miami",
+      "Tourist trade—Florida—Miami",
+      "tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Transportation—Florida—Miami Beach",
+      "transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Buses—Accidents—Florida—Miami Beach",
+      "Printing—Specifications—Florida",
+      "Hospitals—Finance—Florida—Miami",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Motion pictures in advertising—Florida—Miami",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "Society news",
+      "society https://id.loc.gov/authorities/subjects/sh2021006888"
+    ],
+    "description": "Issue includes local political commentary on changes in Miami city government, including the resignation of Edward Coleman Romfh and the appointment of Harry Platt as city manager and Gordon H. Russell as city commissioner, with discussion of City Hall politics and civic administration. Additional columns cover municipal and county law enforcement practices, publicity and tourism promotion (including Miami promotional films), printing contracts for tourist folders, transportation and traffic safety concerns in Miami Beach, and assorted local society notes, letters to the editor, and entertainment listings/advertisements.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Coral Gables https://www.geonames.org/4151871",
+      "City Hall https://www.geonames.org/4157886",
+      "1927-08-06"
+    ],
+    "contributor": [
+      "Harry Platt https://id.loc.gov/authorities/names/n87843336",
+      "Edward Coleman Romfh",
+      "Gordon H. Russell",
+      "Ev Sewell",
+      "Red Gautier",
+      "J. E. Lummus, Sr.",
+      "Cliff Reeder",
+      "B. B. WHITE",
+      "Damon Lewis",
+      "Lysle E. Fesler",
+      "S. C. EBBETS"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 4, Number 28"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 9.61,
+    "context_chars": 42740,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

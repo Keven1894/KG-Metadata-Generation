@@ -1,0 +1,404 @@
+{
+  "doc_id": "FI21052702_00012",
+  "judge": "opus",
+  "n_claims": 74,
+  "n_supported": 73,
+  "n_contradicted": 0,
+  "claim_precision": 0.9865,
+  "per_field": {
+    "subject": {
+      "n": 15,
+      "supported": 15
+    },
+    "description": {
+      "n": 19,
+      "supported": 19
+    },
+    "coverage": {
+      "n": 3,
+      "supported": 3
+    },
+    "contributor": {
+      "n": 36,
+      "supported": 35
+    },
+    "relation": {
+      "n": 1,
+      "supported": 1
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue contains content about Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about politics in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "Governor Dave Sholtz is discussed in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "Liquor regulation is discussed in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "Gambling is discussed in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "Pari-mutuel betting is discussed in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "Dog racing is discussed in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The Biscayne Kennel Club is discussed in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "Tropical Park in Miami, Florida is discussed in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "Nightclubs are discussed in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "Bars are discussed in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes local news and gossip.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The National Recovery Administration (NRA) is discussed in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The construction industry is discussed in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "This is a weekly issue of the Miami Life newspaper.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue is Volume 9, Number 12.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue is dated December 8, 1934.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a political column criticizing Governor Dave Sholtz.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a political column discussing Dade County revenues.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a political column discussing liquor licensing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a political column discussing gambling.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a political column discussing pari-mutuel betting.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local items titled “They Tell Me”.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes society and gossip items.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes extensive nightlife advertising.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes extensive business advertising.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage and tips related to a dog track.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes dog track coverage and tips related to the Biscayne Kennel Club.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes horse racing-related content.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes horse racing-related content about Tropical Park.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a large section about the National Recovery Administration (NRA).",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a large section about construction code compliance.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a listing of Miami-area contractors in connection with construction code compliance.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami in Dade County, Florida, United States.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach, Florida, United States.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue date is 1934-12-08.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Dave Sholtz appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Frank Valentine appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Chester Alexander appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "John Scott appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Mrs. Specks DeMerrit appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Lester (Drive-it company) appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Malcolm (Drive-it company) appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "John P. Stokes, Jr. appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Mayor Ev Sewell appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Fred Barber appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Bernie C. Backus appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Verda Crites appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Robert Epstein appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Sid Bernstein appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Roland Granat appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Mike Sissman appears in the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Bill Noty appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Jimmy (jockey) appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Louis \"Red\" Snedigar appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Joe O'Shea appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Edgar Louis appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Dave Fleeman appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "James Hickland appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "John Levi appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Arthur Childers appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Charles Wheeler appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "J. H. Wendler appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Josephine Green appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Willard Campbell appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Luke Church appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "John W. Burke appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ross Williams appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "George Coyle appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ray Watson appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Frank Coyne appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Vincent Giblin appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Miami Life, Volume 9, Number 12.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-simple"
+}

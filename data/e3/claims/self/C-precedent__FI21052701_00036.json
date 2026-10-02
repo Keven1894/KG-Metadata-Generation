@@ -1,0 +1,307 @@
+{
+  "doc_id": "FI21052701_00036",
+  "n_claims": 55,
+  "n_supported": 54,
+  "n_contradicted": 0,
+  "claim_precision": 0.9818,
+  "per_field": {
+    "subject": {
+      "n": 16,
+      "supported": 16
+    },
+    "description": {
+      "n": 22,
+      "supported": 21
+    },
+    "coverage": {
+      "n": 7,
+      "supported": 7
+    },
+    "contributor": {
+      "n": 7,
+      "supported": 7
+    },
+    "relation": {
+      "n": 3,
+      "supported": 3
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses the legal status of parking meters at Miami International Airport.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers politics and government in Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses police misconduct in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses law enforcement actions related to prostitution in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers municipal courts in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses sales tax in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses gambling in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses municipal ownership of electric utilities in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses rental housing in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses driver licenses in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers crime.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers business.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers health.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers entertainment.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers nightlife.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue features local political commentary.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue features investigative reporting.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes an editorial questioning the legality of newly installed parking meters at Miami International Airport.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes extensive coverage of conflicts in Miami Beach city government.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue covers conflicts involving Miami Beach City Manager Claude Renshaw.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue covers conflicts involving Miami Beach council authority.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue reports on Miami municipal court cases alleging abuses during vice raids.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue reports on police conduct at the Lenox Hotel.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses Florida state politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses taxation in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes opposition to a general sales tax.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue references proposed legislation to legalize gambling.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a report on new furnished rental apartments coming to market in southwest Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes notices from the Florida Attorney General.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes opinion digests from the Florida Attorney General.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes public information on 1950 driver license renewals.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes community announcements.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes an announcement of a Knights of Pythias Labor Day fish fry at Crandon Park.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes entertainment advertising.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes nightlife advertising.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes entertainment columns.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes nightlife columns.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami International Airport.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Crandon Park.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Bayfront Park.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Lummus Park.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is dated 1949-09-03.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Claude Renshaw appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Fuller Warren appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Tom Bailey appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Raymond Craig appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "John Monohan appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Bob Williams appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Frank Clark appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is part of the newspaper Miami Life (Miami, Florida).",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is in volume XXIII of Miami Life.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is number 36 of volume XXIII of Miami Life.",
+      "verdict": "supported"
+    }
+  ],
+  "tier": "C-precedent"
+}

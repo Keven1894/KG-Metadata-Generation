@@ -1,0 +1,210 @@
+{
+  "doc_id": "FI21052701_00048",
+  "judge": "opus",
+  "n_claims": 36,
+  "n_supported": 35,
+  "n_contradicted": 0,
+  "claim_precision": 0.9722,
+  "per_field": {
+    "subject": {
+      "n": 13,
+      "supported": 13
+    },
+    "description": {
+      "n": 17,
+      "supported": 17
+    },
+    "coverage": {
+      "n": 4,
+      "supported": 3
+    },
+    "relation": {
+      "n": 2,
+      "supported": 2
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses Miami city commission elections.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses municipal government.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the police department.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses sex crimes.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses prostitution.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses gambling.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses tourism.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses cigarette smoking.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses lung cancer.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses press censorship.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses utilities regulation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses Florida politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses China foreign policy.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on the new Miami city commission.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on the recent Miami city commission election.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses H. Leslie Quigg in connection with the recent Miami city commission election.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses other candidates in connection with the recent Miami city commission election.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials on sex crimes.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes proposals for controlled prostitution districts.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes proposals for segregated prostitution districts.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes an article asserting press suppression of medical findings linking cigarette smoking to lung cancer.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue cites Dr. Evarts A. Graham regarding medical findings linking cigarette smoking to lung cancer.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes pieces addressing utility-rate activism.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue mentions the Utility Subscribers Association.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue addresses Florida political developments.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses George Smathers in connection with Florida political developments.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses Claude Pepper in connection with Florida political developments.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue addresses foreign policy regarding Communist China.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local columns.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local notices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Greater Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Dade County, Florida.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is dated 1949-11-26.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is part of Miami Life.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is number 48 of Miami Life.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-simple"
+}

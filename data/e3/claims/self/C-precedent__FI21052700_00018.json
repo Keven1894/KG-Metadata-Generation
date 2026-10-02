@@ -1,0 +1,282 @@
+{
+  "doc_id": "FI21052700_00018",
+  "n_claims": 50,
+  "n_supported": 50,
+  "n_contradicted": 0,
+  "claim_precision": 1.0,
+  "per_field": {
+    "subject": {
+      "n": 14,
+      "supported": 14
+    },
+    "description": {
+      "n": 20,
+      "supported": 20
+    },
+    "coverage": {
+      "n": 7,
+      "supported": 7
+    },
+    "contributor": {
+      "n": 6,
+      "supported": 6
+    },
+    "relation": {
+      "n": 3,
+      "supported": 3
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses local elections in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the selection and appointment of city managers in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses division of a county involving Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses laws and legislation about horse racing in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses prohibition.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses bootlegging in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses public welfare in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the American Legion.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses transportation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses bus transportation between Miami, Florida and Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses business.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses society.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses entertainment.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on Dade County politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on Miami Beach politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes criticism of legislative representatives.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses upcoming city commissioner elections.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses the selection of a new city manager.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue addresses proposals about horse-racing legislation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue addresses disputes over horse-racing legislation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes talk of recalling Miami Beach mayor Newt Lummus.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes debate over forming a separate Miami Beach county.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes discussion of local welfare.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes discussion of unemployment claims.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes discussion of prohibition enforcement.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes discussion of alleged illicit liquor distribution.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes transportation notices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a notice about a jitney route change.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes civic letters to the editor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local news.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local columns.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a column titled \"Little Geraldine.\"",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Tallahassee.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Biscayne Bay.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Coral Gables.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Fulford.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is dated 1927-05-14.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Earl Wilson contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Joe Dillon contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Lysle E. Fesler contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Frank P. Wharton contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "J. Newton Lummus, Jr. contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "S. C. Ebbets contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is part of the publication \"Miami Life\" (Miami, Florida).",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is in Volume 4 of \"Miami Life\" (Miami, Florida).",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Number 17 of Volume 4 of \"Miami Life\" (Miami, Florida).",
+      "verdict": "supported"
+    }
+  ],
+  "tier": "C-precedent"
+}

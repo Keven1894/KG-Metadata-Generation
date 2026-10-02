@@ -1,0 +1,334 @@
+{
+  "doc_id": "FI21052701_00003",
+  "judge": "gpt55",
+  "n_claims": 60,
+  "n_supported": 60,
+  "n_contradicted": 0,
+  "claim_precision": 1.0,
+  "per_field": {
+    "subject": {
+      "n": 18,
+      "supported": 18
+    },
+    "description": {
+      "n": 22,
+      "supported": 22
+    },
+    "coverage": {
+      "n": 7,
+      "supported": 7
+    },
+    "contributor": {
+      "n": 11,
+      "supported": 11
+    },
+    "relation": {
+      "n": 2,
+      "supported": 2
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses gambling in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses strikes involving printers' labor unions in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses newspaper ownership in the United States.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses public utilities in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses Florida Power & Light Co.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses municipal ownership of electric utilities in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses taxation in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses water supply in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses licenses for building contractors in Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses ambulance service in Miami-Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses animal poisoning in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses legislation aimed at preventing poisoning.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses crime.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses entertainment.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses nightlife.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses sports.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses business.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local reporting on gambling in Greater Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local reporting on enforcement policy in Greater Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage of a dispute involving the Miami Herald and printers' unions.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes discussion of newspaper publisher John S. Knight's labor strategy.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes an open letter to Gov. Warren.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The open letter urges Gov. Warren to take action regarding Florida Power & Light.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The open letter urges Gov. Warren to take action regarding public ownership of utilities.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes articles on county licensing practices for contractors.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes articles on public safety.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes articles on emergency ambulance response.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes articles on animal-poisoning incidents.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes articles on proposed legislative controls on poison sales.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains community columns.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains court reporting.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains agriculture notes.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains market notes.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains racing news.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains extensive nightclub advertising.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains extensive entertainment advertising.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains nightclub listings.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains entertainment listings.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Bayfront Park.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Jacksonville.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Tallahassee.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is dated 1949-01-15.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Harry S. Truman appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Franklin D. Roosevelt appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Joseph Stalin appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Fuller Warren appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Chicago Daily News appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ben F. Drucker appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "John S. Knight appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Milt Sosin appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Danny Sullivan appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Bert L. Acker appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Lee Mason appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Volume 23.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Number 3.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-standard"
+}

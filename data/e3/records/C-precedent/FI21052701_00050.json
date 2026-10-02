@@ -1,0 +1,86 @@
+{
+  "doc_id": "FI21052701_00050",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "FI21052701_00050",
+    "title": "MIAMI LIFE, Saturday, Dec. 10, 1949 (Vol. XXIII, No. 50)",
+    "creator": [
+      "Reubin Clein"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-12-10",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Gambling—Florida—Miami",
+      "Bolita (Gambling)—Florida—Miami",
+      "African Americans—Florida—Miami",
+      "Municipal government—Florida—Miami",
+      "Police—Florida—Miami",
+      "Vagrancy—Florida—Miami",
+      "Prostitution—Florida—Miami",
+      "Tourism—https://id.loc.gov/authorities/subjects/sh85136255",
+      "Nightlife—https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Sports—https://id.loc.gov/authorities/subjects/sh00007735",
+      "Racing—https://id.loc.gov/authorities/subjects/sh85110265",
+      "Politics—https://id.loc.gov/authorities/subjects/sh85104466",
+      "Crime—https://id.loc.gov/authorities/subjects/sh85033993",
+      "Entertainment—https://id.loc.gov/authorities/subjects/sh96009616",
+      "Smoking—Health aspects",
+      "Public finance—United States"
+    ],
+    "description": "Issue includes an exposé-style report on bolita gambling operations in Miami’s Colored Town, discussing alleged protection and political ties at City Hall and listing named bolita locations and operators. Other coverage includes Miami city court activity (vagrancy, theft, weapons, prostitution-related charges), commentary on tourism and legalized vice, local politics and municipal governance, and sports and racing notes (including Orange Bowl and Gulfstream Park). Additional features include a health item on tobacco and mortality, aviation news on Pan American World Airways aircraft engine modifications in Miami, and various columns, advertisements, and legal notices.",
+    "coverage": [
+      "Miami (Fla.)",
+      "City Hall (Miami)—https://www.geonames.org/8479129",
+      "Miami Beach—https://www.geonames.org/4164143",
+      "Orange Bowl—https://www.geonames.org/6946363",
+      "Panama—https://www.geonames.org/4167694",
+      "1949-12-10"
+    ],
+    "contributor": [
+      "Raymond Pearl—https://id.loc.gov/authorities/names/n79062781",
+      "Wayne Allen—https://id.loc.gov/authorities/names/n88613031",
+      "Pan American World Airways—https://id.loc.gov/authorities/names/n81009272",
+      "H. Leslie Quigg",
+      "Cecil C. Curry",
+      "William Wolfarth"
+    ],
+    "relation": [
+      "Vol. XXIII, No. 50"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 9.74,
+    "context_chars": 72080,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

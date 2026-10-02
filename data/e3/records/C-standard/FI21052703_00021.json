@@ -1,0 +1,90 @@
+{
+  "doc_id": "FI21052703_00021",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00021",
+    "title": "MIAMI LIFE, Saturday, May 26, 1928 (Volume 6, Number 18)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-05-26",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Elections—Florida—Dade County",
+      "Sheriffs—Election—Florida—Dade County",
+      "United States Senate—Election—Florida",
+      "John W. Martin https://id.loc.gov/authorities/names/no2012062904",
+      "Park Trammell https://id.loc.gov/authorities/names/n85336759",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "prohibition https://id.loc.gov/authorities/subjects/sh85107330",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Banks and banking—Florida—Miami",
+      "Southern Bank & Trust Company https://id.loc.gov/authorities/names/nb2019007811",
+      "Motion pictures—Contests—Florida—Miami Beach",
+      "Children—Florida—Miami Beach",
+      "Miami Coliseum (Miami, Fla.)—Boxing",
+      "Miami Beach (Fla.)—Social life and customs",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "editorial https://id.loc.gov/authorities/subjects/sh85040974",
+      "society https://id.loc.gov/authorities/subjects/sh2021006888"
+    ],
+    "description": "Issue includes political commentary and election coverage focused on Florida and Dade County races, including an editorial urging support for Governor John W. Martin for U.S. Senate over Park Trammell and extensive discussion of the Dade County sheriff campaign (including references to candidates and campaign activity). Also contains local columns and briefs, civic and public-safety commentary (causeway/Biscayne Boulevard traffic hazards), notices and paid political advertisements, business and banking content including a letter to depositors of The Southern Bank & Trust Company, and community/entertainment items such as a juvenile movie impersonation contest at the Roney Plaza (Miami Beach), sports/boxing promotions at Miami Coliseum, and travel/steamship advertising.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Bayfront Park https://www.geonames.org/4146892",
+      "Causeway https://www.geonames.org/4150277",
+      "Tallahassee https://www.geonames.org/4174715",
+      "1928"
+    ],
+    "contributor": [
+      "J. E. LUMMUS",
+      "Southern Bank & Trust Company https://id.loc.gov/authorities/names/nb2019007811",
+      "W. W. (BILL) SMITH https://id.loc.gov/authorities/names/n89139480",
+      "Henry Chase https://id.loc.gov/authorities/names/no2009093233",
+      "Louis Allen https://id.loc.gov/authorities/names/n50022973",
+      "John W. Martin https://id.loc.gov/authorities/names/no2012062904",
+      "Park Trammell https://id.loc.gov/authorities/names/n85336759"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 6, Number 18"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 12.06,
+    "context_chars": 68370,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

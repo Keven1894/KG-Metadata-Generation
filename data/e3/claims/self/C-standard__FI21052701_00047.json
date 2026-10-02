@@ -1,0 +1,357 @@
+{
+  "doc_id": "FI21052701_00047",
+  "n_claims": 65,
+  "n_supported": 64,
+  "n_contradicted": 0,
+  "claim_precision": 0.9846,
+  "per_field": {
+    "subject": {
+      "n": 17,
+      "supported": 17
+    },
+    "description": {
+      "n": 18,
+      "supported": 18
+    },
+    "coverage": {
+      "n": 5,
+      "supported": 5
+    },
+    "contributor": {
+      "n": 23,
+      "supported": 22
+    },
+    "relation": {
+      "n": 2,
+      "supported": 2
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses municipal elections in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses city commissions in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses real property taxation in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses homestead exemptions in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the Florida sales tax.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses illegal gambling in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses off-track betting in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses grand juries in Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses law enforcement in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses care of aged people in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses pensions in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about crime.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about business.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about entertainment.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about tourism.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about transportation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes extensive coverage of a Miami city commission run-off election.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on a Miami city commission run-off election.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes polling comparisons related to a Miami city commission run-off election.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes arguments about candidates in a Miami city commission run-off election.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses the proposed consolidation of city and county tax assessment offices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses the impact of the proposed consolidation of city and county tax assessment offices on residential taxes.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses the impact of the proposed consolidation of city and county tax assessment offices on homestead exemptions.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue addresses a Dade County grand jury report on crime.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes calls for federal intervention regarding crime discussed in connection with the Dade County grand jury report.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue addresses local law enforcement actions involving pinball machine payoff enforcement.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue addresses a local law enforcement action involving a still investigation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes criticism of the Florida sales tax.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes criticism of illegal off-track betting.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue reports on indigent elderly residents seeking affordable rooms.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains regular columns.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains letters to the editor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains local business advertising.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains entertainment advertising.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Bayfront Park in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Plantation Key, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue dates to 1949.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Sen F. Drucker contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Perrine Palmer, Jr. contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "H. Leslie Quigg contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Leonard K. Thomson contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Wm. Wolfarth contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Bob Floyd contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Bill Charles contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Louie Bandel contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Charles Hesser contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Carlos Dellunde contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "First National Bank contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Women’s Better Government Club of Greater Miami contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Mrs. Chas. T. Lindstrum contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Jose Aleman contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "James A. Henderson contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Cecil C. Curry contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Gray Walters contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Sam B. Marr contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Wayne Allen contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Richard W. Ervin contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Delcie C. Inglis contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "George W. Crane contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "J. Hilliard Clein contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is volume 23.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is number 47.",
+      "verdict": "supported"
+    }
+  ],
+  "tier": "C-standard"
+}

@@ -1,0 +1,317 @@
+{
+  "doc_id": "FI21052702_00006",
+  "n_claims": 57,
+  "n_supported": 56,
+  "n_contradicted": 0,
+  "claim_precision": 0.9825,
+  "per_field": {
+    "subject": {
+      "n": 13,
+      "supported": 13
+    },
+    "description": {
+      "n": 21,
+      "supported": 21
+    },
+    "coverage": {
+      "n": 4,
+      "supported": 4
+    },
+    "contributor": {
+      "n": 16,
+      "supported": 15
+    },
+    "relation": {
+      "n": 3,
+      "supported": 3
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue contains content about the American Legion.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about conventions.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about price gouging.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about rent increases.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about tourism.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about local politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about horse racing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about radio programs.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about nightclubs.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about restaurants.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains advertising.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue is a weekly issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains Wen R. Phillips' commentary column titled \"Notebook\".",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Wen R. Phillips' \"Notebook\" commentary discusses the American Legion convention in Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Wen R. Phillips' \"Notebook\" commentary includes complaints about price-fixing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Wen R. Phillips' \"Notebook\" commentary includes complaints about sharp rent increases.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Wen R. Phillips' \"Notebook\" commentary includes complaints about sharp food price increases.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains local political notes.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue mentions the Miami Beach election.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains a poem dedicated to Legionnaires titled \"Have You Seen Elmer?\".",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains extensive radio program listings.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains horse-racing commentary.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains betting tips in a feature titled \"Jockey Jimmy\".",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The \"Jockey Jimmy\" content includes discussion of a trainer suspension.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The trainer suspension discussed is for alleged stimulation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains numerous local advertisements for Miami businesses.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains numerous local advertisements for Miami Beach businesses.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains advertisements for bars.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains advertisements for restaurants.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains advertisements for salons.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains advertisements for hotels.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains advertisements for services.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Greater Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue dates to October 1934.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Capt. Joe Traeger appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Jockey Jimmy appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Gerald D. Bliss appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Mayor Sewell appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Val Cleary appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Art Childers appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Bob Ralston appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "E. H. Griffith appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Bill Burbridge appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ernie Wolfe appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ed. Keuhling appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Harry Hice appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Dick Mead appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Clay Sutphin appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "William Patton appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Dr. J. G. Cattlett appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is part of Miami Life.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is in Volume 9 of Miami Life.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Number 6 of Volume 9 of Miami Life.",
+      "verdict": "supported"
+    }
+  ],
+  "tier": "C-simple"
+}

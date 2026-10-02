@@ -1,0 +1,312 @@
+{
+  "doc_id": "FI21052701_00006",
+  "n_claims": 56,
+  "n_supported": 56,
+  "n_contradicted": 0,
+  "claim_precision": 1.0,
+  "per_field": {
+    "subject": {
+      "n": 15,
+      "supported": 15
+    },
+    "description": {
+      "n": 19,
+      "supported": 19
+    },
+    "coverage": {
+      "n": 5,
+      "supported": 5
+    },
+    "contributor": {
+      "n": 16,
+      "supported": 16
+    },
+    "relation": {
+      "n": 1,
+      "supported": 1
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses Florida Power & Light Co. in relation to public ownership in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses public-utility franchises in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses consumer fraud in the clothing trade in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about business.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses medical quackery involving hypnotism in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about crime.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses racetracks in relation to law and legislation in Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses pari-mutuel betting in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses nuisance conditions involving industrial plants in Opa-locka, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses segregation in Washington, D.C.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about entertainment events.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about nightlife.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about sports.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about education in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes an editorial about Florida Power & Light.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes an editorial about proposals for municipal acquisition of Florida Power & Light.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes an investigative report alleging deceptive sales practices at the Browning King clothing store.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage linking Miami's \"Torture Doctor\" T. Earl Moore to the death of painter D. Kuhl.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes discussion of other alleged patient harms involving T. Earl Moore.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on Republican public-relations strategy.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes reporting on legal efforts affecting pari-mutuel racing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes reporting on political efforts affecting pari-mutuel racing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes reporting on proposed summer dog tracks in Dade County.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a court case about nuisance conditions from a poultry/slaughter plant in Opa-locka.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a court case about nuisance conditions from a quick-freeze plant in Opa-locka.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local columns.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes civic notes.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes airport statistics in its civic notes.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes port authority statistics in its civic notes.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes education news.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes entertainment listings.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes nightlife listings.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes advertisements.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Coral Gables.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Opa-locka.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is dated 1949-02-05.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Fuller Warren appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "D. Kuhl appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Howard R. Hartman appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ben F. Drucker appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Thos. D. Bailey appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Joseph P. Martin, Jr. appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Sol Brooks (Steinbook) appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Benja Wilkes appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Martin Lemlich appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Mrs. Edna Peck appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Marjorie Nixon appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Daniel Nixon appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Judge Duval appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Judge Cecil C. Curry appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "A. B. Curry appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Lee Mason appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Miami Life, Vol. XXIII, No. 6.",
+      "verdict": "supported"
+    }
+  ],
+  "tier": "C-standard"
+}

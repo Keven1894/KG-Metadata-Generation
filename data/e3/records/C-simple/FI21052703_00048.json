@@ -1,0 +1,91 @@
+{
+  "doc_id": "FI21052703_00048",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052703_00048",
+    "title": "Miami Life — Saturday, December 8, 1928 (Volume 5, Number 4)",
+    "creator": [
+      "Wen R. Phillips (editor)"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-12-08",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Municipal government",
+      "City charters",
+      "Elections",
+      "Public utilities",
+      "Gas franchises",
+      "Tourism",
+      "Racing",
+      "Greyhound racing",
+      "Theater",
+      "Motion pictures",
+      "Local news"
+    ],
+    "description": "Issue includes editorials and commentary on Miami and Miami Beach civic affairs, including a petition to appoint a charter board, discussion of Miami Beach elections and candidates, and a warning to voters about Section 17 of a proposed Miami Beach gas franchise allowing assignment to any corporation. Features satirical sketches and columns (including “Miami Life's Little Geraldine” and “Things I'd Like to Know”), notes on tourism and winter visitors (“sun worshippers”), local sports and entertainment coverage (boxing, films and theaters), and advertisements including greyhound racing at the Miami Beach Kennel Club.",
+    "coverage": [
+      "Miami (Florida)",
+      "Miami Beach (Florida)",
+      "1928-12-08"
+    ],
+    "contributor": [
+      "Carl G. Fisher",
+      "Joe Smoot",
+      "Red Snedigar",
+      "Val Cleary",
+      "Edward Robertson",
+      "Hammerhead Greeby",
+      "S. Pierre Robineau",
+      "Mary E. Brian",
+      "L. B. Sprague",
+      "J. A. Pancoast",
+      "Raoul Walsh",
+      "Richard Dix",
+      "Ruth Elder",
+      "John Gilbert",
+      "Alma Rubens",
+      "Louise Brooks",
+      "Clara Bow"
+    ],
+    "relation": [
+      "Volume 5, Number 4"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 9.66,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

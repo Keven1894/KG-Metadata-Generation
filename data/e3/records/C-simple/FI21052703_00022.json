@@ -1,0 +1,105 @@
+{
+  "doc_id": "FI21052703_00022",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052703_00022",
+    "title": "Miami Life — Saturday, June 2, 1928 (Volume ?, Number 19)",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-06-02",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Elections",
+      "Democratic primary elections",
+      "Political campaigns",
+      "Political advertising",
+      "Newspapers and politics",
+      "Sheriffs",
+      "Dade County (Fla.) politics and government",
+      "Miami (Fla.)",
+      "Coral Gables (Fla.)",
+      "Animal welfare",
+      "Cruelty to animals",
+      "Greyhound racing",
+      "Public schools finance",
+      "Education costs",
+      "Local industry and manufacturing",
+      "Aviation and airports"
+    ],
+    "description": "Issue dated June 2, 1928, featuring extensive coverage and commentary on the closing days of the Florida/Dade County Democratic primary campaign. Editorials criticize perceived bias and misinformation in Miami’s daily newspapers regarding statewide races (including Doyle Carlton, John Martin, and Fons Hathaway) and report on political rallies and heckling. The issue includes explanations of second-choice voting, numerous paid political advertisements (notably the Dade County sheriff’s race involving M. P. “Pop” Lehman, Henry R. Chase, and Louis Allen), local news items, a feature on a juvenile movie contest at Roney Plaza pools, discussion of greyhound coursing as cruelty to animals, and civic commentary on high school costs, local manufacturing, and Miami’s airport.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Dade County (Fla.)",
+      "Coral Gables (Fla.)",
+      "Miami Beach (Fla.)",
+      "Florida",
+      "1928"
+    ],
+    "contributor": [
+      "M. P. (Pop) Lehman",
+      "Henry R. Chase",
+      "Louis Allen",
+      "Doyle E. Carlton",
+      "John W. Martin",
+      "Fons Hathaway",
+      "Ruth Bryan Owen",
+      "Harriet M. Works",
+      "Gertrude Fuller",
+      "Pat Whitaker",
+      "Sam Barco",
+      "Fred Pine",
+      "Bob Taylor",
+      "Frank Clark",
+      "Bruce Youngs",
+      "Carrie M. Ravlin",
+      "Walter Harris",
+      "C. W. Peters",
+      "James E. Flood",
+      "W. G. Blanchard",
+      "A. B. McGirt",
+      "George Mehan",
+      "Justice of the Peace Oppenborn",
+      "Glenn H. Curtiss",
+      "Dr. O. F. Steinmetz"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Vol. ?, No. 19"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.9,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

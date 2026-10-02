@@ -1,0 +1,205 @@
+{
+  "doc_id": "FI21052701_00033",
+  "judge": "gpt55",
+  "n_claims": 35,
+  "n_supported": 35,
+  "n_contradicted": 0,
+  "claim_precision": 1.0,
+  "per_field": {
+    "subject": {
+      "n": 10,
+      "supported": 10
+    },
+    "description": {
+      "n": 15,
+      "supported": 15
+    },
+    "coverage": {
+      "n": 8,
+      "supported": 8
+    },
+    "relation": {
+      "n": 2,
+      "supported": 2
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses a proposed sales tax in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses public opinion about taxation in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses politics and government in Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses city managers in Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses gambling in Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses police in Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses medical misconduct in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses embezzlement in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses birthmarks.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses home ownership.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes an exposé alleging misconduct by Dr. Earl Moore.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue urges investigation of Dr. Earl Moore by medical licensing authorities.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials opposing a proposed Florida sales tax.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes repeated ballot coupons opposing a proposed Florida sales tax.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue calls for a public vote on the proposed Florida sales tax.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage of Miami Beach city government.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue focuses on Miami Beach City Manager Claude Renshaw.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue alleges protection of a gambling syndicate in connection with Miami Beach city government.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local court items.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes city court cases.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes policing items.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes allegations of vindictive enforcement by police.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes regular features or columns.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes health guidance articles.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes real-estate guidance articles.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Coral Gables.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Bayfront Park.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Normandy Isle.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Collins Avenue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Lincoln Road.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue dates to 1949.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is volume 23.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is number 33.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-precedent"
+}

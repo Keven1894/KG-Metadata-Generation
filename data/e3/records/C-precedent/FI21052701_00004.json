@@ -1,0 +1,84 @@
+{
+  "doc_id": "FI21052701_00004",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052701_00004",
+    "title": "Miami Life, 1949-01-22 (Vol. XXIII, No. 4)",
+    "creator": [
+      "Reubin Clein"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-01-22",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Crime—Gambling—Hialeah Park (Fla.)",
+      "Racetracks—Corrupt practices—Miami (Fla.)",
+      "Salvation Army—Charities—Florida",
+      "Blind—Services for—Florida",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "Public utilities—Government ownership—Florida",
+      "National health insurance—United States",
+      "Patent medicines—Advertising—United States",
+      "Lobbying—Pharmaceutical industry—United States",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "health https://id.loc.gov/authorities/subjects/sh00006004",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "nightlife https://id.loc.gov/authorities/subjects/sh2008001027"
+    ],
+    "description": "Issue includes editorials and reporting on alleged gambling and “crime commission” activity connected to Hialeah Park, criticism of the Salvation Army’s charitable practices using the case of blind man Ira Corwin, and discussion of Florida politics and public-utility policy including proposals involving Florida Power & Light. Also features national coverage on proposed health legislation and opposition lobbying by pharmaceutical/patent medicine firms, along with local columns, court/police notes, and extensive entertainment and nightclub advertising.",
+    "coverage": [
+      "Miami, Florida https://www.geonames.org/4164138",
+      "Greater Miami https://www.geonames.org/4157383",
+      "Hialeah Park https://www.geonames.org/6332591",
+      "Jackson Memorial Hospital https://www.geonames.org/4160003",
+      "1949-01-22"
+    ],
+    "contributor": [
+      "Danny Sullivan https://id.loc.gov/authorities/names/n97025753",
+      "Frank Mitchell https://id.loc.gov/authorities/names/n82262761",
+      "Fuller Warren https://id.loc.gov/authorities/names/n99046515",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "Salvation Army https://id.loc.gov/authorities/names/n79046615",
+      "Lighthouse for the Blind https://id.loc.gov/authorities/names/no2005001513"
+    ],
+    "relation": [
+      "Miami Life (Miami, Fla.), Vol. XXIII, No. 4"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": "Digitized for access by FIU Libraries; rights status not specified in provided evidence. Use may be subject to copyright and repository terms."
+  },
+  "provenance": {
+    "latency_s": 15.23,
+    "context_chars": 72015,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

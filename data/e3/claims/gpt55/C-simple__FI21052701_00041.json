@@ -1,0 +1,354 @@
+{
+  "doc_id": "FI21052701_00041",
+  "judge": "gpt55",
+  "n_claims": 64,
+  "n_supported": 43,
+  "n_contradicted": 0,
+  "claim_precision": 0.6719,
+  "per_field": {
+    "subject": {
+      "n": 17,
+      "supported": 17
+    },
+    "description": {
+      "n": 19,
+      "supported": 19
+    },
+    "coverage": {
+      "n": 3,
+      "supported": 3
+    },
+    "contributor": {
+      "n": 22,
+      "supported": 1
+    },
+    "relation": {
+      "n": 3,
+      "supported": 3
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue contains content about politics and government in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about city elections in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about anti-Communist oaths in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about organized crime in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about the Miami Crime Commission.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about federal investigations in the United States.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about corruption in the newspaper industry related to ethics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about political activity by the American Medical Association.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about national health insurance in the United States.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about gambling in Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about racetracks in Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about churches in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about a fire involving the Miami Herald.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about fire prevention in warehouses.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about race relations in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about voter registration of African Americans in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about statistics related to Miami International Airport.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials about alleged \"Crime Commission\" publicity tactics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes reports about alleged \"Crime Commission\" publicity tactics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials and reports on federal anti-gambling investigations.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes an account of the Miami Herald warehouse fire.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a critique of the Miami Herald warehouse fire.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes an account of fire-safety practices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a critique of fire-safety practices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage of Miami city election maneuvering around a newly required anti-Communist oath.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes discussion urging Black voter registration.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on race relations.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on municipal court cases.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes articles on press ethics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes claims of press-bribery tied to the American Medical Association.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes claims of press-bribery tied to Newspaper Week.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes church opposition to gambling.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes church opposition to racetracks.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a statistical report on Miami International Airport passenger traffic for the first half of 1949.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a statistical report on Miami International Airport cargo traffic for the first half of 1949.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a statistical report on Miami International Airport mail traffic for the first half of 1949.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is associated with Miami, Florida, United States.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is associated with Greater Miami (Dade County), Florida, United States.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is dated 1949-10-08.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "H. Leslie Quigg contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Perrine Palmer contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Correll contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Dan Sullivan contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Mayor deLesseps S. Morrison contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Robert Hansen contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "John Knight contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "James E. Murray contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Clem Whitaker contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Leone Baxter contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "O. L. Nickerson contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Rev. Robert B. Giffen contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Abe Aronovitz contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Frank Clark contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Cecil C. Curry contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Fuller Warren contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "George Okell contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Gautier contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Stockdale contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Lantaff contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Russell Kay contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Carlos P. Romulo contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is part of the publication Miami Life (Miami, Florida).",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is in volume XXIII of Miami Life.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is issue number 41 of Miami Life.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-simple"
+}

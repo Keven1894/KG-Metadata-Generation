@@ -1,0 +1,250 @@
+{
+  "doc_id": "FI21052701_00007",
+  "judge": "opus",
+  "n_claims": 44,
+  "n_supported": 43,
+  "n_contradicted": 0,
+  "claim_precision": 0.9773,
+  "per_field": {
+    "subject": {
+      "n": 10,
+      "supported": 9
+    },
+    "description": {
+      "n": 18,
+      "supported": 18
+    },
+    "coverage": {
+      "n": 4,
+      "supported": 4
+    },
+    "contributor": {
+      "n": 12,
+      "supported": 12
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses psychiatry.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses medical ethics.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses hypnosis.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses mental health treatment.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses court cases.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses Miami Beach nightlife.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses radio programs.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the Florida Citrus Exposition.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses power outages.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses alcohol-related offenses.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes extensive reporting alleging abusive psychiatric practices by Dr. T. Earl Moore.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary alleging abusive psychiatric practices by Dr. T. Earl Moore.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes accounts involving Kay Katsufrakis related to alleged abusive psychiatric practices by Dr. T. Earl Moore.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes accounts involving Peter Manuel Katsufrakis related to alleged abusive psychiatric practices by Dr. T. Earl Moore.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue references Rev. Joseph Barth in connection with alleged abusive psychiatric practices by Dr. T. Earl Moore.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains local court items.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains police/courtroom items.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes police/courtroom items involving liquor-related offenses.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains a column on Miami Beach nightlife and entertainment.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The nightlife and entertainment column mentions WINZ radio.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The nightlife and entertainment column mentions clubs.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The nightlife and entertainment column mentions performers.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains a Russel Kay column.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The Russel Kay column is about the radio program \"The Greatest Story Ever Told.\"",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains notices about the Florida Citrus Exposition.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The Florida Citrus Exposition notices concern Winter Haven.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains advertisements.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains business directory listings.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is dated 1949-02-12.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "T. Earl Moore appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Kay Katsufrakis appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Peter Manuel Katsufrakis appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Gregory Katsufrakis appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Sophie Katsufrakis appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Rev. Joseph Barth appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Judge Curry appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "H. Leslie Quigg appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Nathan Mayo appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Millard Caldwell appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Robert Reilly appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "R. C. Gardner appears in the issue.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-simple"
+}

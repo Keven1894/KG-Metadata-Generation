@@ -1,0 +1,377 @@
+{
+  "doc_id": "FI21052701_00023",
+  "n_claims": 69,
+  "n_supported": 67,
+  "n_contradicted": 0,
+  "claim_precision": 0.971,
+  "per_field": {
+    "subject": {
+      "n": 18,
+      "supported": 16
+    },
+    "description": {
+      "n": 24,
+      "supported": 24
+    },
+    "coverage": {
+      "n": 5,
+      "supported": 5
+    },
+    "contributor": {
+      "n": 20,
+      "supported": 20
+    },
+    "relation": {
+      "n": 2,
+      "supported": 2
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses gambling.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses political corruption.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses police misconduct.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses grand jury investigations.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses sheriffs.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses municipal government.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses bars.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses liquor laws.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses curfew laws.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the Miami Traffic Board.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the Florida East Coast Railway.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses lobbying.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses pressure groups.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses public health.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses emergency medical services.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses cancer prevention.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses real estate development.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses Key Largo, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains editorials about alleged municipal graft in Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains reporting about alleged municipal graft in Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains editorials about vice enforcement in Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains reporting about vice enforcement in Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes claims about who authored anonymous “gambling graft” letters.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue criticizes campaigns by local daily newspapers.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue notes that Gov. Fuller Warren retained Sheriff Jimmy Sullivan.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses a $30,000 appropriation for an investigation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue covers controversy over enforcement of bar closing rules for private clubs.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue mentions the American Legion in connection with private-club bar closing rules.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue mentions the Variety Club in connection with private-club bar closing rules.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue mentions the Elks in connection with private-club bar closing rules.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on police lieutenant Huttoe’s legal strategy.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes related court matters involving police lieutenant Huttoe.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue covers civic issues involving the Miami Traffic Board’s dealings with the Florida East Coast Railway.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes letters to the editor about an insurance complaint.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes letters to the editor appealing for a cancer fund.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a reprinted or continued article about lobbying.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a reprinted or continued article about the “Fair Deal.”",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local property development news in Key Largo.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue calls for centralized emergency medical aid.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue reports deaths in connection with emergency medical services.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes complaints about medical services.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes complaints about medical billing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Key Largo, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is dated 1949-06-04.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Fuller Warren appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Jimmy Sullivan appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Charles L. Gabriel appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Charles Lord appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "R. C. McLendon appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "C. O. Huttoe appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Vincent Giblin appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Cecil C. Curry appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Wayne Allen appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Herman H. Gerhard appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Westbrook Pegler appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Drew Pearson appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Oscar F. Miller appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Richard W. Ervin appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Hylan \"Hy\" Kout appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Mrs. Helen Dorsey appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Dr. M. E. Edelman appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Beatrice Hunt appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ruth Welsh appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Mary Louisa Smith appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Volume 23.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Number 23.",
+      "verdict": "supported"
+    }
+  ],
+  "tier": "C-simple"
+}

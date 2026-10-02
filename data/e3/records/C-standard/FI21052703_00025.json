@@ -1,0 +1,87 @@
+{
+  "doc_id": "FI21052703_00025",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "FI21052703_00025",
+    "title": "MIAMI LIFE, June 23, 1928",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-06-23",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Organized crime—Florida—Miami",
+      "Al Capone",
+      "Police—Florida—Miami",
+      "Coral Gables (Fla.)—Politics and government",
+      "Municipal government—Florida—Coral Gables",
+      "Prohibition—Florida—Miami https://id.loc.gov/authorities/subjects/sh85107330",
+      "Illicit liquor traffic—Florida—Miami",
+      "Banking—Florida—Miami",
+      "Manufacturing industries—Florida—Miami",
+      "Tourism—Florida—Miami https://id.loc.gov/authorities/subjects/sh85136255",
+      "Transportation—Taxicabs—Florida—Miami",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Society https://id.loc.gov/authorities/subjects/sh2021006888",
+      "Transportation https://id.loc.gov/authorities/subjects/sh2001008994"
+    ],
+    "description": "Issue includes editorials and commentary on the presence of “Scarface” Al Capone in Miami and local law-enforcement responses, including a reprinted summary of Capone’s record from the Chicago Tribune. Additional pieces address efforts to undermine the Miami police department, Coral Gables city commission disputes following the ouster of George Merrick, and concerns about poisonous illicit liquor during Prohibition. The issue also contains society/gossip columns, letters to the editor on Coral Gables politics and on local manufacturing and “buy-at-home” efforts, along with local business notices and advertisements (including banking, transportation, and entertainment listings).",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Chicago https://www.geonames.org/7217342",
+      "Los Angeles https://www.geonames.org/7215322",
+      "Joliet https://id.loc.gov/authorities/names/n79086266",
+      "1928-06"
+    ],
+    "contributor": [
+      "Joe Howard https://id.loc.gov/authorities/names/no2016022812",
+      "Southern Bank & Trust Company https://id.loc.gov/authorities/names/nb2019007811",
+      "J. E. LUMMUS",
+      "J. N. Lummus",
+      "George Merrick",
+      "M. M. NEUMANN",
+      "A. S. ELDREDGE"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), issue dated 1928-06-23"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 9.75,
+    "context_chars": 67656,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

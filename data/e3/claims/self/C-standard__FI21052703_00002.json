@@ -1,0 +1,263 @@
+{
+  "doc_id": "FI21052703_00002",
+  "n_claims": 47,
+  "n_supported": 46,
+  "n_contradicted": 0,
+  "claim_precision": 0.9787,
+  "per_field": {
+    "subject": {
+      "n": 15,
+      "supported": 15
+    },
+    "description": {
+      "n": 21,
+      "supported": 20
+    },
+    "coverage": {
+      "n": 7,
+      "supported": 7
+    },
+    "contributor": {
+      "n": 4,
+      "supported": 4
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses nightlife.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses entertainment.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses transportation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses business.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses tourism.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses social life and customs in Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses social life and customs in Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses landlord-tenant matters involving apartment houses in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses police in Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses public disorder in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses aviation in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses radio stations in Opa-locka, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses hotels in Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the real estate business in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local commentary on Miami social life.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local commentary on Miami Beach social life.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes content about nightlife in Miami and Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes content about entertainment venues in Miami and Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes content about public disorder associated with dance club crowds.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes content about public disorder associated with supper club crowds.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes content about civic concerns.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains letters to the editor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes discussion of landlord-tenant law.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes discussion of police response in Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on local politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on the sheriff’s race.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue features a serialized fiction piece titled \"Love in a Lumber Camp\".",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "\"Love in a Lumber Camp\" is by John Kimble.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes notes on aviation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes notes on radio communications.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue links aviation and radio communications to Lindbergh-era flights.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes extensive hotel advertising.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes extensive tourism advertising.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes extensive business advertising.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers the Miami River.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Biscayne Bay.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Opa-locka.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Coral Gables.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is dated 1928-01-14.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "John Kimble contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Bill Smith contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "S. B. EBBETTS contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Wen R. Phillps contributed to the issue.",
+      "verdict": "supported"
+    }
+  ],
+  "tier": "C-standard"
+}

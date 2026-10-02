@@ -1,0 +1,94 @@
+{
+  "doc_id": "FI21052701_00003",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052701_00003",
+    "title": "MIAMI LIFE, Saturday, Jan. 15, 1949 (Vol. XXIII, No. 3)",
+    "creator": [
+      "Reubin Clein"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-01-15",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Gambling—Florida—Miami",
+      "Labor unions—Printers—Strikes—Miami (Fla.)",
+      "Newspapers—Ownership—United States",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Public utilities—Florida",
+      "Florida Power & Light Co.",
+      "Municipal ownership—Electric utilities—Florida",
+      "Taxation—Florida",
+      "Water supply—Florida",
+      "Building contractors—Licenses—Florida—Dade County",
+      "Ambulance service—Florida—Miami-Dade County",
+      "Animal poisoning—Florida—Miami",
+      "Poisoning—Prevention—Legislation",
+      "Crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260"
+    ],
+    "description": "Issue includes editorials and local reporting on gambling and enforcement policy in Greater Miami; coverage of a dispute involving the Miami Herald and printers’ unions and discussion of newspaper publisher John S. Knight’s labor strategy; an open letter to Gov. Warren urging action regarding Florida Power & Light and public ownership of utilities; articles on county licensing practices for contractors, public safety and emergency ambulance response, and animal-poisoning incidents and proposed legislative controls on poison sales. Also contains community columns, court reporting, agriculture/market notes, racing news, and extensive nightclub/entertainment advertising and listings.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Bayfront Park https://www.geonames.org/4146892",
+      "Jacksonville https://www.geonames.org/4160021",
+      "Tallahassee https://www.geonames.org/4174715",
+      "Dade County (Fla.)",
+      "1949-01-15"
+    ],
+    "contributor": [
+      "Harry S. Truman https://id.loc.gov/authorities/names/n79029742",
+      "Franklin D. Roosevelt https://id.loc.gov/authorities/names/n79022932",
+      "Joseph Stalin https://id.loc.gov/authorities/names/n80044789",
+      "Fuller Warren https://id.loc.gov/authorities/names/n99046515",
+      "Chicago Daily News https://id.loc.gov/authorities/names/n97090844",
+      "Ben F. Drucker",
+      "John S. Knight",
+      "Milt Sosin",
+      "Danny Sullivan",
+      "Bert L. Acker",
+      "Lee Mason"
+    ],
+    "relation": [
+      "Vol. XXIII, No. 3"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 15.06,
+    "context_chars": 67949,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

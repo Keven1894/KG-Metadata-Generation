@@ -1,0 +1,314 @@
+{
+  "doc_id": "FI21052702_00050",
+  "judge": "opus",
+  "n_claims": 56,
+  "n_supported": 55,
+  "n_contradicted": 0,
+  "claim_precision": 0.9821,
+  "per_field": {
+    "subject": {
+      "n": 12,
+      "supported": 12
+    },
+    "description": {
+      "n": 25,
+      "supported": 24
+    },
+    "coverage": {
+      "n": 4,
+      "supported": 4
+    },
+    "contributor": {
+      "n": 11,
+      "supported": 11
+    },
+    "relation": {
+      "n": 4,
+      "supported": 4
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue mentions the Home Owners' Loan Corporation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue mentions the Federal Savings & Loan Association in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about fraud involving mortgage loans in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about tax deeds in Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about municipal elections in Hialeah, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about traffic accidents in Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about driver licensing in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about crime.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about entertainment.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about nightlife.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about sports.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes an investigative front-page account.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The investigative front-page account alleges improper fees.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The investigative front-page account alleges bond-discounting practices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The alleged improper fees and bond-discounting practices are connected with a Home Owners' Loan Corporation refinancing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The Home Owners' Loan Corporation refinancing was arranged through the Federal Savings & Loan Association.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The Home Owners' Loan Corporation refinancing was arranged through the Federal Savings & Loan Association's president, Harry Lipton.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a regular column titled \"Wen's Notebook.\"",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a regular column titled \"Rambles and Rumbles.\"",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "\"Wen's Notebook\" covers local politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "\"Wen's Notebook\" covers civic affairs.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "\"Rambles and Rumbles\" covers local politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "\"Rambles and Rumbles\" covers civic affairs.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes discussion of tax-deed litigation involving W. H. Garrison.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes municipal election coverage in Hialeah.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes Miami Beach police commentary.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The Miami Beach police commentary addresses rising traffic accident rates.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The Miami Beach police commentary calls for driver licensing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a full-page safety campaign.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The full-page safety campaign urges traffic-law enforcement.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The full-page safety campaign urges accident prevention.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue features entertainment items.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue features nightlife items.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue features wrestling promotions.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage of the newspaper's \"Most Attractive Working Girl\" contest.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The \"Most Attractive Working Girl\" contest coverage involves Grant's/Kress Store.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is associated with Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is associated with Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is associated with Hialeah, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue date is 1935-08-31.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Earl Curry appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "W. H. Garrison appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Harry Lipton appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "H. V. Yocum appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Miss Daisy Hanjaras appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "G. C. Sparks appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "L. H. O'Quinn appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "George F. Maurer appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "John Burke appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "J. N. Morris appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Victor J. Tatham appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is part of the newspaper titled Miami Life.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Volume 9 of Miami Life.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Number 50 of Miami Life.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "Miami Life is published in Miami, Florida.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-precedent"
+}

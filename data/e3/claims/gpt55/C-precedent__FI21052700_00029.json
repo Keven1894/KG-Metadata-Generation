@@ -1,0 +1,349 @@
+{
+  "doc_id": "FI21052700_00029",
+  "judge": "gpt55",
+  "n_claims": 63,
+  "n_supported": 51,
+  "n_contradicted": 0,
+  "claim_precision": 0.8095,
+  "per_field": {
+    "subject": {
+      "n": 16,
+      "supported": 16
+    },
+    "description": {
+      "n": 23,
+      "supported": 23
+    },
+    "coverage": {
+      "n": 7,
+      "supported": 7
+    },
+    "contributor": {
+      "n": 15,
+      "supported": 3
+    },
+    "relation": {
+      "n": 2,
+      "supported": 2
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue contains content about politics and government in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about economic conditions in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about real estate development in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about rents in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about city planning in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about airports in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about street lighting in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about fireboats in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about crime.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about Prohibition in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about baseball in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about boxing in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about entertainment.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about nightlife.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about sports.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "This is a weekly issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains local commentary about Miami’s post-boom economy.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains humor about Miami’s post-boom economy.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains local commentary about city commission affairs.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains humor about city commission affairs.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains local commentary about civic projects.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains humor about civic projects.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes discussion of convention plans.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes discussion of airport planning.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes discussion of street lighting.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes discussion of traffic hazards.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes discussion of waterfront fire protection following a fire at Fisher slip.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes discussion of political disputes involving a Republican committeeman.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes discussion of political disputes involving city publicity funds.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes items on rents.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes items on tourism expectations.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes items on Prohibition-era liquor enforcement.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes sports coverage.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes sports criticism.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes baseball coverage and/or criticism.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes boxing coverage and/or criticism.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes entertainment notices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes extensive local advertising.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Biscayne Bay.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Thirteenth Street.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Royal Palm Park.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Fisher slip.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is dated 1927-07-30.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Lysle E. Fesler contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "S. C. Ebbets contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Sam contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ev Sewell contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ed Romfh contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "J. E. Lummus, Sr. contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Cliff Reeder contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Harry Platt contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "George Bean contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The Chamber of Commerce contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Cotton Knaupp contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Smiley Tatum contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ben Spivey contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Rene Duray contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Judd Horning contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Volume 4.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Number 27.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-precedent"
+}

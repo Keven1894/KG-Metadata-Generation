@@ -1,0 +1,304 @@
+{
+  "doc_id": "FI21052700_00044",
+  "judge": "gpt55",
+  "n_claims": 54,
+  "n_supported": 46,
+  "n_contradicted": 0,
+  "claim_precision": 0.8519,
+  "per_field": {
+    "subject": {
+      "n": 18,
+      "supported": 18
+    },
+    "description": {
+      "n": 21,
+      "supported": 19
+    },
+    "coverage": {
+      "n": 6,
+      "supported": 6
+    },
+    "contributor": {
+      "n": 6,
+      "supported": 0
+    },
+    "relation": {
+      "n": 3,
+      "supported": 3
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses deposits required by public utilities in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses testing of utility meters in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "Florida Power & Light Company is discussed in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses sanitation and cleanup of the Miami River.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses bridges on or over the Miami River.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the tourist trade in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses licenses for restaurants in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses public health in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses traffic regulations in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses politics and government in Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses police awards and decorations.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains sports content.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains nightlife content.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains transportation-related content.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains health-related content.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains politics-related content.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains business-related content.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains entertainment-related content.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local commentary on utility meter deposits.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes letters on utility meter deposits.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local commentary on utility meter-testing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes letters on utility meter-testing.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes discussion of Florida Power & Light Company.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes civic concerns about the Miami River being unsightly.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes civic concerns about the Miami River being obstructed as a waterway.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes calls for cleanup of the Miami River.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes calls for improved bridge design on or over the Miami River.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes content about Miami Beach city council politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes content about selection of a successor to the late Bill Scott.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Bill Scott is described in the issue as deceased.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes notes on restaurant permitting in Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes notes on public health conditions in Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes complaints about traffic-law enforcement.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes complaints about auto licensing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes extensive entertainment listings.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes extensive sports listings.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes entertainment coverage of theaters.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes entertainment coverage of civic theater productions.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes sports coverage of boxing events.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers the Miami River.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Hialeah.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Flamingo Park.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is dated 1927-11-12.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Little Nell.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by James M. Cox.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Bill Scott.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Levi.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Mead.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Henning.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is part of Miami Life (Miami, Florida).",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is in Volume 4 of Miami Life (Miami, Florida).",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Number 39 of Volume 4 of Miami Life (Miami, Florida).",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-precedent"
+}

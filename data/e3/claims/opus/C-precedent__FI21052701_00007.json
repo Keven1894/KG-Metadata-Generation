@@ -1,0 +1,315 @@
+{
+  "doc_id": "FI21052701_00007",
+  "judge": "opus",
+  "n_claims": 57,
+  "n_supported": 55,
+  "n_contradicted": 1,
+  "claim_precision": 0.9649,
+  "per_field": {
+    "subject": {
+      "n": 15,
+      "supported": 15
+    },
+    "description": {
+      "n": 20,
+      "supported": 20
+    },
+    "coverage": {
+      "n": 8,
+      "supported": 6
+    },
+    "contributor": {
+      "n": 14,
+      "supported": 14
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue includes content about crime.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about religion.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about entertainment.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about nightlife.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about business.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about liquor law enforcement in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about drunk driving in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about courts in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about power outages in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about alleged abuse of psychiatry in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about hypnotism in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about medical misconduct in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about domestic violence in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about divorce in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes content about religious aspects of radio programs.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local court reporting.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes public-safety reporting.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes remarks attributed to Judge Curry.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes accounts of liquor-related offenses.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes accounts of drunk-driving cases.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a report about a downtown power blackout.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The downtown power blackout affected the county courthouse.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes extensive coverage alleging abusive psychiatric practices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The alleged abusive psychiatric practices involve Dr. Moore.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The alleged abusive psychiatric practices involve Rev. Joseph Barth.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The coverage alleges the use of pills or capsules in the abusive psychiatric practices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The coverage alleges the use of hypnosis in the abusive psychiatric practices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The coverage alleges attempted shock treatment in the abusive psychiatric practices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes nightlife columns.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes entertainment columns.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes advertisements for clubs in Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes advertisements for restaurants in Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes advertisements for clubs in Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes advertisements for restaurants in Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a column discussing a religious radio program titled \"The Greatest Story Ever Told\".",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Downtown Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to the Dade County Courthouse.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Biscayne Bay.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Dinner Key.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Coconut Grove.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Winter Haven.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to February 1949.",
+      "verdict": "contradicted"
+    },
+    {
+      "field": "contributor",
+      "claim": "Judge Curry appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Rev. Joseph Barth appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Lee Mason appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Russel Kay appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Peter Manuel Katsufrakis appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Kay Katsufrakis appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Gregory Katsufrakis appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Sophie Katsufrakis appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Dr. Moore appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Helen Barnes appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "H. Leslie Quigg appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Nathan Mayo appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Millard Caldwell appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "R. C. Gardner appears in the issue.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-precedent"
+}

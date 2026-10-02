@@ -1,0 +1,99 @@
+{
+  "doc_id": "FI21052700_00009",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052700_00009",
+    "title": "Miami Life, Volume 4, Number 9 (1927-03-12)",
+    "creator": [
+      "Wen R. Phillips (editor)"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1927-03-12",
+    "type": "Text; newspaper issue",
+    "format": "Newspaper text (OCR)",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)—Politics and government",
+      "Municipal elections—Florida—Miami",
+      "Florida Power & Light Company",
+      "Public utilities—Rates",
+      "Electric power—Meters",
+      "Transportation—Bus service—Miami (Fla.)",
+      "Real estate—Florida—Miami",
+      "Foreclosure",
+      "Prohibition—Florida",
+      "Dade County Fair",
+      "Railroads—Florida East Coast Railway",
+      "Miami Beach (Fla.)"
+    ],
+    "description": "Issue includes editorials and satire on Miami municipal politics and an upcoming election, criticism of Florida Power & Light and city bus contract finances, and commentary advocating a division between “New Florida” and “Old Florida.” Coverage also includes the Dade County Fair, foreclosure sales, prohibition enforcement anecdotes, and a humorous feature on “Hammerhead Greeby” and utility meter-reading, along with local notices and advertisements.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "Coral Gables (Fla.)",
+      "Hialeah (Fla.)",
+      "Fort Lauderdale (Fla.)",
+      "1927-03-12"
+    ],
+    "contributor": [
+      "Frank Wharton",
+      "Leslie Quigg",
+      "Ed Romfh",
+      "J. E. Lummus",
+      "Henry Shaw",
+      "Cliff Reeder",
+      "James Donn",
+      "H. Pridgen",
+      "J. E. Junkin, Sr.",
+      "Bob Kerr",
+      "Jim Gilman",
+      "Hugh Matheson",
+      "John Withers",
+      "John Carlisle",
+      "Charles C. Reakirt",
+      "Marjory Stoneman Douglas",
+      "H. Leslie Quigg",
+      "Judge Heffernan",
+      "Terence E. McGrath",
+      "George L. Bradley",
+      "Carl G. Fisher",
+      "Uriel Davis"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida); Volume 4, Number 9"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 7.79,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

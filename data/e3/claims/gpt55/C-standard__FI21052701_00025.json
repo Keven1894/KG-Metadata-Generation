@@ -1,0 +1,284 @@
+{
+  "doc_id": "FI21052701_00025",
+  "judge": "gpt55",
+  "n_claims": 50,
+  "n_supported": 44,
+  "n_contradicted": 0,
+  "claim_precision": 0.88,
+  "per_field": {
+    "subject": {
+      "n": 13,
+      "supported": 13
+    },
+    "description": {
+      "n": 19,
+      "supported": 19
+    },
+    "coverage": {
+      "n": 9,
+      "supported": 9
+    },
+    "contributor": {
+      "n": 7,
+      "supported": 1
+    },
+    "relation": {
+      "n": 2,
+      "supported": 2
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses gambling in Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses crime.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses rent control in Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses school term length in Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the relationship between the press and politics in Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses public morality in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses health.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses immigration of Finns to the United States.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses transportation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses business.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses entertainment.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses nightlife.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains editorials.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains local reporting.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue focuses on Miami Beach gambling policy.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses the economic impact of Miami Beach gambling policy.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses Miami Beach council politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses press influence on Miami Beach council politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage of a Hialeah \"Peeping Tom\" court case.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on law enforcement.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on public morality.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue calls for a referendum on Dade County’s school term length.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses rent decontrol legislation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a physician’s response to a disputed medical bill.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a physician’s response to disputed hospital treatment.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on immigration policy regarding Finnish arrivals.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes summaries of Florida legislative actions.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes summaries of advertising appropriations.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes letters.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes columns.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local notices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Hialeah.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Coral Gables.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Shores.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Bayfront Park.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Tallahassee.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is dated 1949-06-18.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ben F. Drucker contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Dan Hardy contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Fuller Warren contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Melvin Richard contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ray Watson contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Wayne Allen contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Jackson Memorial Hospital contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Volume 23.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Number 25.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-standard"
+}

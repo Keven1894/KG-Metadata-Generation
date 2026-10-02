@@ -1,0 +1,89 @@
+{
+  "doc_id": "FI21052700_00038",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00038",
+    "title": "MIAMI LIFE, 1927-10-01 (Volume 4, Number 36)",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1927-10-01",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Real estate speculation—Florida—Miami",
+      "Housing—Rent—Florida—Miami",
+      "Oil and gas exploration—Florida—Miami",
+      "Natural gas—Florida—Miami",
+      "Miami River—Pollution—Florida—Miami",
+      "Sanitation—Florida—Miami",
+      "Transient merchants—Licenses and taxation—Florida—Miami",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Prohibition https://id.loc.gov/authorities/subjects/sh85107330",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260"
+    ],
+    "description": "Issue includes editorials and local commentary on Miami-area civic conditions and development, including calls to clean up the Miami River and concerns about sanitation and riverfront shacks; discussion of housing vacancies and rent levels ahead of the winter tourist season; promotion and critique of business practices such as transient seasonal merchants; and reporting and opinion on oil/natural gas drilling prospects near Miami. Also includes coverage of prohibition-era crime and law enforcement matters (including the arrest of “Pop” Nesle), transportation/traffic incidents, and community entertainment and sports notices (golf, boxing, dances), with letters to the editor reflecting public sentiment after the hurricane and about policing.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Miami River https://www.geonames.org/4164208",
+      "Hialeah https://www.geonames.org/4158476",
+      "Shenandoah https://www.geonames.org/4172747",
+      "1927-10-01"
+    ],
+    "contributor": [
+      "Kent Watson https://id.loc.gov/authorities/names/n96044336",
+      "\"Pop\" Nesle",
+      "J. H. Wendler",
+      "R. Hammerhead Greeby",
+      "Ev Sewell",
+      "Dr. R. M. Harris",
+      "Harry Booth",
+      "Aiderman",
+      "Reynolds (Miami Sports Club)",
+      "Miami Coliseum Corporation",
+      "Florida Power & Light Company"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 4, Number 36"
+    ],
+    "source": "FIU Libraries dPanther (digitized Miami Life newspaper issue)",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 11.03,
+    "context_chars": 71306,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

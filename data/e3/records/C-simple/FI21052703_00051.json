@@ -1,0 +1,86 @@
+{
+  "doc_id": "FI21052703_00051",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052703_00051",
+    "title": "Miami Life — Volume 5, Number 13 (1928-12-29)",
+    "creator": [
+      "Wen R. Phillips",
+      "O. S. Parmer"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-12-29",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR-derived)",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)—Social life and customs",
+      "New Year—1929",
+      "Municipal finance—Florida",
+      "Bonds (Finance)—Florida",
+      "Real estate development—Florida",
+      "Crime—Florida",
+      "Police—Florida",
+      "Traffic accidents—Florida",
+      "Prohibition—Florida",
+      "Entertainment—Florida",
+      "Nightclubs—Florida",
+      "Greyhound racing—Florida",
+      "Boxing—Florida"
+    ],
+    "description": "Issue dated December 29, 1928 (Vol. 5, No. 13), edited by Wen R. Phillips. Contains editorials and commentary on South Florida’s post-boom financial crisis (bond payments, taxes, and proposals such as municipal bankruptcy), crime and law enforcement (bondsmen and “fixers,” a coroner’s jury verdict of “justifiable homicide” in the Paul J. Simpson shooting), and public safety concerns including automobile accidents. Includes a Christmas-related report on the death of Coral Gables police sergeant Francis C. Guest struck by an intoxicated driver, along with extensive local entertainment and advertising for New Year’s Eve events, nightclubs, theaters, and upcoming greyhound racing; also notes sports items including a prospective Sharkey–Stribling bout.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Coral Gables (Fla.)",
+      "Miami Beach (Fla.)",
+      "Hialeah (Fla.)",
+      "Little River (Miami, Fla.)",
+      "1928-12-29"
+    ],
+    "contributor": [
+      "Francis C. Guest",
+      "B. C. Dove",
+      "Paul J. (Big Bill) Simpson",
+      "Robert Malone",
+      "Roddy Burdine",
+      "Carl G. Fisher",
+      "Jack Sharkey",
+      "Young Stribling"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 5, Number 13"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.94,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

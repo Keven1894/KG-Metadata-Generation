@@ -1,0 +1,242 @@
+{
+  "doc_id": "FI21052702_00044",
+  "n_claims": 42,
+  "n_supported": 41,
+  "n_contradicted": 0,
+  "claim_precision": 0.9762,
+  "per_field": {
+    "subject": {
+      "n": 12,
+      "supported": 12
+    },
+    "description": {
+      "n": 20,
+      "supported": 19
+    },
+    "coverage": {
+      "n": 4,
+      "supported": 4
+    },
+    "contributor": {
+      "n": 4,
+      "supported": 4
+    },
+    "relation": {
+      "n": 2,
+      "supported": 2
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue contains content about politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about crime.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about business.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about sports.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about entertainment events.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about telephone service rates in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about municipal corruption in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about habeas corpus in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about embezzlement in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about labor unions in the telephone industry in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about beauty contests in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about horse racing in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local political commentary.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local civic commentary.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local political reporting.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local civic reporting.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage of allegations of graft involving city offices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage of allegations of corruption involving city offices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses Stanley Massey’s legal situation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes an update on Miami’s telephone rate-reduction fight.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses expected action by the State Railroad Commission regarding Miami telephone rates.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on labor organizing among Southern Bell Telephone Company employees.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue features Miami Life’s “most attractive working girl” contest.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Miss Lillian Bishop is the Burdines winner of Miami Life’s “most attractive working girl” contest.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a ballot for a Florida Power & Light Company contest.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes society items.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes round-the-town items.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes letters to the editor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes sports content.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes racing content.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes “Jockey Jimmy” reports.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes results reported by “Jockey Jimmy.”",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers the Tamiami Trail.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is dated 1935-07-20.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Lillian Bishop appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Stanley Massey appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Paul Barnes appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Florida Power & Light Company appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Volume 9.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Number 44.",
+      "verdict": "supported"
+    }
+  ],
+  "tier": "C-precedent"
+}

@@ -1,0 +1,94 @@
+{
+  "doc_id": "FI21052703_00049",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052703_00049",
+    "title": "Miami Life — Volume 5, Number 11 (1928-12-15)",
+    "creator": [
+      "Wen R. Phillips",
+      "O. S. Parmer"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-12-15",
+    "type": "Text; newspaper issue",
+    "format": "Digitized text (OCR)",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Tourism",
+      "Civic affairs",
+      "City ordinances",
+      "Parking regulations",
+      "Public health",
+      "Influenza",
+      "Prostitution",
+      "Venereal disease",
+      "Public utilities",
+      "Gas service",
+      "Ice industry",
+      "Theaters",
+      "Entertainment",
+      "Greyhound racing",
+      "Newspapers",
+      "Satire"
+    ],
+    "description": "Issue includes editorials and satirical commentary on Miami and Miami Beach civic life and tourism, including calls to enforce an anti-handbill ordinance, discussion of a new 30-minute parking rule, concerns about public health (flu and venereal disease) and prostitution, and criticism of monopolies/combines in necessities such as ice and utilities. Also features pieces on Bayfront Park band concerts and theater investors, Miami Beach gas service, tourist travel and policing along Florida routes, and local entertainment and racing notes; masthead lists publication at 715–716 Olympia Building, Miami, Florida.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Greater Miami (Fla.)",
+      "1928-12-15"
+    ],
+    "contributor": [
+      "Frank B. Shutts",
+      "Frank B. Stoneman",
+      "Cliff Storm",
+      "Carl G. Fisher",
+      "Calvin Coolidge",
+      "Joe Smoot",
+      "George Carter",
+      "Al Clark",
+      "Sam Kantor",
+      "Gulliver Sewell",
+      "W. H. Combs Co.",
+      "B. T. Bethune",
+      "Arthur M. Rosenberg"
+    ],
+    "relation": [
+      "Miami Life, Volume 5, Number 11"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.01,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

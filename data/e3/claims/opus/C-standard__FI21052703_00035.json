@@ -1,0 +1,289 @@
+{
+  "doc_id": "FI21052703_00035",
+  "judge": "opus",
+  "n_claims": 51,
+  "n_supported": 50,
+  "n_contradicted": 0,
+  "claim_precision": 0.9804,
+  "per_field": {
+    "subject": {
+      "n": 14,
+      "supported": 14
+    },
+    "description": {
+      "n": 19,
+      "supported": 19
+    },
+    "coverage": {
+      "n": 5,
+      "supported": 5
+    },
+    "contributor": {
+      "n": 10,
+      "supported": 9
+    },
+    "relation": {
+      "n": 3,
+      "supported": 3
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses school finance in Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses street lighting in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the Florida Power & Light Company.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses safety measures related to milk in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses safety measures related to milk in Coral Gables, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses police administration in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the Miami Chamber of Commerce.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses tourism.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses nightlife.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses Prohibition.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses business.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses aquariums in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses Elks (fraternal order) conventions or gatherings in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials and commentary on Dade County school funding.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials and commentary on retrenchment in relation to Dade County school funding.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials and commentary on Miami budget concerns.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials and commentary on proposed reductions in downtown street lighting in Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes content about local civic affairs.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes content about the Miami Chamber of Commerce.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes content about city industrial promotion.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes content about city tourist promotion.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses police discipline under new leadership.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses public health concerns about milk testing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses “diseased milk.”",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses Prohibition-era liquor quality.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses Prohibition-era liquor enforcement in Miami Beach courts.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue mentions an aquarium at the city docks.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes entertainment listings.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes nightlife listings.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes society notes.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue references Elks activities.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue references convention visitors.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Coral Gables.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue dates to 1928.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Arnold.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Bobo Dean.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Florida Power & Light Company.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by the Miami Chamber of Commerce.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Electrical Equipment Co.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by S. Grover Morrow.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Mayor Sewell.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Chief of Police Reeve.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Ed Romfh.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Dr. Allen.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "This issue is part of the newspaper Miami Life (Miami, Florida).",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "This issue is volume 11 of Miami Life (Miami, Florida).",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "This issue is number 12 of Miami Life (Miami, Florida).",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-standard"
+}

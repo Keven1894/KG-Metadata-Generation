@@ -1,0 +1,105 @@
+{
+  "doc_id": "FI21052700_00036",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052700_00036",
+    "title": "Miami Life, Volume 4, Number 34 (September 17, 1927)",
+    "creator": [
+      "Wen R. Phillips",
+      "S. C. Ebbets"
+    ],
+    "publisher": "Miami Life",
+    "date": "1927-09-17",
+    "type": "Text; newspaper issue",
+    "format": "Digitized text (OCR)",
+    "language": "en",
+    "subject": [
+      "Libel",
+      "Freedom of the press",
+      "Justice of the peace",
+      "Local government",
+      "Dade County (Fla.)",
+      "County finances",
+      "Public funds",
+      "Bank deposits",
+      "Economy in government",
+      "Bond issues",
+      "Seawalls",
+      "Hurricanes",
+      "1926 Miami hurricane",
+      "Disaster recovery",
+      "Public transportation",
+      "Florida Power & Light Company",
+      "Newsboys",
+      "Tipping",
+      "Medical associations",
+      "Nurses registries",
+      "Boxing",
+      "Gene Tunney",
+      "Jack Dempsey",
+      "Radio broadcasting"
+    ],
+    "description": "Issue features editorials and local commentary including a prominent piece on a $50,000 libel suit and arrest of editor Wen R. Phillips involving Justice of the Peace H. W. Penney; criticism of Dade County commissioners’ handling of county funds and calls for economy; reflections on rebuilding and development in Greater Miami after the 1926 hurricane; complaints about deteriorating transportation service under Florida Power & Light; notes on city policy affecting newsboys; discussion of tipping; a report on Dade County Medical Association actions regarding a nurses registry; and extensive sports coverage and promotion tied to the Tunney–Dempsey fight, including radio broadcast plans and local boxing events at Biscayne Fronton.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "Coral Gables (Fla.)",
+      "1927-09-17"
+    ],
+    "contributor": [
+      "H. W. Penney",
+      "Wharton",
+      "Carl G. Fisher",
+      "Mrs. B. M. Tuller",
+      "Adele Hampton",
+      "R. Hammerhead Greeby",
+      "Judge W. F. Brown",
+      "Bailiff Yandle",
+      "Schwartz",
+      "Gene Tunney",
+      "Jack Dempsey",
+      "Graham McNamee",
+      "J. Andrew White",
+      "James H. Reynolds",
+      "Chief Ewing",
+      "Inez Meredith",
+      "L. S. Dillingham"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 4, Number 34"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.18,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

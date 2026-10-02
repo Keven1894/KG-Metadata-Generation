@@ -1,0 +1,312 @@
+{
+  "doc_id": "FI21052701_00047",
+  "n_claims": 56,
+  "n_supported": 56,
+  "n_contradicted": 0,
+  "claim_precision": 1.0,
+  "per_field": {
+    "subject": {
+      "n": 15,
+      "supported": 15
+    },
+    "description": {
+      "n": 14,
+      "supported": 14
+    },
+    "coverage": {
+      "n": 3,
+      "supported": 3
+    },
+    "contributor": {
+      "n": 22,
+      "supported": 22
+    },
+    "relation": {
+      "n": 2,
+      "supported": 2
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue covers municipal elections.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers the Miami City Commission.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers political campaigns.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers taxation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers homestead exemption.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers sales tax.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers water rates.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers pinball machines.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers gambling enforcement.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers aged persons.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers public assistance.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers housing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers crime and law enforcement.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers grand jury reports.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers Cuban politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue features extensive political coverage of Miami’s city commission run-off election.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a Miami Life poll about the Miami city commission run-off election.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials urging Northwest section voters to support incumbent H. Leslie Quigg.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials urging Northwest section voters to support incumbent Perrine Palmer, Jr.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials criticizing Leonard K. Thomson.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials criticizing William Wolfarth.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains articles arguing that consolidation of city and county tax assessment could raise residential taxes.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains articles arguing that changes to the water board could raise water rates.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue connects the campaign to opposition to the Florida sales tax.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local commentary columns.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes reports on conditions faced by indigent elderly residents.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes appeals for affordable rooms for indigent elderly residents.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes discussion of law enforcement actions against pinball machine payoffs.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a letter stating that the Cuban newspaper \"Oriente\" reprinted Miami Life material about Cuban Senator Jose Aleman.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is associated with Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is associated with Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is associated with the year 1949.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Sen F. Drucker appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "H. Leslie Quigg appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Perrine Palmer, Jr. appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Leonard K. Thomson appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "William Wolfarth appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Louie Bandel appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Bob Floyd appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Bill Charles appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Carlos Dellunde appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Jose Aleman appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Claude Pepper appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Mrs. Chas. T. Lindstrum appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Cecil C. Curry appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Gray Walters appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Sam B. Marr appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Richard W. Ervin appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Delcie C. Inglis appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "George W. Crane appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "J. Hilliard Clein appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "William L. Bowler appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "John Bernard Morton appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "David Glasgow appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Miami Life, volume 23.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Miami Life, number 47.",
+      "verdict": "supported"
+    }
+  ],
+  "tier": "C-simple"
+}

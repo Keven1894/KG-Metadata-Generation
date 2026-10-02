@@ -1,0 +1,81 @@
+{
+  "doc_id": "FI21052700_00010",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00010",
+    "title": "MIAMI LIFE, March 19, 1927 (Volume 4, Number 10)",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life Co.",
+    "date": "1927-03-19",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue; OCR text",
+    "language": "eng",
+    "subject": [
+      "Municipal government—Miami (Fla.)",
+      "Public utilities—Rates—Miami Beach (Fla.)",
+      "Bus transportation—Miami (Fla.) https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "Tourism—Economic aspects—Miami (Fla.) https://id.loc.gov/authorities/subjects/sh85136255",
+      "Taxation—Florida—Miami (Fla.)",
+      "Community Chest—Miami (Fla.)",
+      "Entertainment events—Miami (Fla.) https://id.loc.gov/authorities/subjects/sh96009616",
+      "Nightlife—Miami Beach (Fla.) https://id.loc.gov/authorities/subjects/sh2008001027"
+    ],
+    "description": "Issue includes editorials and commentary on Miami municipal affairs, including criticism of the bus agreement and city subsidies involving the Florida Power & Light Company, discussion of high prices and tourism’s impact on the local economy, and calls to pay the poll tax and register to vote. It also contains local satire and society columns (e.g., “They Tell Me,” “Little Geraldine”), a report on a West Central Miami council vote to eliminate “summer” from the calendar, coverage of a Miami Beach hotel manager’s arrest related to fire regulations, and numerous advertisements for theaters, entertainment, services, and local businesses in Greater Miami and Miami Beach.",
+    "coverage": [
+      "Miami (Fla.) https://www.geonames.org/4164138",
+      "Miami Beach (Fla.) https://www.geonames.org/4164143",
+      "Bayfront Park (Miami, Fla.) https://www.geonames.org/4146892",
+      "1927"
+    ],
+    "contributor": [
+      "Frank Wharton https://id.loc.gov/authorities/names/n92017948",
+      "Ed Romfh",
+      "Hammerhead Greeby",
+      "Adam McAdam",
+      "Ambrose Peebles",
+      "Guiseppe Argentino",
+      "Jan Garber",
+      "Eddie Peyton",
+      "Joe Lycell",
+      "O. S. Parmer"
+    ],
+    "relation": [
+      "Volume 4, Number 10"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 11.63,
+    "context_chars": 67499,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

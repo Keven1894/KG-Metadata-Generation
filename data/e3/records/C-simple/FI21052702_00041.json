@@ -1,0 +1,100 @@
+{
+  "doc_id": "FI21052702_00041",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00041",
+    "title": "Miami Life (Miami, Florida), Vol. 9, No. 41 (June 29, 1935)",
+    "creator": [],
+    "publisher": "Miami Life",
+    "date": "1935-06-29",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper text (OCR)",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Municipal government",
+      "County government",
+      "Public purchasing",
+      "Gambling",
+      "Marble boards",
+      "Lottery law",
+      "Telephone rates",
+      "Public utilities regulation",
+      "Southern Bell Telephone and Telegraph Company",
+      "Political corruption",
+      "City commissions",
+      "Crime",
+      "Attempted murder",
+      "Journalism",
+      "Fourth of July",
+      "Public safety",
+      "Charity events",
+      "Orphanages",
+      "Picnics"
+    ],
+    "description": "Issue includes editorials and local commentary on illegal gambling devices (marble boards) and enforcement of Florida lottery laws; criticism of Dade County Purchasing Agent C. L. Wheat over alleged wasteful retail purchasing and conflict with county commissioners; coverage of Miami municipal politics and the return of \"Sewellism\" with discussion of a publicity board and Commissioner Sewell; reporting on Miami telephone rate disputes involving Southern Bell and the State Railroad Commission; and a crime story about lawyer O. B. White shooting Tribune reporter Shannon Cormack. Also includes columns, advertisements, and notices such as plans for a July 4 outing/picnic for children.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "1935-06-29"
+    ],
+    "contributor": [
+      "C. L. Wheat",
+      "Ev Sewell",
+      "Commissioner Williams",
+      "Commissioner Rigby",
+      "Commissioner Orr",
+      "Mayor A. D. H. Fossey",
+      "Abe Aronovitz",
+      "W. Keith Phillips",
+      "Norman Graves",
+      "B. R. Kessler",
+      "Arthur Curtis",
+      "Sylvan Cox",
+      "Frank Smathers, Jr.",
+      "Harold Lanfield",
+      "H. H. Hyman",
+      "Shannon Cormack",
+      "O. B. White",
+      "Gov. Sholtz",
+      "Jockey Jimmy"
+    ],
+    "relation": [
+      "Vol. 9, No. 41"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 14.6,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

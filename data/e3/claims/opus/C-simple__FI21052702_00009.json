@@ -1,0 +1,334 @@
+{
+  "doc_id": "FI21052702_00009",
+  "judge": "opus",
+  "n_claims": 60,
+  "n_supported": 59,
+  "n_contradicted": 0,
+  "claim_precision": 0.9833,
+  "per_field": {
+    "subject": {
+      "n": 15,
+      "supported": 15
+    },
+    "description": {
+      "n": 26,
+      "supported": 25
+    },
+    "coverage": {
+      "n": 4,
+      "supported": 4
+    },
+    "contributor": {
+      "n": 14,
+      "supported": 14
+    },
+    "relation": {
+      "n": 1,
+      "supported": 1
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue concerns Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue concerns local politics and government.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue concerns a city commission.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue concerns mayors.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue concerns taxation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue concerns liquor regulation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue concerns the repeal of Prohibition.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue concerns horse racing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue concerns pari-mutuel betting.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue concerns the Miami Jockey Club.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue concerns Hialeah Park Race Track.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue concerns legal proceedings.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue concerns radio programs.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue concerns nightclubs and entertainment.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains advertising.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue is dated November 17, 1934.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue is Volume 9, Number 9 of Miami Life.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes prominent coverage of allegations concerning the Miami Jockey Club.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes prominent coverage of legal interrogatories concerning the Miami Jockey Club.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes prominent coverage of allegations concerning pari-mutuel operations.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes prominent coverage of legal interrogatories concerning pari-mutuel operations.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes calls for dissolution of the Miami Jockey Club.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes calls for an accounting related to the Miami Jockey Club.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes questions about revenues related to pari-mutuel operations.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes questions about payments related to pari-mutuel operations.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes questions about political influence related to pari-mutuel operations.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage of local political conflict involving Mayor Sewell.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage of local political conflict involving the Miami city commission.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage of a dispute between Mayor Sewell and the Miami city commission over governance.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage of proposed liquor-related fees or taxes following repeal of Prohibition.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains columns about local personalities.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains short items about local personalities.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains columns about local events.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains short items about local events.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains extensive advertisements.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains entertainment listings.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains radio program schedules.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains radio program schedules for WQAM.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains radio program schedules for WIOD.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains sports tips.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains racing tips.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers the date November 17, 1934.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Mayor Sewell appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "A. D. H. Fossey appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Attorney Bart A. Riley appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Charles R. Myers appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Joseph E. Widener appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Duncan, Hamlin & Duncan appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Buck Leatherman appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "A circuit clerk named Buck Leatherman appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Gov. Sholtz appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Abraham Frank Katzentine appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Val C. Cleary appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Federal Judge Ritter appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "WQAM appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "WIOD appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Miami Life, Volume 9, Number 9.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-simple"
+}

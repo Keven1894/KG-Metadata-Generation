@@ -1,0 +1,101 @@
+{
+  "doc_id": "FI21052701_00025",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052701_00025",
+    "title": "Miami Life (Miami, Fla.), Vol. XXIII, No. 25 (June 18, 1949)",
+    "creator": [
+      "Reubin Clein",
+      "Ben F. Drucker"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-06-18",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Gambling",
+      "Miami Beach (Fla.)",
+      "Law enforcement",
+      "Local government",
+      "Press and politics",
+      "Libel and slander",
+      "Rent control",
+      "Education policy",
+      "School term",
+      "Courts",
+      "Traffic safety",
+      "Immigration"
+    ],
+    "description": "Weekly issue featuring editorials and local reporting on Miami Beach gambling and enforcement (“Miami Beach is closed”), criticism of daily newspapers’ influence, and discussion of “liberal policy” and potential recall politics. Includes coverage of a criminal libel complaint involving Dorothy Brand and attorney/candidate Harry Zuckernick with references to Miami Beach councilman Melvin Richard; a Hialeah “Peeping Tom” case before Judge J. Lavery; calls for a referendum on Dade County’s extra-long school term; commentary on rent decontrol legislation and Gov. Fuller Warren; a physician fee dispute involving Dr. R. M. I. Edelman; and assorted civic/police-court notes and advertisements.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "Hialeah (Fla.)",
+      "1949-06-18"
+    ],
+    "contributor": [
+      "Philip James LaFon",
+      "Shirley Green",
+      "J. Lavery",
+      "Mayor Milander",
+      "Fuller Warren",
+      "Dorothy Brand",
+      "Harry Zuckernick",
+      "Melvin Richard",
+      "Kenneth Oka",
+      "Wayne Allen",
+      "Ray Watson",
+      "Darrey Davis",
+      "P. R. Short",
+      "R. M. I. Edelman",
+      "Helen Dorsey",
+      "Lillian Dorsey",
+      "Paul Hanna",
+      "H. N. Kirkman",
+      "William Tucker",
+      "Robbin Marie Judge",
+      "Milton Ferrell",
+      "Henry",
+      "Eileen Campion",
+      "Dallas L. Carroll",
+      "City Manager Hart"
+    ],
+    "relation": [
+      "Miami Life, Vol. XXIII, No. 25"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.14,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

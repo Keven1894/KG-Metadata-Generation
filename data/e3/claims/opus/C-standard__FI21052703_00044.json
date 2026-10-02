@@ -1,0 +1,309 @@
+{
+  "doc_id": "FI21052703_00044",
+  "judge": "opus",
+  "n_claims": 55,
+  "n_supported": 54,
+  "n_contradicted": 0,
+  "claim_precision": 0.9818,
+  "per_field": {
+    "subject": {
+      "n": 15,
+      "supported": 15
+    },
+    "description": {
+      "n": 18,
+      "supported": 18
+    },
+    "coverage": {
+      "n": 9,
+      "supported": 9
+    },
+    "contributor": {
+      "n": 12,
+      "supported": 12
+    },
+    "relation": {
+      "n": 1,
+      "supported": 0
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue contains content about politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about Prohibition.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about tourism.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about entertainment.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about nightlife.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about sports.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about business.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about housing rents in the Miami region of Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about landlords and tenants in the Miami region of Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about real estate in the Miami region of Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about municipal government in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about liquor traffic in Key West, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about safety measures for gasoline boats in Miami Harbor, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about hotel employees in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about railroad crossings in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes satirical commentary.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue comments on post-election conditions in South Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses rising rents in South Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses the seasonal influx of visitors to South Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses local politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses civic affairs.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage touching on Prohibition enforcement.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes liquor-related news.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes liquor-related news involving Key West.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage touching on transportation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage touching on rail service.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage touching on public-safety concerns.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage about hazardous gasoline boats in the harbor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains nightlife listings or advertising for clubs and shows.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains entertainment listings or advertising for clubs and shows.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains local sports notes.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains community notes.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Coral Gables.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Hialeah.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Key West.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Havana.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to the Everglades.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Bayfront Park.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue dates to November 1928.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "W. W. Farnham contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "O. S. Parmer contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Florida Power & Light Company contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Seaboard Air Line contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "M. P. Lehman contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "A contributor to the issue is named Arnold.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "A contributor to the issue is named Wood.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Judge Stoneman contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Bob Taylor contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Miss Ruth Gaskin contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Charlie Dillon contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Glenn Mincer contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is part of volume 1.",
+      "verdict": "unsupported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-standard"
+}

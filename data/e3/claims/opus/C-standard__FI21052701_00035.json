@@ -1,0 +1,289 @@
+{
+  "doc_id": "FI21052701_00035",
+  "judge": "opus",
+  "n_claims": 51,
+  "n_supported": 50,
+  "n_contradicted": 0,
+  "claim_precision": 0.9804,
+  "per_field": {
+    "subject": {
+      "n": 15,
+      "supported": 15
+    },
+    "description": {
+      "n": 17,
+      "supported": 17
+    },
+    "coverage": {
+      "n": 6,
+      "supported": 6
+    },
+    "contributor": {
+      "n": 11,
+      "supported": 10
+    },
+    "relation": {
+      "n": 2,
+      "supported": 2
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses gambling in Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses municipal administration in Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses police administration in Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses grand juries in Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses sales tax in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses United States law and legislation affecting radio broadcasting.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses hurricanes in the Miami area of Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses Florida law and legislation concerning fictitious business names.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains advertising for dentifrices (tooth-cleaning products).",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers entertainment events.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers nightlife.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers business.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers tourism.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers crime.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains a front-page report alleging that Miami Beach City Manager Renshaw faces potential legal action.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue alleges that Miami Beach City Manager Renshaw misappropriated public funds and/or materials.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue alleges that Miami Beach City Manager Renshaw played a role in protecting a gambling syndicate.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains editorial coverage about allegations involving Miami Beach City Manager Renshaw.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses police department authority.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses Miami Beach city council efforts to curb gambling syndicate influence.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains editorials and letters about Florida politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains editorials and letters opposing a Florida state sales tax.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains commentary about Governor Fuller Warren.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains editorials and letters about grand jury issues.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains editorials and letters about governance issues in Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a column noting federal action to ban certain radio giveaway programs.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local public-safety reporting on hurricane warning broadcasts.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes health and consumer items.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes dental product claims.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes extensive coverage of Miami Beach nightlife and entertainment.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes advertising related to Miami Beach nightlife and entertainment.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Greater Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue date is 1949-08-27.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ben F. Drucker appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Fuller Warren appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "George E. Holt appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The American Dental Association appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The American Medical Association appears in the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Grady Norton appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Thomas D. Bailey appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Walter E. Headley appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "John R. Lake appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Henry G. Michel appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "James D. Poore appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Volume 23.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Number 35.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-standard"
+}

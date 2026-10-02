@@ -1,0 +1,254 @@
+{
+  "doc_id": "FI21052703_00034",
+  "judge": "opus",
+  "n_claims": 44,
+  "n_supported": 42,
+  "n_contradicted": 0,
+  "claim_precision": 0.9545,
+  "per_field": {
+    "subject": {
+      "n": 13,
+      "supported": 12
+    },
+    "description": {
+      "n": 20,
+      "supported": 20
+    },
+    "coverage": {
+      "n": 5,
+      "supported": 5
+    },
+    "contributor": {
+      "n": 4,
+      "supported": 3
+    },
+    "relation": {
+      "n": 2,
+      "supported": 2
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue contains content about horse racing in Hialeah, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about tourism in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about entertainment in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about nightlife in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about prohibition in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about gambling in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about police in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about traffic regulations in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about the Miami Chamber of Commerce.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about University of Miami finances.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about politics and government in Coral Gables, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about harbors in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about banks and banking in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials and commentary on whether Miami will have horse racing in the coming winter season.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses Hialeah in connection with whether Miami will have horse racing in the coming winter season.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses the Miami Jockey Club in connection with whether Miami will have horse racing in the coming winter season.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials and commentary on the city’s tourist-oriented promotion versus industrial development.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials and commentary on enforcement actions against gambling during prohibition.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials and commentary on enforcement actions against liquor during prohibition.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes pieces addressing the Miami Chamber of Commerce’s financial difficulties.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes pieces addressing staff reductions at the Miami Chamber of Commerce.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes pieces addressing police training.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes pieces addressing police examinations.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes pieces addressing traffic policies.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes pieces addressing one-way street policies.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes pieces addressing funding plans connected to the University of Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes pieces addressing Coral Gables city commission actions connected to funding plans.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes pieces expressing concerns about double punishment for drunk driving.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes calls for improvements to Miami’s harbor facilities.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains society columns.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains Nassau/rum-running notes.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains entertainment listings.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains local advertisements.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Hialeah.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Coral Gables.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers the University of Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is dated 1928-09-01.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "John W. Martin contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Carpenter contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Joseph Adams contributed to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The Miami Chamber of Commerce contributed to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is part of Miami Life, Volume 5.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Miami Life, Number 31.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-standard"
+}

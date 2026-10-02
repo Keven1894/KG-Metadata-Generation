@@ -1,0 +1,314 @@
+{
+  "doc_id": "FI21052703_00020",
+  "judge": "gpt55",
+  "n_claims": 56,
+  "n_supported": 56,
+  "n_contradicted": 0,
+  "claim_precision": 1.0,
+  "per_field": {
+    "subject": {
+      "n": 15,
+      "supported": 15
+    },
+    "description": {
+      "n": 23,
+      "supported": 23
+    },
+    "coverage": {
+      "n": 7,
+      "supported": 7
+    },
+    "contributor": {
+      "n": 9,
+      "supported": 9
+    },
+    "relation": {
+      "n": 2,
+      "supported": 2
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses Florida gubernatorial elections.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses politics and government in Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses county commissioners in Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses roads in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses transportation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the Tamiami Trail in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses prohibition.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses liquor traffic in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses crime.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses federal prisoners in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses contraband liquor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses business.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses local commerce in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains editorial content.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "This is a weekly issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue features editorials.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue features political commentary on Florida elections.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on the Florida governorship race.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Doyle Carlton is discussed in connection with the Florida governorship race.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Sidney J. Catts is discussed in connection with the Florida governorship race.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Fons Hathaway is discussed in connection with the Florida governorship race.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue expresses support for Ruth Bryan Owen for Congress.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local civic topics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local government topics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses Dade County commissioners.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses justice-of-the-peace districts.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses transportation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses road conditions.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses the Tamiami Trail.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses prohibition enforcement.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes incidents involving contraband liquor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes incidents involving the county stockade.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes incidents involving federal prisoners.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains community notes.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains entertainment listings.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains numerous local advertisements.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains political announcements.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Tampa.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Jacksonville.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Cocoa.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Fort Myers.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Naples.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Florida in 1928.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Doyle Carlton appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "James M. Cox appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ruth Bryan Owen appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Sidney J. Catts appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Fons Hathaway appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "R. Hammerhead Greeby appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "E. B. Leatherman appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "McNeil appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Bob Marshbun appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Volume 6.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Number 17.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-precedent"
+}

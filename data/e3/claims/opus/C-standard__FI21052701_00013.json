@@ -1,0 +1,93 @@
+{
+  "doc_id": "FI21052701_00013",
+  "judge": "opus",
+  "n_claims": 15,
+  "n_supported": 14,
+  "n_contradicted": 1,
+  "claim_precision": 0.9333,
+  "per_field": {
+    "description": {
+      "n": 15,
+      "supported": 14
+    }
+  },
+  "claims": [
+    {
+      "field": "description",
+      "claim": "The issue features an investigative exposé of conditions at the Miami Retreat.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue reports alleged abuses of mental patients at the Miami Retreat.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The Miami Retreat is described as a county-supported facility.",
+      "verdict": "contradicted"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses treatment of charity patients at the Miami Retreat.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes calls for public action regarding the Miami Retreat.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes calls for investigation regarding the Miami Retreat.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local political commentary involving city officials.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local political commentary involving county officials.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage of legislative matters.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses a proposal for confidentiality of birth records by the county health officer.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses a proposal for confidentiality of death records by the county health officer.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue reports on Miami’s international air traffic.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue reports on shipments involving Pan American World Airways.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a PTA carnival announcement.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes concerns over Biscayne Bay bottom lands.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-standard"
+}

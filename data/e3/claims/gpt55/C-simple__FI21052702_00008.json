@@ -1,0 +1,319 @@
+{
+  "doc_id": "FI21052702_00008",
+  "judge": "gpt55",
+  "n_claims": 57,
+  "n_supported": 55,
+  "n_contradicted": 0,
+  "claim_precision": 0.9649,
+  "per_field": {
+    "subject": {
+      "n": 10,
+      "supported": 10
+    },
+    "description": {
+      "n": 21,
+      "supported": 19
+    },
+    "coverage": {
+      "n": 4,
+      "supported": 4
+    },
+    "contributor": {
+      "n": 19,
+      "supported": 19
+    },
+    "relation": {
+      "n": 3,
+      "supported": 3
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue concerns politics and government in Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue concerns mayors in Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue concerns taxation of alcoholic beverages in Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue concerns beer licensing in Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue concerns elections in Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue concerns police in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue concerns crime in Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue concerns hotel employees in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue concerns horse racing in Maryland.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue concerns radio programs.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes political commentary on Miami Beach governance.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on the Miami Beach mayoral race.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Abraham Frank Katzentine is discussed in the context of the Miami Beach mayoral race.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "John Levi is discussed in the context of the Miami Beach mayoral race.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue criticizes proposed liquor taxation in Dade County.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue criticizes proposed beer taxation in Dade County.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue criticizes proposed liquor licensing in Dade County.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue criticizes proposed beer licensing in Dade County.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses crime.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses policing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a satirical item titled \"Coppers’ Courtesy Code\".",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains letters to the editor about working conditions at the Biltmore Hotel.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains letters to the editor about wages at the Biltmore Hotel.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains local society items.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains column items.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains advertisements.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains radio schedules.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains horse-racing tips.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains horse-racing coverage.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue's horse-racing coverage includes Pimlico.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue's horse-racing coverage includes Bowie.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is dated 1934-11-10.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "A. Katzentine appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Abraham Frank Katzentine appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "John Levi appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ev Sewell appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "A. D. H. Fossey appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Val C. Cleary appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Bob Ralston appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Bill Burbridge appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Edgar Louis Keuling appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Dick Mead appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Harry Hice appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Art Childers appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Charles Wheeler appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "E. H. Griffith appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "R. Hammerhead Greeby appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Chief of Police McCreary appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "M. B. Johnson appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ruth Bryan Owen appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Leon Bornstein appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is part of Miami Life.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is in volume 9 of Miami Life.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is number 8 of Miami Life.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-simple"
+}

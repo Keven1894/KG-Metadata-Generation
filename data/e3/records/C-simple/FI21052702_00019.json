@@ -1,0 +1,96 @@
+{
+  "doc_id": "FI21052702_00019",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052702_00019",
+    "title": "Miami Life (Miami, Florida), Vol. 9, No. 19 (January 26, 1935)",
+    "creator": [],
+    "publisher": "Miami Life",
+    "date": "1935-01-26",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Gambling",
+      "Grand jury investigations",
+      "Political corruption",
+      "Miami Beach (Fla.)",
+      "Hialeah Park Race Track (Hialeah, Fla.)",
+      "Horse racing",
+      "Boxing",
+      "Tourism",
+      "New Deal",
+      "Franklin D. Roosevelt"
+    ],
+    "description": "Issue includes commentary on Dade County grand jury investigations and alleged political manipulation affecting Miami and Miami Beach, with attention to gambling operations and enforcement. Reports and opinion pieces discuss a purported Hialeah Park third-race scandal and track-related allegations, plus sports coverage including boxing items involving Joe Lipps and related disputes. Contains social/entertainment columns and extensive advertising, including promotions tied to President Franklin D. Roosevelt's birthday celebrations and local nightlife and businesses.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "Hialeah (Fla.)",
+      "1935-01-26"
+    ],
+    "contributor": [
+      "Franklin D. Roosevelt",
+      "Dave Sholtz",
+      "Vernon Hawthorne",
+      "Dan Mahoney",
+      "Henry L. Doherty",
+      "Carl Byoir",
+      "Abe Hallow",
+      "Joe Widener",
+      "Col. E. R. Bradley",
+      "Frank Katzenstine",
+      "Val C. Cleary",
+      "Jim Hickland",
+      "Reubin Clein",
+      "Judge Collins",
+      "Auby Keoskie",
+      "Joe Lipps",
+      "Jack Bell",
+      "Donald \"Reds\" Barry",
+      "Benn. O'dell",
+      "Frankie Edgren",
+      "Huggins (manager)",
+      "Walter von Hollendorff",
+      "Jimmy Franklin",
+      "J. J. Grant",
+      "LeLian A. Krumm"
+    ],
+    "relation": [
+      "Miami Life, Vol. 9, No. 19"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.26,
+    "context_chars": 53329,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

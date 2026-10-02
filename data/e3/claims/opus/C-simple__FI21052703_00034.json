@@ -1,0 +1,349 @@
+{
+  "doc_id": "FI21052703_00034",
+  "judge": "opus",
+  "n_claims": 63,
+  "n_supported": 63,
+  "n_contradicted": 0,
+  "claim_precision": 1.0,
+  "per_field": {
+    "subject": {
+      "n": 14,
+      "supported": 14
+    },
+    "description": {
+      "n": 23,
+      "supported": 23
+    },
+    "coverage": {
+      "n": 6,
+      "supported": 6
+    },
+    "contributor": {
+      "n": 19,
+      "supported": 19
+    },
+    "relation": {
+      "n": 1,
+      "supported": 1
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue is about Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue is about tourism.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue is about horse racing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue is about Hialeah.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue is about gambling.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue is about law enforcement.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue is about Prohibition.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue is about a Chamber of Commerce.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue is about traffic regulation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue is about the University of Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue is about Coral Gables.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue is about harbors.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue is about banks and banking.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue is about radio broadcasting.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue is dated September 1, 1928.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue is Volume 5, Number 31.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local commentary.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses whether Miami will have horse racing in the coming winter season.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses Hialeah in connection with horse racing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses the Miami Jockey Club in connection with horse racing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses the city's approach to amusements enforcement.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses the city's approach to gambling enforcement.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses an economic emphasis on tourism versus industry.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes pieces about Chamber of Commerce staffing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes pieces about Chamber of Commerce finances.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue addresses police examinations.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue addresses law enforcement practices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue addresses one-way versus two-way street traffic systems.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue addresses funding plans for new University of Miami buildings.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue describes Coral Gables actions related to funding plans for new University of Miami buildings.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses bequests related to funding plans for new University of Miami buildings.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue raises concerns about harbor development.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes letters or opinion about radio broadcasts.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes letters or opinion about banking practices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes society columns.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes extensive local advertising.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida, United States.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Greater Miami (Miami-Dade County), Florida, United States.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Coral Gables, Florida, United States.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Hialeah, Florida, United States.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Nassau, Bahamas.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers the date 1928-09-01.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ev Sewell appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Joe Smoot appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Governor Martin appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Doc Ziebold appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Secretary Carpenter appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Municipal Judge Stoneman appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Police Chief Quigg appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "J. C. Penney appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Joseph Adams appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Conchie Joe appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Feye Parker appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Emma H. Eldridge appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "R. H. M. M. appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "A Faithful Citizen appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "R. Griffin appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "James (Jim) Flood appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Henry Chase appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Judge Gramling appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "B. T. Bethune appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Miami Life, Volume 5, Number 31.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-simple"
+}

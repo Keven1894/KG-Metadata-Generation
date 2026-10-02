@@ -1,0 +1,298 @@
+{
+  "doc_id": "FI21052700_00012",
+  "n_claims": 54,
+  "n_supported": 52,
+  "n_contradicted": 0,
+  "claim_precision": 0.963,
+  "per_field": {
+    "subject": {
+      "n": 19,
+      "supported": 19
+    },
+    "description": {
+      "n": 21,
+      "supported": 19
+    },
+    "coverage": {
+      "n": 4,
+      "supported": 4
+    },
+    "contributor": {
+      "n": 10,
+      "supported": 10
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue mentions Florida Power & Light Company.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses public utilities.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses municipal franchises.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses water rates.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses electricity rates.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses gas rates.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the City of Miami government.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses city commission elections.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains political commentary.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses taxation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses Florida politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses dividing Florida into North and South.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses real estate.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses oil and gas leasing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the Everglades.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue mentions Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes community events.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses sports facilities.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes legal notices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue is dated Saturday, April 2, 1927.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains prominent editorials criticizing City of Miami franchise contracts with Florida Power & Light.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The editorials allege the franchise contracts contain hidden provisions affecting rates.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The editorials warn the franchise contracts could cause municipal financial harm.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The paper urges legal action to nullify or challenge the franchise contracts.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The paper urges civic action to nullify or challenge the franchise contracts.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage of local politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage of an upcoming city commission election.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue references Abe Aronovitz in connection with the city commission election.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue references Leroy Morgan in connection with the city commission election.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on Governor John W. Martin.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on taxes.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses dividing Florida into two states.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local news briefs.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes community events in Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes community events in Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes real-estate satire.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes advertisements.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes legal notices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes oil-lease promotions in its advertisements and/or legal notices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a master’s sale notice.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is dated 1927-04-02.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue mentions Abe Aronovitz.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue mentions John W. Martin.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue mentions Park Trammell.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue mentions Leroy Morgan.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue mentions J. G. Du Puis.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue mentions N. O. Penny.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue mentions H. J. Freeman.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue mentions E. Lee Hughes.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue mentions Florida Power & Light Company.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue mentions the Miami Chamber of Commerce.",
+      "verdict": "supported"
+    }
+  ],
+  "tier": "C-simple"
+}

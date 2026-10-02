@@ -1,0 +1,337 @@
+{
+  "doc_id": "FI21052703_00003",
+  "n_claims": 61,
+  "n_supported": 59,
+  "n_contradicted": 1,
+  "claim_precision": 0.9672,
+  "per_field": {
+    "subject": {
+      "n": 14,
+      "supported": 14
+    },
+    "description": {
+      "n": 23,
+      "supported": 22
+    },
+    "coverage": {
+      "n": 7,
+      "supported": 7
+    },
+    "contributor": {
+      "n": 16,
+      "supported": 16
+    },
+    "relation": {
+      "n": 1,
+      "supported": 0
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue contains content about Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about Coral Gables, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about Nassau, Bahamas.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about local government.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about roads and bridges.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about University of Miami football.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about Prohibition.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about the Coast Guard.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about liquor smuggling.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about tourism.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about hotels and resorts.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about theater.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about advertising.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue is a weekly issue of the Miami Life newspaper.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue is dated January 21, 1928.",
+      "verdict": "contradicted"
+    },
+    {
+      "field": "description",
+      "claim": "The issue is Volume 11, Number 1.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local commentary about delays in bridge construction near Little River.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes discussion of choosing a University of Miami football coach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a column titled \"Round the Town.\"",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a column titled \"Thing I'd Like to Know.\"",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a feature titled \"The Meanest Man in the World.\"",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage of Nassau travel.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes promotion of Nassau travel.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage of Nassau hospitality.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes promotion of Nassau hospitality.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Princess Montagu appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The Fort Montague Hotel appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The Lucerne Hotel appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes discussion of Prohibition-era enforcement.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes discussion of a federal court case involving liquor-running.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains cultural notes about Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains cultural notes about Coral Gables.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage of a Garden Theatre production of \"Rain.\"",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes promotion of the Venetian Pool.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes letters to the editor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes numerous local advertisements for businesses and services.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue contains content about Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue contains content about Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue contains content about Coral Gables, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue contains content about Fort Lauderdale, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue contains content about the Little River district in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue contains content about Nassau, New Providence, Bahamas.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is dated 1928-01-21.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Isa Seeker appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "E. C. Lewis appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Captain Buck appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "George T. Linton appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "George Murphy appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Miss Mary Moseley appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Williams Allen White appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Henry A. Flagler appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Robert E. Lee appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ewen R. Phillips appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "A. H. Caesar appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Louis Mogan appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "C. W. Case Jr. appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Princess Zoraida appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Prof. Louis Blumer appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Paul Whitehurst appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is part of Miami Life, Volume 11, Number 1.",
+      "verdict": "unparsed"
+    }
+  ],
+  "tier": "C-simple"
+}

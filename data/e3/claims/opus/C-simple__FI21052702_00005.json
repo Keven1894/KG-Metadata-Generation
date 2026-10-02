@@ -1,0 +1,194 @@
+{
+  "doc_id": "FI21052702_00005",
+  "judge": "opus",
+  "n_claims": 32,
+  "n_supported": 30,
+  "n_contradicted": 1,
+  "claim_precision": 0.9375,
+  "per_field": {
+    "subject": {
+      "n": 9,
+      "supported": 9
+    },
+    "description": {
+      "n": 14,
+      "supported": 13
+    },
+    "coverage": {
+      "n": 4,
+      "supported": 3
+    },
+    "contributor": {
+      "n": 4,
+      "supported": 4
+    },
+    "relation": {
+      "n": 1,
+      "supported": 1
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue contains content about radio programs.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about horse racing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about gambling.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about the American Legion.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains local news and gossip content.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about politics and government.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about housing rents.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains advertising content.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes radio program schedules for WCAU.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes radio program schedules for WIOD.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes radio program schedules for WQAM.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes extensive horse-racing tips.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes horse-racing promotions for a paid \"Jockey Jimmy\" information service.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Local columns and notices in the issue reference American Legion visitors in Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Local columns and notices in the issue reference Miami Beach nightlife.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "description",
+      "claim": "Local columns and notices in the issue reference Miami Beach businesses.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a gossip section titled \"They Tell Me That\".",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a feature listing \"old-timers\" and what they are doing now.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a political item discussing Glenn May potentially running for Florida governor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The political item references a 1936 platform in connection with Glenn May potentially running for Florida governor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a letter to the editor complaining about a rent increase in Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The letter to the editor urges exposure of landlords who raise rents.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is dated 1934-10-20.",
+      "verdict": "contradicted"
+    },
+    {
+      "field": "contributor",
+      "claim": "Sam Marley appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Glen May appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Jockey Jimmy appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Mrs. H. appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is part of \"Miami Life\", volume 9, number 5.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-simple"
+}

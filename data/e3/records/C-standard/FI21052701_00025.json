@@ -1,0 +1,87 @@
+{
+  "doc_id": "FI21052701_00025",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052701_00025",
+    "title": "MIAMI LIFE, Saturday, June 18, 1949 (Vol. XXIII, No. 25)",
+    "creator": [
+      "REUBIN CLEIN"
+    ],
+    "publisher": "MIAMI LIFE",
+    "date": "1949-06-18",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Gambling—Florida—Miami Beach",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Rent control—Florida—Dade County",
+      "Schools—Term—Florida—Dade County",
+      "Press and politics—Florida—Miami Beach",
+      "Public morality—Florida—Miami",
+      "health https://id.loc.gov/authorities/subjects/sh00006004",
+      "Immigration—United States—Finns",
+      "transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "nightlife https://id.loc.gov/authorities/subjects/sh2008001027"
+    ],
+    "description": "Issue features editorials and local reporting focused on Miami Beach gambling policy and its economic impact, including discussion of Miami Beach council politics and press influence. Coverage includes a Hialeah \"Peeping Tom\" court case and commentary on law enforcement and public morality, a call for a referendum on Dade County’s school term length, and discussion of rent decontrol legislation. Additional items include a physician’s response to a disputed medical bill and hospital treatment, commentary on immigration policy regarding Finnish arrivals, summaries of Florida legislative actions and advertising appropriations, and assorted letters, columns, and local notices.",
+    "coverage": [
+      "Miami Beach https://www.geonames.org/4164143",
+      "Hialeah https://www.geonames.org/4158476",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Miami Shores https://www.geonames.org/4164211",
+      "Bayfront Park https://www.geonames.org/4146892",
+      "Tallahassee https://www.geonames.org/4174715",
+      "Miami (Fla.)",
+      "Dade County (Fla.)",
+      "1949-06-18"
+    ],
+    "contributor": [
+      "BEN F. DRUCKER",
+      "Dan Hardy https://id.loc.gov/authorities/names/no2010108298",
+      "Fuller Warren https://id.loc.gov/authorities/names/n99046515",
+      "Melvin Richard https://id.loc.gov/authorities/names/n2007008032",
+      "Ray Watson https://id.loc.gov/authorities/names/no2013030275",
+      "Wayne Allen https://id.loc.gov/authorities/names/n88613031",
+      "Jackson Memorial Hospital https://id.loc.gov/authorities/names/n79131242"
+    ],
+    "relation": [
+      "Vol. XXIII, No. 25"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 11.27,
+    "context_chars": 68329,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "doc_id": "FI21052700_00021",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052700_00021_19270604",
+    "title": "Miami Life (Miami, Florida), Vol. 4, No. 19 (June 4, 1927)",
+    "creator": [
+      "Wen R. Phillips",
+      "Lysle E. Fesler"
+    ],
+    "publisher": "Miami Life",
+    "date": "1927-06-04",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue (OCR text)",
+    "language": "en",
+    "subject": [
+      "Municipal elections",
+      "City commission candidates",
+      "Florida Legislature",
+      "Dade County (Fla.) politics",
+      "Florida Power & Light Company",
+      "Public utilities",
+      "Telephone rates",
+      "Traffic accidents",
+      "Law enforcement",
+      "Miami Beach (Fla.)",
+      "Coral Gables (Fla.)",
+      "Tamiami Trail",
+      "Real estate",
+      "Civic improvement",
+      "Lions Club convention",
+      "Legal notices",
+      "Foreclosure"
+    ],
+    "description": "Weekly issue featuring editorials and political commentary on Miami and Dade County affairs, including the upcoming city commission election and slates of candidates (Sewell, Platt, Gautier, Reeder, Donn, Aronovitz), criticism of Dade County legislators in Tallahassee, and discussion of Florida Power & Light and public-utility issues. Additional pieces address police summer uniforms, telephone toll charges between Miami and nearby cities, traffic fatalities, Miami Beach policing/curfew complaints, civic cleanup efforts for the Lions convention, transportation notes (Tamiami Trail drive), local society columns (\"Little Geraldine\"), advertisements, and legal notices including a mortgage foreclosure master’s sale.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Coral Gables (Fla.)",
+      "Dade County (Fla.)",
+      "Florida",
+      "1927-06-04"
+    ],
+    "contributor": [
+      "S. C. Ebbets",
+      "Joe Dillon",
+      "Fred Weede",
+      "Earl Wilson",
+      "E. G. Sewell",
+      "Abe Aronovitz",
+      "Judge Gautier",
+      "Reeder",
+      "Platt",
+      "Jimmy Donn",
+      "Chief Quigg",
+      "Governor Martin",
+      "Senator Watson",
+      "Florida Power & Light Company",
+      "Miami Life, Inc.",
+      "Miami Motor Club",
+      "Hill Motor Company",
+      "Boston-Miami Holding Company"
+    ],
+    "relation": [
+      "Volume 4, Number 19"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 11.5,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

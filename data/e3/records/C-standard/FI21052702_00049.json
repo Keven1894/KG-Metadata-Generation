@@ -1,0 +1,94 @@
+{
+  "doc_id": "FI21052702_00049",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00049",
+    "title": "MIAMI LIFE, Saturday, August 24, 1935 (Vol. 9, No. 49)",
+    "creator": [],
+    "publisher": "LIFE PUBLISHING COMPANY",
+    "date": "1935-08-24",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Traffic safety—Miami (Fla.)",
+      "Drunk driving—Miami (Fla.)",
+      "Police administration—Miami (Fla.)",
+      "Federal Bureau of Investigation—United States",
+      "J. Edgar Hoover https://id.loc.gov/authorities/names/n79077374",
+      "Municipal government—Miami (Fla.)",
+      "Telephone rates—Miami (Fla.)",
+      "Savings and loan associations—Miami (Fla.)",
+      "Insurance—Miami (Fla.)",
+      "Bankruptcy—Florida—Miami",
+      "Grand juries—Florida—Miami",
+      "Beauty contests—Miami (Fla.)",
+      "Horse racing—Florida",
+      "Wrestling—Florida—Coral Gables",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616"
+    ],
+    "description": "Issue includes editorials and local commentary on Miami public safety and law enforcement, including discussion of City Safety Director Andrew J. Kavanaugh and a traffic-safety campaign emphasizing enforcement against drunken and reckless driving. Reports and opinion pieces address alleged fraud connected to a home-building/savings-and-loan scheme involving the Federal Savings & Loan Association of Miami and the J. M. Lipton Insurance Agency, and anticipate a federal grand jury inquiry into bankruptcy and receivership practices. Additional coverage includes municipal politics and rumors at city hall, telephone rate reductions and ongoing advocacy, results of Miami Life’s “Most Attractive Working Girl” contest, and entertainment/sports items such as Florida racing dates and wrestling promotion at the Coral Gables Coliseum, alongside society columns and local advertisements.",
+    "coverage": [
+      "Miami, Florida https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Hialeah https://www.geonames.org/4158476",
+      "1935-08-24"
+    ],
+    "contributor": [
+      "ANDREW J. KAVANAUGH",
+      "J. Edgar Hoover https://id.loc.gov/authorities/names/n79077374",
+      "Abe Aronovitz",
+      "Eunice Chandler",
+      "Mildred Crenshaw",
+      "Harry J. Lipton",
+      "J. M. Lipton Insurance Agency",
+      "Federal Savings & Loan Association of Miami",
+      "Joe Morris https://id.loc.gov/authorities/names/n2008028781",
+      "Mrs. M. A. Miner",
+      "Walter H. Donovan",
+      "WQAM",
+      "Ev Sewell",
+      "Charlie Cusick"
+    ],
+    "relation": [
+      "MIAMI LIFE; Vol. 9, No. 49"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 12.82,
+    "context_chars": 67346,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

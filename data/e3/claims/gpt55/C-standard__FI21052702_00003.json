@@ -1,0 +1,224 @@
+{
+  "doc_id": "FI21052702_00003",
+  "judge": "gpt55",
+  "n_claims": 38,
+  "n_supported": 37,
+  "n_contradicted": 0,
+  "claim_precision": 0.9737,
+  "per_field": {
+    "subject": {
+      "n": 12,
+      "supported": 11
+    },
+    "description": {
+      "n": 15,
+      "supported": 15
+    },
+    "coverage": {
+      "n": 4,
+      "supported": 4
+    },
+    "contributor": {
+      "n": 5,
+      "supported": 5
+    },
+    "relation": {
+      "n": 2,
+      "supported": 2
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses landlord and tenant matters in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses rent control in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses housing in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses tourism.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses business.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses radio broadcasting in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses horse racing in the United States.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses sports.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses entertainment events.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses nightlife.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes editorial cartoons.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on Miami’s dependence on tourism.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes criticism of rent increases as the season approaches.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes criticism of landlord practices as the season approaches.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes criticism of rent increases as a Legion convention approaches.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes criticism of landlord practices as a Legion convention approaches.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue reprints a Washington political column.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The reprinted Washington political column discusses Louis McHenry Howe defending New Deal subsistence homestead ideas.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The reprinted Washington political column mentions Franklin D. Roosevelt.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The reprinted Washington political column mentions Eleanor Roosevelt.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains local notebook items.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains opinion pieces.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains radio program schedules.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains extensive horse-racing tips.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains advertisements for Miami-area businesses.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains advertisements for nightlife venues in the Miami area.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Coral Gables.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is dated 1934-10-06.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "John O'Donnell appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Doris Fleeson appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Eleanor Roosevelt appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Franklin D. Roosevelt appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Louis McHenry Howe appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is volume 9.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is number 3.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-standard"
+}

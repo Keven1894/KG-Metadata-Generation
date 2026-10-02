@@ -1,0 +1,96 @@
+{
+  "doc_id": "FI21052702_00051",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00051",
+    "title": "MIAMI LIFE, September 7, 1935 (Vol. 9, No. 51)",
+    "creator": [
+      "Evelyn Butler https://id.loc.gov/authorities/names/no2018002858"
+    ],
+    "publisher": "Life Publishing Company https://id.loc.gov/authorities/names/no2019078048",
+    "date": "1935-09-07",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Hurricanes",
+      "Weather https://id.loc.gov/authorities/subjects/sh85145843",
+      "World War, 1914-1918--Veterans",
+      "Disaster relief--Florida Keys",
+      "Florida Keys--Storm damage",
+      "Overseas Highway (Fla.)",
+      "Railroads--Florida East Coast Railway",
+      "Politics, Practical https://id.loc.gov/authorities/subjects/sh85104466",
+      "Municipal elections--Hialeah (Fla.)",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Savings and loan associations--Florida",
+      "Crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Traffic accidents--Miami (Fla.)",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Horse racing",
+      "Entertainment events https://id.loc.gov/authorities/subjects/sh96009616",
+      "Editorial cartoons https://id.loc.gov/authorities/subjects/sh85040974"
+    ],
+    "description": "Issue includes extensive coverage and commentary on the 1935 hurricane and its impact on World War veterans’ camps in the Florida Keys, criticizing delayed evacuation and government response; reports from a flight and boat trip surveying storm damage; discussion of whether the F.E.C. will rebuild the overseas highway; local political coverage including the Hialeah municipal election and allegations involving a federal savings and loan; a traffic-safety statistics feature on Miami accidents; and regular columns and features including editorials, campus/social chatter, sports and horse-racing notes, advertisements, and the paper’s “Most Attractive Working Girl” contest featuring Evelyn Butler.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Hialeah https://www.geonames.org/4158476",
+      "Florida Keys https://www.geonames.org/4155701",
+      "Lower Matecumbe Key https://www.geonames.org/4162920",
+      "Key Largo https://www.geonames.org/4160795",
+      "Tavernier https://www.geonames.org/4174870",
+      "Snake Creek https://www.geonames.org/4173270",
+      "1935-09"
+    ],
+    "contributor": [
+      "Charles Schumacher https://id.loc.gov/authorities/names/n84026840",
+      "Mayor G. C. Sparks",
+      "Harry Lipton",
+      "A. E. Lichtenstein",
+      "Ed. Rice",
+      "Reubin Clein",
+      "Pilot Charles",
+      "JOCKEY JIMMY",
+      "SILVIO COUCCI",
+      "Jockey Bobby Merritt",
+      "George Merrick",
+      "Henry Flagler"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Vol. 9, No. 51"
+    ],
+    "source": "FIU Libraries dPanther (digitized Miami Life newspaper issue)",
+    "rights": "Access provided for research and educational use; rights status not specified in provided evidence."
+  },
+  "provenance": {
+    "latency_s": 12.67,
+    "context_chars": 68145,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 1
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

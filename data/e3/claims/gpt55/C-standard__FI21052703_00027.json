@@ -1,0 +1,294 @@
+{
+  "doc_id": "FI21052703_00027",
+  "judge": "gpt55",
+  "n_claims": 52,
+  "n_supported": 50,
+  "n_contradicted": 0,
+  "claim_precision": 0.9615,
+  "per_field": {
+    "subject": {
+      "n": 13,
+      "supported": 13
+    },
+    "description": {
+      "n": 24,
+      "supported": 24
+    },
+    "coverage": {
+      "n": 6,
+      "supported": 6
+    },
+    "contributor": {
+      "n": 5,
+      "supported": 4
+    },
+    "relation": {
+      "n": 4,
+      "supported": 3
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses the B. P. O. E. (Elks) convention in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses conventions and visitors in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about nightlife.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about entertainment.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about tourism.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about prohibition.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about mosquitoes in the Miami area of Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about public safety in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about police administration in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about municipal budgets in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about publicity in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about business.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue is dated Saturday, July 7, 1928.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue was published in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue’s coverage centers on preparations for the B. P. O. E. (Elks) convention.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue’s coverage centers on an expected influx of visitors.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on Miami publicity.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on civic spending in Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a humorous piece titled \"Guide to Miami.\"",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The \"Guide to Miami\" focuses on nightlife.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The \"Guide to Miami\" includes guidance about getting back to hotels.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local opinion pieces about city services.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local opinion pieces about city budgets.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local opinion pieces about police protection.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local opinion pieces about fire protection.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local opinion pieces about sanitation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local opinion pieces about parks.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes notes about mosquitoes.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue’s mosquito notes reference Biscayne Key.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue’s mosquito notes reference Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes prohibition-era items about enforcement.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes prohibition-era items about bootlegging.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains letters to the editor regarding the Miami Police Department.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains letters to the editor regarding the Director of Public Safety.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains substantial local advertising.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains entertainment listings.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes coverage related to Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes coverage related to Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes coverage related to Biscayne Key.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes coverage related to Hialeah.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes coverage related to Fort Pierce.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes coverage related to July 1928.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Rose Mahoney contributed content to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Dan Moody contributed content to the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "NATHAN MIIA contributed content to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "H. H. ARNOLD contributed content to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "F. A. HATHAWAY contributed content to the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is number 24.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is part of the publication titled \"Miami Life.\"",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The publication \"Miami Life\" was published in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The publication \"Miami Life\" ran from 1927 to 1949.",
+      "verdict": "unsupported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-standard"
+}

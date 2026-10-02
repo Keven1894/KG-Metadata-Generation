@@ -1,0 +1,86 @@
+{
+  "doc_id": "FI21052700_00025",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00025",
+    "title": "MIAMI LIFE, 1927-07-02 (Volume 4, Number 23)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1927-07-02",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Traffic accidents—Florida—Miami",
+      "Reckless driving—Florida—Miami",
+      "Drunk driving—Florida—Miami",
+      "Law enforcement—Florida—Miami",
+      "Police—Florida—Miami Beach",
+      "Municipal government—Florida—Miami",
+      "City managers—Florida—Miami",
+      "Transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Ports and harbors—Rates and charges—Florida—Miami",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Entertainment events https://id.loc.gov/authorities/subjects/sh96009616",
+      "Fourth of July—Florida—Miami"
+    ],
+    "description": "Issue includes editorials and local commentary on a fatal causeway automobile crash involving Fred Osius and criticism of authorities for not filing charges; discussion of Miami Beach policing and the discharge of Detective George Christie; notes on municipal administration including the resignation of City Manager Wharton and calls for a capable city manager; commentary on transportation and traffic regulation impacts; discussion of harbor/wharfage charges affecting shipping; Fourth of July-related commentary and local events listings, along with sports coverage (boxing and baseball) and assorted columns, letters, and advertisements.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "1927-07-02"
+    ],
+    "contributor": [
+      "Fritz Gordon https://id.loc.gov/authorities/names/n86849625",
+      "Fred Osius",
+      "George Christie",
+      "Sheriff Chase",
+      "Wen R. Phillips",
+      "Lysle E. Fesler",
+      "S. C. Ebbets",
+      "City Manager Wharton",
+      "Mayor Sewell"
+    ],
+    "relation": [
+      "MIAMI LIFE; Volume 4, Number 23"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.6,
+    "context_chars": 71175,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "doc_id": "FI21052701_00017",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052701_00017",
+    "title": "MIAMI LIFE, Saturday, April 23, 1949 (Vol. XXIII, No. 17)",
+    "creator": [
+      "Reubin Clein"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-04-23",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "editorial https://id.loc.gov/authorities/subjects/sh85040974",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Public utilities—Rates—Florida",
+      "Florida Power & Light Co.",
+      "Municipal ownership—Miami (Fla.)",
+      "Electric power—Florida—Public opinion",
+      "Annulment (Marriage)—Florida",
+      "Perjury—Florida",
+      "Zoning—Florida—Dade County",
+      "Older people—Housing—Florida—Miami",
+      "Drunk driving—Florida—Miami",
+      "Assault and battery—Florida—Miami",
+      "Bribery—Florida—Miami",
+      "Foundations—Taxation—United States",
+      "Labor laws and legislation—United States",
+      "Teachers—Certification—Florida",
+      "Foreign trade regulation—United States"
+    ],
+    "description": "Issue includes editorials and local reporting on Miami-area politics and public utilities, including arguments for municipal takeover of Florida Power & Light and discussion of Jacksonville’s gas-rate reduction efforts. Coverage also includes a court-related scandal involving an annulment case, crime and municipal court proceedings (including drunk driving and assault cases), and commentary on vice/nightlife. Additional items address Dade County zoning enforcement against an elderly resident’s trailer, a Miami Chamber of Commerce tourism promotion plan, a Pan American World Airways flight carrying a five-day-old infant, and columns summarizing Florida Attorney General opinions, teacher certification statistics, foreign trade balance concerns, and national topics such as foundations/tax issues and labor law.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Jacksonville https://www.geonames.org/4160021",
+      "Jackson Memorial Hospital https://www.geonames.org/4160003",
+      "Bayfront Park https://www.geonames.org/4146892",
+      "1949-04-23"
+    ],
+    "contributor": [
+      "Wayne Allen https://id.loc.gov/authorities/names/n88613031",
+      "M. A. Adams https://id.loc.gov/authorities/names/n2012059182",
+      "Miami Chamber of Commerce https://id.loc.gov/authorities/names/n97041415",
+      "Pan American World Airways https://id.loc.gov/authorities/names/n81009272",
+      "Ben F. Drucker",
+      "Glenn Mincer",
+      "Cecil C. Curry",
+      "Howard Hanson",
+      "Joseph E. Jacobson",
+      "D. P. Sullivan",
+      "Jules Levitt",
+      "Geraldine V. Pelton"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Vol. XXIII, No. 17"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 15.72,
+    "context_chars": 67832,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

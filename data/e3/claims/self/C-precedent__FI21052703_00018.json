@@ -1,0 +1,312 @@
+{
+  "doc_id": "FI21052703_00018",
+  "n_claims": 56,
+  "n_supported": 54,
+  "n_contradicted": 0,
+  "claim_precision": 0.9643,
+  "per_field": {
+    "subject": {
+      "n": 12,
+      "supported": 12
+    },
+    "description": {
+      "n": 22,
+      "supported": 21
+    },
+    "coverage": {
+      "n": 6,
+      "supported": 6
+    },
+    "contributor": {
+      "n": 14,
+      "supported": 14
+    },
+    "relation": {
+      "n": 2,
+      "supported": 1
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses a Shriners convention in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses prohibition.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses bootlegging in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses crime.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses police in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses elections in Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses judicial elections in Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses tourism in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses nightlife.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses entertainment.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses business.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes satirical commentary.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials about Miami hosting the Shriners convention.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes satirical commentary about Miami hosting the Shriners convention.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials about a convention of prohibition agents.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes satirical commentary about a convention of prohibition agents.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue emphasizes civic hospitality.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue emphasizes tourism publicity.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue emphasizes nightlife.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses the economic impact on local businesses.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes discussion of uncertainty about police department leadership.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue covers the acquittal of Chief of Police Leslie Quigg.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes crime reporting involving the death of Raymond Lee.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes crime reporting involving the death of Philip Lee.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains local politics coverage.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains election coverage.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains coverage of judicial offices in elections.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains coverage of other offices in elections.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains letters to the editor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains numerous advertisements.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains notices for events in Greater Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains notices for services in Greater Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Hialeah.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Little River.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Ojus, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue includes content related to Los Angeles.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue dates to 1928.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Raymond Lee appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Philip Lee appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Frank Stoneman appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Leslie Quigg appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ralph Quigg appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Guy Reeves appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "James R. Cooper appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Jno. C. Gramling appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "W. F. Parker appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ruth Bryan Owen appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Henry R. Pridgen appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ernest L. Morell appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Al J. Venno appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Clarice Busch appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "This issue is Volume 6.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "This issue is Number 18.",
+      "verdict": "unparsed"
+    }
+  ],
+  "tier": "C-precedent"
+}

@@ -1,0 +1,95 @@
+{
+  "doc_id": "FI21052701_00048",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052701_00048",
+    "title": "Miami Life (Miami, Fla.), no. 48 (1949-11-26)",
+    "creator": [
+      "Reubin Clein"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-11-26",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Miami city commission elections",
+      "Municipal government",
+      "Police department",
+      "Sex crimes",
+      "Prostitution",
+      "Gambling",
+      "Tourism",
+      "Cigarette smoking",
+      "Lung cancer",
+      "Press censorship",
+      "Utilities regulation",
+      "Florida politics",
+      "China foreign policy"
+    ],
+    "description": "Issue includes commentary on the new Miami city commission and the recent commission election (including discussion of H. Leslie Quigg and other candidates), editorials on sex crimes and proposals such as controlled/segregated prostitution districts, and an article asserting press suppression of medical findings linking cigarette smoking to lung cancer (citing Dr. Evarts A. Graham). Additional pieces address utility-rate activism (Utility Subscribers Association), Florida political developments (including George Smathers and Claude Pepper), foreign policy regarding Communist China, and local columns and notices.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Greater Miami (Fla.)",
+      "Dade County (Fla.)",
+      "1949-11-26"
+    ],
+    "contributor": [
+      "Ben F. Drucker",
+      "Dr. Evarts A. Graham",
+      "H. Leslie Quigg",
+      "Bill Wolfarth",
+      "Perrine Palmer",
+      "Louie Bandel",
+      "Henry Chase",
+      "J. Edgar Hoover",
+      "Ed Larsen",
+      "George Smathers",
+      "Claude Pepper",
+      "Samuel R. Valliere",
+      "Alex McWilliams",
+      "Cecil C. Curry",
+      "Lincoln Fitzgerald",
+      "Wilson McGee",
+      "Art Childers",
+      "Mark Well",
+      "Bond",
+      "Harold John Bernard Morton"
+    ],
+    "relation": [
+      "Miami Life; no. 48"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.93,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

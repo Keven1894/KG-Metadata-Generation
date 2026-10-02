@@ -1,0 +1,86 @@
+{
+  "doc_id": "FI21052700_00046",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00046",
+    "title": "MIAMI LIFE, 1927-11-26 (Volume 4, Number 41)",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1927-11-26",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Politics—https://id.loc.gov/authorities/subjects/sh85104466",
+      "Nightlife—https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Entertainment—https://id.loc.gov/authorities/subjects/sh96009616",
+      "Sports—https://id.loc.gov/authorities/subjects/sh00007735",
+      "Business—https://id.loc.gov/authorities/subjects/sh85018260",
+      "Humor—https://id.loc.gov/authorities/subjects/sh2003003666",
+      "Chain stores—Florida—Miami",
+      "Grocery trade—Florida—Miami",
+      "Playgrounds—Florida—Miami",
+      "Children—Recreation—Florida—Miami",
+      "Real estate business—Florida—Miami",
+      "Nightclubs—Florida—Miami",
+      "Hospitals—Florida—Miami",
+      "Jackson Memorial Hospital—https://id.loc.gov/authorities/names/n79131242",
+      "Traffic regulation and control—Florida—Miami",
+      "Parking—Florida—Miami",
+      "Newspapers—Florida—Miami"
+    ],
+    "description": "Issue includes editorials and commentary on Miami civic life and the local economy, including criticism of chain grocery practices, discussion of playground conditions and youth recreation, and reflections on Miami’s identity as a resort “playground.” Coverage addresses real estate prices and promotion, night club business practices, and municipal concerns such as traffic, parking, and sidewalks. The issue also comments on Jackson Memorial Hospital budgeting and efficiency, contains political notes and local gossip columns, and includes substantial advertising for local businesses and entertainment.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach—https://www.geonames.org/4164143",
+      "Biscayne Bay—https://www.geonames.org/4147971",
+      "Havana—https://www.geonames.org/4158224",
+      "Nassau—https://www.geonames.org/4165603",
+      "1927"
+    ],
+    "contributor": [
+      "John Collins—https://id.loc.gov/authorities/names/n2001126162",
+      "Don Moore",
+      "Dorothy Parmer",
+      "W. (). Pittman",
+      "H. F. Atkinson"
+    ],
+    "relation": [
+      "Volume 4, Number 41"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.86,
+    "context_chars": 71168,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

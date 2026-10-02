@@ -1,0 +1,259 @@
+{
+  "doc_id": "FI21052700_00010",
+  "judge": "gpt55",
+  "n_claims": 45,
+  "n_supported": 44,
+  "n_contradicted": 0,
+  "claim_precision": 0.9778,
+  "per_field": {
+    "subject": {
+      "n": 9,
+      "supported": 8
+    },
+    "description": {
+      "n": 20,
+      "supported": 20
+    },
+    "coverage": {
+      "n": 4,
+      "supported": 4
+    },
+    "contributor": {
+      "n": 10,
+      "supported": 10
+    },
+    "relation": {
+      "n": 2,
+      "supported": 2
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses municipal government in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses public-utility rates in Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses bus transportation in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue mentions the Florida Power & Light Company.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the economic aspects of tourism in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses taxation in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the Community Chest in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses entertainment events in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses nightlife in Miami Beach, Florida.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials on Miami municipal affairs.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on Miami municipal affairs.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes criticism of a bus agreement.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes criticism of city subsidies involving the Florida Power & Light Company.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes discussion of high prices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes discussion of tourism’s impact on the local economy.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue calls on readers to pay the poll tax.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue calls on readers to register to vote.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains local satire.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains society columns.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a society column titled “They Tell Me.”",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a society column titled “Little Geraldine.”",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains a report on a West Central Miami council vote to eliminate “summer” from the calendar.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage of a Miami Beach hotel manager’s arrest.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The Miami Beach hotel manager’s arrest is related to fire regulations.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains numerous advertisements for theaters.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains numerous advertisements for entertainment.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains numerous advertisements for services.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains numerous advertisements for local businesses in Greater Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains numerous advertisements for local businesses in Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Bayfront Park in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue dates to 1927.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Frank Wharton appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ed Romfh appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Hammerhead Greeby appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Adam McAdam appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ambrose Peebles appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Guiseppe Argentino appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Jan Garber appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Eddie Peyton appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Joe Lycell appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "O. S. Parmer appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Volume 4.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Number 10.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-standard"
+}

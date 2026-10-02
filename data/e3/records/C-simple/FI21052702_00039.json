@@ -1,0 +1,82 @@
+{
+  "doc_id": "FI21052702_00039",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052702_00039",
+    "title": "Miami Life (Miami, Florida), Vol. 9, No. 39 (1935-06-15)",
+    "creator": [],
+    "publisher": "Miami Life",
+    "date": "1935-06-15",
+    "type": "Text; newspaper issue",
+    "format": "Digitized text (OCR)",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)",
+      "Dade County (Fla.)",
+      "Gambling devices",
+      "Marble boards",
+      "Racketeering",
+      "Municipal courts",
+      "Subpoenas",
+      "Liquor stores",
+      "Embezzlement",
+      "Missing persons",
+      "National Recovery Administration (U.S.)",
+      "Horse racing",
+      "Boxing"
+    ],
+    "description": "Issue dated June 15, 1935 (Vol. 9, No. 39) featuring prominent coverage of Miami gambling-device rackets and enforcement actions, including a subpoena for Bill Frey connected to marble boards and other gambling machines. Reports on the disappearance of George F. McCall, Dade County Clerk of Criminal Court, discussing an office shortage, his financial interests in a major liquor business, and theories about blackmail or foul play. Includes editorials and local commentary on NRA “Keeping Faith with the President” campaigns, sports columns (including analysis of the Braddock–Baer fight), horse-racing tips/results, and assorted local society/campus notes and advertisements.",
+    "coverage": [
+      "Miami, Florida",
+      "Dade County, Florida",
+      "1935-06-15"
+    ],
+    "contributor": [
+      "Bill Frey",
+      "George F. McCall",
+      "Percy Wright",
+      "Judge Dunn",
+      "Abe Aronovitz",
+      "Margaret Magrath",
+      "Forrest Nelson",
+      "J. L. Deas",
+      "C. J. Davis",
+      "Tom Stowe"
+    ],
+    "relation": [
+      "Miami Life, Vol. 9, No. 39"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.35,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

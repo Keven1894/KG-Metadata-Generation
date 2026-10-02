@@ -1,0 +1,104 @@
+{
+  "doc_id": "FI21052700_00027",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052700_00027",
+    "title": "Miami Life, Volume 4, Number 25 (1927-07-16)",
+    "creator": [
+      "Wen R. Phillips",
+      "Lysle E. Fesler",
+      "S. C. Ebbets"
+    ],
+    "publisher": "Miami Life",
+    "date": "1927-07-16",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)—Politics and government",
+      "Municipal finance",
+      "Public utilities—Rates",
+      "Florida Power & Light Company",
+      "Printing industry",
+      "Local business conditions",
+      "Conventions and visitors",
+      "Law and justice",
+      "Prohibition",
+      "Transportation",
+      "Aviation—Airfields",
+      "Sports—Boxing",
+      "Miami Beach (Fla.)"
+    ],
+    "description": "Weekly issue featuring editorials and local commentary on Miami and Miami Beach civic affairs, including criticism of awarding municipal printing work outside Dade County, discussion of the Osius manslaughter verdict and its implications for justice and reckless driving, calls for fair pricing and treatment of convention visitors (Elks, Shriners, Rotary, Legion), concerns about Florida Power & Light rates and their impact on apartment rentals, notes on Miami Beach police training priorities, and reports on securing two city landing fields (Hialeah for airplanes and Venetian Causeway for hydroplanes). Includes society/column items, advertisements, and sports coverage including boxing at the Ball Park/Olympia.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "Coral Gables (Fla.)",
+      "Hialeah (Fla.)",
+      "Venetian Causeway (Miami, Fla.)",
+      "1927-07-16"
+    ],
+    "contributor": [
+      "Joe C. Copps",
+      "Charlie Heiser",
+      "Dr. Ziebold",
+      "Carl G. Fisher",
+      "E. G. Sewell",
+      "James E. Calkins",
+      "Adolph Muleheim",
+      "R. Hammerhead Greeby",
+      "Uncle Joe Standeau",
+      "Mayor Sewell",
+      "Cliff Reeder",
+      "George Bean",
+      "Welton Snow",
+      "Judge Morrow",
+      "Judge McRae",
+      "U. S. Commissioner Spitler",
+      "Herbert Mase",
+      "Ed Romfh",
+      "Tommy Madden",
+      "Ben Spivey",
+      "Manuel",
+      "Osner",
+      "Johnny Dundee",
+      "John Gilbert"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 4, Number 25"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 11.73,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

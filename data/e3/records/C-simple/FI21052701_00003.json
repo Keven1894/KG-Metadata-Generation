@@ -1,0 +1,95 @@
+{
+  "doc_id": "FI21052701_00003",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052701_00003_19490115",
+    "title": "Miami Life (Miami, Fla.), Vol. XXIII, No. 3 (Saturday, 1949-01-15)",
+    "creator": [
+      "Reubin Clein",
+      "Ben F. Drucker"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-01-15",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Freedom of the press",
+      "Labor unions",
+      "Typographical Union",
+      "Newspaper publishing",
+      "Gambling",
+      "Horse racing",
+      "Public utilities",
+      "Florida Power & Light Company",
+      "Taxation",
+      "Public health",
+      "Ambulance service",
+      "Animal poisoning",
+      "Strychnine",
+      "Evictions",
+      "Miami Beach nightlife",
+      "Theater"
+    ],
+    "description": "Issue includes editorials and local reporting on the need for a “fair press” and commentary on political rhetoric; gambling and the Dade Crime Commission; a dispute involving the Miami Herald and a printers’/typographical union fight tied to publisher John S. Knight; an open letter to Gov. Fuller Warren urging action regarding Florida Power & Light and public ownership of utilities; municipal court and crimes-court observations; concerns about lax contractor licensing in Dade County; horse racing logistics after Tropical Park and ahead of Hialeah/Gulfstream; estimates and discussion of Florida water resources for population growth; tax burden estimates for Floridians; features on entertainment and nightclub openings; and civic complaints including delayed ambulance response, bus-accident handling, and a call for poison-sale controls after pet poisonings.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "Florida",
+      "1949-01-15"
+    ],
+    "contributor": [
+      "Harry S. Truman",
+      "Fuller Warren",
+      "John S. Knight",
+      "Danny Sullivan",
+      "Milt Sosin",
+      "Waldo Mobley",
+      "Lee Mason",
+      "William R. Cornell",
+      "Mitzi Fertel",
+      "Bert L. Acker",
+      "A. G. Matthews",
+      "Bessie B. Freda",
+      "William Morrison",
+      "Olin Berry",
+      "James H. Conley"
+    ],
+    "relation": [
+      "Miami Life, Vol. XXIII, No. 3"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.8,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

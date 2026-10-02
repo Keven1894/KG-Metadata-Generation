@@ -1,0 +1,91 @@
+{
+  "doc_id": "FI21052703_00042",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "FI21052703_00042",
+    "title": "MIAMI LIFE, 1928-10-27",
+    "creator": [
+      "WYN R PHILLIPS https://id.loc.gov/authorities/names/no2013103932"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-10-27",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Prohibition https://id.loc.gov/authorities/subjects/sh85107330",
+      "Crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Labor unions—Wages—Motion picture theater employees—Miami (Fla.)",
+      "Theater licensing—Miami (Fla.)",
+      "Parking—Miami (Fla.)",
+      "Dry cleaning industry—Prices—Miami (Fla.)",
+      "Republican Party—Florida",
+      "Municipal government—Coral Gables (Fla.)",
+      "Bootlegging—Florida",
+      "Rum-running—Florida",
+      "Editorials https://id.loc.gov/authorities/subjects/sh85040974",
+      "Humor https://id.loc.gov/authorities/subjects/sh2003003666"
+    ],
+    "description": "Issue dated Oct. 27, 1928, featuring editorials and local commentary on Miami-area civic and political affairs, including Florida election and appointment practices, Republican Party infighting, and municipal controversies in Coral Gables. Reports and opinion address a labor dispute at the Capitol theatre over wages and staffing, city licensing enforcement against a theater operator, parking etiquette, and disputes over dry-cleaning rates. Additional coverage includes prohibition-era bootlegging and rum-running activity (including Fort Lauderdale and Miami Beach references), a notice about evangelist Uldine Utley’s tabernacle services, entertainment listings/advertising, and recurring humor and gossip-style columns.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Fort Lauderdale https://www.geonames.org/4155966",
+      "1928-10-27"
+    ],
+    "contributor": [
+      "George Bean https://id.loc.gov/authorities/names/no2013103932",
+      "Uldine Utley https://id.loc.gov/authorities/names/n87881022",
+      "A. J. Kleist, Jr.",
+      "Burton-Garrett Players",
+      "Prof. J. T. Holdsworth",
+      "A. B. Mack",
+      "Mayor Montanus",
+      "Glenn Skipper",
+      "Governor John",
+      "R. M. Davidson",
+      "Joclyn Yoder",
+      "Kline"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida, 1927-1949)"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": "Digitized for access by FIU Libraries; rights status not specified in provided evidence. Users are responsible for determining copyright and permitted uses."
+  },
+  "provenance": {
+    "latency_s": 14.4,
+    "context_chars": 71708,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

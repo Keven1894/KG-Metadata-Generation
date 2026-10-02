@@ -1,0 +1,87 @@
+{
+  "doc_id": "FI21052703_00037",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00037",
+    "title": "MIAMI LIFE, 1928-09-22",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "MIAMI LIFE",
+    "date": "1928-09-22",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue; OCR text",
+    "language": "eng",
+    "subject": [
+      "Hurricanes—Florida",
+      "Disaster relief—Florida",
+      "Lake Okeechobee—Floods",
+      "Red Cross—Relief work",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "Miami Beach (Fla.)—Elections",
+      "Cost of living—Miami (Fla.)",
+      "Food prices—Miami (Fla.)",
+      "Weather https://id.loc.gov/authorities/subjects/sh85145843",
+      "Prohibition https://id.loc.gov/authorities/subjects/sh85107330",
+      "Crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "Society https://id.loc.gov/authorities/subjects/sh2021006888"
+    ],
+    "description": "Issue features extensive editorial and news commentary on the September 1928 hurricane and flooding disaster in Florida, including conditions in West Palm Beach and the Lake Okeechobee region, relief efforts and criticisms of state response, and communications via radio/telegraph. Includes items on Florida Power & Light Company storm repairs, Red Cross supply delays, and discussion of weather forecasting by Forecaster Gray. Additional local coverage includes Miami Beach municipal election politics, high food prices and cost-of-living complaints in Miami, civic and relief organization activities (including an Elks clothing appeal), and assorted local crime, prohibition-era liquor market notes, and entertainment/society listings and advertisements.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "West Palm Beach https://www.geonames.org/4177887",
+      "Palm Beach County https://www.geonames.org/4177887",
+      "Lake Okeechobee https://www.geonames.org/4166833",
+      "Deerfield https://www.geonames.org/4153071",
+      "1928-09"
+    ],
+    "contributor": [
+      "WEN R. PHILLIPS",
+      "John W. Martin https://id.loc.gov/authorities/names/no2012062904",
+      "Doyle Carlton https://id.loc.gov/authorities/names/no2020109639",
+      "Gray https://id.loc.gov/authorities/names/n90655392",
+      "J. D. BUTLER",
+      "E. F. Bourne",
+      "Jack Cleary",
+      "Miami Lodge of Elks",
+      "Tropical Radio and Telegraph company"
+    ],
+    "relation": [],
+    "source": "FIU Libraries dPanther (Florida International University)",
+    "rights": "Access provided for research and educational use; rights status not specified in provided evidence."
+  },
+  "provenance": {
+    "latency_s": 10.81,
+    "context_chars": 72153,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": false,
+      "source": true,
+      "rights": true
+    }
+  }
+}

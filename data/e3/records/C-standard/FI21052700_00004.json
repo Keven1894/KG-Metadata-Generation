@@ -1,0 +1,92 @@
+{
+  "doc_id": "FI21052700_00004",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00004",
+    "title": "Miami Life, February 5, 1927 (Volume 4, Number 4)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1927-02-05",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Railroad freight rates—Florida",
+      "Florida East Coast Railway—Rates",
+      "Chambers of commerce—Florida—Miami",
+      "Legislative reform—Florida",
+      "Public utilities—Telephone service—Miami Beach (Fla.)",
+      "Municipal franchises—Florida",
+      "Local transit—Bus lines—Miami (Fla.)",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993"
+    ],
+    "description": "Issue includes editorials and local commentary on anticipated legislative reforms in Florida; criticism of public-utility service and telephone charges between Miami and Miami Beach; discussion of municipal transit policy and a bus-operation agreement affecting the City of Miami; and business coverage urging lower Florida East Coast Railway freight and passenger rates with reference to a Railroad Commission hearing. Also includes local entertainment and sports notices (including Miami Beach benefit events and racing/kennel club promotions), along with advertisements and society/around-town items.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Royal Palm Park https://www.geonames.org/7190020",
+      "1927"
+    ],
+    "contributor": [
+      "Howard Shank https://id.loc.gov/authorities/names/n84227288",
+      "Jimmie Cox https://id.loc.gov/authorities/names/n80048291",
+      "LYSLE E. FESLER",
+      "PETE CROSSLAND",
+      "S. C. EBBETS",
+      "Charles Heiser",
+      "Fons Hathaway",
+      "Mme. Schumann-Heink",
+      "S. Ernest Philpitt",
+      "Harry McCarthy",
+      "Bill Scott",
+      "Tommy Meighan",
+      "Walter C. Kelly",
+      "Walter McNally",
+      "Leo Carrillo",
+      "Arnold Johnson",
+      "Capt. S. T. Wenlock"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida); Volume 4, Number 4"
+    ],
+    "source": "FIU Libraries dPanther (digitized Miami Life newspaper issue)",
+    "rights": "Access provided for research and educational use; rights status not specified in provided evidence."
+  },
+  "provenance": {
+    "latency_s": 13.31,
+    "context_chars": 67364,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

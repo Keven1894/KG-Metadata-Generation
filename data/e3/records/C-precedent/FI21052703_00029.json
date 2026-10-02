@@ -1,0 +1,82 @@
+{
+  "doc_id": "FI21052703_00029",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00029",
+    "title": "MIAMI LIFE, July Twenty-first, Nineteen Twenty-eight. Voume 5 Number 26.",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-07-21",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Prohibition—United States https://id.loc.gov/authorities/subjects/sh85107330",
+      "United States—Foreign relations—Great Britain",
+      "Coast Guard—United States",
+      "Traffic regulation—Parking—Miami (Fla.)",
+      "Milk supply—Prices—Miami (Fla.)",
+      "Dairying—Regulation—Dade County (Fla.)",
+      "Public health—Milk—Pasteurization https://id.loc.gov/authorities/subjects/sh00006004",
+      "Municipal government—Coral Gables (Fla.)",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Transportation—Traffic congestion—Miami (Fla.) https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Tourism—Florida—Miami https://id.loc.gov/authorities/subjects/sh85136255",
+      "Society news https://id.loc.gov/authorities/subjects/sh2021006888",
+      "Nightlife—Florida—Miami https://id.loc.gov/authorities/subjects/sh2008001027"
+    ],
+    "description": "Weekly issue featuring editorials and local commentary on Miami’s civic development and cooperation, prohibition enforcement and the Christianson case involving U.S. apologies to Great Britain, downtown traffic and double-parking concerns, and the rising cost and regulation of milk in Dade County (including discussion of pasteurization and certified milk). Includes Coral Gables commission politics, short humor and gossip columns, entertainment notes, and numerous local advertisements (including telephone service and ice company promotions).",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Downtown Miami https://www.geonames.org/11125962",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Flagler https://www.geonames.org/4155535",
+      "1928-07-21"
+    ],
+    "contributor": [
+      "W. W. Farnham https://id.loc.gov/authorities/names/n80120637",
+      "Fred Girton https://id.loc.gov/authorities/names/n2023027666",
+      "Rudyard Kipling https://id.loc.gov/authorities/names/n79103792",
+      "Mary Pickford https://id.loc.gov/authorities/names/n50019725",
+      "Southern Bell Telephone and Telegraph Company https://id.loc.gov/authorities/names/n84112337"
+    ],
+    "relation": [
+      "Voume 5 Number 26"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": "Rights status not stated in issue; provided for research and educational use via FIU Libraries dPanther. Copyright may apply."
+  },
+  "provenance": {
+    "latency_s": 10.88,
+    "context_chars": 72492,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

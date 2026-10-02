@@ -1,0 +1,91 @@
+{
+  "doc_id": "FI21052700_00034",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00034",
+    "title": "MIAMI LIFE, September 3, 1927 (Volume 4, Number 32)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "MIAMI LIFE, INC.",
+    "date": "1927-09-03",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue; OCR text",
+    "language": "eng",
+    "subject": [
+      "Landlord and tenant—Florida—Miami",
+      "Housing—Rent control—Florida—Miami",
+      "Street railroads—Safety measures—Florida—Miami",
+      "Traffic safety and traffic engineering—Florida—Miami",
+      "Public transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Weights and measures—Inspection—Florida—Miami",
+      "Gasoline—Measurement—Fraud",
+      "Justices of the peace—Florida—Dade County",
+      "Newspapers—Florida—Miami—Competition",
+      "Oil prospecting—Florida",
+      "Everglades (Fla.)—Economic conditions"
+    ],
+    "description": "Issue includes editorials and local commentary on Miami-area rents and landlords, streetcar and traffic hazards, and proposed traffic-circle improvements; notes on Miami Life’s new office address; discussion of tourism and Miami–Bahamas travel and promotion; coverage of consumer-protection concerns including gasoline-pump measurement and weights-and-measures enforcement; brief local bulletins (Miami Beach, Coral Gables, Hollywood) and a report on Dade County justices of the peace resigning; society/column items and entertainment listings; and extensive promotional material regarding Florida oil prospects and related investment offerings.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Coral Gables (Fla.)",
+      "Dade County (Fla.)",
+      "Buena Vista https://www.geonames.org/4149264",
+      "Nassau (Bahamas)",
+      "1927"
+    ],
+    "contributor": [
+      "Bobo Dean https://id.loc.gov/authorities/names/no2011176970",
+      "Mr. Arnold https://id.loc.gov/authorities/names/no00029554",
+      "Bob Taylor https://id.loc.gov/authorities/names/n80004599",
+      "Bill Green https://id.loc.gov/authorities/names/n94058997",
+      "S. C. EBBETS",
+      "Doc Benjamin",
+      "Gov. Martin",
+      "Senator Watson",
+      "Conrad Meyer",
+      "Robert G. Lindsay",
+      "J. W. Snyder",
+      "Richard Kiehnel",
+      "A. J. Richey"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 4, Number 32"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 11.45,
+    "context_chars": 71232,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

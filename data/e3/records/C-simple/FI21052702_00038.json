@@ -1,0 +1,80 @@
+{
+  "doc_id": "FI21052702_00038",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052702_00038",
+    "title": "Miami Life, Vol. 9, No. 38 (June 8, 1935)",
+    "creator": [],
+    "publisher": "Miami Life",
+    "date": "1935-06-08",
+    "type": "Text; newspaper issue",
+    "format": "Newspaper text with OCR",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)—Politics and government",
+      "Municipal finance",
+      "Auditing",
+      "City clerks",
+      "Courts",
+      "Bail and bonds",
+      "Gambling devices",
+      "Marble boards",
+      "Crime and law enforcement",
+      "Baseball",
+      "Fishing",
+      "Horse racing"
+    ],
+    "description": "Issue includes local political and legal reporting and commentary. Lead coverage reports City Clerk Harold E. Ross acknowledging an expected audit showing an approximately $12,000 shortage in city clerk accounts, attributed to unpaid municipal court fines, court practices, and professional bondsmen; discussion includes calls for improved procedures and audits. Another major article predicts enforcement action against marble-board gambling devices in Miami, citing City Solicitor Abe Aronovitz and Mayor A. D. H. Fossey. Additional content includes editorials, local gossip/columns, advertisements, sports coverage (baseball, fishing), and a horse-racing tip/service feature.",
+    "coverage": [
+      "Miami, Florida, United States",
+      "1935-06-08"
+    ],
+    "contributor": [
+      "Harold E. Ross",
+      "A. D. H. Fossey",
+      "Abe Aronovitz",
+      "Harry E. Platt",
+      "Parker A. Henderson",
+      "Charles Laughinghouse",
+      "Louis Schwartz",
+      "Ben C. Willard",
+      "Tom Stowe",
+      "Henry M. Flagler"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 9, Number 38"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 7.22,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "doc_id": "FI21052703_00031",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00031",
+    "title": "Miami Life (Miami, Florida), vol. 5, no. 29 (1928-08-11)",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-08-11",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Banking",
+      "Local finance",
+      "Municipal debt",
+      "Harbors",
+      "Urban planning",
+      "Transportation",
+      "Railroads",
+      "Boatyards",
+      "Manufacturing and industry",
+      "Slot machines",
+      "Police",
+      "Prohibition",
+      "Liquor enforcement",
+      "Hurricanes",
+      "Storm warnings",
+      "Public works",
+      "Post offices",
+      "Traffic safety",
+      "Dairies",
+      "Milk distribution",
+      "Advertising",
+      "Society news",
+      "Real estate"
+    ],
+    "description": "Issue includes editorials and local commentary on Miami bankers and credit conditions, municipal bond debt, and calls for investigation of bank practices; reports on industrial delays affecting Miami River boatbuilding; discussion of a new \"Greater Miami Harbor Plan\" including causeways and an airport; notes on slot machine destruction by police and prohibition enforcement; civic items on hurricane warning visibility, post office site selection, traffic hazards, courthouse facilities, and ordinances affecting sugar storage and shipping; business commentary on dairy consolidation and milk distribution costs; plus society column and realty-related anecdotes.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Biscayne Bay (Fla.)",
+      "Virginia Key (Miami, Fla.)",
+      "1928-08-11"
+    ],
+    "contributor": [
+      "George Hilty",
+      "Carl Fisher",
+      "Judge Pettiway",
+      "Judge Tom Norfleet",
+      "Mr. Fogal",
+      "Frank Leavitt",
+      "Dammenstein (jeweler)",
+      "Parker Henderson",
+      "Chief of Police Guy Reeve",
+      "R. Kent Watson",
+      "Doc Dammers",
+      "City Manager Snow",
+      "Hon. Dick Newcomb",
+      "Wayne Allen"
+    ],
+    "relation": [
+      "Miami Life, volume 5, number 29"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.36,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "doc_id": "FI21052701_00010",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052701_00010",
+    "title": "Miami Life, March 5, 1949",
+    "creator": [
+      "Reubin Clein"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-03-05",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "health https://id.loc.gov/authorities/subjects/sh00006004",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Florida Power & Light Co.—Municipal ownership—Miami (Fla.)",
+      "Public utilities—Rates—Miami (Fla.)",
+      "Medical misconduct—Florida",
+      "Psychiatry—Abuse—Miami (Fla.)",
+      "Sex crimes—Miami (Fla.)",
+      "Juvenile delinquency—Florida—Dade County",
+      "Railroad accidents—Florida—Hialeah",
+      "Poliomyelitis—Treatment",
+      "National Foundation for Infantile Paralysis",
+      "Sister Elizabeth Kenny Foundation"
+    ],
+    "description": "Issue includes extensive reporting and editorial commentary alleging misconduct by Dr. T. Earl Moore (described as the “Torture Doctor”), including discussion of the death of Ella Head and the involvement of individuals connected to Paul’s Boat Supply Co. The issue also features an editorial advocating municipal ownership of Florida Power & Light and criticizing utility rates; local court and public-safety items (juvenile-caused train wrecks in the Hialeah area; municipal court discussion of sex offenses involving children); and a long reprinted/serialized health feature on polio organizations and the controversy over Sister Elizabeth Kenny’s treatment methods, along with letters to the editor and local notices/advertising.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Bayfront Park https://www.geonames.org/4146892",
+      "Biscayne Bay https://www.geonames.org/4147971",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Surfside https://www.geonames.org/4174518",
+      "1949-03-05"
+    ],
+    "contributor": [
+      "Fred Koenig https://id.loc.gov/authorities/names/no2025109032",
+      "Dr. T. Earl Moore",
+      "Ella Head",
+      "Howard A. \"Red\" Hartman",
+      "Rev. Joe Barth",
+      "W. Ira Hazlett",
+      "Capt. Louis A. Allen",
+      "Judge Cecil Curry",
+      "Judge Wayne Allen",
+      "Dorr S. Davis",
+      "Doyle A. McNeece",
+      "Mrs. Daisy Hall",
+      "Harold Aaron, M.D.",
+      "Basil O'Connor",
+      "Sister Elizabeth Kenny"
+    ],
+    "relation": [],
+    "source": "FIU Libraries dPanther",
+    "rights": "Digitized for access by FIU Libraries; rights status not specified in provided evidence."
+  },
+  "provenance": {
+    "latency_s": 10.89,
+    "context_chars": 71828,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": false,
+      "source": true,
+      "rights": true
+    }
+  }
+}

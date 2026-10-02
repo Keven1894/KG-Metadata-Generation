@@ -1,0 +1,97 @@
+{
+  "doc_id": "FI21052703_00030",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/?id=FI21052703_00030",
+    "title": "Miami Life (Miami, Fla.), 1928-08-04, Vol. 8",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-08-04",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR-derived)",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Public health",
+      "Sunshine and climate",
+      "Infant health",
+      "Milk supply",
+      "Pasteurization",
+      "Tuberculosis in dairy cattle",
+      "Bootlegging",
+      "Prohibition",
+      "Local government",
+      "Post office sites",
+      "Biscayne Boulevard",
+      "Theater advertising",
+      "Elks (Benevolent and Protective Order of Elks)",
+      "Al Capone"
+    ],
+    "description": "Issue dated August 4, 1928 (Vol. 8) featuring editorials and satire on Miami’s health and sunshine as civic assets, commentary on milk safety and pasteurization amid reports of tuberculosis reactors in local dairy herds, and pieces on bootlegging/prohibition enforcement. Includes local civic notes (Biscayne Boulevard nuisances, proposed post office site), theater advertising commentary, society columns, and coverage referencing the Elks convention and Al Capone-related news.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "Hialeah (Fla.)",
+      "Coral Gables (Fla.)",
+      "Opa-locka (Fla.)",
+      "1928-08-04"
+    ],
+    "contributor": [
+      "Fred Osius",
+      "R. Alphone Capone",
+      "R. Henry Chase",
+      "Mr. Lamantia",
+      "Peggy Joyce",
+      "Jim Allison",
+      "Carl Fisher",
+      "Parker Henderson",
+      "Chief of Police Guy Wood",
+      "R. J. Gorman",
+      "Don Q. Willis",
+      "M. Johnson",
+      "Kent Watson",
+      "Florida Power & Light Company",
+      "Florida East Coast Railway",
+      "Benevolent and Protective Order of Elks"
+    ],
+    "relation": [
+      "Miami Life, Volume 8"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 9.09,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "doc_id": "FI21052702_00016",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00016",
+    "title": "MIAMI LIFE, January 5, 1935 (Vol. 9, No. 16)",
+    "creator": [
+      "Wen R. PHILLIPS"
+    ],
+    "publisher": "Miami Life",
+    "date": "1935-01-05",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "prohibition https://id.loc.gov/authorities/subjects/sh85107330",
+      "Racing https://id.loc.gov/authorities/subjects/sh85110265",
+      "sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Dade County (Fla.)—Liquor laws",
+      "State-controlled liquor stores—Florida",
+      "Law enforcement—Florida",
+      "Gambling—Florida",
+      "Horse racing—Florida—Tropical Park",
+      "Miami Beach (Fla.)—Social life and customs",
+      "Radio programs—Florida"
+    ],
+    "description": "Issue includes local political commentary and columns (\"Our Weekly Notebook\") discussing Florida governance and law enforcement, including debate over liquor control and enforcement actions affecting Dade County, alongside extensive coverage and advertising tied to the winter season’s entertainment and tourism economy. Content features racing and betting information for Tropical Park, nightlife and club promotions, Miami Beach and Miami social items, and published radio program schedules.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Tallahassee https://www.geonames.org/4174715",
+      "Jacksonville https://www.geonames.org/4160021",
+      "Tampa https://www.geonames.org/4174757",
+      "Palm Beach County https://www.geonames.org/4177887",
+      "1935-01-05"
+    ],
+    "contributor": [
+      "Life Publishing Company https://id.loc.gov/authorities/names/no2019078048",
+      "Louis Schwartz https://id.loc.gov/authorities/names/n82214071",
+      "Louis Silver https://id.loc.gov/authorities/names/nr93004537",
+      "Parker Henderson https://id.loc.gov/authorities/names/no2008185775",
+      "ALBERT BOUCHE",
+      "Jockey JIMMY",
+      "Vernon Hawthorne"
+    ],
+    "relation": [
+      "Vol. 9, No. 16"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 9.52,
+    "context_chars": 72045,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

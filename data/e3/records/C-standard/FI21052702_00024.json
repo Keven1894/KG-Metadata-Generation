@@ -1,0 +1,81 @@
+{
+  "doc_id": "FI21052702_00024",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00024",
+    "title": "MIAMI LIFE, March 2, 1935 (Vol. 9, No. 24)",
+    "creator": [],
+    "publisher": "Miami Life",
+    "date": "1935-03-02",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Gambling—Florida—Miami",
+      "Horse racing—Florida—Miami",
+      "Hialeah Park Race Track (Hialeah, Fla.)",
+      "Tourism—Florida—Miami https://id.loc.gov/authorities/subjects/sh85136255",
+      "Landlord and tenant—Florida—Miami",
+      "Housing—Finance—United States",
+      "Federal Housing Administration (U.S.)",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Libel and slander—Florida—Miami",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Racing https://id.loc.gov/authorities/subjects/sh85110265",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260"
+    ],
+    "description": "Issue includes editorials and local commentary on Miami politics and press disputes (including discussion of a libel suit involving Mayor Sewell), coverage of gambling and horse racing centered on Hialeah Park and the Florida Derby, and criticism of seasonal rent gouging and its effect on tourism. Also features nightlife and entertainment listings and advertisements for clubs and shows, along with home modernization content tied to the National Housing Act/Federal Housing Administration and other local commercial advertising.",
+    "coverage": [
+      "Miami, Florida https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Biscayne Bay https://www.geonames.org/4147971",
+      "1935-03-02"
+    ],
+    "contributor": [
+      "Vernon Hawthorne https://id.loc.gov/authorities/names/n80151101",
+      "E. C. Collins https://id.loc.gov/authorities/names/no2013081218",
+      "Louis Schwartz https://id.loc.gov/authorities/names/n82214071",
+      "Judge Collins https://id.loc.gov/authorities/names/no2024055283",
+      "Jockey Jimmy",
+      "Mayor Sewell"
+    ],
+    "relation": [
+      "Miami Life; Vol. 9, No. 24"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 9.39,
+    "context_chars": 65317,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

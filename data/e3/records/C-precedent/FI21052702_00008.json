@@ -1,0 +1,81 @@
+{
+  "doc_id": "FI21052702_00008",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "FI21052702_00008",
+    "title": "MIAMI LIFE, November 10, 1934 (Vol. 9, No. 8)",
+    "creator": [],
+    "publisher": "Miami Life",
+    "date": "1934-11-10",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Miami Beach (Fla.)—Politics and government",
+      "Miami (Fla.)—Politics and government",
+      "Alcoholic beverage industry—Florida—Dade County",
+      "Beer—Licenses—Florida—Dade County",
+      "Taxation—Florida—Miami Beach",
+      "Police—Florida—Miami",
+      "Police-community relations",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Entertainment events https://id.loc.gov/authorities/subjects/sh96009616",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Crime https://id.loc.gov/authorities/subjects/sh85033993"
+    ],
+    "description": "Issue includes local political commentary and election coverage focused on Miami Beach and Miami, including discussion of mayoral and council races and civic governance. Contains an editorial on proposed taxation and regulation affecting bars and beer-selling licenses in Dade County, along with commentary on policing and public conduct (including a satirical/feature piece presenting a “Coppers’ Courtesy Code”). Also includes society and nightlife notes, entertainment and club advertising, radio program schedules, and sports/racing-related content and promotions.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Biscayne Bay https://www.geonames.org/4147971",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Bayfront Park https://www.geonames.org/4146892",
+      "1934-11-10"
+    ],
+    "contributor": [
+      "Ruth Bryan Owen https://id.loc.gov/authorities/names/n90644770",
+      "John Levi https://id.loc.gov/authorities/names/n2015021428",
+      "Bob Ralston https://id.loc.gov/authorities/names/n95028376",
+      "Ev Sewell",
+      "Abraham Frank Katezentine"
+    ],
+    "relation": [
+      "Vol. 9, No. 8"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 9.49,
+    "context_chars": 71911,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

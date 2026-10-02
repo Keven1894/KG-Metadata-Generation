@@ -1,0 +1,86 @@
+{
+  "doc_id": "FI21052701_00026",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "FI21052701_00026",
+    "title": "Miami Life, Saturday, June 25, 1949 (Vol. XXIII, No. 26)",
+    "creator": [
+      "Reubin Clein"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-06-25",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Sales tax—Florida",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Government efficiency—United States",
+      "Hoover Commission",
+      "Civil service—Miami (Fla.)",
+      "Municipal government—Miami (Fla.)",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Gambling—Florida",
+      "Slot machines—Florida",
+      "Firearms—Law and legislation—Florida",
+      "Tourism—Miami (Fla.)",
+      "Delta Air Lines https://id.loc.gov/authorities/names/n85135774",
+      "Hospitals—Miami (Fla.)",
+      "Jackson Memorial Hospital https://id.loc.gov/authorities/names/n79131242"
+    ],
+    "description": "Issue includes editorials and local reporting focused on Florida and Miami-area politics and public policy, including opposition to a proposed state sales tax and commentary on the Hoover Commission’s recommendations for reorganizing government. Coverage discusses Miami municipal affairs and civil service disputes, gambling and slot machines in Florida, and public safety concerns about easy access to firearms. Additional items include notes on Jackson Memorial Hospital conditions and tourism promotion featuring Delta Air Lines advertising for Miami vacations.",
+    "coverage": [
+      "Miami, Florida https://www.geonames.org/4164138",
+      "Greater Miami https://www.geonames.org/4157383",
+      "Coral Gables, Florida https://www.geonames.org/4151871",
+      "Hialeah, Florida https://www.geonames.org/4158476",
+      "Miami Beach, Florida https://www.geonames.org/4164143",
+      "Sunniland https://www.geonames.org/7219568",
+      "1949-06-25"
+    ],
+    "contributor": [
+      "John S. Knight https://id.loc.gov/authorities/names/n87830348",
+      "Harry S. Truman https://id.loc.gov/authorities/names/n79029742",
+      "Herbert Hoover https://id.loc.gov/authorities/names/n80104366",
+      "Fuller Warren https://id.loc.gov/authorities/names/n99046515",
+      "Melvin Richard https://id.loc.gov/authorities/names/n2007008032",
+      "Jackson Memorial Hospital https://id.loc.gov/authorities/names/n79131242",
+      "Delta Air Lines https://id.loc.gov/authorities/names/n85135774"
+    ],
+    "relation": [
+      "Vol. XXIII, No. 26"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 9.08,
+    "context_chars": 72804,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

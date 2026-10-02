@@ -1,0 +1,314 @@
+{
+  "doc_id": "FI21052701_00046",
+  "judge": "opus",
+  "n_claims": 56,
+  "n_supported": 55,
+  "n_contradicted": 1,
+  "claim_precision": 0.9821,
+  "per_field": {
+    "subject": {
+      "n": 12,
+      "supported": 12
+    },
+    "description": {
+      "n": 21,
+      "supported": 21
+    },
+    "coverage": {
+      "n": 4,
+      "supported": 4
+    },
+    "contributor": {
+      "n": 16,
+      "supported": 16
+    },
+    "relation": {
+      "n": 3,
+      "supported": 2
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue covers Miami municipal elections.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes political endorsements.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses grand jury reports.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the Miami Crime Commission.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers gambling enforcement.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue includes criticism of the media.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses candidates for the city commission.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers public works.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses sewage disposal plants.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers aviation safety.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses labor conditions.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers shoplifting.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue is a weekly issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue features editorials.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue features political coverage of the 1949 Miami municipal election.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a front-page attack on a Dade County grand jury report.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue characterizes the Dade County grand jury report as politically motivated.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue attributes political motivation for the Dade County grand jury report to the Miami Crime Commission.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue attributes political motivation for the Dade County grand jury report to local daily newspapers.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes polling or horse-race election notes.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses a candidate named H. Leslie Quigg.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses a candidate named Palmer.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses a candidate named Thomson.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses a candidate named Wolfarth.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses a candidate named Bandel.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses a candidate named Dunn.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes additional articles about a proposed Miami sewage disposal plant.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a radio address by Perrine Palmer, Jr. about the proposed Miami sewage disposal plant.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes articles about aviation safety concerns near the airport.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes articles about local civic issues.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes articles about local labor issues.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes brief news items.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes advertisements.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Greater Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue dates to November 1949.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "H. Leslie Quigg appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Perrine Palmer, Jr. appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Danny Sullivan appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Demetree appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "John S. Knight appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Claude Pepper appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Fuller Warren appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Jack Pearlman appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Walt Swindells appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Tonde Leyho appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Cecil C. Curry appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Juanita Battles appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "J. W. Faison appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "A. Brooks appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Frances Davis appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "J. B. Eilenberg appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is part of the publication Miami Life.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is volume 23 of Miami Life.",
+      "verdict": "contradicted"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is number 46 of Miami Life.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-simple"
+}

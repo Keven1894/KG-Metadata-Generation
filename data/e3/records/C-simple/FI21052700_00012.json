@@ -1,0 +1,91 @@
+{
+  "doc_id": "FI21052700_00012",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052700_00012",
+    "title": "Miami Life — Saturday, April 2, 1927 (issue)",
+    "creator": [
+      "Wen R. Phillips",
+      "Pete Crossland",
+      "Lysle E. Fesler"
+    ],
+    "publisher": "Miami Life",
+    "date": "1927-04-02",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Florida Power & Light Company",
+      "public utilities",
+      "municipal franchises",
+      "water rates",
+      "electricity rates",
+      "gas rates",
+      "City of Miami government",
+      "city commission elections",
+      "political commentary",
+      "taxation",
+      "Florida politics",
+      "Florida division (North and South)",
+      "real estate",
+      "oil and gas leasing",
+      "Everglades",
+      "Miami Beach",
+      "community events",
+      "sports facilities",
+      "legal notices"
+    ],
+    "description": "Issue dated Saturday, April 2, 1927. Prominent editorials criticize City of Miami franchise contracts with Florida Power & Light, alleging hidden provisions affecting rates and warning of potential municipal financial harm; the paper urges legal and civic action to nullify or challenge the contracts. Coverage includes local politics and the upcoming city commission election (including references to Abe Aronovitz and Leroy Morgan), commentary on Governor John W. Martin and taxes, discussion of dividing Florida into two states, local news briefs and community events in Miami and Miami Beach, real-estate satire, and advertisements and legal notices including oil-lease promotions and a master’s sale notice.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "1927-04-02"
+    ],
+    "contributor": [
+      "Abe Aronovitz",
+      "John W. Martin",
+      "Park Trammell",
+      "Leroy Morgan",
+      "J. G. Du Puis",
+      "N. O. Penny",
+      "H. J. Freeman",
+      "E. Lee Hughes",
+      "Florida Power & Light Company",
+      "Chamber of Commerce (Miami)"
+    ],
+    "relation": [],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.59,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 1.0,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": false,
+      "source": true,
+      "rights": false
+    }
+  }
+}

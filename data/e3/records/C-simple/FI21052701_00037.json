@@ -1,0 +1,88 @@
+{
+  "doc_id": "FI21052701_00037",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052701_00037",
+    "title": "Miami Life (Miami, Fla.), Vol. XXIII, No. 37 (Saturday, 1949-09-10)",
+    "creator": [
+      "Reubin Clein",
+      "Ben F. Drucker"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-09-10",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR-derived)",
+    "language": "en",
+    "subject": [
+      "Florida politics",
+      "Sales tax",
+      "Florida Legislature (special session)",
+      "Newspapers and political influence",
+      "Political campaigns",
+      "Miami municipal government",
+      "Miami Beach city government",
+      "Gambling",
+      "Municipal ownership",
+      "Electric utilities",
+      "Florida Power & Light Company",
+      "Labor and employment",
+      "Hurricanes",
+      "American Red Cross"
+    ],
+    "description": "Issue features Miami Life's proposal for a nightly radio \"Political Clinic\" to give all municipal candidates equal airtime and counter perceived bias of Miami's daily newspapers. Reports on Miami Beach city council actions involving City Manager Renshaw, police department control, and ongoing gambling concerns. Covers Florida's special legislative session and opposition to a proposed sales tax, including extensive lists of readers signing anti–sales tax coupons and discussion of the Retail Merchants Association. Reprints and comments on an Atlanta Journal editorial about Chattanooga's municipally owned electric power system to argue for municipal acquisition of Florida Power & Light and lower electric rates. Includes local court/police items, letters to the editor on taxes and business conditions, and a report on Dade County Red Cross hurricane preparedness and response.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "Florida",
+      "1949"
+    ],
+    "contributor": [
+      "City Manager Renshaw",
+      "Bert Simpson",
+      "Pat Perdue",
+      "Gen. Pat Hurley",
+      "I. F. Stone",
+      "Marquis Childs",
+      "L. J. Wilhoite",
+      "John T. Ownby",
+      "Gov. Gordon Browning",
+      "American Red Cross"
+    ],
+    "relation": [
+      "Miami Life, Vol. XXIII, No. 37"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 7.63,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

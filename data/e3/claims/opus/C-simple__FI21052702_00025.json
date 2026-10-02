@@ -1,0 +1,344 @@
+{
+  "doc_id": "FI21052702_00025",
+  "judge": "opus",
+  "n_claims": 62,
+  "n_supported": 60,
+  "n_contradicted": 0,
+  "claim_precision": 0.9677,
+  "per_field": {
+    "subject": {
+      "n": 16,
+      "supported": 16
+    },
+    "description": {
+      "n": 23,
+      "supported": 23
+    },
+    "coverage": {
+      "n": 6,
+      "supported": 6
+    },
+    "contributor": {
+      "n": 14,
+      "supported": 12
+    },
+    "relation": {
+      "n": 3,
+      "supported": 3
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses telephone rates.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses Southern Bell Telephone.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses public utilities.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses Florida Power & Light Company.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the Florida Railroad Commission.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses Miami city government.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses court and jail conditions.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses milk prices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses horse racing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses Tropical Park in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses Hialeah Park in Hialeah, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses nightclubs.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses entertainment.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the motion picture industry.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses housing modernization.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the Federal Housing Administration.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a column titled \"Notebook\" by Wen R. Phillips.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "In \"Notebook,\" Wen R. Phillips criticizes high telephone rates.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "In \"Notebook,\" Wen R. Phillips calls for action regarding telephone rates.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "In \"Notebook,\" Wen R. Phillips calls for an investigation regarding telephone rates.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue calls for action and investigation involving the Florida Railroad Commission.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes references to figures related to the Florida Railroad Commission.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local commentary on jail conditions.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local commentary on court conditions.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local commentary on a drunk-driving case.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes discussion of milk price regulation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes extensive coverage of horse racing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes horse-racing advertisements.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes \"Jockey Jimmy\" selections for Tropical Park.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue presents the \"Jockey Jimmy\" selections as following Hialeah.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes nightlife listings.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes entertainment listings.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes club promotions.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on schemes in the movie industry.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes letters to the editor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "One letter to the editor retracts criticism of Florida Power & Light.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "One letter to the editor supports criticism of government regulation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes advertisements about home modernization.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes advertisements about FHA plumbing improvements.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Coral Gables, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Tallahassee, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is dated 1935-03-09.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Jockey Jimmy.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Abe Aronovitz.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Frank B. Shutts.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Henry L. Doherty.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Ernest Stevenson.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Judge Dunn.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Tom Grady.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Harry Platt.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by F. P. Owen.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by E. P. Owen.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Karl G. Adams.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by J. G. Berger.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by W. C. Palm Island.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Joseph M. Schenck.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is part of Miami Life.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is in volume 9 of Miami Life.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is number 25 of volume 9 of Miami Life.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-simple"
+}

@@ -1,0 +1,84 @@
+{
+  "doc_id": "FI21052702_00022",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052702_00022",
+    "title": "Miami Life (Miami, Florida), Vol. 9, No. 22 (February 16, 1935)",
+    "creator": [],
+    "publisher": "Miami Life",
+    "date": "1935-02-16",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Gambling",
+      "Grand juries",
+      "Political corruption",
+      "Law enforcement",
+      "Miami Beach (Fla.)",
+      "Horse racing",
+      "Hialeah Park Race Track (Hialeah, Fla.)",
+      "Greyhound racing",
+      "Biscayne Kennel Club",
+      "Bruno Richard Hauptmann",
+      "Lindbergh kidnapping case",
+      "Walkathons",
+      "New Deal"
+    ],
+    "description": "Issue includes an editorial condemning a Dade County grand jury gambling investigation as politically motivated, criticizing State's Attorney Vernon Hawthorne and discussing Miami Beach politics and alleged selective indictments. Also covers local sports and entertainment, including Hialeah Park racing commentary and tips by “Jockey Jimmy,” the closing of the Biscayne Kennel Club meet, and a feature on a Miami Beach walkathon. Additional columns and advertisements reference Bruno Richard Hauptmann and the Lindbergh case, nightlife venues, and local businesses.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "1935-02-16"
+    ],
+    "contributor": [
+      "Vernon Hawthorne",
+      "Fred Pine",
+      "Hayes Lewis",
+      "Dan Mahoney",
+      "Katzentine",
+      "Ike Levy",
+      "Teaney",
+      "Mike Dallett",
+      "Gov. Sholtz",
+      "Joe Adams",
+      "Bruno Richard Hauptmann"
+    ],
+    "relation": [
+      "Volume 9, Number 22"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.01,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "doc_id": "FI21052701_00045",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052701_00045",
+    "title": "Miami Life, Saturday, Nov. 5, 1949 (Vol. X, no. 45)",
+    "creator": [
+      "REUBIN CLEIN https://id.loc.gov/authorities/names/n2012182844"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-11-05",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue; OCR text",
+    "language": "eng",
+    "subject": [
+      "Municipal elections—Miami (Fla.)",
+      "City commissioners—Elections—Miami (Fla.)",
+      "Greater Miami Crime Commission",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Sales tax—Florida",
+      "Taxation—Dade County (Fla.)",
+      "Real property tax—Dade County (Fla.)",
+      "Zoning—Dade County (Fla.)",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Gambling—Florida",
+      "Liquor laws—Florida",
+      "Baby trafficking—Florida",
+      "Adoption—Florida",
+      "Abortion—Florida",
+      "Cuba—Politics and government",
+      "Loans, Foreign—United States",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616"
+    ],
+    "description": "Issue features extensive local political coverage ahead of the November 15, 1949 Miami city commission primary, including discussion of the Greater Miami Crime Commission and candidate positions on law enforcement. Includes editorials and letters protesting Dade County taxation and assessments and criticizing zoning decisions affecting developments such as West Shores near Miami Shores. Reports and commentary address alleged baby-placement activity and related publicity, along with other local civic topics (jail crowding, driving offenses, public utilities/telephone complaints, and transportation). International political reporting focuses on Cuban politician Jose Manuel Aleman and a proposed U.S.–Cuban loan, with references to Miami Beach connections.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "West Shores https://www.geonames.org/7193479",
+      "Miami Shores https://www.geonames.org/4164211",
+      "1949-11"
+    ],
+    "contributor": [
+      "Charles M. Wright https://id.loc.gov/authorities/names/n2012182844",
+      "Rob’t H. Givens, Jr.",
+      "O. L. Nickerson",
+      "J. M. Gusky",
+      "C. R. Gardner",
+      "Bernard R. Campbell",
+      "J. B. Eilenburg",
+      "Jose Manuel Aleman",
+      "Grau San Martin",
+      "Batista",
+      "Claude Pepper",
+      "George Smather"
+    ],
+    "relation": [
+      "Vol. X, no. 45",
+      "Primary Election—Nov. 15, 1949"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 10.67,
+    "context_chars": 71633,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

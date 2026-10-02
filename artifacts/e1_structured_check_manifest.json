@@ -1,0 +1,88 @@
+{
+  "trace_run_id": "e1-trace-replay-2026-09-03",
+  "created_utc": "2026-09-03T22:45:36.746947+00:00",
+  "trace_path": "<path>",
+  "trace_sha256": "16fce8227539bac35ff9963f823b300249ade5065c0baac170f79d68ae45405b",
+  "code_commit": "b138aed7d141c26a6217b413638e3e7c464e4b6a",
+  "cache_sha256": "685e7acc8e6ba69e56bc166e0b9136fc18526db90a712459a918c8da86f2f09f",
+  "registry_sha256": "2ca5ee6a2ed77ca8140f56adde2243a12b310e339bc1f7d0d532dbb2bade27f7",
+  "offline_only": true,
+  "llm_calls": 0,
+  "card_generation": false,
+  "ledger_writes": false,
+  "summary": {
+    "n_rows": 6401,
+    "n_source_issues": 203,
+    "n_issues_with_selected_entities": 202,
+    "issues_with_no_selected_entities": [
+      "FI21052700_00005"
+    ],
+    "by_entity_type": {
+      "org": 1584,
+      "person": 1604,
+      "place": 1608,
+      "subject": 1605
+    },
+    "g0_registry": {
+      "found": 4796,
+      "not_found": 1605
+    },
+    "g0_year_source": {
+      "corpus_fallback": 1605,
+      "entity_observed_years": 4796
+    },
+    "score_state": {
+      "fail": 868,
+      "not_applicable": 2571,
+      "pass": 2962
+    },
+    "temporal_state": {
+      "fail": 55,
+      "not_applicable": 5700,
+      "pass": 100,
+      "skipped_high_score": 438,
+      "unknown": 108
+    },
+    "gate_outcome": {
+      "accept": 2948,
+      "no_hit": 2571,
+      "score_reject": 827,
+      "temporal_reject": 55
+    },
+    "by_entity_type_and_outcome": {
+      "org": {
+        "accept": 151,
+        "no_hit": 991,
+        "score_reject": 442
+      },
+      "person": {
+        "accept": 522,
+        "no_hit": 903,
+        "score_reject": 124,
+        "temporal_reject": 55
+      },
+      "place": {
+        "accept": 941,
+        "no_hit": 529,
+        "score_reject": 138
+      },
+      "subject": {
+        "accept": 1334,
+        "no_hit": 148,
+        "score_reject": 123
+      }
+    },
+    "incremental_temporal_catches": 14,
+    "score_and_temporal_fail_overlap": 41,
+    "temporal_reject_issue_entity_rows": 55,
+    "temporal_reject_unique_surface_uri_pairs": 37,
+    "accepted_candidates": 2948,
+    "accepted_candidates_embedded_in_card": 2758,
+    "accepted_unique_doc_uri_pairs": 2946,
+    "existing_card_uri_occurrences": 2837,
+    "existing_card_uri_occurrences_covered_by_replay_accepts": 2837,
+    "existing_card_uri_occurrences_not_covered_by_replay_accepts": 0,
+    "uncovered_card_doc_uri_sample": [],
+    "note": "Rows are prospective offline replay decisions over frozen cache, not the original July execution log. Card embedding is downstream of gate acceptance."
+  }
+}

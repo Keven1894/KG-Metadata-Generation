@@ -1,0 +1,89 @@
+{
+  "doc_id": "FI21052700_00010",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "FI21052700_00010",
+    "title": "MIAMI LIFE, 1927-03-19 (Volume 4, Number 10)",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life Co.",
+    "date": "1927-03-19",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Municipal government—Florida—Miami",
+      "City managers—Florida—Miami",
+      "Public utilities—Rates—Florida—Miami Beach",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "Bus transportation—Florida—Miami",
+      "Jitney transportation—Florida—Miami",
+      "Tourism—Florida—Miami https://id.loc.gov/authorities/subjects/sh85136255",
+      "Taxation—Florida—Miami",
+      "Poll tax—Florida",
+      "Community Chest—Florida—Miami",
+      "Parks—Florida—Miami—Bayfront Park",
+      "Entertainment—Florida—Miami https://id.loc.gov/authorities/subjects/sh96009616",
+      "Nightlife—Florida—Miami https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Transportation https://id.loc.gov/authorities/subjects/sh2001008994"
+    ],
+    "description": "Issue includes editorials and commentary on Miami municipal affairs, including criticism of the bus agreement and subsidies involving the Florida Power & Light Company, discussion of city finances and taxation (including reminders to pay poll tax and register), and commentary on tourism and price changes after the boom. Local columns and satire cover Miami and Miami Beach social life and entertainment, with notices and advertisements for theaters and events; items also mention Bayfront Park lighting and travel across the causeway.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Bayfront Park https://www.geonames.org/4146892",
+      "Causeway https://www.geonames.org/4150277",
+      "1927-03-19"
+    ],
+    "contributor": [
+      "Ed Romfh",
+      "Frank Wharton https://id.loc.gov/authorities/names/n92017948",
+      "H. L. Mencken",
+      "Billy Sunday",
+      "Guy Reeve",
+      "Hammerhead Greeby",
+      "Adam McAdam",
+      "Mayor Ambrose Peebles",
+      "O. S. Parmer",
+      "Guiseppe Argentino"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 4, Number 10"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 9.0,
+    "context_chars": 71408,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

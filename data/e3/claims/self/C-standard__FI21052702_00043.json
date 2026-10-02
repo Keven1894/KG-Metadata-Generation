@@ -1,0 +1,243 @@
+{
+  "doc_id": "FI21052702_00043",
+  "n_claims": 43,
+  "n_supported": 43,
+  "n_contradicted": 0,
+  "claim_precision": 1.0,
+  "per_field": {
+    "subject": {
+      "n": 14,
+      "supported": 14
+    },
+    "description": {
+      "n": 22,
+      "supported": 22
+    },
+    "coverage": {
+      "n": 4,
+      "supported": 4
+    },
+    "relation": {
+      "n": 3,
+      "supported": 3
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue contains content about municipal government in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about the selection and appointment of police chiefs in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about political corruption in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about surety bonds for public officers in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about embezzlement and misappropriation of public funds in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about grand juries in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about loan sharks in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about telephone company rates in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about beauty contests in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about racing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about sports.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about crime.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about business.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue features local political reporting in Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue features local civic reporting in Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue covers efforts to appoint John Rowland as chief of police.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses \"Little Tammany\" influence.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue reports on City Clerk Harold E. Ross.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue reports on a shortage of city funds.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes claims about the status of Harold E. Ross's surety bond.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes calls for grand jury action.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue references former Mayor Ev Sewell.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue references City Solicitor Abe Aronovitz.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes consumer warnings about loan sharks.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes consumer warnings about salary buyers.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on telephone company practices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on telephone company rates.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains extensive sports content.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains extensive racing content.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes \"Jockey Jimmy\" racing information.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains community columns.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains a community column titled \"They Tell Me\".",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains a welcome notice to Safety Director Andrew J. Kavanaugh.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains promotional coverage of Miami Life's \"Most Attractive Working Girl\" contest.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Miss Louise Wolfe is named as a weekly winner of Miami Life's \"Most Attractive Working Girl\" contest.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Hialeah, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is dated 1935-07-13.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is part of MIAMI LIFE.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is volume 9 of MIAMI LIFE.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is number 43 of MIAMI LIFE.",
+      "verdict": "supported"
+    }
+  ],
+  "tier": "C-standard"
+}

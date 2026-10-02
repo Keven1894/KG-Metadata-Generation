@@ -1,0 +1,90 @@
+{
+  "doc_id": "FI21052702_00045",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052702_00045",
+    "title": "Miami Life (Miami, Florida), Vol. 9, No. 45 (Saturday, July 27, 1935)",
+    "creator": [],
+    "publisher": "Miami Life",
+    "date": "1935-07-27",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Sales tax",
+      "Municipal finance",
+      "City government",
+      "Gambling",
+      "Bookmaking",
+      "Police",
+      "Racing (horse and dog)",
+      "Telephone rates",
+      "Beauty contests",
+      "Miami Beach (Fla.)"
+    ],
+    "description": "Issue features prominent editorials and reports opposing revival of a general sales tax in Miami, warning of public unrest and harm to business. Coverage includes gambling enforcement and the closing of local booking places following a letter to Safety Director Kavanaugh, with discussion of impacts on workers and potential return of graft. Articles and columns address possible appointment of H. Leslie Quigg as police chief, the jailing of City Commissioner Stanley Massey on an old charge, racing dates and track politics (Hialeah Park and Tropical Park), and a decision expected in Miami’s telephone rate fight. The issue also continues Miami Life’s city-wide ‘Most Attractive Working Girl’ contest, naming Miss Mary Brasher of Florida Power & Light as a preliminary winner, alongside local gossip/rumor columns and advertisements.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "1935-07-27"
+    ],
+    "contributor": [
+      "Fritz Gordon",
+      "Safety Director Kavanaugh",
+      "L. L. Lee",
+      "H. Leslie Quigg",
+      "Commissioner Alexander",
+      "Commissioner Orr, Jr.",
+      "Commissioner Fossey",
+      "Stanley Massey",
+      "Abe Aronovitz",
+      "Governor Sholtz",
+      "Mary Brasher",
+      "D. P. Caldwell",
+      "H. H. Hyman",
+      "Jockey Jimmy",
+      "W. K. Phillips",
+      "E. R. Bradley",
+      "Bill Dwyer",
+      "Charles W. Keyes",
+      "M. L. Harbin",
+      "Arthur Wadsworth Stuckie"
+    ],
+    "relation": [
+      "Miami Life, Vol. 9, No. 45"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.62,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

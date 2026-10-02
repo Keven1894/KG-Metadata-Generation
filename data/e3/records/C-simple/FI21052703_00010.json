@@ -1,0 +1,96 @@
+{
+  "doc_id": "FI21052703_00010",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052703_00010",
+    "title": "Miami Life (Miami, Florida), Volume 5, Number 8 (March 10, 1928)",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-03-10",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper text (OCR)",
+    "language": "en",
+    "subject": [
+      "Police misconduct",
+      "Police corruption",
+      "Grand jury",
+      "Gambling",
+      "Arrests",
+      "Local politics",
+      "Republican Party (Florida)",
+      "Primary elections",
+      "Dade County (Fla.) politics and government",
+      "Coral Gables (Fla.)—finance",
+      "Prohibition",
+      "Bootlegging",
+      "Al Capone",
+      "Religious conflict",
+      "Beauty contests",
+      "Dade County Fair"
+    ],
+    "description": "Issue features editorials and commentary on Miami police scandals and oversight, including arrests connected to gambling and alleged leaks from a grand juror to the police. Includes political columns on Florida factions and upcoming primaries, discussion of Coral Gables Corporation refinancing, and local notes on Prohibition-era liquor trade and Al Capone’s visit. Reports on violent conflict involving religious factions, coverage of a Miami beauty contest and the Dade County Fair, along with letters to the editor, legal notices, advertisements, and candidate announcements.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Dade County (Fla.)",
+      "Coral Gables (Fla.)",
+      "1928-03-10"
+    ],
+    "contributor": [
+      "State's Attorney Hawthorne",
+      "J. K. Fink",
+      "Jeff Lanier",
+      "C. E. Purnell",
+      "Chief of Police Quigg",
+      "George Bean",
+      "Samuel Rountree",
+      "Cecil Watson",
+      "Joe Yates",
+      "Judge Cowart",
+      "C. H. Cranden",
+      "Nathan Mayo",
+      "Sidney Catts",
+      "Al Capone",
+      "Princess Laura Kofeyr",
+      "Fred Pine",
+      "Effie Knowles",
+      "Stuart Witham"
+    ],
+    "relation": [
+      "Miami Life, Volume 5, Number 8"
+    ],
+    "source": "FIU dPanther",
+    "rights": "(All articles and illustrations in this issue are Copyright by Miami Life Co., 1928.)"
+  },
+  "provenance": {
+    "latency_s": 8.42,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

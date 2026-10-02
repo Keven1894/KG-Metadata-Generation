@@ -1,0 +1,103 @@
+{
+  "doc_id": "FI21052701_00003",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "FI21052701_00003",
+    "title": "MIAMI LIFE, Saturday, Jan. 15, 1949 (Vol. XXIII, No. 3)",
+    "creator": [
+      "Reubin Clein"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-01-15",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue; OCR text",
+    "language": "eng",
+    "subject": [
+      "Freedom of the press",
+      "Fairness in journalism",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Labor unions",
+      "Strikes and lockouts",
+      "Newspaper publishing",
+      "Gambling",
+      "Organized crime",
+      "Crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Public utilities",
+      "Electric utilities",
+      "Florida Power & Light Co.",
+      "Taxation",
+      "Municipal ownership",
+      "Public health",
+      "Ambulance service",
+      "Poisoning of animals",
+      "Poisons—Sales regulation",
+      "Alcoholism",
+      "Transportation—Bus service",
+      "Horse racing"
+    ],
+    "description": "Issue includes editorials and local reporting on press fairness and national politics; discussion of gambling and alleged organized-crime activity in Greater Miami; coverage of a newspaper labor dispute involving printers’ unions and publisher John S. Knight; an open letter to Gov. Warren urging action on public utilities and Florida Power & Light; items on taxation levels in Florida, public safety and emergency medical response delays, and regulation of poison sales following neighborhood dog poisonings. Additional local features address contractor licensing in Dade County, transportation incidents involving bus service, and racing-season logistics after Tropical Park.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Bayfront Park https://www.geonames.org/4146892",
+      "Jacksonville https://www.geonames.org/4160021",
+      "Tallahassee https://www.geonames.org/4174715",
+      "1949-01-15"
+    ],
+    "contributor": [
+      "Harry S. Truman https://id.loc.gov/authorities/names/n79029742",
+      "Franklin D. Roosevelt https://id.loc.gov/authorities/names/n79022932",
+      "Joseph Stalin https://id.loc.gov/authorities/names/n80044789",
+      "Fuller Warren https://id.loc.gov/authorities/names/n99046515",
+      "Chicago Daily News https://id.loc.gov/authorities/names/n97090844",
+      "John S. Knight",
+      "Milt Sosin",
+      "Danny Sullivan",
+      "Reubin J. Clein",
+      "BEN F. DRUCKER",
+      "Lee Mason",
+      "William Morrison",
+      "Mrs. Bessie B. Freda",
+      "Olin Berry",
+      "Mrs. Olin Berry",
+      "James Donn",
+      "Bert L. Acker",
+      "Jimmy Dodd"
+    ],
+    "relation": [
+      "Vol. XXIII, No. 3"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 10.49,
+    "context_chars": 72119,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

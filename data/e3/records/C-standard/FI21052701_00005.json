@@ -1,0 +1,79 @@
+{
+  "doc_id": "FI21052701_00005",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052701_00005",
+    "title": "Miami Life, Jan. 29, 1949 (Vol. XXIII, No. 5)",
+    "creator": [
+      "Reubin Clein"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-01-29",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Tourism—Florida—Miami region https://id.loc.gov/authorities/subjects/sh85136255",
+      "Business conditions—Florida—Miami region https://id.loc.gov/authorities/subjects/sh85018260",
+      "Crime—Florida—Miami https://id.loc.gov/authorities/subjects/sh85033993",
+      "Health—Cancer prevention https://id.loc.gov/authorities/subjects/sh00006004",
+      "Transportation—Traffic regulation—Miami (Fla.) https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Newspapers—Advertising—Fraud",
+      "Labor unions—Printing industry",
+      "Municipal courts—Florida—Miami",
+      "Public utilities—Gas companies—Florida—Miami Beach"
+    ],
+    "description": "Issue includes editorials and local commentary on a weak winter season and business anxiety in the Greater Miami area; criticism of Miami Herald classified advertising practices and discussion of labor/union issues; coverage of municipal services and crime statistics, court and legal-process commentary, and traffic/transportation concerns. Also includes a lengthy health article arguing for cancer prevention and linking tobacco smoke to cancer, along with entertainment listings and local notices.",
+    "coverage": [
+      "Greater Miami https://www.geonames.org/4157383",
+      "Miami Beach https://www.geonames.org/4164143",
+      "1949-01-29"
+    ],
+    "contributor": [
+      "Ben F. Drucker",
+      "John S. Knight https://id.loc.gov/authorities/names/n87830348",
+      "Ernest Pickering https://id.loc.gov/authorities/names/n82231782",
+      "Richard T. Bergren",
+      "Arthur Bliss Lane https://id.loc.gov/authorities/names/n90661059",
+      "Wayne Allen https://id.loc.gov/authorities/names/n88613031",
+      "Lee Mason",
+      "Lillian M. Yerkes",
+      "Paul Bruun"
+    ],
+    "relation": [
+      "Vol. XXIII, No. 5"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.87,
+    "context_chars": 67394,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

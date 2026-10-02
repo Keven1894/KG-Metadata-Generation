@@ -1,0 +1,102 @@
+{
+  "doc_id": "FI21052703_00040",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00040",
+    "title": "Miami Life (Miami, Florida), 1928-10-13; edited by Wen R. Phillips",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-10-13",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper text (OCR)",
+    "language": "en",
+    "subject": [
+      "Jackson Memorial Hospital (Miami, Fla.)",
+      "Hospitals",
+      "Medical politics",
+      "Public health",
+      "Coral Gables (Fla.)",
+      "Municipal government",
+      "Transportation systems",
+      "Hialeah (Fla.)",
+      "Taxpayers associations",
+      "Hurricanes",
+      "Disaster relief",
+      "American National Red Cross",
+      "Lake Okeechobee (Fla.)",
+      "Flood control",
+      "Prohibition",
+      "Bootlegging",
+      "Liquor prices",
+      "Bombings",
+      "Dry cleaning industry",
+      "Miami Beach (Fla.)",
+      "Local elections",
+      "Neon signs",
+      "Advertising"
+    ],
+    "description": "Issue dated Oct. 13, 1928, featuring editorials and local commentary on alleged political interference and patient care at Jackson Memorial Hospital; anticipated winter tourist season in Miami; criticism of Coral Gables commission actions including the forced resignation of transportation superintendent Arthur M. Mack and concerns about city management; discussion of Hialeah civic and financial disputes; hurricane relief and skepticism about Red Cross administration; notes on Lake Okeechobee flood-control advocacy; Prohibition-era liquor trade and price listings; a Flagler Street dry-cleaning plant bombing tied to price disputes; and assorted local society items, entertainment notices, and advertising (including neon signage).",
+    "coverage": [
+      "Miami (Fla.)",
+      "Dade County (Fla.)",
+      "Miami Beach (Fla.)",
+      "Coral Gables (Fla.)",
+      "Hialeah (Fla.)",
+      "Lake Okeechobee (Fla.)",
+      "1928-10-13"
+    ],
+    "contributor": [
+      "Ev Sewell",
+      "Arthur M. Mack",
+      "Rodney \"Red\" Davis",
+      "R. M. Davidson",
+      "Grover C. Morgan",
+      "George Merrick",
+      "Pop Lehman",
+      "Chief Keys",
+      "Lieut. Lemon",
+      "Commissioner Kane",
+      "Dr. Allen",
+      "Bruce Youngs",
+      "Congressman Dempsey",
+      "Governor Martin",
+      "Kent Watson",
+      "Glen G. Harned"
+    ],
+    "relation": [],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 10.92,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 1.0,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": false,
+      "source": true,
+      "rights": false
+    }
+  }
+}

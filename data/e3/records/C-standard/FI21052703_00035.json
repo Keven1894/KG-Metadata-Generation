@@ -1,0 +1,87 @@
+{
+  "doc_id": "FI21052703_00035",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00035",
+    "title": "MIAMI LIFE, 1928-09-08 (Vol. 11, No. 12)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-09-08",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue with OCR text",
+    "language": "eng",
+    "subject": [
+      "Dade County (Fla.)—Schools—Finance",
+      "Street lighting—Miami (Fla.)",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "Milk—Safety measures—Miami (Fla.)",
+      "Milk—Safety measures—Coral Gables (Fla.)",
+      "Police administration—Miami (Fla.)",
+      "Miami Chamber of Commerce https://id.loc.gov/authorities/names/n97041415",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Prohibition https://id.loc.gov/authorities/subjects/sh85107330",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Aquariums—Miami (Fla.)",
+      "Elks (Fraternal order)—Conventions and gatherings—Miami (Fla.)"
+    ],
+    "description": "Issue includes editorials and commentary on Dade County school funding and retrenchment, Miami budget concerns and proposed reductions in downtown street lighting, and local civic affairs including the Miami Chamber of Commerce and city industrial/tourist promotion. Coverage also discusses police discipline under new leadership, public health concerns about milk testing and “diseased milk,” and Prohibition-era liquor quality and enforcement in Miami Beach courts. Additional local-interest pieces mention an aquarium at the city docks, entertainment/nightlife listings and society notes, and references to Elks activities and convention visitors.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Dade County (Fla.)",
+      "1928"
+    ],
+    "contributor": [
+      "Arnold https://id.loc.gov/authorities/names/n79116138",
+      "Bobo Dean https://id.loc.gov/authorities/names/no2011176970",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "Miami Chamber of Commerce https://id.loc.gov/authorities/names/n97041415",
+      "Electrical Equipment Co. https://id.loc.gov/authorities/names/no93031447",
+      "S. Grover Morrow",
+      "Mayor Sewell",
+      "Chief of Police Reeve",
+      "Ed Romfh",
+      "Dr. Allen"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Vol. 11, No. 12"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": "Digitized for access by FIU Libraries; rights status not specified in provided evidence. Use may be subject to copyright and repository terms."
+  },
+  "provenance": {
+    "latency_s": 10.63,
+    "context_chars": 67828,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

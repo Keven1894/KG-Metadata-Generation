@@ -1,0 +1,98 @@
+{
+  "doc_id": "FI21052700_00021",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00021",
+    "title": "MIAMI LIFE, June 4, 1927 (Volume 4, Number 19)",
+    "creator": [
+      "WEN R. PHILLIPS https://id.loc.gov/authorities/names/no2005102552"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1927-06-04",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Municipal elections—Miami (Fla.)",
+      "City commissioners—Selection and election—Miami (Fla.)",
+      "Dade County (Fla.)—Politics and government",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Florida Legislature—Florida",
+      "Public utilities—Rates—Miami (Fla.)",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "Telephone—Rates—Miami (Fla.)",
+      "Traffic accidents—Miami (Fla.)",
+      "Police uniforms—Miami (Fla.)",
+      "Transportation—Street railroads—Miami (Fla.)",
+      "transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Real estate business—Coral Gables (Fla.)",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Miami Beach (Fla.)—Police",
+      "Curfews—Miami Beach (Fla.)",
+      "Lions Clubs International—Conventions—Miami (Fla.)",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "sports https://id.loc.gov/authorities/subjects/sh00007735"
+    ],
+    "description": "Issue includes editorials and political commentary on Miami city commission elections and Dade County representatives in Tallahassee, with repeated criticism of Florida Power & Light Company and discussion of utility bills and public franchises. Local civic topics include telephone tolls between Miami and nearby cities, traffic safety and accidents, proposed lighter summer uniforms for traffic police, and streetcar/motorman liability. Coverage also touches on real estate conditions (including a lengthy paid political statement by Abe Aronovitz and discussion of Coral Gables property prices), Miami Beach policing and late-night restrictions, preparations for visiting Lions, local transportation and causeway/road projects, and assorted society, entertainment, and sports items, advertisements, and legal notices.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Tallahassee https://www.geonames.org/4174715",
+      "1927-06-04"
+    ],
+    "contributor": [
+      "LYSLE E. FESLER",
+      "S. C. EBBETS",
+      "Joe Dillon https://id.loc.gov/authorities/names/no2005102552",
+      "Earl Wilson https://id.loc.gov/authorities/names/n82084445",
+      "Jack Sewell https://id.loc.gov/authorities/names/no2012034383",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "Miami Chamber of Commerce https://id.loc.gov/authorities/names/n97041415",
+      "First National Bank https://id.loc.gov/authorities/names/no2003096521",
+      "ABE ARONOVITZ",
+      "W. A. PLATT",
+      "JIMMY DONN",
+      "REEDER",
+      "GAUTIER",
+      "DOC BENJAMIN",
+      "GLENN CURTISS"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 4, Number 19"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": "Digitized for access by Florida International University Libraries; rights status not stated in provided evidence."
+  },
+  "provenance": {
+    "latency_s": 12.66,
+    "context_chars": 67986,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "doc_id": "FI21052701_00006",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052701_00006",
+    "title": "Miami Life, Feb. 5, 1949 (Vol XXIII, No. 6)",
+    "creator": [
+      "Reubin Clein"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-02-05",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue; OCR text",
+    "language": "eng",
+    "subject": [
+      "Florida Power & Light Co.—Public ownership—Miami (Fla.)",
+      "Public utilities—Franchises—Miami (Fla.)",
+      "Consumer fraud—Clothing trade—Miami (Fla.)",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Medical quackery—Hypnotism—Florida",
+      "Crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Racetracks—Law and legislation—Dade County (Fla.)",
+      "Pari-mutuel betting—Florida",
+      "Nuisances—Industrial plants—Opa-locka (Fla.)",
+      "Segregation—Washington (D.C.)",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Entertainment events https://id.loc.gov/authorities/subjects/sh96009616",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Education—Florida"
+    ],
+    "description": "Issue includes an editorial on Florida Power & Light and proposals for municipal acquisition; an investigative report alleging deceptive sales practices at the Browning King clothing store; coverage linking Miami's \"Torture Doctor\" T. Earl Moore to the death of painter D. Kuhl and discussion of other alleged patient harms; commentary on Republican public-relations strategy; reporting on legal and political efforts affecting pari-mutuel racing and proposed summer dog tracks in Dade County; a court case over nuisance conditions from a poultry/slaughter and quick-freeze plant in Opa-locka; local columns and civic notes including airport/port authority statistics, education news, and entertainment/nightlife listings and advertisements.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Opa-locka https://www.geonames.org/4167003",
+      "1949-02-05"
+    ],
+    "contributor": [
+      "Fuller Warren https://id.loc.gov/authorities/names/n99046515",
+      "D. Kuhl https://id.loc.gov/authorities/names/n83152949",
+      "Howard R. Hartman https://id.loc.gov/authorities/names/n2013032755",
+      "Ben F. Drucker",
+      "Thos. D. Bailey",
+      "Joseph P. Martin, Jr.",
+      "Sol Brooks (Steinbook)",
+      "Benja Wilkes",
+      "Martin Lemlich",
+      "Mrs. Edna Peck",
+      "Marjorie Nixon",
+      "Daniel Nixon",
+      "Judge Duval",
+      "Judge Cecil C. Curry",
+      "A. B. Curry",
+      "Lee Mason"
+    ],
+    "relation": [
+      "Miami Life, Vol. XXIII, No. 6"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": "Digitized for access by FIU Libraries; rights status not stated in issue. Users are responsible for determining copyright and permissions for reuse."
+  },
+  "provenance": {
+    "latency_s": 13.2,
+    "context_chars": 67446,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "doc_id": "FI21052702_00020",
+  "judge": "gpt55",
+  "n_claims": 47,
+  "n_supported": 47,
+  "n_contradicted": 0,
+  "claim_precision": 1.0,
+  "per_field": {
+    "subject": {
+      "n": 10,
+      "supported": 10
+    },
+    "description": {
+      "n": 23,
+      "supported": 23
+    },
+    "coverage": {
+      "n": 5,
+      "supported": 5
+    },
+    "contributor": {
+      "n": 8,
+      "supported": 8
+    },
+    "relation": {
+      "n": 1,
+      "supported": 1
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue contains content about politics and government in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about gambling in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about horse racing in Hialeah, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about Hialeah Park Race Track in Hialeah, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about tourism in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about unemployment in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about traffic regulation in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about grand juries in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about nightlife in Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about advertising in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "This is an issue of the newspaper Miami Life.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue is dated February 2, 1935.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue is Volume 9.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue is Number 20.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "A front-page editorial discusses South Florida’s economic grievances.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "A front-page editorial discusses South Florida’s political grievances.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "A front-page editorial discusses the tourist season in South Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "A front-page editorial criticizes gambling interests tied to Palm Beach figures.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "A front-page editorial criticizes gambling interests tied to Hialeah racing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on Mayor E. G. (\"Ev\") Sewell.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on city governance.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes calls for reform.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains local columns titled \"Round the Town\".",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains an editor’s mail/letters section.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The editor’s mail/letters section includes an account of an alleged taxi-cab assault.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The editor’s mail/letters section includes criticism of police response to an alleged taxi-cab assault.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains numerous advertisements.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains promotions related to Miami nightlife.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains promotions related to Miami Beach nightlife.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains promotions related to restaurants.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains promotions related to racing tip services.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains \"Jockey Jimmy\" reports.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "\"Jockey Jimmy\" reports are centered on Hialeah Park.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Hialeah, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Palm Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is dated 1935-02-02.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "E. G. (Ev) Sewell appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Joe E. Widener appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Col. E. R. Bradley appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Chief McCreary appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Arthur A. Perkins appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "O. B. White appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Col. Henry L. Doherty appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Dave Sholtz appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is identified as Miami Life, Volume 9, Number 20.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-simple"
+}

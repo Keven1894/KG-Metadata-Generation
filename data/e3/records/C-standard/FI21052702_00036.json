@@ -1,0 +1,81 @@
+{
+  "doc_id": "FI21052702_00036",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00036",
+    "title": "MIAMI LIFE, May 25, 1935 (Vol. 9, No. 36)",
+    "creator": [
+      "V. Hawthorne https://id.loc.gov/authorities/names/n80151101"
+    ],
+    "publisher": "Life Publishing Company",
+    "date": "1935-05-25",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Racing—Law and legislation—Florida https://id.loc.gov/authorities/subjects/sh85110265",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Grand juries—Florida",
+      "Gambling—Florida",
+      "Horse racing tracks—Florida—Dade County",
+      "Dog racing—Florida—Dade County",
+      "Miami Daily News",
+      "Editorials https://id.loc.gov/authorities/subjects/sh85040974",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Business—Florida—Miami https://id.loc.gov/authorities/subjects/sh85018260"
+    ],
+    "description": "Issue features extensive editorial coverage opposing proposed Florida legislation requiring signatures of 40% of registered voters to force a referendum affecting race track permits, arguing it would harm Dade County business and prevent racing from being voted out. Includes attacks on and discussion of Vernon Hawthorne’s past conduct as state’s attorney and calls for grand jury investigation, with references to the Miami Daily News and to racing interests connected with Hialeah, Tropical Park, and Palm Beach. Regular columns include sports and racing commentary and local society/gossip items, along with numerous local business advertisements.",
+    "coverage": [
+      "Miami, Florida https://www.geonames.org/4164138",
+      "Bayfront Park https://www.geonames.org/4146892",
+      "Hialeah https://www.geonames.org/4158476",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Palm Beach https://www.geonames.org/4177887",
+      "Henderson Park https://www.geonames.org/4158379",
+      "1935"
+    ],
+    "contributor": [
+      "Vernon Hawthorne https://id.loc.gov/authorities/names/n80151101",
+      "Joseph E. Widener https://id.loc.gov/authorities/names/n86047552",
+      "Bill Dwyer https://id.loc.gov/authorities/names/no2004084939",
+      "Richard Hunt https://id.loc.gov/authorities/names/no2010073233",
+      "Nora Wilson https://id.loc.gov/authorities/names/no2015129839"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Vol. 9, No. 36"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 9.77,
+    "context_chars": 68158,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

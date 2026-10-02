@@ -1,0 +1,93 @@
+{
+  "doc_id": "FI21052700_00020",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00020",
+    "title": "MIAMI LIFE, 1927-05-28 (Volume 4, Number 18)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1927-05-28",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Municipal elections—Miami (Fla.)",
+      "City commissioners—Elections—Miami (Fla.)",
+      "Public utilities—Florida Power & Light Co.",
+      "Bond issues—Miami (Fla.)",
+      "Taxation—Miami (Fla.)",
+      "Gambling—Horse racing—Florida",
+      "Pari-mutuel betting—Florida",
+      "Hialeah (Fla.)—Horse racing",
+      "Prohibition https://id.loc.gov/authorities/subjects/sh85107330",
+      "Everglades—Fires",
+      "Miami Beach (Fla.)—Proposed county",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Entertainment https://id.loc.gov/authorities/subjects/sh96009616"
+    ],
+    "description": "Issue dated Saturday, May 28, 1927, featuring editorials and commentary on the upcoming Miami municipal election and city commissioner candidates, criticism of banker-led city governance, and discussion of taxes, bond issues, and public-utility franchises. Includes coverage of gambling and proposed racing legislation (including pari-mutuels) with references to Hialeah track activity, along with items on Everglades fires and a satirical piece on proposals for a new Miami Beach county. Regular columns and local notes appear alongside substantial advertising and paid political advertisements for city commissioner candidates.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Hialeah https://www.geonames.org/4158476",
+      "Everglades https://www.geonames.org/4154657",
+      "1927-05-28"
+    ],
+    "contributor": [
+      "Harry Platt https://id.loc.gov/authorities/names/n87843336",
+      "Ev Sewell",
+      "CLIFF REEDER",
+      "RED GAUTIER",
+      "ABE ARONOVITZ",
+      "Jimmie Donn",
+      "Senator John Watson",
+      "MARCUS A. MILAM",
+      "O. W. Pittman",
+      "John McCRAE",
+      "R. W. LILLARD",
+      "Winifred Coulson",
+      "LYSLE E. FESLER",
+      "S. C. EBBETS"
+    ],
+    "relation": [
+      "Volume 4, Number 18"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 9.68,
+    "context_chars": 71287,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

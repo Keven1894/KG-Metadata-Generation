@@ -1,0 +1,94 @@
+{
+  "doc_id": "FI21052703_00044",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "FI21052703_00044",
+    "title": "MIAMI LIFE, 1928-11-10",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-11-10",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue; OCR text",
+    "language": "eng",
+    "subject": [
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "prohibition https://id.loc.gov/authorities/subjects/sh85107330",
+      "tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Housing rents—Florida—Miami region",
+      "Landlords and tenants—Florida—Miami region",
+      "Real estate—Florida—Miami region",
+      "Municipal government—Florida—Miami",
+      "Liquor traffic—Florida—Key West",
+      "Gasoline boats—Safety measures—Florida—Miami Harbor",
+      "Hotels—Employees—Florida—Miami",
+      "Railroad crossings—Florida—Miami"
+    ],
+    "description": "Issue includes editorials and satirical commentary on post-election South Florida conditions, especially rising rents and the seasonal influx of visitors; discussion of local politics and civic affairs; coverage touching on Prohibition enforcement and liquor-related news (including Key West), transportation and rail service, and public-safety concerns such as hazardous gasoline boats in the harbor. Also contains nightlife and entertainment listings/advertising for clubs and shows, and local sports and community notes.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Hialeah https://www.geonames.org/4158476",
+      "Key West https://www.geonames.org/4160812",
+      "Havana https://www.geonames.org/4158224",
+      "Everglades https://www.geonames.org/4154657",
+      "Bayfront Park https://www.geonames.org/4146892",
+      "1928-11"
+    ],
+    "contributor": [
+      "W. W. Farnham https://id.loc.gov/authorities/names/n80120637",
+      "O. S. PARMER",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "Seaboard Air Line https://id.loc.gov/authorities/names/n86111430",
+      "M. P. LEHMAN",
+      "Arnold",
+      "Wood",
+      "Judge Stoneman",
+      "Bob Taylor",
+      "Miss Ruth Gaskin",
+      "Charlie Dillon",
+      "Glenn Mincer"
+    ],
+    "relation": [
+      "Vol. 1"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 11.28,
+    "context_chars": 68126,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

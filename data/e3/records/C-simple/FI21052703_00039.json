@@ -1,0 +1,96 @@
+{
+  "doc_id": "FI21052703_00039",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052703_00039",
+    "title": "Miami Life — Saturday, October 6, 1928",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-10-06",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Hurricanes",
+      "1928 Okeechobee hurricane",
+      "Everglades (Fla.)",
+      "Lake Okeechobee (Fla.)",
+      "Flood control",
+      "Alligators",
+      "Wildlife conservation",
+      "Local government",
+      "Miami (Fla.)",
+      "Coral Gables (Fla.)",
+      "Hialeah (Fla.)",
+      "Tourism",
+      "Elections",
+      "Voter registration",
+      "Police departments",
+      "Municipal finance",
+      "Sports",
+      "Boxing",
+      "Theater"
+    ],
+    "description": "Issue dated October 6, 1928, edited by Wen R. Phillips. Includes commentary on the return of the tourist season; a feature on how many hurricanes have struck Miami with recollections from early residents; satirical coverage of Florida Governor John M. Martin and the aftermath of the 1928 storm; local political and civic notes (League of Women Voters, voter registration questions, Miami city commission actions); discussion of Coral Gables police department changes and Hialeah municipal finance controversy; a letter from Assistant State Game Commissioner Newton Lewis regarding arrests for killing alligators and shooting from the Tamiami Trail; and assorted local entertainment, sports, and advertising content.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Coral Gables (Fla.)",
+      "Hialeah (Fla.)",
+      "Tallahassee (Fla.)",
+      "Everglades (Fla.)",
+      "Lake Okeechobee (Fla.)",
+      "Tamiami Trail (Fla.)",
+      "1928-10-06"
+    ],
+    "contributor": [
+      "John M. Martin",
+      "Ev Sewell",
+      "Harriet Works",
+      "Carl Holmer",
+      "Newton Lewis",
+      "Jean DeHedouville",
+      "Adam Richards",
+      "Commodore Munroe",
+      "Winifred James",
+      "R. M. M.",
+      "Bruce Youngs",
+      "Jean Lind"
+    ],
+    "relation": [],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 15.5,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 1.0,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": false,
+      "source": true,
+      "rights": false
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "doc_id": "FI21052702_00007",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00007",
+    "title": "Miami Life (Miami, Florida), Vol. 9, No. 7 (November 3, 1934)",
+    "creator": [],
+    "publisher": "Miami Life",
+    "date": "1934-11-03",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "Prohibition repeal",
+      "Alcohol regulation",
+      "Local option (alcohol)",
+      "Elections",
+      "Political corruption",
+      "Crime",
+      "Assassinations",
+      "Gambling",
+      "Tourism",
+      "Taxation",
+      "Homestead exemption",
+      "Sales tax",
+      "Radio programs",
+      "Horse racing",
+      "Wrestling",
+      "Nightclubs"
+    ],
+    "description": "Issue includes political commentary urging a “wet” vote on repeal and local option in Dade County, discussion of Miami Beach politics and alleged gangster influence, and coverage of crime and investigations including the assassination of Leo Bornstein and related public reaction. Also contains local civic and tax debates (homestead exemption and sales tax), entertainment and nightlife items, radio schedules, sports and racing tips/advertisements, and community letters and notices.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "Florida",
+      "1934"
+    ],
+    "contributor": [
+      "Val Cleary",
+      "Leo Bornstein",
+      "Abraham Frank Katzentine",
+      "Dave Sholtz",
+      "Sanders Gramling",
+      "James M. Cox",
+      "Carl G. Fisher",
+      "Mark Wilcox",
+      "Colonel Henry M. Doherty",
+      "Marcel Gotschi",
+      "Milton M. Chapman",
+      "Carl Byoir",
+      "R. Hammerhead Greeby",
+      "Maurice Le Blanc",
+      "J. Marshall Yeats",
+      "Dante Fascell"
+    ],
+    "relation": [
+      "Miami Life, Volume 9, Number 7"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 7.24,
+    "context_chars": 56552,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

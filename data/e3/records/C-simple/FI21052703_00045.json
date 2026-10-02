@@ -1,0 +1,86 @@
+{
+  "doc_id": "FI21052703_00045",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052703_00045",
+    "title": "Miami Life — 1928-11-17 (Saturday)",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-11-17",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Florida Power & Light Company",
+      "utilities deposits and rates",
+      "telephone service",
+      "housing rents",
+      "tourism",
+      "Miami Beach (Fla.)",
+      "Prohibition",
+      "liquor smuggling",
+      "East Coast Canal",
+      "local politics",
+      "courts and bondsmen",
+      "horse racing",
+      "greyhound racing",
+      "social commentary",
+      "advertising"
+    ],
+    "description": "Issue includes editorials and columns criticizing Florida Power & Light and the telephone company for high deposits and rates; commentary on high seasonal rents and foreclosure-driven pricing; discussion of Nassau liquor and smuggling during Prohibition; an article opposing/criticizing the East Coast Canal land grant and bond issue; local police department notice (Miami Beach) dated Nov. 14, 1928; assorted local items and society notes, including references to John B. Reilly’s death, court proceedings before Judge W. F. Brown, and promotion of upcoming horse and greyhound racing meets, alongside extensive local advertising.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "Nassau (Bahamas)",
+      "1928"
+    ],
+    "contributor": [
+      "Florida Power & Light Company",
+      "R. H. (Miami Beach Police Department)",
+      "John B. Reilly",
+      "Judge W. F. Brown",
+      "Thomas West",
+      "Herbert Hoover",
+      "Joslyn (Pete) Yoder",
+      "R. R. Hammerhead Greeby",
+      "George \"Tex\" Rickard",
+      "George Carter"
+    ],
+    "relation": [],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 7.67,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 1.0,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": false,
+      "source": true,
+      "rights": false
+    }
+  }
+}

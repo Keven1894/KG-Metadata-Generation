@@ -1,0 +1,87 @@
+{
+  "doc_id": "FI21052700_00036",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00036",
+    "title": "MIAMI LIFE, 1927-09-17 (Volume 4, Number 34)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1927-09-17",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Libel—Florida—Miami",
+      "County government—Florida—Dade County",
+      "Public funds—Deposits—Florida—Dade County",
+      "Banks and banking—Florida—Homestead",
+      "Transportation—https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Public utilities—Florida—Miami",
+      "Tipping—United States",
+      "Medical societies—Florida—Dade County",
+      "Nurses registries—Florida—Miami",
+      "Boxing—Florida—Miami",
+      "editorial—https://id.loc.gov/authorities/subjects/sh85040974",
+      "politics—https://id.loc.gov/authorities/subjects/sh85104466",
+      "business—https://id.loc.gov/authorities/subjects/sh85018260",
+      "entertainment—https://id.loc.gov/authorities/subjects/sh96009616",
+      "sports—https://id.loc.gov/authorities/subjects/sh00007735"
+    ],
+    "description": "Issue includes editorials and local commentary on a $50,000 libel suit and arrest involving Justice of the Peace Penney and editor Wen R. Phillips; discussion of Dade County commissioners’ finances and county deposits in a Homestead bank; criticism of worsening transportation service in Miami and Miami Beach under Florida Power and Light; and a piece on anti-tipping. Reports on Dade County Medical Association actions regarding a physicians’ exchange and nurses’ registry (mentioning Adele Hampton), along with extensive coverage and promotion of boxing events and the Tunney–Dempsey fight via radio at Biscayne Fronton. Includes society-style gossip items, letters to the editor, and advertisements.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach—https://www.geonames.org/4164143",
+      "Dade County (Fla.)",
+      "Homestead—https://www.geonames.org/4159050",
+      "Coral Gables—https://www.geonames.org/4151871",
+      "Terminal Island—https://www.geonames.org/7276946",
+      "Lummus Park—https://www.geonames.org/4162994",
+      "1927"
+    ],
+    "contributor": [
+      "Adele Hampton—https://id.loc.gov/authorities/names/no2008164766",
+      "Carl G. Fisher—https://id.loc.gov/authorities/names/n91118168",
+      "Dade County Medical Association—https://id.loc.gov/authorities/names/n93802479",
+      "R. HAMMERHEAD GREEBY",
+      "\"Doc\" Benjamin",
+      "S. C. EBBETS"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 4, Number 34"
+    ],
+    "source": "FIU Libraries dPanther (Florida International University)",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 10.9,
+    "context_chars": 72006,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

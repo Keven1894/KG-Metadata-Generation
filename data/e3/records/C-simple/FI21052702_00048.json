@@ -1,0 +1,93 @@
+{
+  "doc_id": "FI21052702_00048",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052702_00048",
+    "title": "Miami Life (Miami, Florida), Vol. 9, No. 48 (1935-08-17)",
+    "creator": [],
+    "publisher": "Miami Life",
+    "date": "1935-08-17",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Bankruptcy",
+      "Fraud",
+      "Graft",
+      "Political corruption",
+      "City government",
+      "Automobile accidents",
+      "Traffic safety",
+      "Chamber of Commerce",
+      "Miami Beach (Fla.)",
+      "Horse racing",
+      "Jockeys",
+      "Beauty contests",
+      "Employment",
+      "Local business advertising"
+    ],
+    "description": "Issue includes investigative commentary alleging a Miami-area bankruptcy \"ring\" involving referee L. Earl Curry, receiver L. M. Gerstel, and Joe Morris, with discussion of the Miami Beach Gas Company/People's Gas Company case and other bankruptcies. Editorial content criticizes city officials (including Recreation Director Ernie Seiler) and discusses budget-revenue ideas. Features a traffic-safety campaign noting high automobile-accident deaths and urging brake testing and obeying traffic laws, plus local columns (\"Round the Town,\" \"Rambles and Rumbles\"), horse-racing tips by \"Jockey Jimmy,\" and coverage of Miami Life's working-girl beauty contest (winner: Mary Buckley, courthouse telephone operator).",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "1935"
+    ],
+    "contributor": [
+      "L. Earl Curry",
+      "L. M. Gerstel",
+      "Joe Morris",
+      "Ernie Seiler",
+      "Mary Buckley",
+      "L. L. Lee",
+      "W. Keith Phillips",
+      "Herbert Bagur",
+      "Reggie Chastain",
+      "Dixie Herlong",
+      "Leonard K. Thompson",
+      "Chief of Police McCarthy",
+      "Henry Baldwin",
+      "Roger Carter",
+      "Charles Helmly",
+      "Ira Ball",
+      "Ed Noe",
+      "Hammerhead Greeby",
+      "Ev Sewell"
+    ],
+    "relation": [
+      "Miami Life, Vol. 9, No. 48"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 7.31,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

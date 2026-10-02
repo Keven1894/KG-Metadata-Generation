@@ -1,0 +1,95 @@
+{
+  "doc_id": "FI21052701_00011",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052701_00011_19490312",
+    "title": "Miami Life (Miami, Fla.), Vol. XXIII, No. 11 (Saturday, 1949-03-12)",
+    "creator": [
+      "Reubin Clein",
+      "Ben F. Drucker"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-03-12",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Dr. T. Earl Moore",
+      "medical fraud",
+      "psychiatric clinics",
+      "patient abuse",
+      "crime and courts",
+      "Miami city government",
+      "municipal annexation",
+      "Biscayne Key",
+      "anti-communism",
+      "publicity and propaganda",
+      "Dade County Fair",
+      "gambling",
+      "labor unions",
+      "railroad stations",
+      "Florida East Coast Railway"
+    ],
+    "description": "Issue features an investigative report alleging abuse and racketeering by \"Torture Doctor\" Dr. T. Earl Moore, including claims of violence against a boy patient and earlier abuse of a 13-year-old girl; additional coverage includes editorials on anti-communist publicity, Miami City Commission actions regarding annexation south of 119th Street and Biscayne Key, reports and commentary on gambling and conduct at the Dade County Fair (including a postcard scheme selling the title of the \"Stop the Music\" mystery tune), local court items, legal notices, and discussion of relocating/removing the FEC railroad station and tracks from downtown Miami.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Dade County (Fla.)",
+      "Coral Gables (Fla.)",
+      "Miami Beach (Fla.)",
+      "Coconut Grove (Miami, Fla.)",
+      "1949"
+    ],
+    "contributor": [
+      "Dr. T. Earl Moore",
+      "Dr. S. E. Chambers",
+      "Rev. Joseph Barth",
+      "Robert L. Floyd",
+      "Perrine Palmer, Jr.",
+      "John W. Watson",
+      "Cecil C. Curry",
+      "Ben E. Willard",
+      "Russell Kay",
+      "Birger Anderson",
+      "Paul Evans",
+      "Beverly D. Benson",
+      "Tom Grady",
+      "Dr. T. E. Cato",
+      "Ellis Knox"
+    ],
+    "relation": [
+      "Miami Life, Vol. XXIII, No. 11"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 9.0,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

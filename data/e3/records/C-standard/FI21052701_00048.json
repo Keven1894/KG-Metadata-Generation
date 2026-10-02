@@ -1,0 +1,92 @@
+{
+  "doc_id": "FI21052701_00048",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052701_00048",
+    "title": "MIAMI LIFE, Saturday, Nov. 26, 1949 (Vol. XXIII, No. 48)",
+    "creator": [
+      "REUBIN CLEIN https://id.loc.gov/authorities/names/no2009093233"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-11-26",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Miami (Fla.)—Politics and government",
+      "Municipal elections—Miami (Fla.)",
+      "Police—Miami (Fla.)",
+      "Sex crimes—Prevention",
+      "Prostitution—Florida",
+      "Gambling—Florida",
+      "Cigarette smoking—Health aspects",
+      "Lung cancer—Risk factors",
+      "Press and advertising—United States",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Health https://id.loc.gov/authorities/subjects/sh00006004",
+      "Entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027"
+    ],
+    "description": "Issue includes commentary on the new Miami city commission and the recent commission election, discussion of policing and proposals to curb sex crimes (including advice to parents and debate over controlled/segregated prostitution districts), and coverage of gambling and civic reputation. It also prints and discusses an Associated Press report on cigarette smoking as a factor in lung cancer and alleges suppression of such news by major newspapers due to advertising. Additional local columns and notices include postal employees honoring Miami postmaster Samuel R. Valliere, utility-subscribers organizing, and other Miami-area civic and community items.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Greater Miami https://www.geonames.org/4157383",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Bayfront Park https://www.geonames.org/4146892",
+      "Hallandale https://www.geonames.org/4157898",
+      "Port-au-Prince https://id.loc.gov/authorities/names/n79074525",
+      "Haiti https://www.geonames.org/4166448",
+      "1949-11"
+    ],
+    "contributor": [
+      "BEN F. DRUCKER",
+      "Henry Chase https://id.loc.gov/authorities/names/no2009093233",
+      "J. Edgar Hoover https://id.loc.gov/authorities/names/n79077374",
+      "Samuel R. Valliere",
+      "George Smathers",
+      "Ed Larsen",
+      "Claude Pepper",
+      "Alex McWilliams",
+      "Cecil C. Curry",
+      "Mark Well"
+    ],
+    "relation": [
+      "Vol. XXIII, No. 48"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 18.95,
+    "context_chars": 67890,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

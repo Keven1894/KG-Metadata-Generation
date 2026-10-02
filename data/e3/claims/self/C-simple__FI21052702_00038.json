@@ -1,0 +1,257 @@
+{
+  "doc_id": "FI21052702_00038",
+  "n_claims": 45,
+  "n_supported": 44,
+  "n_contradicted": 0,
+  "claim_precision": 0.9778,
+  "per_field": {
+    "subject": {
+      "n": 12,
+      "supported": 11
+    },
+    "description": {
+      "n": 18,
+      "supported": 18
+    },
+    "coverage": {
+      "n": 2,
+      "supported": 2
+    },
+    "contributor": {
+      "n": 10,
+      "supported": 10
+    },
+    "relation": {
+      "n": 3,
+      "supported": 3
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue contains content about politics and government in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about municipal finance.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about auditing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about city clerks.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about courts.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about bail and bonds.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about gambling devices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about marble boards.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about crime and law enforcement.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about baseball.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about fishing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about horse racing.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local political reporting.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local legal reporting.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Lead coverage reports that City Clerk Harold E. Ross acknowledged an expected audit showing an approximately $12,000 shortage in city clerk accounts.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The reported approximately $12,000 shortage is attributed to unpaid municipal court fines.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The reported approximately $12,000 shortage is attributed to court practices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The reported approximately $12,000 shortage is attributed to professional bondsmen.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The discussion includes calls for improved procedures.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The discussion includes calls for audits.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Another major article predicts enforcement action against marble-board gambling devices in Miami.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The prediction of enforcement action cites City Solicitor Abe Aronovitz.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The prediction of enforcement action cites Mayor A. D. H. Fossey.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local gossip or columns.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes advertisements.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes sports coverage about baseball.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes sports coverage about fishing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a horse-racing tip or service feature.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is associated with Miami, Florida, United States.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is associated with the date 1935-06-08.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Harold E. Ross appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "A. D. H. Fossey appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Abe Aronovitz appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Harry E. Platt appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Parker A. Henderson appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Charles Laughinghouse appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Louis Schwartz appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ben C. Willard appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Tom Stowe appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Henry M. Flagler appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is part of the newspaper Miami Life (Miami, Florida).",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is in Volume 9 of Miami Life.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Number 38 of Volume 9 of Miami Life.",
+      "verdict": "supported"
+    }
+  ],
+  "tier": "C-simple"
+}

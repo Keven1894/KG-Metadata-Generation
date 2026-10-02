@@ -1,0 +1,89 @@
+{
+  "doc_id": "FI21052703_00047",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00047",
+    "title": "MIAMI LIFE, 1928-12-01 (Volume 5, Number 39)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-12-01",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Traffic regulation—Miami (Fla.)",
+      "One-way streets—Miami (Fla.)",
+      "Parking—Miami (Fla.)",
+      "Municipal government—Miami (Fla.)",
+      "Miami Beach (Fla.)—Politics and government",
+      "Mayors—Election—Miami Beach (Fla.)",
+      "politics (https://id.loc.gov/authorities/subjects/sh85104466)",
+      "transportation (https://id.loc.gov/authorities/subjects/sh2001008994)",
+      "business (https://id.loc.gov/authorities/subjects/sh85018260)",
+      "tourism (https://id.loc.gov/authorities/subjects/sh85136255)",
+      "crime (https://id.loc.gov/authorities/subjects/sh85033993)",
+      "health (https://id.loc.gov/authorities/subjects/sh00006004)",
+      "entertainment (https://id.loc.gov/authorities/subjects/sh96009616)",
+      "Milk supply—Quality control—Miami (Fla.)",
+      "Hospitals—Medical staff—Miami (Fla.)",
+      "Greyhound racing—Miami (Fla.)",
+      "Kennel clubs—Miami Beach (Fla.)"
+    ],
+    "description": "Issue includes editorials and commentary on Miami municipal governance and civic finance, with prominent coverage of downtown traffic changes (two-way vs. one-way streets), parking congestion, and public safety. Reports and opinion pieces address Miami Beach mayoralty politics and the upcoming election, warnings about seasonal crime targeting tourists, and local business/tourism conditions at the start of the winter season. Health-related coverage discusses concerns about Miami’s milk supply and Jackson Memorial Hospital staff policies. Entertainment and local events include dog/greyhound racing promotions and theater/club advertisements, along with assorted local notes and political advertisements.",
+    "coverage": [
+      "Miami (https://www.geonames.org/4164138)",
+      "Miami Beach (https://www.geonames.org/4164143)",
+      "Lincoln Road (https://www.geonames.org/4162034)",
+      "1928-12"
+    ],
+    "contributor": [
+      "W. W. Farnham (https://id.loc.gov/authorities/names/n80120637)",
+      "Fred Girton (https://id.loc.gov/authorities/names/n2023027666)",
+      "Herbert Hoover (https://id.loc.gov/authorities/names/n80104366)",
+      "Jackson Memorial Hospital (https://id.loc.gov/authorities/names/n79131242)",
+      "O. S. PARMER",
+      "Bob Purvis",
+      "Hal W. Potter",
+      "S. C. Ebbets",
+      "Val C. Cleary",
+      "FRANCES D. WILLIAMS"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 5, Number 39"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": "Access provided for research and educational use. Copyright status not determined; users are responsible for any rights clearance required for reuse."
+  },
+  "provenance": {
+    "latency_s": 13.4,
+    "context_chars": 67638,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

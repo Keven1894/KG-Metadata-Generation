@@ -1,0 +1,95 @@
+{
+  "doc_id": "FI21052700_00047",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052700_00047",
+    "title": "Miami Life, Volume 4, Number 42 (December 3, 1927)",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life",
+    "date": "1927-12-03",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Tourism",
+      "Miami Beach (Fla.)",
+      "Local government",
+      "Municipal finance",
+      "Embezzlement trials",
+      "Employment agencies",
+      "Labor exploitation",
+      "Law enforcement",
+      "Prohibition",
+      "Civic organizations",
+      "Elks (B.P.O.E.)",
+      "Conventions",
+      "Political campaigns",
+      "Advertising and consumer protection"
+    ],
+    "description": "Issue includes editorials and local commentary on Miami’s winter tourist season and attractions; complaints about fraudulent tropical fruit vendors; discussion of employment-bureau fees and other petty graft; coverage of disputes over city appropriations for major conventions (including the Elks and Shriners); and extensive reporting and opinion on the city finance/embezzelement case involving former city cashier W. A. Means, alongside political notes and Miami Beach Democratic Club announcements.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "1927-12-03"
+    ],
+    "contributor": [
+      "S. B. Ebbetts",
+      "Leslie Quigg",
+      "W. A. Means",
+      "Judge Stoneman",
+      "Weatherman Gray",
+      "Doc Dammers",
+      "Sidney J. Catts",
+      "Henry R. Chase",
+      "Newt Lummus",
+      "Fred W. Pine",
+      "Victor Hope",
+      "Judge Walsh",
+      "County Solicitor Taylor",
+      "Fritz Gordon",
+      "W. E. Nichols",
+      "C. L. Huddleson",
+      "Martin",
+      "Armstrong",
+      "Eddie McGuire"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida); Volume 4, Number 42"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 7.81,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

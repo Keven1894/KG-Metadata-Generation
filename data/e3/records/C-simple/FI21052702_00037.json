@@ -1,0 +1,99 @@
+{
+  "doc_id": "FI21052702_00037",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052702_00037",
+    "title": "Miami Life (Miami, Florida), Vol. 9, No. 37 (June 1, 1935)",
+    "creator": [],
+    "publisher": "Miami Life",
+    "date": "1935-06-01",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "National Recovery Administration (NRA)",
+      "Labor conditions",
+      "Wages",
+      "Working hours",
+      "Gambling",
+      "Marble board gambling",
+      "Slot machines",
+      "Law enforcement",
+      "Political appointments",
+      "Dog racing",
+      "Petitions and referendums",
+      "Miami Beach politics",
+      "Automobile accidents",
+      "University of Miami",
+      "Indianapolis 500",
+      "Horse racing",
+      "Local businesses",
+      "Advertising"
+    ],
+    "description": "Issue includes editorials and reports on post-NRA labor standards and calls for businesses to maintain fair wages and hours; an exposé on illegal marble board gambling operations in Miami (including concerns about minors gambling and syndicate control); advocacy to end dog racing in Dade County via petition and referendum; political rumors and appointments in Florida and Miami; a report that Miami Beach Mayor Louis A. Snedigar may resign following an auto accident; campus and sports columns (University of Miami notes, Indianapolis Speedway critique, horse-racing tips); and extensive local merchant advertising.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "Florida",
+      "1935"
+    ],
+    "contributor": [
+      "Henry L. Doherty",
+      "Princess Barbara",
+      "Bill Frey",
+      "Gov. Dave Sholtz",
+      "W. C. Hodges",
+      "Robert Taylor",
+      "Glenn C. Mincer",
+      "Patrick A. Cannon",
+      "Max Goldstein",
+      "Wayne Allen",
+      "Joe Frank",
+      "John Rowland",
+      "Major E. J. Close",
+      "Louis A. Snedigar",
+      "Claude Renshaw",
+      "John Levi",
+      "R. J. Clein",
+      "Tom Stowe",
+      "Jockey Jimmy",
+      "Dean Rasco"
+    ],
+    "relation": [
+      "Miami Life, Vol. 9, No. 37"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 7.85,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

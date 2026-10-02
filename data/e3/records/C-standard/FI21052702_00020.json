@@ -1,0 +1,83 @@
+{
+  "doc_id": "FI21052702_00020",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00020",
+    "title": "MIAMI LIFE, 1935-02-02 (Vol. 9, No. 20)",
+    "creator": [
+      "M. Henry, EDITOR"
+    ],
+    "publisher": "LIFE PUBLISHING COMPANY",
+    "date": "1935-02-02",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Grand juries—Florida—Miami",
+      "Gambling—Florida—Miami Beach",
+      "Horse racing—Florida—Hialeah",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Racing https://id.loc.gov/authorities/subjects/sh85110265",
+      "Traffic regulation—Florida—Miami",
+      "Divorce—Florida",
+      "Municipal government—Florida—Miami"
+    ],
+    "description": "Issue includes editorials and commentary on South Florida politics and governance, including discussion of grand jury activity, local political control, and proposals affecting city commissioners. Coverage also addresses tourism conditions and the local economy, with criticism of gambling interests and horse racing operations (including Hialeah) and their effects on Miami. Regular columns and nightlife/entertainment items appear, along with letters to the editor and extensive advertisements and racing-related tips.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "South Florida https://www.geonames.org/12217087",
+      "Palm Beach County https://www.geonames.org/4177887",
+      "1935-02-02"
+    ],
+    "contributor": [
+      "Huey Long https://id.loc.gov/authorities/names/n79023309",
+      "Bob Baker https://id.loc.gov/authorities/names/n80155075",
+      "Col. E. R. Bradley",
+      "Joe E. Widener",
+      "Mayor Ev Sewell",
+      "Chief McCreary",
+      "Arthur A. Perkins",
+      "Pat Murphy"
+    ],
+    "relation": [
+      "MIAMI LIFE; Vol. 9, No. 20"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 9.41,
+    "context_chars": 67442,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "doc_id": "FI21052701_00014",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "FI21052701_00014",
+    "title": "Miami Life, April 2, 1949 (Vol. XXIII, No. 14)",
+    "creator": [
+      "Reubin Clein"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-04-02",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Miami Retreat (Miami, Fla.)—Investigation and criticism",
+      "Mental health facilities—Abuse of patients—Florida",
+      "Fraud—Hospitals and sanitaria—Florida",
+      "Veterans—Florida—Pensions",
+      "Jackson Memorial Hospital—Patient admission records https://id.loc.gov/authorities/names/n79131242",
+      "Oil fields—Florida—Collier County",
+      "Everglades City—Economic conditions https://www.geonames.org/4154657",
+      "Tamiami Trail (Fla.) https://www.geonames.org/4174754",
+      "Biscayne Bay—Pollution https://www.geonames.org/4147971",
+      "Miami River—Pollution https://www.geonames.org/4164208",
+      "Spiritualism—Fraudulent practices",
+      "Nelson Enterprises https://id.loc.gov/authorities/names/n2002067408",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "health https://id.loc.gov/authorities/subjects/sh00006004",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "tourism https://id.loc.gov/authorities/subjects/sh85136255"
+    ],
+    "description": "Issue features an extended exposé and follow-up reporting on conditions at the Miami Retreat, including allegations of patient abuse, questionable billing practices involving county charges, and calls for investigation; includes coverage of Disabled American Veterans Post No. 10 urging action by Gov. Warren and Crime Commission Director Dan Sullivan. Also reports a bulletin questioning Jackson Memorial Hospital intake records in a death case, discusses oil drilling activity west of Miami near Everglades City and the Trail (Tamiami Trail), argues for pensions for unemployed veterans of both World Wars, critiques proposed water-rate increases and local politics, and runs a piece on fraudulent spiritualist/medium practices and related commercial suppliers. Contains regular columns and local commentary plus advertisements and entertainment/nightlife listings.",
+    "coverage": [
+      "Miami, Florida https://www.geonames.org/4164138",
+      "Everglades City https://www.geonames.org/4154657",
+      "The Trail (Tamiami Trail) https://www.geonames.org/4174754",
+      "Biscayne Bay https://www.geonames.org/4147971",
+      "Miami River https://www.geonames.org/4164208",
+      "1949-04-02"
+    ],
+    "contributor": [
+      "Harry Ayres https://id.loc.gov/authorities/names/n82036798",
+      "Dan Sullivan https://id.loc.gov/authorities/names/no2017160189",
+      "Edward (Dick) Tracy",
+      "Gov. Warren",
+      "Glenn Mincer",
+      "Philip Wylie",
+      "Rev. Geo. W. Wahlin",
+      "Mayor Robert L. Floyd"
+    ],
+    "relation": [
+      "Vol. XXIII, No. 14"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 12.52,
+    "context_chars": 72295,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

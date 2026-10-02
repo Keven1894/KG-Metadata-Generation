@@ -1,0 +1,99 @@
+{
+  "doc_id": "FI21052700_00020",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052700_00020",
+    "title": "Miami Life — 1927-05-28 (Volume 4, Number 18)",
+    "creator": [
+      "Wen R. Phillips",
+      "Lysle E. Fesler"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1927-05-28",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper text (OCR)",
+    "language": "en",
+    "subject": [
+      "Municipal elections",
+      "City commissioners",
+      "Miami politics",
+      "Taxation",
+      "Public utilities",
+      "Florida Power & Light Company",
+      "Gambling",
+      "Pari-mutuel betting",
+      "Horse racing",
+      "Hialeah Park Race Track",
+      "Everglades fires",
+      "Miami Beach county proposal",
+      "Postmasters Association of Florida",
+      "Memorial Day",
+      "Civic reform"
+    ],
+    "description": "Issue includes editorials and commentary on the upcoming Miami municipal election and city commissioner candidates (including Ev Sewell, Cliff Reeder, Red/ Judge Gautier, Harry Platt, Abe Aronovitz, and Jimmie Donn), urging voters to oppose banker-backed candidates and criticizing bond issues and utility influence (Florida Power & Light). Coverage also addresses gambling and the pari-mutuel racing bill (including discussion of anti-racing advocate Marcus A. Milam), Everglades fires and political criticism of Governor John Martin, a satirical piece on a proposed new Miami Beach county, local civic notes, and advertisements and political ads.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "Everglades (Fla.)",
+      "1927-05"
+    ],
+    "contributor": [
+      "Ev Sewell",
+      "Cliff Reeder",
+      "Red (Judge) Gautier",
+      "Harry Platt",
+      "Abe Aronovitz",
+      "Jimmie Donn",
+      "Senator John Watson",
+      "Marcus A. Milam",
+      "Governor John Martin",
+      "O. W. Pittman",
+      "Joe M. Smoot",
+      "Judge Grubb",
+      "Kent Watson",
+      "J. C. Brown",
+      "Charles A. Mills",
+      "Phineas E. Paist",
+      "Denman Fink",
+      "John McCrae",
+      "R. W. Lillard",
+      "R. Hammerhead Greeby"
+    ],
+    "relation": [
+      "Miami Life, Volume 4, Number 18"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 12.25,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

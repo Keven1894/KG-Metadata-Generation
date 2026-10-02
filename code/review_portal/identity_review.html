@@ -1,0 +1,248 @@
+{% extends "base.html" %}
+{% block title %}Identity audit · #{{ p.item.sort_order }}{% endblock %}
+{% block head %}
+<style>
+.id-head{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;flex-wrap:wrap}
+.id-progress{font-size:12.5px;color:var(--mut);text-align:right;line-height:1.5}
+.id-progress b{color:#222}
+.id-bar{height:6px;background:#eee;border-radius:4px;overflow:hidden;width:260px;margin-top:4px}
+.id-bar span{display:block;height:100%;background:var(--good)}
+.candidate{border:1px solid var(--line);border-radius:12px;padding:14px 16px;background:#fff}
+.candidate .surface{font-size:22px;font-weight:600}
+.candidate .lbl{font-size:15px;margin-top:6px}
+.candidate .uri{word-break:break-all}
+.ctx-doc{border-top:1px solid var(--line);padding:10px 0}
+.ctx-doc:first-child{border-top:0}
+.ctx-doc .doc{display:flex;gap:10px;align-items:baseline;flex-wrap:wrap}
+.snip{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:12.5px;line-height:1.5;
+      background:#fafafa;border:1px solid #eee;border-radius:8px;padding:8px 10px;margin:6px 0;white-space:pre-wrap}
+.snip mark{background:#ffe58a;padding:0 2px}
+.g0{font-size:12.5px;color:#444;background:#f6f4fa;border-radius:8px;padding:8px 10px;margin-top:10px}
+.labels{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-top:12px}
+.labels .btn{padding:12px 8px;font-size:14px;text-align:center;background:#eee;color:#222}
+.labels .btn kbd{opacity:.55;font-size:11px;margin-right:6px}
+.labels .btn.on{outline:3px solid var(--accent);background:#fff}
+.sev{display:none;gap:8px;margin-top:10px}
+.sev.show{display:flex}
+.sev .btn.on{outline:3px solid var(--bad)}
+.extra{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:12px;font-size:13px}
+.extra select,.extra input[type=text]{width:100%;padding:7px 8px;border:1px solid var(--line);border-radius:8px}
+.footer-nav{display:flex;justify-content:space-between;align-items:center;margin-top:14px;gap:10px}
+.hint{font-size:12px;color:var(--mut)}
+.hint kbd{border:1px solid #ccc;border-bottom-width:2px;border-radius:4px;padding:0 5px;font-size:11px;background:#fff}
+</style>
+{% endblock %}
+{% block content %}
+{% set it = p.item %}
+{% set ex = p.existing %}
+<div class="review" id="identityRoot" data-item="{{ it.id }}">
+  <div class="id-head">
+    <div>
+      <h1>Identity audit <span class="badge task-claim_verify">E2</span>
+        <span class="muted mono" style="font-size:14px">
+          item {{ it.sort_order }}
+          {% if p.assigned_range %}· assigned {{ p.assigned_range[0] }}–{{ p.assigned_range[1] }}
+          {% else %}/ {{ p.progress.total }}{% endif %}
+        </span></h1>
+      <div class="muted">
+        Is this authority record the <b>same entity</b> the newspaper is talking about?
+        Read the OCR context, open the record, decide. You do not see and should not guess what the
+        machine decided.
+        {% if p.assigned_range %}Work in order without selectively skipping items.{% endif %}
+      </div>
+    </div>
+    <div class="id-progress">
+      <b id="progDone">{{ p.progress.done }}</b> of {{ p.progress.total }} labelled
+      (<span id="progPct">{{ p.progress.pct }}</span>%) ·
+      <span id="progMin">{{ p.progress.active_min }}</span> min so far
+      <span id="progExtra">{% if p.progress.median_sec %} · median {{ p.progress.median_sec }} s/item
+      {% if p.progress.eta_hours is not none %} · ≈{{ p.progress.eta_hours }} h left{% endif %}{% endif %}</span>
+      <div class="id-bar"><span id="progBar" style="width:{{ p.progress.pct }}%"></span></div>
+    </div>
+  </div>
+
+  <div class="panes">
+    <section class="pane source">
+      <h2>Newspaper context <small>{{ it.doc_ids|length }} issue(s) where this decision occurred</small></h2>
+      {% for c in p.contexts %}
+      <div class="ctx-doc">
+        <div class="doc">
+          <span class="mono">{{ c.doc_id }}</span>
+          <a href="{{ base_path }}/source/ocr/{{ c.doc_id }}" target="_blank">full OCR</a>
+          <a href="{{ base_path }}/source/pdf/{{ c.doc_id }}" target="_blank">PDF</a>
+          {% if not c.found %}<span class="muted">(OCR not on this host)</span>
+          {% elif c.n_hits == 0 %}<span class="muted">(surface not found verbatim in OCR — open full text)</span>
+          {% else %}<span class="muted">{{ c.n_hits }} hit(s){% if c.match_level != 'exact' %}, matched by {{ c.match_level }}{% endif %}</span>{% endif %}
+        </div>
+        {% for s in c.snippets %}
+        <div class="snip">…{{ s.before }}<mark>{{ s.hit }}</mark>{{ s.after }}…</div>
+        {% endfor %}
+      </div>
+      {% endfor %}
+      {% if p.n_more_docs %}
+      <div class="muted" style="margin-top:8px">+ {{ p.n_more_docs }} more issue(s):
+        {% for d in it.doc_ids[6:] %}<a class="mono" href="{{ base_path }}/source/ocr/{{ d }}" target="_blank">{{ d }}</a>{{ ", " if not loop.last }}{% endfor %}
+      </div>
+      {% endif %}
+      {% if it.g0_local_context %}
+      <div class="g0"><b>Collection context</b> (what the corpus itself says about this name):<br>{{ it.g0_local_context }}</div>
+      {% endif %}
+    </section>
+
+    <section class="pane editor">
+      <h2>Authority candidate</h2>
+      <div class="candidate">
+        <div class="surface">{{ it.surface }} <span class="badge fld">{{ it.entity_type }}</span></div>
+        <div class="lbl">→ <b>{{ it.candidate_label or '(no label cached)' }}</b></div>
+        <div class="uri"><a href="{{ it.candidate_uri }}" target="_blank" rel="noopener">{{ it.candidate_uri }}</a></div>
+        {% if it.card_fields %}<div class="muted" style="margin-top:6px">Appears in card field(s): {{ it.card_fields|join(', ') }}</div>{% endif %}
+      </div>
+
+      <div class="labels" id="labels">
+        <button type="button" class="btn choice {{ 'on' if ex and ex.label=='correct' }}" data-label="correct"><kbd>1</kbd>Correct<br><small class="muted">same entity</small></button>
+        <button type="button" class="btn choice {{ 'on' if ex and ex.label=='wrong' }}" data-label="wrong"><kbd>2</kbd>Wrong<br><small class="muted">different entity</small></button>
+        <button type="button" class="btn choice {{ 'on' if ex and ex.label=='true_nil' }}" data-label="true_nil"><kbd>3</kbd>True NIL<br><small class="muted">no suitable record exists</small></button>
+        <button type="button" class="btn choice {{ 'on' if ex and ex.label=='indeterminate' }}" data-label="indeterminate"><kbd>4</kbd>Indeterminate<br><small class="muted">evidence insufficient</small></button>
+      </div>
+
+      <div class="sev {{ 'show' if ex and ex.label=='wrong' }}" id="sev">
+        <span class="muted" style="align-self:center">Severity:</span>
+        <button type="button" class="btn small sev-choice {{ 'on' if ex and ex.severity=='critical' }}" data-sev="critical"><kbd>Q</kbd> critical — user would take it as fact</button>
+        <button type="button" class="btn small sev-choice {{ 'on' if ex and ex.severity=='major' }}" data-sev="major"><kbd>W</kbd> major — related but wrong</button>
+        <button type="button" class="btn small sev-choice {{ 'on' if ex and ex.severity=='minor' }}" data-sev="minor"><kbd>E</kbd> minor — harmless variant</button>
+      </div>
+
+      <div class="extra">
+        <label>Why can't a machine settle this? <small class="muted">(optional; for wrong / indeterminate)</small>
+          <select id="residual">
+            <option value="">—</option>
+            {% for r in p.residual_reasons %}
+            <option value="{{ r }}" {{ 'selected' if ex and ex.residual_reason==r }}>{{ r.replace('_',' ') }}</option>
+            {% endfor %}
+          </select>
+        </label>
+        <label>Note <small class="muted">(optional)</small>
+          <input type="text" id="note" value="{{ ex.note if ex and ex.note else '' }}" placeholder="e.g. OCR says Dr. J. W. Wilcox, dentist; record is a Confederate officer">
+        </label>
+      </div>
+      <label class="hint" style="display:block;margin-top:8px">
+        <input type="checkbox" id="varies" {{ 'checked' if ex and ex.varies_by_issue }}>
+        identity differs across the listed issues (label the most common case, explain in note)
+      </label>
+
+      <div class="footer-nav">
+        <div>
+          {% if p.nav.prev_id %}<a class="btn small" href="{{ base_path }}/identity?item={{ p.nav.prev_id }}">← prev</a>{% endif %}
+          {% if not is_identity_reviewer(user) and p.nav.next_id %}<a class="btn small" href="{{ base_path }}/identity?item={{ p.nav.next_id }}">next →</a>{% endif %}
+          <a class="btn small" href="{{ base_path }}/identity">next unlabelled</a>
+        </div>
+        <div>
+          <button type="button" class="btn primary" id="saveNext">Save &amp; next</button>
+          <span id="savestate" class="savestate">click a label — it saves automatically</span>
+        </div>
+      </div>
+      <div class="hint" style="margin-top:8px">
+        <kbd>1</kbd>–<kbd>4</kbd> label · <kbd>Q</kbd><kbd>W</kbd><kbd>E</kbd> severity · <kbd>Enter</kbd> save &amp; next{% if not is_identity_reviewer(user) %} · <kbd>N</kbd> skip{% endif %}
+      </div>
+    </section>
+  </div>
+</div>
+{% endblock %}
+{% block scripts %}
+<script>
+(() => {
+  {% set it = p.item %}{% set ex = p.existing %}
+  const itemId = {{ it.id | tojson }};
+  const nextUrl = `${window.BASE_PATH}/identity`;
+  const skipUrl = {{ p.nav.next_id | tojson }} ? `${window.BASE_PATH}/identity?item={{ p.nav.next_id }}` : nextUrl;
+  let label = {{ (ex.label if ex else none) | tojson }};
+  let severity = {{ (ex.severity if ex else none) | tojson }};
+
+  let activeMs = 0, lastTick = Date.now(), focused = document.hasFocus();
+  setInterval(() => { const now = Date.now(); if (focused) activeMs += now - lastTick; lastTick = now; }, 1000);
+  window.addEventListener('focus', () => { focused = true; lastTick = Date.now(); });
+  window.addEventListener('blur', () => { if (focused) activeMs += Date.now() - lastTick; focused = false; });
+
+  const labelBtns = document.querySelectorAll('.choice');
+  const sevBox = document.getElementById('sev');
+  const sevBtns = document.querySelectorAll('.sev-choice');
+  const state = document.getElementById('savestate');
+
+  function setLabel(v) {
+    label = v;
+    labelBtns.forEach(b => b.classList.toggle('on', b.dataset.label === v));
+    sevBox.classList.toggle('show', v === 'wrong');
+    if (v !== 'wrong') { severity = null; sevBtns.forEach(b => b.classList.remove('on')); }
+    if (v === 'wrong' && !severity) {
+      state.textContent = 'pick a severity (Q/W/E) — then it saves';
+      state.className = 'savestate dirty';
+      return;
+    }
+    save(false);
+  }
+  function setSev(v) {
+    severity = v;
+    sevBtns.forEach(b => b.classList.toggle('on', b.dataset.sev === v));
+    if (label === 'wrong') save(false);
+  }
+  labelBtns.forEach(b => b.addEventListener('click', () => setLabel(b.dataset.label)));
+  sevBtns.forEach(b => b.addEventListener('click', () => setSev(b.dataset.sev)));
+  document.getElementById('saveNext').addEventListener('click', () => save(true));
+  document.getElementById('residual').addEventListener('change', () => { if (label) save(false); });
+  document.getElementById('note').addEventListener('change', () => { if (label) save(false); });
+  document.getElementById('varies').addEventListener('change', () => { if (label) save(false); });
+
+  function paintProgress(p) {
+    if (!p) return;
+    document.getElementById('progDone').textContent = p.done;
+    document.getElementById('progPct').textContent = p.pct;
+    document.getElementById('progMin').textContent = p.active_min;
+    document.getElementById('progBar').style.width = p.pct + '%';
+    let extra = '';
+    if (p.median_sec) extra += ` · median ${p.median_sec} s/item`;
+    if (p.eta_hours != null) extra += ` · ≈${p.eta_hours} h left`;
+    document.getElementById('progExtra').textContent = extra;
+  }
+
+  async function save(goNext) {
+    if (!label) { state.textContent = 'pick a label first'; state.className = 'savestate dirty'; return; }
+    if (label === 'wrong' && !severity) { state.textContent = 'pick a severity (Q/W/E) — then it saves'; state.className = 'savestate dirty'; return; }
+    if (focused) { activeMs += Date.now() - lastTick; lastTick = Date.now(); }
+    state.textContent = 'saving…'; state.className = 'savestate dirty';
+    const r = await fetch(`${window.BASE_PATH}/api/identity-item/${itemId}`, {
+      method: 'POST', headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({
+        label, severity,
+        varies_by_issue: document.getElementById('varies').checked,
+        residual_reason: document.getElementById('residual').value || null,
+        note: document.getElementById('note').value,
+        active_ms: activeMs,
+      }),
+    });
+    if (!r.ok) { state.textContent = 'save failed: ' + (await r.text()); state.className = 'savestate dirty'; return; }
+    const body = await r.json();
+    activeMs = 0;
+    state.textContent = 'saved'; state.className = 'savestate';
+    paintProgress(body.progress);
+    if (goNext) window.location.href = nextUrl;
+  }
+
+  document.addEventListener('keydown', (e) => {
+    const tag = (e.target.tagName || '').toLowerCase();
+    if (tag === 'input' && e.target.type === 'text') { if (e.key === 'Enter') { e.preventDefault(); save(true); } return; }
+    if (tag === 'select') return;
+    const k = e.key.toLowerCase();
+    if (k === '1') setLabel('correct');
+    else if (k === '2') setLabel('wrong');
+    else if (k === '3') setLabel('true_nil');
+    else if (k === '4') setLabel('indeterminate');
+    else if (k === 'q' && label === 'wrong') setSev('critical');
+    else if (k === 'w' && label === 'wrong') setSev('major');
+    else if (k === 'e' && label === 'wrong') setSev('minor');
+    else if (k === 'enter') { e.preventDefault(); save(true); }
+    {% if not is_identity_reviewer(user) %}else if (k === 'n') { window.location.href = skipUrl; }{% endif %}
+    else if (k === 's') { save(false); }
+  });
+})();
+</script>
+{% endblock %}

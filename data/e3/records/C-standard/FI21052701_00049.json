@@ -1,0 +1,89 @@
+{
+  "doc_id": "FI21052701_00049",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052701_00049",
+    "title": "Miami Life, Saturday, Dec. 3, 1949 (Vol. XXIII, No. 49)",
+    "creator": [
+      "Reubin Clein"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-12-03",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Gambling—Florida—Miami Beach",
+      "Bookmaking—Florida—Miami Beach",
+      "Organized crime—Florida—Miami Beach",
+      "Municipal government—Florida—Miami",
+      "Public libraries—Florida—Miami",
+      "Public buildings—Site selection—Florida—Miami",
+      "Labor unions—United Mine Workers of America",
+      "National health insurance—United States",
+      "American Medical Association",
+      "Wages—United States",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "health https://id.loc.gov/authorities/subjects/sh00006004"
+    ],
+    "description": "Issue features editorials and commentary on Miami Beach gambling and bookmaking being \"closed\" due to a struggle between rival gambling groups, with discussion of impacts on hotels and local families. Additional pieces address Miami municipal politics and patronage, controversy over the proposed public library site (Bayfront Park vs. Lummus Park), labor and union matters, criticism of the American Medical Association’s stance on national health insurance, and analysis of Federal Reserve Board income figures; includes regular columns, advertisements, and local notices.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Bayfront Park https://www.geonames.org/4146892",
+      "Lummus Park https://www.geonames.org/4162994",
+      "Allapattah https://www.geonames.org/4145805",
+      "Coral Gables https://www.geonames.org/4151871",
+      "1949"
+    ],
+    "contributor": [
+      "Robert R. Quinn https://id.loc.gov/authorities/names/n88635746",
+      "BEN P. DRUCKER",
+      "Louis Bandel",
+      "William Wolfarth",
+      "Hoite Agey",
+      "O. P. Hart",
+      "Perrine Palmer",
+      "H. Leslie Quigg",
+      "Drew Pearson",
+      "Cecil C. Curry",
+      "Ernest W. Fields, Jr."
+    ],
+    "relation": [
+      "Vol. XXIII, No. 49"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": "Digitized for access by FIU Libraries; copyright status not determined. Use may be subject to copyright and other restrictions."
+  },
+  "provenance": {
+    "latency_s": 19.78,
+    "context_chars": 67564,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

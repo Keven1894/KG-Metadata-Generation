@@ -1,0 +1,84 @@
+{
+  "doc_id": "FI21052702_00035",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00035",
+    "title": "MIAMI LIFE, May 18, 1935 (Vol. 9, No. 35)",
+    "creator": [],
+    "publisher": "LIFE PUBLISHING COMPANY https://id.loc.gov/authorities/names/no2019078048",
+    "date": "1935-05-18",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Grand juries—Florida—Dade County",
+      "Prosecuting attorneys—Florida—Dade County",
+      "Political corruption—Florida—Miami",
+      "Gambling—Florida—Miami Beach",
+      "Loan sharking",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Horse racing—Tip sheets",
+      "Entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260"
+    ],
+    "description": "Issue includes a lengthy political exposé/attack on State's Attorney Vernon Hawthorne alleging protection of murder suspects, political manipulation, and grand jury abuses, with references to state politics and Miami Beach gambling interests. Also contains local election commentary and editorials, society/campus notes, sports coverage and horse-racing tip service advertisements, and extensive local business advertising oriented to Miami and Miami Beach entertainment and nightlife.",
+    "coverage": [
+      "Miami, Florida https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Tallahassee https://www.geonames.org/4174715",
+      "Bayfront Park https://www.geonames.org/4146892",
+      "Wauchula https://www.geonames.org/4177569",
+      "Tamiami Trail https://www.geonames.org/4174754",
+      "1935"
+    ],
+    "contributor": [
+      "Vernon Hawthorne",
+      "Hayes Lewis https://id.loc.gov/authorities/names/no2019025640",
+      "Fred Pine https://id.loc.gov/authorities/names/n84102288",
+      "Sheriff M. P. (Pop) Lehman",
+      "Governor Sholtz",
+      "Mayor Frank A. Katzentine",
+      "H. Leslie Quigg",
+      "Tom Stowe"
+    ],
+    "relation": [
+      "Vol. 9, No. 35"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": "Digitized for access by FIU Libraries; rights status not provided in OCR evidence."
+  },
+  "provenance": {
+    "latency_s": 18.11,
+    "context_chars": 67862,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 0.9,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

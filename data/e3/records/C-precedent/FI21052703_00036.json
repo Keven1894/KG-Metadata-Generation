@@ -1,0 +1,94 @@
+{
+  "doc_id": "FI21052703_00036",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00036",
+    "title": "Miami Life, September Fifteen, Nineteen Twenty-eight",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-09-15",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "prohibition https://id.loc.gov/authorities/subjects/sh85107330",
+      "racing https://id.loc.gov/authorities/subjects/sh85110265",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "humor https://id.loc.gov/authorities/subjects/sh2003003666",
+      "editorial https://id.loc.gov/authorities/subjects/sh85040974",
+      "Dry cleaning industry—Regulation—Miami (Fla.)",
+      "Municipal ordinances—Miami (Fla.)",
+      "Alligators—Law and legislation—Florida",
+      "Closed seasons (Wildlife)—Florida",
+      "Basketball—Florida—Miami",
+      "Nurses—Safety measures—Florida—Miami",
+      "Sex crimes—Florida—Miami",
+      "Public entertainments—Miami (Fla.)",
+      "Teachers—Salaries—Florida—Dade County",
+      "School boards—Florida—Dade County",
+      "Letters to the editor"
+    ],
+    "description": "Issue includes editorials and commentary on the prospects and regulation of horse racing in Miami, including concerns about wagering and political corruption; a report on a city ordinance affecting dry cleaners and tailors (including a proposed bond requirement) and calls for its repeal; an editorial about an alligator-killing arrest on the Tamiami Trail and its impact on relations with the Everglades area; coverage of local sports support for the Miami Basketball Club; letters and opinion pieces on public entertainments at Bayfront and on Dade County school administration and teacher pay; and a public-safety editorial urging protection for nurses following reported assaults.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Miami Shores https://www.geonames.org/4164211",
+      "Tamiami Trail https://www.geonames.org/4174754",
+      "Everglades https://www.geonames.org/4154657",
+      "Fort Myers https://www.geonames.org/4155995",
+      "1928-09-15"
+    ],
+    "contributor": [
+      "Jean Lind",
+      "Bank of Bay Biscayne",
+      "Manager Beckert",
+      "Doctor Straton",
+      "Mayor Sewell",
+      "MR R HAMMERHEAD GREEBY",
+      "Alice Patton",
+      "Norman Small",
+      "Judge J. W. Storter",
+      "Attorney D. M. Donaldson",
+      "Sheriff Thorpe"
+    ],
+    "relation": [
+      "Volume Number 33"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 9.66,
+    "context_chars": 71085,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

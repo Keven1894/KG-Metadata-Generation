@@ -1,0 +1,45 @@
+{
+  "run_id": "v4-c-standard-2026-07",
+  "unit": "(doc_id, dc_field, surface, candidate_uri) for accepted card embeds; (doc_id from registry or empty, surface, candidate_uri) for ledger refusals",
+  "accepted_occurrences": 2837,
+  "accepted_unique_uris": 521,
+  "accepted_occ_loc": 1923,
+  "accepted_occ_geonames": 914,
+  "unique_refusal_pairs": 361,
+  "unique_score_refusals": 324,
+  "unique_temporal_refusals": 37,
+  "refusal_rows_after_registry_expand": 1147,
+  "refusal_pairs_unlocalized": 2,
+  "unlocalized_surfaces": [
+    "advertisements",
+    "real_estate"
+  ],
+  "uris_in_both_accepted_and_ledger": 9,
+  "invalid_mixed_unit_rate_do_not_quote": 0.4093,
+  "cache_queries": {
+    "n_cache_keys": 4634,
+    "query_ok": 929,
+    "query_no_hit": 3705,
+    "query_api_error": 0,
+    "query_other": 0,
+    "note": "Query-level only; cannot join to (doc_id, mention) without re-running the linker."
+  },
+  "cannot_reconstruct": [
+    "ranked_candidates",
+    "extractor mention_id",
+    "mention-level no_hit/api_error",
+    "candidates accepted by gate but omitted by the generator"
+  ],
+  "snapshot": {
+    "cards_per_tier": {
+      "C-simple": 203,
+      "C-standard": 203,
+      "C-precedent": 203
+    },
+    "ledger_sha256": "730d39d9b3862e272e33c64c9f7515fccd5bab7394dcb843885fcbfa07c7fb2d",
+    "registry_sha256": "2ca5ee6a2ed77ca8140f56adde2243a12b310e339bc1f7d0d532dbb2bade27f7",
+    "cache_sha256": "685e7acc8e6ba69e56bc166e0b9136fc18526db90a712459a918c8da86f2f09f"
+  },
+  "table_path": "<path>",
+  "n_table_rows": 3984
+}

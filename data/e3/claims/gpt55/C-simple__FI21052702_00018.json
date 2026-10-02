@@ -1,0 +1,339 @@
+{
+  "doc_id": "FI21052702_00018",
+  "judge": "gpt55",
+  "n_claims": 61,
+  "n_supported": 37,
+  "n_contradicted": 1,
+  "claim_precision": 0.6066,
+  "per_field": {
+    "subject": {
+      "n": 10,
+      "supported": 10
+    },
+    "description": {
+      "n": 19,
+      "supported": 18
+    },
+    "coverage": {
+      "n": 4,
+      "supported": 4
+    },
+    "contributor": {
+      "n": 25,
+      "supported": 2
+    },
+    "relation": {
+      "n": 3,
+      "supported": 3
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue contains content about social life and customs in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about horse racing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about Hialeah Park Race Track in Hialeah, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about tourism in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about nightclubs in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about restaurants in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about liquor laws in Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about state societies in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains local gossip.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains advertising.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "This is a weekly issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue features local Miami social gossip columns titled \"They Tell Me\" and \"Things I'd Like to Know\".",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue features local Miami nightlife gossip columns titled \"They Tell Me\" and \"Things I'd Like to Know\".",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes extensive horse-racing coverage.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes horse-racing tips for Hialeah Park.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes horse-racing tips for Tropical Park.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes lists of horses described as \"ready to go\".",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a turfman interview.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on Miami Chamber of Commerce efforts involving state societies.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses Dade County liquor licensing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses Dade County liquor enforcement.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a letter to the editor from Mrs. Albert Haupt.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "In her letter, Mrs. Albert Haupt thanks the paper for coverage of the death of her son George Downs.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "George Downs is referred to as \"Skeets\" Downs in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains numerous advertisements for clubs in Miami and Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains numerous advertisements for bars in Miami and Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains numerous advertisements for restaurants in Miami and Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains numerous advertisements for services in Miami and Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains numerous advertisements for local businesses in Miami and Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue date is 1935-01-19.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "R. Hammerhead Greeby appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "George Sheldon appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Louie Duncan appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Bill Parrott appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Chuck Mulcahey appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Bill Heslington appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Dinny Conway appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Harry Houser appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Mercedes appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Gordon Mayer appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Tiny Parker appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Doc Hector Moreau appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Steve \"Big Stick\" Bravo appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "George Odom appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Walter Roberts appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Mackey Klein appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ben Zimmerman appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Anna Lee Strickland appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ed Swan appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Judge Dunn appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Mrs. Albert Haupt appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "George Downs appears in the issue as a contributor.",
+      "verdict": "contradicted"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ev Sewell appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Jockey Jimmy appears in the issue as a contributor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Fred Featherstone appears in the issue as a contributor.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is part of Miami Life.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is in Volume 9 of Miami Life.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Number 18 of Volume 9 of Miami Life.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-simple"
+}

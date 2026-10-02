@@ -1,0 +1,97 @@
+{
+  "doc_id": "FI21052703_00046",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00046",
+    "title": "Miami Life, 1928-11-24 (Volume 5, Number 38)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-11-24",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Traffic regulations—Miami (Fla.)",
+      "One-way streets—Miami (Fla.)",
+      "Downtown Miami—Transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Miami Beach (Fla.)—Sanitation",
+      "Cockroaches—Control",
+      "Teachers—Salaries—Florida—Dade County",
+      "Labor disputes—Motion picture theaters—Miami (Fla.)",
+      "Florida Power & Light Company",
+      "Municipal ownership—Florida—Fort Myers",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "Racing https://id.loc.gov/authorities/subjects/sh85110265"
+    ],
+    "description": "Weekly issue featuring editorials and local commentary on Miami’s change from one-way to two-way downtown traffic and anticipated accidents; discussion of wages and working conditions including teacher pay in Dade County; coverage of Miami Beach civic concerns (street cleaning, sanitation, sewer cockroaches, and street obstructions); notes on policing of transients and crime; commentary on Florida politics including Governor John W. Martin and tourism; items on labor conflict involving the Capitol theatre and unions; and letters and reports concerning Florida Power & Light franchise disputes in Fort Myers. Includes extensive entertainment and nightlife listings and advertisements (theatres, night clubs, hotels), plus humorous racing/kennel-club material.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Downtown Miami https://www.geonames.org/11125962",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Hialeah https://www.geonames.org/4158476",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Homestead https://www.geonames.org/4159050",
+      "1928-11-24"
+    ],
+    "contributor": [
+      "W. W. Farnham https://id.loc.gov/authorities/names/n80120637",
+      "Fred Girton https://id.loc.gov/authorities/names/n2023027666",
+      "Therman https://id.loc.gov/authorities/names/n2008184932",
+      "O. S. PARMER",
+      "Bob Purvis",
+      "al W. Ptter",
+      "S. C. Ebbets",
+      "Frank J. Novak, Jr.",
+      "F. A. POWEL",
+      "Commission-er Kane",
+      "Mayor Montanus",
+      "Commis- sioners Moon",
+      "Whitley",
+      "Simmons",
+      "Officer King",
+      "Governor John W. Martin",
+      "Herbert Hoover",
+      "Marjorie Stoneman Douglas"
+    ],
+    "relation": [
+      "Volume 5, Number 38"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": "Access provided for research and educational use; copyright status not determined."
+  },
+  "provenance": {
+    "latency_s": 11.89,
+    "context_chars": 71673,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

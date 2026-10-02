@@ -1,0 +1,309 @@
+{
+  "doc_id": "FI21052701_00015",
+  "judge": "opus",
+  "n_claims": 55,
+  "n_supported": 55,
+  "n_contradicted": 0,
+  "claim_precision": 1.0,
+  "per_field": {
+    "subject": {
+      "n": 17,
+      "supported": 17
+    },
+    "description": {
+      "n": 18,
+      "supported": 18
+    },
+    "coverage": {
+      "n": 5,
+      "supported": 5
+    },
+    "contributor": {
+      "n": 14,
+      "supported": 14
+    },
+    "relation": {
+      "n": 1,
+      "supported": 1
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue contains content about psychiatric hospitals in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about patient abuse in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about medical ethics in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about grand juries in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about electric power public utilities in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about municipal ownership in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about the Florida Power & Light Company.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about zoning in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about liquor law enforcement in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about gambling in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about health aspects of DDT insecticides.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about crime.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about business.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about health.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about transportation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about tourism.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes extensive coverage of alleged abuses at the Miami Retreat.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes criticism of psychiatrist Dr. T. Earl Moore.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Dr. T. Earl Moore is referred to in the issue as the \"Torture Doctor\".",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue urges grand jury action regarding the alleged abuses at the Miami Retreat.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue urges action by the state medical board regarding the alleged abuses at the Miami Retreat.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on Florida Power & Light in relation to Miami city elections.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary on municipal ownership in relation to Miami city elections.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes discussion of anti-gambling campaigns.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes discussion of legalized pari-mutuel racing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local government and civic news.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes Miami municipal court activity tied to alcohol offenses.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a Coral Way zoning dispute.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes public health warnings about DDT spraying.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes notices and promotion for a Dade County Coconut Harvest Festival.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The Dade County Coconut Harvest Festival is described as being at Crandon Park.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes columns.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes letters to the editor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes advertisements.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue contains content about Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue contains content about Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue contains content about Crandon Park.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue contains content about Coral Way.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue dates to 1949.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Drew Pearson.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Harry Sheppard.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Harry S. Truman.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Edward (Dick) Tracy.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Melborne L. Martin.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Cecil C. Curry.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Daniel Iverson.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Carlton Deederer.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Ellis C. Knox.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Henry Morgenthau, Jr.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by A. D. Barnes.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Jerry Donovan.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Erving Moss.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes a contribution by Jerome Weinkle.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Volume 23, Number 15.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-precedent"
+}

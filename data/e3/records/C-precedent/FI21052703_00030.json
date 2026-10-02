@@ -1,0 +1,93 @@
+{
+  "doc_id": "FI21052703_00030",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00030",
+    "title": "MIAMI LIFE, 1928-08-04",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-08-04",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue; OCR text",
+    "language": "eng",
+    "subject": [
+      "Health https://id.loc.gov/authorities/subjects/sh00006004",
+      "Milk supply—Safety measures—Miami (Fla.)",
+      "Pasteurization",
+      "Tuberculosis in cattle",
+      "Prohibition https://id.loc.gov/authorities/subjects/sh85107330",
+      "Bootlegging—Florida",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Miami Beach (Fla.)—Social life and customs",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "Society https://id.loc.gov/authorities/subjects/sh2021006888",
+      "Traffic regulation—Biscayne Boulevard (Miami, Fla.)",
+      "City planning—Public buildings—Miami (Fla.)",
+      "Florida East Coast Railway https://id.loc.gov/authorities/names/n86132803",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "Crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Editorial https://id.loc.gov/authorities/subjects/sh85040974"
+    ],
+    "description": "Issue includes editorials and commentary emphasizing Miami’s health advantages (sunshine, beaches, children’s health) as a civic promotional strategy; discussion of milk quality and public health including pasteurization and tuberculosis testing in dairy herds; prohibition-era notes on bootlegging and liquor enforcement; local civic items on traffic enforcement on Biscayne Boulevard, boulevard beautification, and a proposed post office site; society and entertainment columns focused on Miami Beach social life, visitors, and nightlife; and assorted satirical briefs and advertisements/coupons tied to local businesses and utilities.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Jacksonville https://www.geonames.org/4160021",
+      "1928-08-04"
+    ],
+    "contributor": [
+      "Mrs. Buchanan https://id.loc.gov/authorities/names/nr91007434",
+      "Henry Chase https://id.loc.gov/authorities/names/no2009093233",
+      "R. ALPHONE CAPONE",
+      "R. HAMMERHEAD GREEBY",
+      "Chief of Police Wood",
+      "Don Q. Willis",
+      "R. J. Gorman",
+      "Fred Osius",
+      "Jim Allison",
+      "Carl Fisher",
+      "Parker Henderson",
+      "Florida East Coast Railway https://id.loc.gov/authorities/names/n86132803",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida, 1927-1949)"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 10.62,
+    "context_chars": 71979,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "doc_id": "FI21052703_00041",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00041",
+    "title": "MIAMI LIFE, 1928-10-20 (Vol. 6, no. 38)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-10-20",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue with OCR text",
+    "language": "eng",
+    "subject": [
+      "politics — https://id.loc.gov/authorities/subjects/sh85104466",
+      "transportation — https://id.loc.gov/authorities/subjects/sh2001008994",
+      "tourism — https://id.loc.gov/authorities/subjects/sh85136255",
+      "business — https://id.loc.gov/authorities/subjects/sh85018260",
+      "humor — https://id.loc.gov/authorities/subjects/sh2003003666",
+      "editorial — https://id.loc.gov/authorities/subjects/sh85040974",
+      "Traffic regulations—Miami (Fla.)",
+      "Airports—Planning—Miami (Fla.)",
+      "Zoning—Miami (Fla.)",
+      "Parks—Safety measures—Miami (Fla.)",
+      "Coral Gables (Fla.)—Politics and government",
+      "Boxing—Florida—Coral Gables",
+      "Prisons—Florida—Discipline",
+      "Bootlegging—Florida",
+      "Prices—Housing—Miami Beach (Fla.)"
+    ],
+    "description": "Weekly issue featuring editorials and commentary on Miami-area civic and political matters, including traffic enforcement and speed limits on Fifth Street, calls for a \"real airport\" in Biscayne Bay, the need for zoning laws and urban beautification, and concerns about rising seasonal rents and tourism expectations. Includes local political coverage and satire (including Coral Gables commission disputes), public-safety notes (Bayfront Park rail), sports coverage of boxing at the Coral Gables Coliseum, discussion of prison discipline and a road-camp killing trial, and assorted humor columns, society notes, and advertisements for Miami and Miami Beach businesses and entertainment.",
+    "coverage": [
+      "Miami — https://www.geonames.org/4164138",
+      "Miami Beach — https://www.geonames.org/4164143",
+      "Fifth Street — https://www.geonames.org/6352785",
+      "Biscayne Bay — https://www.geonames.org/4147971",
+      "1928-10-20"
+    ],
+    "contributor": [
+      "Dick Merrill — https://id.loc.gov/authorities/names/n81047556",
+      "E. W. Sewell — https://id.loc.gov/authorities/names/no2004019771",
+      "Kane — https://id.loc.gov/authorities/names/no2012059305",
+      "R. M. Davidson — https://id.loc.gov/authorities/names/no99007254"
+    ],
+    "relation": [
+      "Vol. 6, no. 38"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 17.39,
+    "context_chars": 71483,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "doc_id": "FI21052701_00008",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "FI21052701_00008",
+    "title": "Miami Life, February 19, 1949 (Vol. XXIII, No. 8)",
+    "creator": [
+      "Reubin Clein"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-02-19",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue with OCR text",
+    "language": "eng",
+    "subject": [
+      "Gambling—Florida—Miami Beach",
+      "Political corruption—Florida—Miami Beach",
+      "Monopolies—Florida—Miami Beach",
+      "Police—Florida—Miami Beach",
+      "Divorce—Florida—Dade County",
+      "Medical ethics—Florida—Dade County",
+      "Psychiatry—Florida—Dade County",
+      "Domestic violence—Florida—Dade County",
+      "The Salvation Army—Florida—Miami",
+      "Tobacco—Health aspects",
+      "Pneumonia—Treatment—Costs",
+      "Music—Florida—Miami",
+      "Baseball—Florida—Miami Beach",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "health https://id.loc.gov/authorities/subjects/sh00006004"
+    ],
+    "description": "Issue features an editorial and reporting on alleged illegal gambling and a purported Miami Beach \"Syndicate\" tied to local officials, including activity described near the Miami courthouse and Miami police station. Continued coverage of the \"Torture Doctor\" series discusses Dr. Moore, including court-record references to multiple marriages and divorce filings alleging cruelty, and includes a letter involving the American Psychoanalytic Association. The issue also prints correspondence about Salvation Army fundraising and operations, a health piece on tobacco and cancer, commentary on medical costs and pneumonia treatment, and local entertainment and cultural listings (music events, nightclubs) plus notice of an Actors vs. Musicians baseball benefit at Flamingo Park.",
+    "coverage": [
+      "Miami, Florida",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Miami courthouse https://www.geonames.org/6344794",
+      "Miami police station https://www.geonames.org/6344707",
+      "Flamingo Park https://www.geonames.org/4155557",
+      "Miami Senior High School https://www.geonames.org/4164146",
+      "1949-02-19"
+    ],
+    "contributor": [
+      "Colin Drake https://id.loc.gov/authorities/names/n2001008339",
+      "Leo Bartemeier https://id.loc.gov/authorities/names/n94008014",
+      "Joe Barth https://id.loc.gov/authorities/names/n2008027876",
+      "Dr. Joseph S. Stewart",
+      "Albert Orsbom",
+      "Albert E. Chesham",
+      "Brigadier Ernest Pickering Sr.",
+      "Captain Mrs. R. T. Bergren",
+      "RICARD T. BERGREN",
+      "J. SHERMAN, M. D."
+    ],
+    "relation": [
+      "Vol. XXIII, No. 8"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": "Digitized for research and educational use; rights status not specified in provided evidence."
+  },
+  "provenance": {
+    "latency_s": 11.89,
+    "context_chars": 67847,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

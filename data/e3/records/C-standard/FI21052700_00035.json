@@ -1,0 +1,89 @@
+{
+  "doc_id": "FI21052700_00035",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00035",
+    "title": "Miami Life, September 10, 1927 (Volume 4, Number 33)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1927-09-10",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "editorial https://id.loc.gov/authorities/subjects/sh85040974",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "health https://id.loc.gov/authorities/subjects/sh00006004",
+      "sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "society https://id.loc.gov/authorities/subjects/sh2021006888",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "Elections—Ballots—Fraud prevention—Miami (Fla.)",
+      "Nursing—Hours of labor—Florida",
+      "Landlords and tenants—Rent control—Miami (Fla.)",
+      "Hotels—Rates—Miami (Fla.)",
+      "Eggs—Labeling—Florida",
+      "Public utilities—Electric power—Regulation—Dade County (Fla.)",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "Bulkheads—Finance—Miami Beach (Fla.)",
+      "Municipal courts—Miami Beach (Fla.)",
+      "Suicide—Inquests—Florida",
+      "Banks and banking—Service charges"
+    ],
+    "description": "Issue includes editorials and local commentary on Miami-area civic and economic conditions, including claims of widespread financial strain, hotel rate competition and receiverships, apartment rents and leasing practices, and a proposed election safeguard involving numbered ballots. Coverage also discusses a Dade County Medical Society call for nurses and debate over 20-hour duty, a city egg-labeling ordinance, disputes involving privately owned electric power service in the Redlands/Homestead area and Florida Power & Light Company, Miami Beach bulkheading costs, and a report on an inquest concerning Jessie Peterson under Justice of the Peace H. W. Griffin. Regular features, letters to the editor, and entertainment/sports notices appear.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Brickell Avenue https://www.geonames.org/4148852",
+      "Tamiami Trail https://www.geonames.org/4174754",
+      "Redlands https://www.geonames.org/6332560",
+      "Homestead https://www.geonames.org/4159050",
+      "1927-09-10"
+    ],
+    "contributor": [
+      "S. C. EBBETS",
+      "Jessie Peterson https://id.loc.gov/authorities/names/n77005680",
+      "H. W. Griffin https://id.loc.gov/authorities/names/no99050351",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "Columbus Hotel https://id.loc.gov/authorities/names/n88059104"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 4, Number 33"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 11.12,
+    "context_chars": 68085,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

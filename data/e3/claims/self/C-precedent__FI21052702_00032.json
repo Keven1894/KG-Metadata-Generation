@@ -1,0 +1,322 @@
+{
+  "doc_id": "FI21052702_00032",
+  "n_claims": 58,
+  "n_supported": 47,
+  "n_contradicted": 0,
+  "claim_precision": 0.8103,
+  "per_field": {
+    "subject": {
+      "n": 13,
+      "supported": 12
+    },
+    "description": {
+      "n": 14,
+      "supported": 14
+    },
+    "coverage": {
+      "n": 6,
+      "supported": 5
+    },
+    "contributor": {
+      "n": 24,
+      "supported": 15
+    },
+    "relation": {
+      "n": 1,
+      "supported": 1
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses taxation of chain stores in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the Florida Recovery Act.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue covers municipal elections in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses crime.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses grand juries in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses interest rates on small loans in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses prohibition.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses gambling in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses nightclubs in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses entertainment.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses nightlife.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses libel and slander in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials and commentary on the Florida Recovery Act aimed at chain stores.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials and commentary on Florida newspaper publishers' opposition to the Florida Recovery Act.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage of Miami municipal election campaigning.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes coverage of candidates in the Miami municipal election.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes reporting on a jewel-robbery investigation involving Detective Chief Eugene I. Bryant.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes opinion on a jewel-robbery investigation involving Detective Chief Eugene I. Bryant.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue references federal grand jury proceedings.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue publishes a letter urging major local employers to help employees avoid predatory small-loan firms.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a lawsuit claim involving diathermic treatment at Coral Gables Clinic.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes columns on local gambling.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes columns on local nightlife.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local nightlife coverage that includes the Beach Club at Palm Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes promotional features with Kentucky Derby selections.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local entertainment advertising.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Coral Gables.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Jacksonville, Florida.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Palm Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue dates to 1935.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes content contributed by Postal Telegraph Company.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes content contributed by Charles Harrington.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes content contributed by Jack Kehoe.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes content contributed by Florida Power and Light Company.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes content contributed by Western Union.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes content contributed by Southern Bell Telephone Company.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes content contributed by Eugene I. Bryant.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes content contributed by Noel Scaffa.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes content contributed by Charles Cali.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes content contributed by Nicky Montone.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes content contributed by Mrs. Margaret Hawksworth Bell.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes content contributed by Dr. Arthur H. Weiland.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes content contributed by Charles H. Dyer.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes content contributed by Coral Gables Clinic Inc.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes content contributed by Mrs. Ethna Hudson.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes content contributed by Alexander Orr, Jr.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes content contributed by Robert (Bob) Williams.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes content contributed by Harry Platt.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes content contributed by Orville Rigby.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes content contributed by W. E. Lester.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes content contributed by Parker-Davis.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes content contributed by Morgan and Company.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes content contributed by Old King Bradley.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue includes content contributed by Dave Sholtz.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is MIAMI LIFE, Vol. 9, No. 32.",
+      "verdict": "supported"
+    }
+  ],
+  "tier": "C-precedent"
+}

@@ -1,0 +1,91 @@
+{
+  "doc_id": "FI21052702_00040",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00040",
+    "title": "MIAMI LIFE, June 22, 1935 (Vol. 9, no. 40)",
+    "creator": [
+      "[]"
+    ],
+    "publisher": "Life Publishing Company",
+    "date": "1935-06-22",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Telephone service rates—Miami (Fla.)",
+      "Public utilities regulation—Florida",
+      "Southern Bell Telephone Company",
+      "Railroad commissions—Florida",
+      "Municipal courts—Miami (Fla.)",
+      "Gambling devices—Law and legislation—Miami (Fla.)",
+      "Marble board gambling—Miami (Fla.)",
+      "Jewelry theft—Miami (Fla.)",
+      "Bail—Florida",
+      "Kidnapping—Law and legislation",
+      "Police administration—Miami (Fla.)",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "nightlife https://id.loc.gov/authorities/subjects/sh2008001027"
+    ],
+    "description": "Issue includes local investigative and opinion coverage focused on Miami-area public affairs and crime. Major stories allege excessive telephone rates charged by the Southern Bell Telephone Company and criticize inaction by the Florida Railroad Commission, with references to state-level attention in Tallahassee. Other prominent coverage reports on municipal court actions against marble-board and other mechanical gambling devices, including discussion of cash slips and a figure named Frey, and notes on the Miami-Biltmore jewel robbery case involving Nicky Montone and Charles Cali and related federal investigation. Regular columns and features include local commentary, sports/boxing discussion, and extensive local advertising.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Surfside https://www.geonames.org/4174518",
+      "Tallahassee https://www.geonames.org/4174715",
+      "Municipal Golf Course https://www.geonames.org/6352070",
+      "1935"
+    ],
+    "contributor": [
+      "Frey https://id.loc.gov/authorities/names/no2026030553",
+      "Abe Aronovitz",
+      "Nicky Montone",
+      "Charles Caliare",
+      "George F. McCall",
+      "G. A. Worley",
+      "ANDREW J. KAVANAUGH",
+      "Spearman Lewis",
+      "Arthur Wadsworth STUCKIE",
+      "Tom Stowe"
+    ],
+    "relation": [
+      "MIAMI LIFE, Vol. 9, no. 40"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 20.04,
+    "context_chars": 67295,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

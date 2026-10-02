@@ -1,0 +1,91 @@
+{
+  "doc_id": "FI21052702_00049",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00049",
+    "title": "MIAMI LIFE, Saturday, August 24, 1935 (Vol. 9, No. 49)",
+    "creator": [],
+    "publisher": "LIFE PUBLISHING COMPANY (A FLORIDA CORPORATION)",
+    "date": "1935-08-24",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Traffic safety—Miami (Fla.)",
+      "Drunk driving—Miami (Fla.)",
+      "Police administration—Miami (Fla.)",
+      "Municipal government—Miami (Fla.)",
+      "Telephone rates—Miami (Fla.)",
+      "Federal Savings and Loan associations—Miami (Fla.)",
+      "Insurance—Miami (Fla.)",
+      "Bankruptcy—Miami (Fla.)",
+      "Grand juries—Florida",
+      "Horse racing—Florida",
+      "Beauty contests—Miami (Fla.)",
+      "politics (https://id.loc.gov/authorities/subjects/sh85104466)",
+      "crime (https://id.loc.gov/authorities/subjects/sh85033993)",
+      "business (https://id.loc.gov/authorities/subjects/sh85018260)",
+      "sports (https://id.loc.gov/authorities/subjects/sh00007735)",
+      "entertainment (https://id.loc.gov/authorities/subjects/sh96009616)"
+    ],
+    "description": "Issue includes local commentary and reporting on Miami public safety and traffic enforcement, including statements by City Safety Director Andrew J. Kavanaugh about drunken driving and a citywide safety campaign. Coverage also addresses alleged irregularities involving a Federal Savings & Loan and an insurance agency, discussion of bankruptcy and an upcoming federal grand jury, and municipal matters such as telephone rate reductions and city management rumors. Regular columns and features include social and entertainment notes, horse racing dates and tips, and ongoing promotional contests (e.g., “Most Attractive Working Girl” and a Grant Store contest).",
+    "coverage": [
+      "Miami, Florida (https://www.geonames.org/4164138)",
+      "Miami Beach (https://www.geonames.org/4164143)",
+      "Coral Gables (https://www.geonames.org/4151871)",
+      "Hialeah (https://www.geonames.org/4158476)",
+      "1935-08"
+    ],
+    "contributor": [
+      "ANDREW J. KAVANAUGH",
+      "J. Edgar Hoover (https://id.loc.gov/authorities/names/n79077374)",
+      "Abe Aronovitz",
+      "L. L. Lee",
+      "Harold Ross",
+      "Joe Morris (https://id.loc.gov/authorities/names/n2008028781)",
+      "Harry J. Lipton",
+      "J. M. Lipton Insurance Agency",
+      "Federal Savings & Loan Association of Miami",
+      "EUNICE CHANDLER",
+      "Mildred Crenshaw",
+      "Mrs. M. A. Miner",
+      "Walter H. Donovan",
+      "Charlie Cusick"
+    ],
+    "relation": [
+      "MIAMI LIFE; Vol. 9, No. 49"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 9.7,
+    "context_chars": 71568,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

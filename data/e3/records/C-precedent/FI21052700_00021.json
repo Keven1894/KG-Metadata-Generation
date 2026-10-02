@@ -1,0 +1,87 @@
+{
+  "doc_id": "FI21052700_00021",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00021",
+    "title": "MIAMI LIFE, 1927-06-04 (Volume 4, Number 19)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1927-06-04",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Municipal elections—Miami (Fla.)",
+      "City councils—Florida—Miami",
+      "Florida Legislature—Florida—Tallahassee",
+      "Public utilities—Florida—Miami",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "Miami Chamber of Commerce https://id.loc.gov/authorities/names/n97041415",
+      "Telephone—Rates—Florida—Miami",
+      "Traffic accidents—Florida—Miami",
+      "Police uniforms—Florida—Miami",
+      "Street railroads—Accidents—Florida—Miami",
+      "Real estate business—Florida—Coral Gables",
+      "Miami Beach (Fla.)—Social life and customs",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260"
+    ],
+    "description": "Issue includes editorials and commentary on Miami-area politics and the upcoming city commission election, including criticism of Dade County legislative representatives in Tallahassee and discussion of public-utility power and local governance. Coverage also addresses civic and municipal concerns such as traffic safety, proposed summer uniforms for traffic police, telephone toll charges between Miami and nearby communities, and liability issues involving streetcars. Additional content includes local columns and humor features, social and entertainment notices for Miami Beach venues, real-estate discussion focused on Coral Gables, and advertisements and legal notices.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Tallahassee https://www.geonames.org/4174715",
+      "1927-06-04"
+    ],
+    "contributor": [
+      "Joe Dillon https://id.loc.gov/authorities/names/no2005102552",
+      "Earl Wilson https://id.loc.gov/authorities/names/n82084445",
+      "Jack Sewell https://id.loc.gov/authorities/names/no2012034383",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "Miami Chamber of Commerce https://id.loc.gov/authorities/names/n97041415",
+      "First National Bank https://id.loc.gov/authorities/names/no2003096521"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 4, Number 19"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 11.01,
+    "context_chars": 72006,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

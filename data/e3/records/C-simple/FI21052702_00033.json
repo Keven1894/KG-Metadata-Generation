@@ -1,0 +1,99 @@
+{
+  "doc_id": "FI21052702_00033",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00033",
+    "title": "Miami Life (Miami, Florida), Vol. 9, No. 33 (May 4, 1935)",
+    "creator": [],
+    "publisher": "Miami Life",
+    "date": "1935-05-04",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)—Politics and government",
+      "Municipal elections",
+      "City commission elections",
+      "Primary elections",
+      "Sales tax",
+      "Taxation—Florida",
+      "Chain stores",
+      "Business licensing",
+      "Grocery trade",
+      "Boxing—Florida",
+      "Sports regulation",
+      "Dog racing",
+      "Fraud",
+      "Advertising"
+    ],
+    "description": "Issue includes coverage and commentary on Miami municipal politics ahead of the May 7, 1935 primary election, including odds and discussion of city commission candidates and political advertising. Articles criticize proposed Florida sales tax legislation associated with Mayor E. G. Sewell, discuss chain grocery stores and alleged underpayment of city license fees, and address boxing regulation and match conditions. Additional pieces reference a jewel robbery investigation, dog racing as a racket (reprinting/mentioning Boston Post commentary on Miami Life editorials), and local civic and social notes and advertisements.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Dade County (Fla.)",
+      "Florida",
+      "1935-05-04"
+    ],
+    "contributor": [
+      "E. G. Sewell",
+      "Robert R. (Bob) Williams",
+      "Alexander Orr, Jr.",
+      "W. E. Lester",
+      "Charles Laughinghouse",
+      "Orville Rigby",
+      "Harry A. Platt",
+      "N. N. (Nate) Baur",
+      "Robert Reed",
+      "Patrick A. (Pat) Cannon",
+      "R. C. Gardner",
+      "Mark Chartrand",
+      "J. J. Bridges",
+      "John T. Bush",
+      "Bill Davis",
+      "J. J. Skillman",
+      "E. Lee Hughes",
+      "Charles S. Broward",
+      "Capt. W. H. Peeples, Jr.",
+      "Dinty Dennis",
+      "Eugene \"Rat\" Bryant",
+      "Bill Cunningham",
+      "R. Hammerhead Greeby",
+      "Henry Doherty",
+      "Dale James"
+    ],
+    "relation": [
+      "Miami Life, Vol. 9, No. 33"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 7.27,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

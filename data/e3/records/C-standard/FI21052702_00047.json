@@ -1,0 +1,93 @@
+{
+  "doc_id": "FI21052702_00047",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00047",
+    "title": "MIAMI LIFE, Saturday, Aug. 10, 1935 (Vol. 9, no. 47)",
+    "creator": [
+      "ILBERT ELSTON"
+    ],
+    "publisher": "LIFE PUBLISHING COMPANY",
+    "date": "1935-08-10",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Bankruptcy fraud and racketeering—Miami (Fla.)",
+      "Municipal corruption—Miami (Fla.)",
+      "Auditing—Municipal finance—Miami (Fla.)",
+      "Embezzlement—Miami (Fla.)",
+      "Grand juries—Florida",
+      "Horse racing—Gambling—Florida",
+      "Bookmaking—Florida",
+      "Automobile accidents—Prevention—Miami (Fla.)",
+      "Traffic safety—Miami (Fla.)",
+      "Bicycles—Safety measures—Miami (Fla.)",
+      "Beauty contests—Miami (Fla.)",
+      "politics (https://id.loc.gov/authorities/subjects/sh85104466)",
+      "crime (https://id.loc.gov/authorities/subjects/sh85033993)",
+      "sports (https://id.loc.gov/authorities/subjects/sh00007735)",
+      "entertainment (https://id.loc.gov/authorities/subjects/sh96009616)",
+      "nightlife (https://id.loc.gov/authorities/subjects/sh2008001027)",
+      "business (https://id.loc.gov/authorities/subjects/sh85018260)"
+    ],
+    "description": "Issue features reporting and commentary on alleged bankruptcy-related fraud involving lawyers and financial dealings connected to Miami Beach properties; city and county financial scandals and audits revealing shortages in municipal departments; and grand jury investigations tied to local politics. Includes a public-safety campaign page urging caution to prevent automobile and bicycle accidents, coverage of local sports (including boxing), and entertainment/society columns. Also reports results and ongoing promotion of a city-wide “Most Attractive Working Girl” beauty contest and contains numerous local advertisements.",
+    "coverage": [
+      "Miami, Florida (https://www.geonames.org/4164138)",
+      "Miami Beach, Florida (https://www.geonames.org/4164143)",
+      "Coral Gables (https://www.geonames.org/4151871)",
+      "Dade County Courthouse (https://www.geonames.org/6344794)",
+      "Jackson Memorial Hospital (https://www.geonames.org/4160003)",
+      "1935-08-10"
+    ],
+    "contributor": [
+      "George Worley (https://id.loc.gov/authorities/names/no2020058414)",
+      "J. N. Morris",
+      "Harry Lipton",
+      "Blackstone Hotel (https://id.loc.gov/authorities/names/no2023093466)",
+      "Federal Loan and Savings Association (https://id.loc.gov/authorities/names/n90632343)",
+      "Jackson Memorial Hospital (https://id.loc.gov/authorities/names/n79131242)",
+      "DR. R. C. WOODWARD",
+      "Clyde Epperson",
+      "Ernie Seiler",
+      "L. L. Lee",
+      "Harold Ross",
+      "Mrs. Lois-Haynes Walta"
+    ],
+    "relation": [
+      "Vol. 9, no. 47"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 13.94,
+    "context_chars": 68018,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

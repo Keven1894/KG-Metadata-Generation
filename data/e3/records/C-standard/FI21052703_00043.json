@@ -1,0 +1,89 @@
+{
+  "doc_id": "FI21052703_00043",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00043",
+    "title": "MIAMI LIFE, November 3, 1928 (Volume 5, Number 4)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-11-03",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue; OCR text",
+    "language": "eng",
+    "subject": [
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Ku Klux Klan",
+      "Presidential elections—United States—1928",
+      "Herbert Hoover https://id.loc.gov/authorities/names/n80104366",
+      "Al Smith https://id.loc.gov/authorities/names/n83152205",
+      "Indiana https://id.loc.gov/authorities/names/n79022925",
+      "D. C. Stephenson https://id.loc.gov/authorities/names/n82051580",
+      "Jackson Memorial Hospital https://www.geonames.org/4160003",
+      "James Deering https://id.loc.gov/authorities/names/n2006161766",
+      "Charities—Hospitals—Florida—Miami",
+      "Racetracks (Horse racing)—Florida—Miami",
+      "Prohibition—Florida—Miami",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "health https://id.loc.gov/authorities/subjects/sh00006004",
+      "humor https://id.loc.gov/authorities/subjects/sh2003003666"
+    ],
+    "description": "Issue includes editorials and commentary on the 1928 presidential campaign (Hoover and Smith) and criticism of Ku Klux Klan activity, including reproduced Klan documents and discussion of the Indiana Klan and Organizer Stephenson. Local civic coverage addresses governance and funding concerns at Jackson Memorial Hospital and the James Deering trust, along with Miami-area politics, tourism-season business, and debate over racing as a tourist draw. Additional pieces discuss prohibition enforcement and dangers of illicit liquor, labor dispute coverage related to the Capitol Theatre, and recurring humor/columns and local notices/advertising.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "New York https://www.geonames.org/4165941",
+      "Indiana https://id.loc.gov/authorities/names/n79022925",
+      "Jackson Memorial Hospital https://www.geonames.org/4160003",
+      "1928-11-03"
+    ],
+    "contributor": [
+      "Herbert Hoover https://id.loc.gov/authorities/names/n80104366",
+      "Al Smith https://id.loc.gov/authorities/names/n83152205",
+      "D. C. Stephenson https://id.loc.gov/authorities/names/n82051580",
+      "James Deering https://id.loc.gov/authorities/names/n2006161766",
+      "John B. Gordon https://id.loc.gov/authorities/names/nr2004020446",
+      "W. R. TWIFORD.",
+      "Lilburn R. Railey",
+      "R. R. HIAMMERHEAD GREEBY",
+      "Warren L. Newcomb,",
+      "John W. Scott",
+      "JAMES E. FLOOD"
+    ],
+    "relation": [
+      "Volume 5, Number 4"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 15.7,
+    "context_chars": 64779,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

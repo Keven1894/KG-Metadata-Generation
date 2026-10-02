@@ -1,0 +1,100 @@
+{
+  "doc_id": "FI21052701_00004",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052701_00004",
+    "title": "Miami Life (Miami, Fla.), Vol. XXIII, No. 4 (January 22, 1949)",
+    "creator": [
+      "Reubin Clein",
+      "Ben F. Drucker"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-01-22",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Salvation Army",
+      "Charities",
+      "Fundraising",
+      "Community Chest",
+      "Blindness",
+      "Vagrancy",
+      "Miami Police Department",
+      "Florida Power & Light Company",
+      "Public utilities",
+      "Public ownership",
+      "Lobbying",
+      "National health insurance",
+      "Claude Pepper",
+      "Patent medicines",
+      "False advertising",
+      "Federal Trade Commission",
+      "Gambling",
+      "Racetracks",
+      "Hialeah Park"
+    ],
+    "description": "Issue includes editorials and reporting criticizing the Miami Salvation Army as a \"charity\" racket, using the case of blind itinerant Ira Corwin and police assistance as an example; commentary on Florida Power & Light and Gov. Fuller Warren’s interest in reviving the state Improvement Commission and potential public acquisition of utility properties; discussion of national health insurance proposals associated with President Truman and Sen. Claude Pepper; and a lengthy reprinted/attributed report alleging major patent medicine and drug firms subsidize propaganda lobbying against national health legislation and have faced FTC actions for misleading advertising. Also contains local court/police blotter-style column and commentary on racetrack gambling and touts (including references to Hialeah Park and a \"Crime Commission\").",
+    "coverage": [
+      "Miami, Florida",
+      "Greater Miami (Dade County), Florida",
+      "Miami Beach, Florida",
+      "Tallahassee, Florida",
+      "Tampa, Florida",
+      "United States",
+      "1949-01-22"
+    ],
+    "contributor": [
+      "Fuller Warren",
+      "Claude Pepper",
+      "Harry Willis",
+      "Ira Corwin",
+      "Frank Mitchell",
+      "Dan Rosenfelder",
+      "Danny Sullivan",
+      "C. H. Overman",
+      "Loyal Compton",
+      "Ted Smiley",
+      "Claude Wickard",
+      "Oscar R. Ewing",
+      "James E. Murray",
+      "Gerald Mann",
+      "Cecil C. Curry"
+    ],
+    "relation": [
+      "Miami Life, Vol. XXIII, No. 4"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 7.75,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

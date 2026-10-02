@@ -1,0 +1,86 @@
+{
+  "doc_id": "FI21052702_00035",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052702_00035",
+    "title": "Miami Life (Miami, Florida), Vol. 9, No. 35 (May 18, 1935)",
+    "creator": [],
+    "publisher": "Miami Life",
+    "date": "1935-05-18",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Vernon Hawthorne",
+      "State's attorneys",
+      "Political corruption",
+      "Grand juries",
+      "Law enforcement",
+      "Miami Daily News",
+      "Elections",
+      "Municipal government",
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Horse racing",
+      "Sports"
+    ],
+    "description": "Issue of Miami Life dated May 18, 1935 (Vol. 9, No. 35). Prominently features a lengthy exposé/attack on N. Vernon Hawthorne, describing alleged misconduct as state’s attorney, political manipulation, and protection of certain suspects and officials, with references to grand jury actions and state politics. Includes local election commentary and civic editorials, columns on sports and horse racing tips (\"Jockey Jimmy\"), community notes and rumors, and extensive local advertising.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Greater Miami (Fla.)",
+      "1935"
+    ],
+    "contributor": [
+      "N. Vernon Hawthorne",
+      "Hayes Lewis",
+      "H. Leslie Quigg",
+      "A. R. Martine",
+      "Frank A. Katzentine",
+      "Robert Teaney",
+      "Mike Dallet",
+      "Sheriff M. P. Lehman",
+      "Governor Sholtz",
+      "Wayne Allen",
+      "R. Hammerhead Greeby",
+      "Tom Stowe",
+      "Frank Carneval",
+      "A. E. Curtis"
+    ],
+    "relation": [
+      "Miami Life, Vol. 9, No. 35"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 7.25,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

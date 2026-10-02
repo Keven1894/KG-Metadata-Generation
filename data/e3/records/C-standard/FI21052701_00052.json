@@ -1,0 +1,95 @@
+{
+  "doc_id": "FI21052701_00052",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052701_00052",
+    "title": "Miami Life, Dec. 24, 1949 (Vol. XXIII, No. 52)",
+    "creator": [
+      "Reubin Clein"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-12-24",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Municipal government—Miami (Fla.)",
+      "Water rates—Miami (Fla.)",
+      "Taxation—Miami (Fla.)",
+      "Business depressions—Miami (Fla.)",
+      "Department stores—Miami (Fla.)",
+      "Christmas bonuses—Miami (Fla.)",
+      "Hotels—Florida—Miami Beach",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Entertainment events https://id.loc.gov/authorities/subjects/sh96009616",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Greyhound racing—Florida—Miami",
+      "Horse racing—Florida—Miami",
+      "Cigarettes—Law and legislation—Florida",
+      "Tobacco use—Health aspects",
+      "Prostitution—Florida—Miami",
+      "Newspapers—Objectivity"
+    ],
+    "description": "Issue includes editorials and reporting on Miami city politics and the Wolfarth administration, including discussion of water-rate increases and tax-assessor/tax-collector consolidation. Reports on a downturn in downtown retail business during the Christmas season, including Burdine's anticipated profit drop and reduced employee bonuses. Coverage also addresses Miami Beach hotel operators seeking a return to a more \"liberal policy\" to support tourism, commentary on enforcement of an anti-cigarette ordinance and tobacco advertising influence, and local legal/court news including a prostitution-related case and criticism of press publicity. Additional items include travel and tourism notes, racing and sports coverage (Tropical Park and dog racing), and local health and hospital developments.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Downtown Miami https://www.geonames.org/11125962",
+      "Dinner Key https://www.geonames.org/4153283",
+      "Tropical Park https://www.geonames.org/4175747",
+      "Hallandale https://www.geonames.org/4157898",
+      "1949-12-24"
+    ],
+    "contributor": [
+      "Ben F. Drucker",
+      "M. B. https://id.loc.gov/authorities/names/n85056940",
+      "Thomas E. Dewey https://id.loc.gov/authorities/names/no2021089410",
+      "Frank Henry https://id.loc.gov/authorities/names/no95049690",
+      "Peter Niles",
+      "Leonard K. Thomson",
+      "John F. Glick",
+      "Cecil Curry",
+      "Abe Aronovitz",
+      "Sam McCreary",
+      "Robert Morningstar",
+      "H. N. Kirkman",
+      "Willie Reed"
+    ],
+    "relation": [
+      "Vol. XXIII, No. 52"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 10.79,
+    "context_chars": 67979,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

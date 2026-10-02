@@ -1,0 +1,83 @@
+{
+  "doc_id": "FI21052702_00024",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052702_00024",
+    "title": "Miami Life (Miami, Florida), Vol. 9, No. 24 (March 2, 1935)",
+    "creator": [],
+    "publisher": "Miami Life",
+    "date": "1935-03-02",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)—Politics and government",
+      "Libel and slander",
+      "Freedom of the press",
+      "Gambling—Florida",
+      "Horse racing—Florida",
+      "Hialeah Park Race Track (Hialeah, Fla.)",
+      "Tourism—Florida—Miami",
+      "Housing—Modernization",
+      "Federal Housing Administration (U.S.)",
+      "Nightclubs—Florida—Miami Beach",
+      "Religion and state—Mexico",
+      "Anti-Catholicism—Mexico"
+    ],
+    "description": "Issue includes editorial commentary criticizing Miami Mayor E. (\"Ev\") Sewell and discussing a reported proposal to require publishers to post bond as a guarantee of financial responsibility in libel actions, referencing a $250,000 slander suit by the Daily Tribune. Coverage also focuses on gambling and the tourist season in Greater Miami, including discussion of pari-mutuel wagering and enforcement, and extensive horse-racing tips and advertisements tied to Hialeah Park and Tropical Park (\"Jockey Jimmy\" selections and reports). Additional content includes a column on religious persecution of Catholics in Mexico, local news briefs, society/nightlife items and advertisements for Miami and Miami Beach venues, and a home modernization feature promoting Federal Housing Act loans for plumbing and bathroom improvements.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Hialeah (Fla.)",
+      "Florida",
+      "Mexico",
+      "1935-03-02"
+    ],
+    "contributor": [
+      "E. (Ev) Sewell",
+      "Daily Tribune (Miami, Fla.)",
+      "Jockey Jimmy",
+      "Vernon Hawthorne",
+      "E. C. Collins",
+      "Louis Schwartz",
+      "Greater Miami Board of Trade",
+      "Federal Housing Administration (U.S.)",
+      "Life Publishing Company"
+    ],
+    "relation": [
+      "Miami Life, Vol. 9, No. 24"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.47,
+    "context_chars": 57617,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

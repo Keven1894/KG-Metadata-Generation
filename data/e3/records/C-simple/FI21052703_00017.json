@@ -1,0 +1,94 @@
+{
+  "doc_id": "FI21052703_00017",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052703_00017",
+    "title": "Miami Life (Miami, Florida), Vol. 6, No. 14 (April 28, 1928)",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-04-28",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Shriners convention",
+      "Civic boosterism",
+      "Tourism",
+      "Prohibition",
+      "Liquor trade",
+      "Tamiami Trail",
+      "Roads and highways",
+      "Traffic safety",
+      "Police department",
+      "Local politics",
+      "Banking and bank failures",
+      "Advertising and publicity",
+      "Miami (Fla.)"
+    ],
+    "description": "Issue dated April 28, 1928 (Vol. 6, No. 14), edited by Wen R. Phillips. Major editorials and satire focus on the upcoming Shrine convention in Miami, urging hospitality while warning against profiteering and scams; commentary on the Tamiami Trail and opposition to roadside advertising; criticism of Biscayne Boulevard safety islands and discussion of maintaining an efficient police force. Includes political satire about voting and local candidates, notices and advertisements (including liquor-price listings amid Prohibition), items on submarines visiting Miami for the convention, and coverage of banking matters involving Southern Bank & Trust Company and depositor arrangements.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "Biscayne Boulevard (Miami, Fla.)",
+      "Tamiami Trail (Florida)",
+      "1928-04-28"
+    ],
+    "contributor": [
+      "Roy D. Smith",
+      "George Sewell",
+      "Barron Collier",
+      "J. E. Lummus",
+      "Ernest Amos",
+      "Doyle Carlton",
+      "Park Trammell",
+      "John Martin",
+      "James M. Carson",
+      "Sydney J. Catts",
+      "Ruth Bryan Owen",
+      "M. C. Asner",
+      "Tommy Loughran",
+      "Jack O'Connell",
+      "J. C. Brow",
+      "Dr. Wm. Preston Hill",
+      "Dr. W. H. Evans"
+    ],
+    "relation": [
+      "Miami Life, Volume 6, Number 14"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 7.5,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

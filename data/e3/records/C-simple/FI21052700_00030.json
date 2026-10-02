@@ -1,0 +1,98 @@
+{
+  "doc_id": "FI21052700_00030",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052700_00030",
+    "title": "Miami Life, Volume 4, Number 28 (1927-08-06)",
+    "creator": [
+      "Wen R. Phillips",
+      "Lysle E. Fesler",
+      "S. C. Ebbets"
+    ],
+    "publisher": "Miami Life",
+    "date": "1927-08-06",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)--Politics and government",
+      "City managers",
+      "City commissioners",
+      "Municipal administration",
+      "Publicity and tourism",
+      "Printing contracts",
+      "Law enforcement",
+      "Courts",
+      "Miami Beach (Fla.)--Transportation",
+      "Bus accidents",
+      "Hospitals",
+      "Public health",
+      "Coral Gables (Fla.)--Real estate development",
+      "Local journalism",
+      "Social life and customs"
+    ],
+    "description": "Weekly issue featuring a front-page political column predicting/criticizing changes in Miami city government, including the resignation of Mayor-Commissioner Edward Coleman Romfh, Commissioner Harry Platt becoming city manager, and Gordon H. Russell being appointed city commissioner; includes commentary on civic power blocs and elections. Additional pieces discuss justice of the peace court practices, county constables and law enforcement, Miami publicity films and tourist promotion, a printing contract for tourist folders, Miami Beach traffic/bus safety, and various local social notes, advertisements, and a Coral Gables real estate promotional feature.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Coral Gables (Fla.)",
+      "Dade County (Fla.)",
+      "1927-08-06"
+    ],
+    "contributor": [
+      "Edward Coleman Romfh",
+      "Harry Platt",
+      "Gordon H. Russell",
+      "Ev Sewell",
+      "Cliff Reeder",
+      "J. E. Lummus, Sr.",
+      "Red Gautier",
+      "George Bean",
+      "Fred Weede",
+      "Mrs. Grant",
+      "B. B. White",
+      "Damon Lewis",
+      "Judge Kennamer",
+      "Roy O'Fallon",
+      "Jim Graham",
+      "Goldesberry",
+      "H. H. Mase",
+      "Ed Faris"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida); Volume 4, Number 28"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.39,
+    "context_chars": 35607,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

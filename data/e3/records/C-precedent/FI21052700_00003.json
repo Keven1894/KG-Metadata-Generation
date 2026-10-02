@@ -1,0 +1,81 @@
+{
+  "doc_id": "FI21052700_00003",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00003",
+    "title": "MIAMI LIFE, January 29, 1927 (Volume 4, Number 3)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1927-01-29",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Transportation—Bus service—Miami (Fla.) https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Municipal contracts—Miami (Fla.)",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "Miami Chamber of Commerce https://id.loc.gov/authorities/names/n97041415",
+      "Police—Miami (Fla.)",
+      "Burglary—Miami (Fla.)",
+      "Prohibition—Florida https://id.loc.gov/authorities/subjects/sh85107330",
+      "Nightlife—Florida https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Entertainment—Florida https://id.loc.gov/authorities/subjects/sh96009616",
+      "Bridge (Game)",
+      "Banks and banking—Miami (Fla.)",
+      "Politics—Miami (Fla.) https://id.loc.gov/authorities/subjects/sh85104466",
+      "Business—Miami (Fla.) https://id.loc.gov/authorities/subjects/sh85018260"
+    ],
+    "description": "Issue includes editorials and commentary on Miami policing and crime, traffic and congestion, and a continuing feature on the city bus ordinance and the operating agreement with the Miami Beach Railway company (a subsidiary of Florida Power & Light). Also includes business and banking commentary (including a letter comparing Miami banks’ lending practices), Miami Chamber of Commerce-related content, a bridge column by Sidney S. Lenz, local entertainment/nightlife notices, and assorted local society items, puzzles, and advertisements.",
+    "coverage": [
+      "Miami (Fla.) https://www.geonames.org/4164138",
+      "Miami Beach (Fla.) https://www.geonames.org/4164143",
+      "1927-01-29"
+    ],
+    "contributor": [
+      "Sidney S. Lenz https://id.loc.gov/authorities/names/no2003001354",
+      "Howard Shank https://id.loc.gov/authorities/names/n84227288",
+      "Luke Cassidy https://id.loc.gov/authorities/names/n2021015163",
+      "LYSLE E. FESLER",
+      "Pete Crossland",
+      "S. C. EBBETS",
+      "WM. E. TALCOTT"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 4, Number 3"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 10.19,
+    "context_chars": 71630,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

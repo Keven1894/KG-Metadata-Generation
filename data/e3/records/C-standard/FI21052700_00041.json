@@ -1,0 +1,91 @@
+{
+  "doc_id": "FI21052700_00041",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00041",
+    "title": "MIAMI LIFE, October 22, 1927 (Volume 4, Number 4)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life Co.",
+    "date": "1927-10-22",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Municipal finance—Bond issues—Miami (Fla.)",
+      "Auditoriums—Planning—Miami (Fla.)",
+      "Public welfare—Relief work—Miami (Fla.)",
+      "Food prices—Miami (Fla.)",
+      "Pardons—Florida",
+      "Criminal justice administration—Florida",
+      "Banks and banking—Homestead (Fla.)",
+      "Electric utilities—Florida",
+      "Theater—Miami (Fla.)",
+      "Dance halls—Miami Beach (Fla.)"
+    ],
+    "description": "Issue includes editorials and local commentary on the upcoming October 27 election and debate over an $800,000 auditorium/convention hall for Miami; discussion of municipal welfare relief administered through grocery orders and criticism of a welfare-board store; commentary on pardons and criminal justice in Florida; and coverage of local business and civic matters including the Homestead bank situation and power-utility issues. Also features society-style columns, sports/boxing notes, and entertainment listings for Miami and Miami Beach venues.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Bayfront Park https://www.geonames.org/4146892",
+      "Miami Beach Gardens https://www.geonames.org/4164167",
+      "1927-10"
+    ],
+    "contributor": [
+      "S. C. EBBETS",
+      "Frank B. Shutts",
+      "Ev Sewell",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "James Whitcomb Riley https://id.loc.gov/authorities/names/no2026046069",
+      "George Ade https://id.loc.gov/authorities/names/n79089539",
+      "Tom Marshall https://id.loc.gov/authorities/names/n2002119955",
+      "Will Hays https://id.loc.gov/authorities/names/n94003199",
+      "Grover Morrow",
+      "Justice of the Peace Penney",
+      "Sidney Catts"
+    ],
+    "relation": [
+      "MIAMI LIFE (Miami, Florida), Volume 4, Number 4"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 10.82,
+    "context_chars": 67951,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

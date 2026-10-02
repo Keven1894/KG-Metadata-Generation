@@ -1,0 +1,86 @@
+{
+  "doc_id": "FI21052700_00040",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00040",
+    "title": "MIAMI LIFE, October 15, 1927 (Volume 4, Number 0)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1927-10-15",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "politics—https://id.loc.gov/authorities/subjects/sh85104466",
+      "crime—https://id.loc.gov/authorities/subjects/sh85033993",
+      "entertainment—https://id.loc.gov/authorities/subjects/sh96009616",
+      "nightlife—https://id.loc.gov/authorities/subjects/sh2008001027",
+      "sports—https://id.loc.gov/authorities/subjects/sh00007735",
+      "Miami (Fla.)—Seasonal population",
+      "Housing—Rent increases—Miami Beach (Fla.)",
+      "Florida Power & Light Company—Public relations",
+      "Public utilities—Electric power—Service quality—Miami Beach (Fla.)",
+      "Weights and measures—Meters—Miami (Fla.)",
+      "Schools—Food service—Shenandoah School",
+      "Venereal diseases—Public health—Miami (Fla.)",
+      "Community Chest—Fund raising—Miami (Fla.)",
+      "Elections—Sheriffs—Dade County (Fla.)",
+      "Boxing—Miami (Fla.)",
+      "Coral Gables (Fla.)—Population"
+    ],
+    "description": "Issue includes local commentary and political gossip columns focused on Greater Miami’s seasonal buildup and rising rents, criticism of public-utility practices (including Florida Power & Light service and metering disputes), and civic matters such as school lunch complaints at Shenandoah School, public-health concerns, and Community Chest fundraising. Also features sports coverage of boxing events, entertainment and nightlife notices, and extensive local advertising and promotional material for Miami Beach and Coral Gables.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach—https://www.geonames.org/4164143",
+      "Coral Gables—https://www.geonames.org/4151871",
+      "Collins Avenue—https://www.geonames.org/10287148",
+      "Shenandoah School—https://www.geonames.org/4172752",
+      "Jackson Memorial Hospital—https://www.geonames.org/4160003",
+      "1927-10-15"
+    ],
+    "contributor": [
+      "W. W. Farnham—https://id.loc.gov/authorities/names/n80120637",
+      "Miami Chamber of Commerce—https://id.loc.gov/authorities/names/n97041415",
+      "S. C. EBBETS",
+      "ERNEST AMOS",
+      "SHERIFF HENRY CHASE"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 4"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 13.44,
+    "context_chars": 67526,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

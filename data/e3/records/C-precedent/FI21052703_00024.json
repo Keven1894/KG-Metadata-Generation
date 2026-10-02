@@ -1,0 +1,91 @@
+{
+  "doc_id": "FI21052703_00024",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00024",
+    "title": "MIAMI LIFE, June 16, 1928 (Volume 5, Number 21)",
+    "creator": [
+      "WEN PHILLIPS"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-06-16",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Elections—Florida",
+      "Politics, Practical https://id.loc.gov/authorities/subjects/sh85104466",
+      "Coral Gables (Fla.)—Politics and government",
+      "George E. Merrick https://id.loc.gov/authorities/names/n88088610",
+      "Municipal government—Florida—Coral Gables",
+      "Bankruptcy—Florida—Coral Gables",
+      "Bond issues—Florida—Dade County",
+      "Canals—Florida—Biscayne Bay",
+      "Transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Society 5.0 https://id.loc.gov/authorities/subjects/sh2021006888",
+      "Humor https://id.loc.gov/authorities/subjects/sh2003003666",
+      "Elks—Conventions",
+      "Prohibition—Florida"
+    ],
+    "description": "Issue includes extensive reporting of official vote totals for numerous Florida and local offices; editorial coverage of Coral Gables politics and finance centered on the controversy involving George E. Merrick and the city commission; commentary envisioning a larger “Greater Miami” and discussion of local sports promotion. Also includes an editorial letter regarding Merrick’s health and support, notice and advocacy for the East Coast Canal bond election (June 26) tied to inland waterway improvements to Biscayne Bay, society and humor columns, and local advertising and entertainment listings.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Biscayne Bay https://www.geonames.org/4147971",
+      "Fort Lauderdale https://www.geonames.org/4155966",
+      "Chapman Field https://www.geonames.org/4150586",
+      "1928"
+    ],
+    "contributor": [
+      "George E. Merrick https://id.loc.gov/authorities/names/n88088610",
+      "Dr. Gibbs https://id.loc.gov/authorities/names/n93017069",
+      "TELFAIR KNIGHT",
+      "L. F. McCready",
+      "Henry Chase",
+      "Tom Norfleet",
+      "F. E. Kane",
+      "DAN CHAPPELL",
+      "JNO. W. WATSON",
+      "CARLTON",
+      "HOOVER"
+    ],
+    "relation": [
+      "Volume 5, Number 21"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": "Digitized for access by FIU Libraries; rights status not stated in provided evidence."
+  },
+  "provenance": {
+    "latency_s": 13.84,
+    "context_chars": 71341,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

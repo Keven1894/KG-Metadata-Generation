@@ -1,0 +1,10 @@
+# Python 3.11
+numpy>=2.3
+pandas>=2.3
+scipy>=1.16
+networkx>=3.6
+matplotlib>=3.10
+jupyter
+python-dotenv
+openai>=2.14
+anthropic>=0.116

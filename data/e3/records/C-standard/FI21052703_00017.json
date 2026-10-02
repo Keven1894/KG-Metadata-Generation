@@ -1,0 +1,93 @@
+{
+  "doc_id": "FI21052703_00017",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00017",
+    "title": "MIAMI LIFE, April 28, 1928 (Volume 6, Number 14)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1928-04-28",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Shrine convention—Miami (Fla.)",
+      "Hospitality industry—Miami (Fla.)",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Prohibition https://id.loc.gov/authorities/subjects/sh85107330",
+      "Transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Tamiami Trail—Advertising signs",
+      "Roads—Florida",
+      "Traffic safety—Biscayne Boulevard (Miami, Fla.)",
+      "Police—Miami (Fla.)",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Political campaigns—Florida",
+      "Banks and banking—Florida",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Editorial https://id.loc.gov/authorities/subjects/sh85040974",
+      "Entertainment https://id.loc.gov/authorities/subjects/sh96009616"
+    ],
+    "description": "Issue dated April 28, 1928 (Vol. 6, no. 14) featuring editorials and commentary on Miami’s preparations for the forthcoming Shrine convention, including civic spending, expected visitors, and calls for hospitality. Includes pieces on keeping the Tamiami Trail free of advertising signs, traffic hazards on Biscayne Boulevard safety islands, and arguments against cutting the police force after the convention. Contains political satire and election-related content (including a platform advertisement), discussion of prohibition enforcement and liquor, local business and banking news (including Southern Bank & Trust Company reopening), transportation notes (bus line over the Tamiami Trail), and entertainment/coming events and advertisements.",
+    "coverage": [
+      "Miami, Florida https://www.geonames.org/4164138",
+      "Biscayne Bay https://www.geonames.org/4147971",
+      "Tamiami Trail https://www.geonames.org/4174754",
+      "Everglades https://www.geonames.org/4154657",
+      "Bimini https://www.geonames.org/4147890",
+      "Palatka https://www.geonames.org/4167482",
+      "1928-04"
+    ],
+    "contributor": [
+      "Roy Smith https://id.loc.gov/authorities/names/nr97003832",
+      "Doyle Carlton https://id.loc.gov/authorities/names/no2020109639",
+      "Park Trammell https://id.loc.gov/authorities/names/n85336759",
+      "J. E. LUMMUS",
+      "Geo. Sewell",
+      "Barron Collier",
+      "George Merrick",
+      "John Martin",
+      "James M. Carson",
+      "J. C. Brow",
+      "Dr. Wm. Preston Hill",
+      "Dr. W. H. Evans"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 6, Number 14"
+    ],
+    "source": "FIU Libraries dPanther (Florida International University)",
+    "rights": "Access provided for research and educational use; copyright status not determined. Please contact FIU Libraries for rights and reuse information."
+  },
+  "provenance": {
+    "latency_s": 11.7,
+    "context_chars": 68029,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

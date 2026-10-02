@@ -1,0 +1,353 @@
+{
+  "doc_id": "FI21052702_00002",
+  "n_claims": 65,
+  "n_supported": 64,
+  "n_contradicted": 0,
+  "claim_precision": 0.9846,
+  "per_field": {
+    "subject": {
+      "n": 10,
+      "supported": 10
+    },
+    "description": {
+      "n": 20,
+      "supported": 20
+    },
+    "coverage": {
+      "n": 4,
+      "supported": 4
+    },
+    "contributor": {
+      "n": 31,
+      "supported": 30
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue contains content about social life and customs in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about housing conditions affecting African Americans in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about sanitation conditions at tourist camps in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about malaria as a public health concern in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about alcohol regulation in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about bars (drinking establishments) in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about wrestling in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about civil service in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about theater programs and schedules in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about advertising for local businesses in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The described content is page four of an issue of Miami Life dated September 29, 1934.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Page four includes an \"Editor's Mail\" letter from Mrs. K. B.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "In the \"Editor's Mail\" letter, Mrs. K. B. discusses poor conditions in \"colored town.\"",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "In the \"Editor's Mail\" letter, Mrs. K. B. discusses poor conditions in tourist camps.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "In the \"Editor's Mail\" letter, Mrs. K. B. expresses concerns about malaria.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Page four includes a letter from attorney T. E. Fitzgerald of Daytona Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "In his letter, T. E. Fitzgerald requests back issues.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "In his letter, T. E. Fitzgerald discusses a planned tabloid.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Page four includes a local gossip/column titled \"They Tell Me.\"",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Page four includes a local gossip/column titled \"The Real Low Down.\"",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Page four includes a local gossip/column titled \"I'd Like To Know.\"",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The columns touch on liquor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The columns touch on politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The columns touch on community news.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Page four includes notices for Miami Life Day/Buyers' Picnic Day.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Page four includes advertisements for Miami Life Day/Buyers' Picnic Day.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Page four includes advertisements for local businesses.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Page four includes items about the opening of the Pan American Civil Service Institute.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Page four includes a wrestling promotion at Biscayne Fronton dated October 2.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Page four includes a theater calendar of upcoming films.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida, United States.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach, Florida, United States.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Coral Gables, Florida, United States.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue date is 1934-09-29.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Mrs. K. B. appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "T. E. Fitzgerald appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "F. W. Pope appears in the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Governor Sholtz appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ham Leonard appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Bob Moore appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Jack Cleary appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Pete Robineau appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Leo Rosen appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Mayor Key appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Guy Reeves appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "J. D. O'Brien appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Judge Trammell appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Mayor Everglades George Sewell appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Mrs. Pearl Hamblen appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Edward Martin appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "George Romanoff appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Sammy Miller appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ken Maynard appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "James Dunn appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "June Knight appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Carole Lombard appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Robert Montgomery appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Virginia Bruce appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Clark Gable appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Myrna Loy appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Dr. Wm. E. Budreau appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Nat Findie appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Henry Palmer appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Lester DeVay appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Bill Rosboro appears in the issue.",
+      "verdict": "supported"
+    }
+  ],
+  "tier": "C-simple"
+}

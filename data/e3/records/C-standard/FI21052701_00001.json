@@ -1,0 +1,90 @@
+{
+  "doc_id": "FI21052701_00001",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052701_00001",
+    "title": "MIAMI LIFE, 1949-01-01",
+    "creator": [
+      "Reubin Clein"
+    ],
+    "publisher": "MIAMI LIFE",
+    "date": "1949-01-01",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Divorce—Fraud—Miami Beach (Fla.)",
+      "Employment agencies—Fees—Miami (Fla.)",
+      "Florida—Taxation",
+      "Florida—Infant mortality",
+      "Premature infants—Care—Florida",
+      "Jackson Memorial Hospital—Admission and treatment",
+      "Biscayne Bay—Dredging and filling",
+      "Municipal ownership—Electric utilities—Miami (Fla.)",
+      "Labor unions—Newspaper industry—Miami (Fla.)",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "tourism https://id.loc.gov/authorities/subjects/sh85136255"
+    ],
+    "description": "Issue includes local political commentary and civic advocacy, including discussion of taxation and calls for government economy; coverage of a Miami Beach divorce controversy involving Joseph E. Jacobson and an alleged fraudulent letter seeking medical records; reporting on Florida public health priorities regarding premature infant deaths; criticism of access to emergency medical care at Jackson Memorial Hospital; opposition to dredge-and-fill development in Biscayne Bay; and labor-related commentary on a newspaper strike and union solidarity. Also includes arts and entertainment items (University of Miami Symphony Orchestra concert at Miami Senior High School) and substantial local advertising.",
+    "coverage": [
+      "Miami Beach https://www.geonames.org/4164143",
+      "Jackson Memorial Hospital https://www.geonames.org/4160003",
+      "Biscayne Bay https://www.geonames.org/4147971",
+      "Dinner Key https://www.geonames.org/4153283",
+      "Miami Senior High School https://www.geonames.org/4164146",
+      "Miami (Fla.)",
+      "1949"
+    ],
+    "contributor": [
+      "Joseph E. Jacobson",
+      "Dr. Ralph A. Gowdy",
+      "Alexander Robbins",
+      "Wilson T. Sowder",
+      "John F. Lanigar",
+      "W. E. Ellis",
+      "Modeste Alloo",
+      "Kathleen Ferrier",
+      "Doris Reno",
+      "Gov. Fuller Warren",
+      "John S. Knight",
+      "Embry Riddle"
+    ],
+    "relation": [],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 10.54,
+    "context_chars": 52883,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 1.0,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": false,
+      "source": true,
+      "rights": false
+    }
+  }
+}

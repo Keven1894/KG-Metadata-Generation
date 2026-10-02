@@ -1,0 +1,101 @@
+{
+  "doc_id": "FI21052700_00016",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052700_00016",
+    "title": "Miami Life (Miami, Florida), Volume 4, Number 15 (April 30, 1927)",
+    "creator": [
+      "Wen R. Phillips (editor)"
+    ],
+    "publisher": "Miami Life",
+    "date": "1927-04-30",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper text (OCR)",
+    "language": "en",
+    "subject": [
+      "Municipal elections",
+      "City government",
+      "Political advertising",
+      "Public utilities",
+      "Florida Power & Light Company",
+      "Franchises",
+      "Taxation",
+      "Courthouse construction",
+      "Public works",
+      "Labor and employment",
+      "Race relations",
+      "Railroads",
+      "Florida East Coast Railway",
+      "Flood relief",
+      "American Red Cross",
+      "Oil exploration",
+      "Everglades drainage",
+      "Miami Beach (Fla.)"
+    ],
+    "description": "Issue includes editorials and satire focused on the upcoming Miami city election and warnings about voting, with repeated discussion of Florida Power & Light and franchise politics. Articles address courthouse construction contracts and inspection concerns, commentary on imported voters and electioneering, and a column on the \"color line\" describing employment of Black firemen on the Florida East Coast Railway and related labor issues. The issue also references Mississippi Valley flood relief efforts and Red Cross fundraising, and contains humorous features (e.g., \"Little Geraldine,\" Captain Kidd/Greeby pieces) plus multiple paid political advertisements for city commissioner candidates.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "1927"
+    ],
+    "contributor": [
+      "R. Hammerhead Greeby",
+      "Bill Scott",
+      "Ed Faris",
+      "O. G. Hilliker",
+      "R. W. Newcomb",
+      "H. A. Kennell",
+      "Avery Guyton",
+      "Charles V. Baumgardner",
+      "Harry Platt",
+      "Cliff Reeder",
+      "Leroy Morgan",
+      "James Donn",
+      "Ev Sewell",
+      "Abe Aronovitz",
+      "Red Gautier",
+      "Thomas Wiggins",
+      "J. Herman Swink",
+      "Helen Claiborne",
+      "Florida Power & Light Company",
+      "Florida East Coast Railway",
+      "American Red Cross"
+    ],
+    "relation": [
+      "Miami Life, Volume 4, Number 15"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.64,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

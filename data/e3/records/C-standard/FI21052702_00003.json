@@ -1,0 +1,77 @@
+{
+  "doc_id": "FI21052702_00003",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "FI21052702_00003",
+    "title": "MIAMI LIFE, October 6, 1934 (VOL. 9, No. 3)",
+    "creator": [],
+    "publisher": "MIAMI LIFE",
+    "date": "1934-10-06",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Landlord and tenant—Florida—Miami",
+      "Rent control—Florida—Miami",
+      "Housing—Florida—Miami",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Radio broadcasting—Florida—Miami",
+      "Horse racing—United States",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Entertainment events https://id.loc.gov/authorities/subjects/sh96009616",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Editorial cartoons https://id.loc.gov/authorities/subjects/sh85040974"
+    ],
+    "description": "Issue includes commentary on Miami’s dependence on tourism and criticism of rent increases and landlord practices as the season and a Legion convention approach; reprints a Washington political column discussing Louis McHenry Howe defending New Deal subsistence homestead ideas and mentions Franklin D. Roosevelt and Eleanor Roosevelt; contains local notebook items and opinion pieces, radio program schedules, and extensive horse-racing tips and advertisements for Miami-area businesses and nightlife venues.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Coral Gables https://www.geonames.org/4151871",
+      "1934-10-06"
+    ],
+    "contributor": [
+      "John O'Donnell https://id.loc.gov/authorities/names/n92068345",
+      "Doris Fleeson https://id.loc.gov/authorities/names/no2008150332",
+      "Eleanor Roosevelt https://id.loc.gov/authorities/names/n79144645",
+      "Franklin D. Roosevelt https://id.loc.gov/authorities/names/n79022932",
+      "Louis McHenry Howe https://id.loc.gov/authorities/names/n89118383"
+    ],
+    "relation": [
+      "VOL. 9, No. 3"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.42,
+    "context_chars": 68166,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

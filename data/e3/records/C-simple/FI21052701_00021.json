@@ -1,0 +1,87 @@
+{
+  "doc_id": "FI21052701_00021",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052701_00021",
+    "title": "Miami Life, Vol. XXIII, No. 21 (1949-05-21)",
+    "creator": [
+      "Reubin Clein",
+      "Ben F. Drucker"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-05-21",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Grand juries",
+      "Judicial ethics",
+      "Political corruption",
+      "Graft",
+      "Miami (Fla.) politics and government",
+      "Police misconduct",
+      "Gambling",
+      "Press criticism",
+      "Freedom of the press",
+      "Florida Power & Light Company",
+      "Public utilities regulation",
+      "Municipal ownership",
+      "Liquor and intoxication",
+      "Traffic accidents",
+      "Divorce cases"
+    ],
+    "description": "Issue features an editorial urging the grand jury to question Circuit Judge Stanley Milledge regarding claims of large-scale graft and criticizes Miami’s daily newspapers for attempting to influence or control grand jury proceedings. Includes extensive discussion of suspended detective C. O. Huttoe and prior grand jury findings, commentary on press practices and an advertising-censorship dispute involving City Commissioner H. Leslie Quigg and attorney Abe Aronovitz, and coverage of gambling raids allegedly tipped off by news publicity. Additional local columns address hotel license statistics, liquor-related municipal court offenses, a railroad crossing fatality, entertainment/nightlife notes, and summaries of divorce filings.",
+    "coverage": [
+      "Miami, Florida, United States",
+      "Greater Miami (Dade County), Florida, United States",
+      "1949-05-21"
+    ],
+    "contributor": [
+      "Stanley Milledge",
+      "C. O. Huttoe",
+      "H. Leslie Quigg",
+      "Abe Aronovitz",
+      "Elmer Davis",
+      "R. G. Danner",
+      "Dan D. Rosenfelder",
+      "Cecil C. Curry",
+      "James T. Landon",
+      "Dick Howden"
+    ],
+    "relation": [
+      "Miami Life (Miami, Fla.), Vol. XXIII, No. 21"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 14.56,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

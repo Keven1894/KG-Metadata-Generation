@@ -1,0 +1,100 @@
+{
+  "doc_id": "FI21052700_00026",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00026",
+    "title": "MIAMI LIFE, July 9, 1927 (Volume 4, Number 24)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1927-07-09",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "Banks and banking—Florida—Miami",
+      "Municipal finance—Florida—Miami Beach",
+      "Jackson Memorial Hospital https://www.geonames.org/4160003",
+      "Public health administration—Florida—Miami",
+      "Drunk driving—Florida—Miami Beach",
+      "Traffic accidents—Investigation—Florida—Miami",
+      "Coroners' inquests—Florida—Miami",
+      "Police corruption—Florida—Miami Beach",
+      "Airports—Location—Florida—Miami",
+      "Causeways—Construction—Florida—Miami",
+      "Tamiami Trail https://www.geonames.org/4174754",
+      "Florida East Coast Railway https://id.loc.gov/authorities/names/n86132803",
+      "Hotels—Florida—Miami Beach",
+      "Real estate speculation—Florida—Miami area",
+      "Boxing—Florida—Miami",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "sports https://id.loc.gov/authorities/subjects/sh00007735"
+    ],
+    "description": "Issue includes editorials and commentary on Miami-area civic and political affairs, including scrutiny of Florida Power & Light Company franchises and utility rates, the use of public funds and banking practices, and calls for investigation and enforcement in the Fred Osius traffic-death case (including discussion of a blue Marmon car and coroner’s inquest). Coverage also addresses conditions and governance at Jackson Memorial Hospital and the firing of Dr. Lowry, debates over airport location (Dinner Key versus Chapman Field), unfinished street and causeway improvements, and local Miami Beach matters. The issue contains local news flashes (including Tamiami Trail oil-well drilling and Hialeah ex-postmaster Randall), sports/boxing promotion, and extensive bank condition statements and advertisements.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Jackson Memorial Hospital https://www.geonames.org/4160003",
+      "Dinner Key https://www.geonames.org/4153283",
+      "Chapman Field https://www.geonames.org/4150586",
+      "Tamiami Trail https://www.geonames.org/4174754",
+      "1927-07-09"
+    ],
+    "contributor": [
+      "LYSLE E. FESLER",
+      "S. C. EBBETS",
+      "Dr. Lowry https://id.loc.gov/authorities/names/no2023129566",
+      "Fred Osius",
+      "GROVER MORROW",
+      "Ev Sewell",
+      "Governor Martin",
+      "Chief Woods",
+      "Ex-Postmaster Randall of Hialeah",
+      "City National Bank and Trust Company https://id.loc.gov/authorities/names/no98090526",
+      "The City Trust Company",
+      "Bank of Bay Biscayne",
+      "Biscayne Trust Company"
+    ],
+    "relation": [
+      "Volume 4, Number 24"
+    ],
+    "source": "FIU Libraries dPanther (Digital Collections)",
+    "rights": "Access provided for research and educational use; copyright status not determined. Please contact FIU Libraries for rights and reproduction information."
+  },
+  "provenance": {
+    "latency_s": 17.69,
+    "context_chars": 67985,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

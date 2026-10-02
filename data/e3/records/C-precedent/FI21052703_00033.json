@@ -1,0 +1,95 @@
+{
+  "doc_id": "FI21052703_00033",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "FI21052703_00033",
+    "title": "MIAMI LIFE, August 25, 1928 (Number 30)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-08-25",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue with OCR text",
+    "language": "eng",
+    "subject": [
+      "Municipal government—Miami (Fla.)",
+      "Recall elections—Florida—Miami",
+      "City commissions—Florida—Miami",
+      "Public expenditures—Florida—Miami",
+      "Police administration—Florida—Miami",
+      "Fire departments—Florida—Miami",
+      "Public schools—Florida—Dade County",
+      "Education finance—Florida—Dade County",
+      "Prohibition—Florida",
+      "Bootlegging—Florida—Miami",
+      "Crime—Florida—Miami https://id.loc.gov/authorities/subjects/sh85033993",
+      "Kidnapping—Florida—Miami",
+      "Fortune-telling—Florida—Miami",
+      "Theaters—Florida—Miami",
+      "Nightlife—Florida—Miami https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Entertainment—Florida—Miami https://id.loc.gov/authorities/subjects/sh96009616",
+      "Business—Florida—Miami https://id.loc.gov/authorities/subjects/sh85018260",
+      "Politics—Florida—Miami https://id.loc.gov/authorities/subjects/sh85104466"
+    ],
+    "description": "Issue includes editorials and reports on Miami municipal finances and governance, including criticism of budget cuts alongside city purchases and an affidavit seeking recall of the city commission. Coverage also addresses Dade County public-instruction budget shortfalls and proposed reductions in teaching staff, local enforcement of prohibition and related corruption concerns, and commentary on crime and policing. A prominent feature discusses stage performer Gene Dennis and claims about the McAllister kidnapping, alongside other local civic notes, society/column items, and advertisements for Miami-area businesses and entertainment.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami River https://www.geonames.org/4164208",
+      "Everglades https://www.geonames.org/4154657",
+      "1928-08-25"
+    ],
+    "contributor": [
+      "John C. Knight https://id.loc.gov/authorities/names/n82151911",
+      "C. H. Reeder https://id.loc.gov/authorities/names/n97072216",
+      "E. G. Sewell",
+      "Harry E. Platt",
+      "J. J. Lummins",
+      "Gene Dennis",
+      "Charles M. Fisher",
+      "Don Q. Willis",
+      "H. H. Arnold",
+      "W. Cecil Watson",
+      "Mrs. McAllister",
+      "Billy McAllister",
+      "Justice of the Peace Gorman",
+      "Judge Atkinson",
+      "Russell (Assistant U. S. District Attorney)"
+    ],
+    "relation": [
+      "Number 30"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 11.85,
+    "context_chars": 71438,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

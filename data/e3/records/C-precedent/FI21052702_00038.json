@@ -1,0 +1,88 @@
+{
+  "doc_id": "FI21052702_00038",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00038",
+    "title": "MIAMI LIFE, June 8, 1935 (Vol. 9, No. 38)",
+    "creator": [],
+    "publisher": "Miami Life",
+    "date": "1935-06-08",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Municipal finance—Florida—Miami",
+      "City clerks—Florida—Miami",
+      "Auditing—Florida—Miami",
+      "Gambling devices—Florida—Miami",
+      "Marble board games (gambling)—Florida—Miami",
+      "Bail and recognizance—Florida—Miami",
+      "Bondsmen—Florida—Miami",
+      "Courts—Florida—Miami",
+      "Women—Crimes against—Florida—Dade County",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "Crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255"
+    ],
+    "description": "Issue reports on Miami municipal affairs, including City Clerk Harold E. Ross’s statement that an audit will show an approximately $12,000 shortage attributed to unpaid municipal court fines and bail-bond practices, and commentary on court procedures and professional bondsmen. It also covers efforts to prosecute marble board gambling devices, includes local columns and opinion pieces, nightlife and entertainment items, advertisements, and sports coverage (including fishing and baseball notes).",
+    "coverage": [
+      "Miami, Florida https://www.geonames.org/4164138",
+      "Biscayne Bay https://www.geonames.org/4147971",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Tropical Park https://www.geonames.org/4175747",
+      "Fort Dallas Park https://www.geonames.org/6466264",
+      "Opa-locka https://www.geonames.org/4167003",
+      "Coral Gables https://www.geonames.org/4151871",
+      "1935"
+    ],
+    "contributor": [
+      "Harold E. Ross https://id.loc.gov/authorities/names/no2022074863",
+      "Louis Schwartz https://id.loc.gov/authorities/names/n82214071",
+      "Abe Aronovitz",
+      "Mayor A. D. H. Fossey",
+      "Parker A. Henderson",
+      "Charles Laughinghouse",
+      "Ben C. Willard",
+      "Mrs. Clayton Vogel"
+    ],
+    "relation": [
+      "Vol. 9, No. 38"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 9.52,
+    "context_chars": 71563,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "doc_id": "FI21052703_00020",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052703_00020",
+    "title": "Miami Life — Vol. 6, No. 17 (1928-05-19)",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-05-19",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Florida politics",
+      "Elections",
+      "Democratic primary (Florida)",
+      "Governor's race",
+      "Dade County (Fla.)",
+      "Miami (Fla.)",
+      "Law enforcement",
+      "Prohibition",
+      "Liquor raids",
+      "Tamiami Trail",
+      "Road conditions",
+      "Local business and commerce",
+      "Entertainment",
+      "Motion pictures",
+      "Miami Beach (Fla.)"
+    ],
+    "description": "Issue includes editorials and political commentary on Florida’s 1928 campaigns (including the governor’s race and local offices), discussion of East vs. West Florida interests, and numerous candidate notices/ads. Reports and commentary touch on Prohibition enforcement and contraband liquor at the county stockade, road conditions on the Tamiami Trail and other Florida routes, local civic/commerce matters (including convention-related concessions), and community entertainment listings and advertisements for Miami and Miami Beach.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Dade County (Fla.)",
+      "Miami Beach (Fla.)",
+      "Florida",
+      "1928-05-19"
+    ],
+    "contributor": [
+      "Doyle Carlton",
+      "Sidney J. Catts",
+      "Fons Hathaway",
+      "Ruth Bryan Owen",
+      "R. Hammerhead Greeby",
+      "Bob Marshbun",
+      "E. B. Leatherman",
+      "McNeil",
+      "Lenwood Taylor",
+      "Willie Williams",
+      "Henry Chase",
+      "Louis A. Allen",
+      "Robert R. Taylor",
+      "J. B. Leonard",
+      "J. T. Wigginton",
+      "W. W. (Bill) Smith",
+      "Dan Chaplin",
+      "Geo. B. Stone"
+    ],
+    "relation": [
+      "Miami Life, Volume 6, Number 17"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.34,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

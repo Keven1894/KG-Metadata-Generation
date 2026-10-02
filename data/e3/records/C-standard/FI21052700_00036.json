@@ -1,0 +1,97 @@
+{
+  "doc_id": "FI21052700_00036",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00036",
+    "title": "MIAMI LIFE, September 17, 1927 (Volume 4, Number 34)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1927-09-17",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "editorial https://id.loc.gov/authorities/subjects/sh85040974",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Dade County (Fla.)—County commissioners",
+      "County finances—Florida—Dade County",
+      "Libel—Florida—Miami",
+      "Justices of the peace—Florida—Miami",
+      "Public utilities—Florida—Miami",
+      "Street railroads—Florida—Miami",
+      "Bus transportation—Florida—Miami",
+      "Tipping—United States",
+      "Hurricanes—Florida—Miami—Anniversaries",
+      "Boxing—Illinois—Chicago",
+      "Radio broadcasting of sports"
+    ],
+    "description": "Issue includes editorials and local commentary on a $50,000 libel suit and arrest involving Justice of the Peace Penney and Miami Life editor Wen R. Phillips; criticism of Dade County commissioners’ handling of county deposits and proposed bond spending; discussion of post-hurricane rebuilding and civic improvements across Greater Miami; coverage of worsening transportation service under Florida Power and Light Company; notes on a doctors’ registry dispute involving the Dade County Medical Association and Adele Hampton; and extensive sports/entertainment items including promotion of the Tunney–Dempsey fight returns by radio at Biscayne Fronton, plus columns, humor, and local “Miami-grams.”",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Homestead https://www.geonames.org/4159050",
+      "Terminal Island https://www.geonames.org/7276946",
+      "Lummus Park https://www.geonames.org/4162994",
+      "1927-09-17"
+    ],
+    "contributor": [
+      "Adele Hampton https://id.loc.gov/authorities/names/no2008164766",
+      "Carl G. Fisher https://id.loc.gov/authorities/names/n91118168",
+      "Dade County Medical Association https://id.loc.gov/authorities/names/n93802479",
+      "City Manager Wharton",
+      "R. HAMMERHEAD GREEBY",
+      "Judge W. F. Brown",
+      "Bailiff Yandle",
+      "Schwartz",
+      "Gene Tunney",
+      "Jack Dempsey",
+      "Graham McNamee",
+      "J. Andrew White",
+      "Harvey Seeds Post of the American Legion",
+      "Biscayne Fronton",
+      "Florida Power and Light Company"
+    ],
+    "relation": [
+      "Volume 4, Number 34"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 12.13,
+    "context_chars": 67848,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

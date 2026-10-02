@@ -1,0 +1,93 @@
+{
+  "doc_id": "FI21052702_00040",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00040",
+    "title": "MIAMI LIFE, June 22, 1935 (Vol. 9, no. 40)",
+    "creator": [],
+    "publisher": "LIFE PUBLISHING COMPANY",
+    "date": "1935-06-22",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Telephone rates—Florida—Miami",
+      "Southern Bell Telephone Company",
+      "Public utilities regulation—Florida",
+      "State Railroad Commission—Florida",
+      "Crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Gambling devices—Florida—Miami",
+      "Marble board gambling—Florida—Miami",
+      "Police—Florida—Miami",
+      "Jewel robbery—Florida—Miami",
+      "Miami-Biltmore Hotel—Robberies",
+      "Politics, Practical https://id.loc.gov/authorities/subjects/sh85104466",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Boxing—Heavyweight championship",
+      "Entertainment events https://id.loc.gov/authorities/subjects/sh96009616",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Kidnapping—Law and legislation—United States",
+      "Newspapers—Florida—Miami"
+    ],
+    "description": "Issue includes prominent local investigative and editorial coverage alleging excessive telephone rates charged by the Southern Bell Telephone Company in Miami and criticizing inaction by the Florida Railroad Commission, with references to state-level attention in Tallahassee. Reports and commentary cover criminal justice and law enforcement matters including the Miami-Biltmore jewel robbery case (Nicky Montone and Charles Caliare), discussion of an investigation connected to George F. McCall, and municipal court actions against marble board/mechanical gambling devices. Additional columns and features address local civic affairs (including appointment of a safety director), sports and boxing commentary, social/nightlife items, and extensive local advertising.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Surfside https://www.geonames.org/4174518",
+      "Tallahassee https://www.geonames.org/4174715",
+      "Municipal Golf Course https://www.geonames.org/6352070",
+      "1935-06-22"
+    ],
+    "contributor": [
+      "Frey https://id.loc.gov/authorities/names/no2026030553",
+      "Abe Aronovitz",
+      "Nicky Montone",
+      "Charles Caliare",
+      "George F. McCall",
+      "G. A. Worley",
+      "Noel Scaffa",
+      "Eugene (Rat) Bryant",
+      "Andrew J. Kavanaugh",
+      "Gov. Sholtz",
+      "Henry L. Doherty",
+      "Spearman Lewis",
+      "Tom Stowe"
+    ],
+    "relation": [
+      "MIAMI LIFE (\"Florida's Most Influential Weekly\"), Vol. 9, no. 40"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 10.92,
+    "context_chars": 71059,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

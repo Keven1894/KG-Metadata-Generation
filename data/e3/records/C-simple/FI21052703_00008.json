@@ -1,0 +1,98 @@
+{
+  "doc_id": "FI21052703_00008",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052703_00008",
+    "title": "Miami Life, Volume 5, Number 5 (February 18, 1928)",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-02-18",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Police brutality",
+      "Law enforcement accountability",
+      "City government",
+      "Miami Beach police",
+      "Prohibition enforcement",
+      "Coast Guard",
+      "Community Chest fundraising",
+      "Public libraries",
+      "Miami marine pageant",
+      "Mid-Winter Regatta",
+      "Automobile show",
+      "Boxing",
+      "Tourism"
+    ],
+    "description": "Issue includes editorials and commentary on alleged police brutality in Miami (including the case of Charles Haynes, who shot Detective Beckham), criticism of city officials for inaction, and discussion of Prohibition-era enforcement and a Chicago Daily Tribune editorial on coast guardsmen acquitted in a killing. Other items include Miami Beach policing and misconduct, a call to support Miami’s Community Chest, advocacy for a downtown public library, notes on juvenile performers and child labor law loopholes, announcements about a planned marine pageant tied to the Mid-Winter Regatta (March 15) and other local civic news. The issue also contains society/arrival notes, sports coverage (boxing bouts), and extensive local advertising including the Eighth Annual Automobile Show at Cinderella Ballroom.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Coral Gables (Fla.)",
+      "Dade County (Fla.)",
+      "1928"
+    ],
+    "contributor": [
+      "Charles Haynes",
+      "Detective Beckham",
+      "Chief Wood",
+      "Earl Hudson",
+      "Tom Nazeworth",
+      "Chief Quigg",
+      "Walter Evans",
+      "Chicago Daily Tribune",
+      "Carl Fisher",
+      "Colonel George M. Duncan",
+      "E. Bruce Youngs",
+      "E. G. Sewell",
+      "Ed Faris",
+      "C. W. Barron",
+      "Paul Howard",
+      "Mrs. Frederick McLaughlin (Irene Castle)",
+      "Gene Sarazen",
+      "Jimmy Watts",
+      "Frankie Garcia",
+      "Hugh Martin",
+      "Harry Kid Brown",
+      "Phil Gusmano"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 5, Number 5"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 13.95,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

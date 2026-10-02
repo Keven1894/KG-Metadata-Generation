@@ -1,0 +1,80 @@
+{
+  "doc_id": "FI21052702_00017",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052702_00017",
+    "title": "Miami Life (Miami, Florida), Vol. 9, No. 17 (January 12, 1935)",
+    "creator": [],
+    "publisher": "Miami Life",
+    "date": "1935-01-12",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)—Social life and customs",
+      "Horse racing",
+      "Tropical Park (Miami, Fla.)",
+      "Hialeah Park Race Track (Hialeah, Fla.)",
+      "Sportswriting",
+      "Gambling",
+      "Alcoholic beverages—Advertising",
+      "Nightclubs",
+      "Tourism",
+      "Local politics"
+    ],
+    "description": "Weekly issue featuring Miami social and sports commentary, including extensive horse-racing coverage and betting/handicapping content (Tropical Park and upcoming Hialeah meet) with warnings about unauthorized sale of selections. Includes local opinion pieces and gossip-style columns (\"They Tell Me,\" \"Things I'd Like to Know\"), discussion of Florida politics and regional power, and numerous advertisements for bars, restaurants, liquor-related events (International Wine and Liquor Exposition), and local businesses.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Dade County (Fla.)",
+      "Hialeah (Fla.)",
+      "Miami Beach (Fla.)",
+      "1935-01-12"
+    ],
+    "contributor": [
+      "Dave Sholtz",
+      "Vernon Hawthorne",
+      "Alex Ott",
+      "Louis F. Snedigar",
+      "Dr. Frances Tuttle",
+      "Jockey Jimmy",
+      "Flea Dadden",
+      "Paul Whiteman",
+      "Tom Heeney"
+    ],
+    "relation": [
+      "Miami Life, Volume 9, Number 17"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 7.66,
+    "context_chars": 57880,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "doc_id": "FI21052703_00014",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00014",
+    "title": "MIAMI LIFE, April 7, 1928 (Volotii 6. Numbler 11)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1928-04-07",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Municipal government—Florida—Miami",
+      "Recall elections—Florida—Miami",
+      "Political corruption—Florida—Miami",
+      "Organized crime—Florida—Miami",
+      "Graft—Florida—Miami",
+      "Grand juries—Florida—Miami",
+      "Prohibition—Florida—Miami https://id.loc.gov/authorities/subjects/sh85107330",
+      "Liquor traffic—Florida—Miami",
+      "Labor unions—Political activity—Florida—Miami",
+      "Central Labor Union—Florida—Miami",
+      "Chamber of Commerce—Florida—Miami https://id.loc.gov/authorities/names/n89607178",
+      "Banks and banking—Florida—Miami",
+      "Southern Bank & Trust Company https://id.loc.gov/authorities/names/nb2019007811",
+      "Tourism—Florida—Miami https://id.loc.gov/authorities/subjects/sh85136255",
+      "Editorials https://id.loc.gov/authorities/subjects/sh85040974"
+    ],
+    "description": "Issue dated April 7, 1928 (Volotii 6, Numbler 11). Contains editorials and political commentary on local corruption, gambling, bootlegging, and an emerging \"underworld\" in Dade County; discusses the role of the grand jury and State's Attorney Vernon Hawthorne. Reports that recall petitions are circulating regarding city officials Sewell, Platt, and Knight, and includes commentary on organized labor and claims about attempts to sell the labor vote. Notes the Chamber of Commerce moving into new quarters and reports that the Southern Bank & Trust Company is expected to reopen. Includes local political notes, satirical \"Late News Flashes,\" and substantial advertising and entertainment listings for Greater Miami and Miami Beach.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Hialeah, Florida https://www.geonames.org/4158476",
+      "Chattahoochee, Florida https://www.geonames.org/4150673",
+      "1928-04-07"
+    ],
+    "contributor": [
+      "Vernon Hawthorne https://id.loc.gov/authorities/names/n80151101",
+      "Sewell https://id.loc.gov/authorities/names/n96801150",
+      "Platt https://id.loc.gov/authorities/names/n2006165123",
+      "Knight https://id.loc.gov/authorities/names/n95096599",
+      "Southern Bank & Trust Company https://id.loc.gov/authorities/names/nb2019007811",
+      "Chamber of Commerce https://id.loc.gov/authorities/names/n89607178"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volotii 6, Numbler 11"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": "Rights status not stated in issue; provided for research and educational use via FIU Libraries dPanther. Users are responsible for determining copyright and securing permissions as needed."
+  },
+  "provenance": {
+    "latency_s": 15.3,
+    "context_chars": 68066,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

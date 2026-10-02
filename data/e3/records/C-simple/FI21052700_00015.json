@@ -1,0 +1,92 @@
+{
+  "doc_id": "FI21052700_00015",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052700_00015",
+    "title": "Miami Life, Volume 4, Number 15 (1927-04-23)",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life",
+    "date": "1927-04-23",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.) politics and government",
+      "City commission elections",
+      "Public utilities regulation",
+      "Florida Power & Light Company",
+      "Transportation contracts and jitneys",
+      "Everglades drainage",
+      "Taxation",
+      "Civic boosterism and tourism",
+      "University of Miami stadium fundraising",
+      "Coast Guard investigations",
+      "Prohibition and alcohol smuggling"
+    ],
+    "description": "Issue includes editorials and commentary on Miami municipal politics and the May 3 city commission election, criticizing public-utility influence (Florida Power & Light) and city contracts (including jitney/bus arrangements), and discussing taxation and municipal spending. Articles address Everglades drainage proposals, civic image/boosterism, and a call to support the University of Miami stadium campaign. Additional pieces mention Coast Guard investigations and Prohibition-era alcohol shipments, along with local society-style columns, advertisements, and a paid political open letter by Abe Aronovitz.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "Everglades (Fla.)",
+      "1927"
+    ],
+    "contributor": [
+      "Lysle E. Fesler",
+      "Pete Crossland",
+      "Ed Romfh",
+      "Abe Aronovitz",
+      "James Donn",
+      "Lillian Reeves",
+      "C. W. Heiser",
+      "D. A. McDougal",
+      "John B. Orr",
+      "F. B. Stoneman",
+      "Cliff Reeder",
+      "Harry Platt",
+      "Leroy Morgan",
+      "Ev Sewell",
+      "Red Gautier",
+      "Ed Faris",
+      "Robert E. Simpson",
+      "Fred Botts"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 4, Number 15"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 7.69,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "doc_id": "FI21052703_00029",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052703_00029",
+    "title": "Miami Life — Vol. 5, No. 26 (1928-07-21)",
+    "creator": [
+      "Wen R. Phillips",
+      "W. W. Farnham",
+      "Fred Girton",
+      "Bob Purvis",
+      "Joe Coke",
+      "Hal Potter"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-07-21",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)—Politics and government",
+      "Prohibition—United States",
+      "Coast Guard—United States",
+      "Great Britain—Foreign relations—United States",
+      "Traffic regulation—Miami (Fla.)",
+      "Parking—Miami (Fla.)",
+      "Milk supply—Prices—Miami (Fla.)",
+      "Dairying—Regulation—Dade County (Fla.)",
+      "Public health—Milk—Pasteurization",
+      "Coral Gables (Fla.)—City government",
+      "Public buildings—Naming",
+      "Biscayne Boulevard (Miami, Fla.)",
+      "Markets—Miami (Fla.)",
+      "Poisons—Insecticides—Safety",
+      "Local news—Miami (Fla.)"
+    ],
+    "description": "Weekly issue containing editorials and local commentary on Miami’s civic development and need for cooperation; U.S. Prohibition enforcement and the Christianson case prompting an apology to Great Britain and new limits on rum-chasers near the Bahamas; downtown traffic problems including double parking; municipal spending/publicity satire involving Mayor Sewell; discussion of high milk prices, dairy regulation, and pasteurization across Dade County municipalities; Coral Gables commission politics and appointment of Alfred K. Simmons; proposals for naming the new Dade County courthouse/administration building; notes on Biscayne Boulevard “islands,” curb market expansion for locally raised meat, and warnings about insecticide packaging; includes society/gossip columns, entertainment listings, and extensive advertising.",
+    "coverage": [
+      "Miami, Florida, United States",
+      "Dade County, Florida, United States",
+      "Coral Gables, Florida, United States",
+      "Miami Beach, Florida, United States",
+      "Bahamas",
+      "1928-07-21"
+    ],
+    "contributor": [
+      "Mayor Sewell",
+      "Mary Pickford",
+      "Al Capone",
+      "Billy McAllister",
+      "James Allison",
+      "Carl G. Fisher",
+      "Alfred K. Simmons",
+      "George Merrick",
+      "Mayor Montanus",
+      "Commissioner Moon",
+      "Commissioner Whitney",
+      "Czar Kane",
+      "Rudyard Kipling"
+    ],
+    "relation": [
+      "Volume 5, Number 26"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.89,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

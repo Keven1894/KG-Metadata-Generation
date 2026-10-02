@@ -1,0 +1,83 @@
+{
+  "doc_id": "FI21052703_00021",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00021",
+    "title": "Miami Life, May 26, 1928 (Volume 6, Number 18)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-05-26",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Elections—Florida—Dade County",
+      "Sheriffs—Election—Florida—Dade County",
+      "Prohibition—Florida—Dade County https://id.loc.gov/authorities/subjects/sh85107330",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Banks and banking—Florida—Miami",
+      "Southern Bank & Trust Company https://id.loc.gov/authorities/names/nb2019007811",
+      "Motion picture industry—Amateur films—Children—Florida—Miami Beach",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "editorial https://id.loc.gov/authorities/subjects/sh85040974",
+      "business https://id.loc.gov/authorities/subjects/sh85018260"
+    ],
+    "description": "Issue includes editorials and political commentary focused on Florida and Dade County primary campaigns, including support for Governor John W. Martin in opposition to Park Trammell for U.S. Senate and extensive coverage of the Dade County sheriff’s race (including discussion of prohibition enforcement and bootlegging). Contains a published letter to depositors from J. E. Lummus of The Southern Bank & Trust Company regarding a dividend and certificates of deposit. Reports and promotional coverage include a juvenile movie-impersonation contest at the Roney Plaza Casino (Miami Beach) with newsreel filming, local civic and convention notes (Elks), and assorted local items, advertisements, and entertainment/sports notices.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Bayfront Park https://www.geonames.org/4146892",
+      "Causeway https://www.geonames.org/4150277",
+      "Tallahassee https://www.geonames.org/4174715",
+      "1928-05-26"
+    ],
+    "contributor": [
+      "John W. Martin https://id.loc.gov/authorities/names/no2012062904",
+      "Park Trammell https://id.loc.gov/authorities/names/n85336759",
+      "W. W. (Bill) Smith https://id.loc.gov/authorities/names/n89139480",
+      "Henry Chase https://id.loc.gov/authorities/names/no2009093233",
+      "Louis Allen https://id.loc.gov/authorities/names/n50022973",
+      "Southern Bank & Trust Company https://id.loc.gov/authorities/names/nb2019007811",
+      "J. E. LUMMUS"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 6, Number 18"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.42,
+    "context_chars": 72231,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "doc_id": "FI21052700_00038",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052700_00038_19271001",
+    "title": "Miami Life — Volume 4, Number 36 (October 1, 1927)",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life",
+    "date": "1927-10-01",
+    "type": "Text; newspaper issue",
+    "format": "Digitized text (OCR)",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)—Newspapers",
+      "Real estate development—Florida—Miami",
+      "Housing shortages",
+      "Apartment houses",
+      "Cost of living",
+      "Wages",
+      "Sanitation",
+      "Miami River (Fla.)",
+      "Oil and gas exploration—Florida",
+      "Natural gas",
+      "Law enforcement",
+      "Coast Guard",
+      "Bootlegging",
+      "Rum-running",
+      "Boxing",
+      "Golf tournaments",
+      "Civic improvement"
+    ],
+    "description": "Weekly issue featuring editorials and local commentary on an anticipated real-estate upswing, housing affordability and apartment vacancies, wage levels and living conditions, and calls for cleanup and sanitation enforcement along the Miami River. Includes reporting on rum-running and the arrest of “Pop” Nesle, criticism of police conduct and uniforms being mistaken for Coast Guard, discussion of oil/natural gas drilling prospects near Miami, and coverage of local sports and entertainment (boxing cards, golf events), along with letters to the editor and extensive local advertising.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Coral Gables (Fla.)",
+      "Hialeah (Fla.)",
+      "Greater Miami (Fla.)",
+      "1927-10-01"
+    ],
+    "contributor": [
+      "S. B. Ebbetts",
+      "J. H. Wendler",
+      "Pop Nesle",
+      "R. Hammerhead Greeby",
+      "Ellis Holums",
+      "Olin Kennedy",
+      "Judge Frank Stoneman",
+      "Ev Sewell",
+      "Dr. R. M. Harris",
+      "Kent Watson",
+      "Tom Arnold",
+      "Charles G. Wiedmann",
+      "Jas. S. Sterns",
+      "B. Pollock, M.D.",
+      "Walter Frame",
+      "Bill Venn"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 4, Number 36"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 7.88,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

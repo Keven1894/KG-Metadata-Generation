@@ -1,0 +1,89 @@
+{
+  "doc_id": "FI21052702_00042",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00042",
+    "title": "MIAMI LIFE, July 6, 1935 (Vol. 9, No. 42)",
+    "creator": [
+      "ESTHER A. LAPP"
+    ],
+    "publisher": "Miami Life Publishing Company",
+    "date": "1935-07-06",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue with OCR text",
+    "language": "eng",
+    "subject": [
+      "Police chiefs—Selection and appointment—Miami (Fla.)",
+      "Police—Political activity—Miami (Fla.)",
+      "Political corruption—Miami (Fla.)",
+      "Gambling—Dog racing—Massachusetts",
+      "Gambling—Florida",
+      "Mechanical gambling devices—Miami (Fla.)",
+      "Telephone—Rates—Miami (Fla.)",
+      "Married women—Employment—Miami Beach (Fla.)",
+      "Teachers—Employment—Miami Beach (Fla.)",
+      "Miami Beach (Fla.)—Public access to beaches",
+      "Picnics—Florida—Miami",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "nightlife https://id.loc.gov/authorities/subjects/sh2008001027"
+    ],
+    "description": "Issue includes an editorial opposing the appointment of John Rowland as Miami chief of police and criticizing alleged political influence (“Little Tammany” and “Hawthorneism”). Other coverage includes discussion of mechanical gambling devices and enforcement, commentary on telephone rates and the Railroad Commission, a report on Miami Beach school board policy regarding married teachers, a column on Miami Beach public access to the shoreline, and community features such as Miami Life’s annual picnic/outing for children (Mayfair Theater and Musa Isle), social notes, and sports/gambling tip content (“Jockey Jimmy”).",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Bayfront Park https://www.geonames.org/4146892",
+      "1935-07-06"
+    ],
+    "contributor": [
+      "John Rowland https://id.loc.gov/authorities/names/n85053638",
+      "Vernon Hawthorne https://id.loc.gov/authorities/names/n80151101",
+      "Andrew J. Kavanaugh",
+      "L. L. Lee",
+      "A. D. H. Fossey",
+      "Abe Aronovitz",
+      "TOM STOWE",
+      "H. Leslie Quigg",
+      "\"Sonny\" Sheppard",
+      "Mrs. Chandler"
+    ],
+    "relation": [
+      "Vol. 9, No. 42"
+    ],
+    "source": "FIU Libraries dPanther (Digital Collections)",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 9.48,
+    "context_chars": 71096,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

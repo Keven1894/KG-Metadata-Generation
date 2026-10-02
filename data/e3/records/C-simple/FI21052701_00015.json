@@ -1,0 +1,94 @@
+{
+  "doc_id": "FI21052701_00015",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052701_00015_19490409",
+    "title": "Miami Life (Miami, Fla.), Vol. XXIII, No. 15 (Saturday, April 9, 1949)",
+    "creator": [
+      "Reubin Clein"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-04-09",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Miami Retreat (Miami, Fla.)",
+      "Psychiatric abuse",
+      "Medical fraud",
+      "Grand jury investigations",
+      "Florida Power & Light Company",
+      "Public utilities regulation",
+      "Municipal ownership",
+      "Gambling",
+      "Race tracks",
+      "Zoning",
+      "DDT",
+      "Mosquito control"
+    ],
+    "description": "Issue features extensive coverage of allegations of abuse and fraud connected to the Miami Retreat and psychiatrist Dr. T. Earl Moore (the \"Torture Doctor\"), urging grand jury and state medical board action and describing a \"mystery woman\" case and other reported mistreatment. Additional articles address Florida Power & Light and municipal ownership/public power politics, critiques of anti-gambling campaigns amid legalized pari-mutuel racing, Miami municipal court activity, proposed state utilities regulation, a DDT spraying health warning by Dr. Carlton Deederer, a Coral Way zoning dispute, and community events and letters to the editor.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Dade County (Fla.)",
+      "1949"
+    ],
+    "contributor": [
+      "Edward (Dick) Tracy",
+      "Dr. T. Earl Moore",
+      "Dr. Carlton Deederer",
+      "Cecil C. Curry",
+      "Daniel Iverson",
+      "Melborne L. Martin",
+      "Drew Pearson",
+      "Harry Sheppard",
+      "John Burwell",
+      "Richard Ervin",
+      "C. M. Gay",
+      "A. D. Barnes",
+      "Jerry Donovan",
+      "Ellis C. Knox",
+      "Fred Stutz",
+      "Erving Moss",
+      "Jerome Weinkle",
+      "Henry Morgenthau, Jr.",
+      "Jack A. James",
+      "Tom Hayes",
+      "C. J. Schultz"
+    ],
+    "relation": [
+      "Miami Life, Vol. XXIII, No. 15"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 7.72,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

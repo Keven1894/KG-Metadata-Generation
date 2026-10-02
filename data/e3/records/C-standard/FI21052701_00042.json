@@ -1,0 +1,102 @@
+{
+  "doc_id": "FI21052701_00042",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052701_00042",
+    "title": "MIAMI LIFE, Oct. 15, 1949 (Vol. XXIII, No. 42)",
+    "creator": [
+      "Reubin Clein"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-10-15",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Municipal elections—Miami (Fla.)",
+      "City councils—Florida—Miami",
+      "Jose Aleman https://id.loc.gov/authorities/names/no2008026571",
+      "Immigration enforcement—United States",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Adoption—Florida—Miami",
+      "Unwed mothers—Florida—Miami",
+      "Newspapers—Ethics",
+      "Medical advertising",
+      "Public beaches—Florida—Miami Beach",
+      "Contempt of court—Florida",
+      "Police misconduct—Florida—Miami",
+      "Building permits—Florida—Dade County",
+      "Zoning—Florida—Coral Gables",
+      "sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "editorial https://id.loc.gov/authorities/subjects/sh85040974"
+    ],
+    "description": "Issue includes editorials and local political coverage ahead of Miami city commission elections, including a poll-style candidate list and commentary on campaign conditions. Major articles discuss Jose Aleman and alleged influence on immigration enforcement, including the transfer of an immigration inspector; coverage also critiques the Miami Herald’s reporting on a \"baby-racket\"/adoption case and argues against monopolization of adoption arrangements. Additional reporting covers the long-running Miami Beach public-beach legal dispute and contempt proceedings, police and vagrancy court activity in Miami, reforms requiring contractor qualification in unincorporated Dade County, and Coral Gables zoning enforcement against room rentals. Regular features include sports commentary and assorted advertisements and entertainment listings.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Bayfront Park https://www.geonames.org/4146892",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Memorial Field https://www.geonames.org/7220117",
+      "1949-10-15"
+    ],
+    "contributor": [
+      "Ben F. Drucker",
+      "R. K. Bell https://id.loc.gov/authorities/names/no2021143256",
+      "George E. Holt https://id.loc.gov/authorities/names/n2004078165",
+      "Tom C. Clark https://id.loc.gov/authorities/names/no2011193878",
+      "Milton Weiss",
+      "W. T. McIlwain",
+      "E. L. Semple",
+      "Herbert Scott Young",
+      "C. Frederic Brown",
+      "David Koller",
+      "Pat Whitaker",
+      "J. Lewis Hall",
+      "Sheriff James Sullivan",
+      "Cecil C. Curry",
+      "Walter F. Miller",
+      "A. R. Mackey",
+      "Mel Kann",
+      "Clark S. Haas"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Vol. XXIII, No. 42"
+    ],
+    "source": "FIU Libraries dPanther (Florida International University)",
+    "rights": "Access provided for research and educational use; copyright status not determined. Please contact FIU Libraries for rights and reuse information."
+  },
+  "provenance": {
+    "latency_s": 14.7,
+    "context_chars": 67893,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

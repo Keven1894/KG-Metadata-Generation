@@ -1,0 +1,73 @@
+{
+  "doc_id": "FI21052702_00005",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052702_00005",
+    "title": "Miami Life (Miami, Fla.), Vol. 9, No. 5 (Saturday, October 20, 1934)",
+    "creator": [],
+    "publisher": "Miami Life",
+    "date": "1934-10-20",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Radio programs",
+      "Horse racing",
+      "Gambling",
+      "American Legion",
+      "Miami Beach (Fla.)",
+      "Local news and gossip",
+      "Politics and government",
+      "Housing rents",
+      "Advertising"
+    ],
+    "description": "Issue includes radio program schedules (WCAU, WIOD, WQAM) and extensive horse-racing tips and promotions for a paid \"Jockey Jimmy\" information service. Local columns and notices reference American Legion visitors in Miami, Miami Beach nightlife and businesses, and a \"They Tell Me That\" gossip section. A feature lists \"old-timers\" and what they are doing now, and a political item discusses Glenn May potentially running for Florida governor (1936 platform). Includes a letter to the editor complaining about a rent increase in Miami and urging exposure of landlords who raise rents.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Florida",
+      "1934-10-20"
+    ],
+    "contributor": [
+      "Sam Marley",
+      "Glen May",
+      "Jockey Jimmy",
+      "Mrs. H."
+    ],
+    "relation": [
+      "Miami Life, Vol. 9, No. 5"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 5.41,
+    "context_chars": 34934,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

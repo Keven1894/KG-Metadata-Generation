@@ -1,0 +1,92 @@
+{
+  "doc_id": "FI21052701_00020",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "FI21052701_00020",
+    "title": "MIAMI LIFE, Saturday, May 14, 1949 (Vol. XXIII, No. 20)",
+    "creator": [
+      "Reubin Clein, Editor"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-05-14",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue; OCR text",
+    "language": "eng",
+    "subject": [
+      "Gambling legislation—Florida—Dade County",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Judicial ethics—Florida—Dade County",
+      "Courts—Florida—Dade County",
+      "Police misconduct—Florida—Miami Beach",
+      "Transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Public utilities—Water supply—Rates—Florida—Miami",
+      "Rent control—Florida—Miami Beach",
+      "Homestead exemption—Florida",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Harbors—Florida—Miami area",
+      "Dredging—Florida Intracoastal Waterway",
+      "Health https://id.loc.gov/authorities/subjects/sh00006004",
+      "Spiritualism—Fraud"
+    ],
+    "description": "Issue includes editorials and local political commentary on proposed legalization and expansion of gambling in Dade County; criticism of the Greater Miami Crime Commission’s tactics and its impact on local officials; discussion of Miami governance issues including control of Biscayne Bay property, water-rate authority, and rent control politics in Miami Beach. Reports and commentary address alleged judicial and political influence in a divorce case (Jacobson v. Jacobson) involving Circuit Judge Ross Williams and attorneys; notes on Miami municipal and county courts and calls for grand jury activity; an open letter concerning Miami Transit Company and bus-riding citizens; coverage of police handling of minor offenses and alleged police cruelty; and civic/business items including requests to deepen the Florida Intracoastal Waterway and expand yacht/dock facilities (Dinner Key and other projects). Health-related commentary includes emergency medical access and cancer check-up advocacy, alongside discussion of spiritualist mediums.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Biscayne Bay https://www.geonames.org/4147971",
+      "Brickell https://www.geonames.org/4148855",
+      "Dinner Key Marina https://www.geonames.org/7274170",
+      "1949-05-14"
+    ],
+    "contributor": [
+      "Claude Renshaw https://id.loc.gov/authorities/names/n97073195",
+      "Liberman https://id.loc.gov/authorities/names/n84039866",
+      "Charles https://id.loc.gov/authorities/names/n78081777",
+      "Jackson Memorial Hospital https://id.loc.gov/authorities/names/n79131242",
+      "Miami Chamber of Commerce https://id.loc.gov/authorities/names/n97041415",
+      "John S. Knight",
+      "Ross Williams",
+      "Esther Regina Jacobson",
+      "Joseph E. Jacobson",
+      "Marion E. Sibley",
+      "Burnett Roth",
+      "Daniel P. Sullivan",
+      "Richard Ervin"
+    ],
+    "relation": [
+      "Vol. XXIII, No. 20"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 15.53,
+    "context_chars": 67895,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

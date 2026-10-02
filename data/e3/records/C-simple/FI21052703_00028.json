@@ -1,0 +1,86 @@
+{
+  "doc_id": "FI21052703_00028",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052703_00028",
+    "title": "Miami Life (Miami, Fla.), Vol. 5, No. 25 (July 14, 1928)",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-07-14",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)",
+      "Conventions and conferences",
+      "Benevolent and Protective Order of Elks",
+      "Shriners",
+      "Coral Gables (Fla.)",
+      "Real estate development",
+      "Municipal government",
+      "Transportation",
+      "Street railroads",
+      "Prohibition",
+      "Bootlegging",
+      "Police training",
+      "Harbors",
+      "Docks",
+      "Local business"
+    ],
+    "description": "Issue includes editorials and local commentary on Miami hosting major conventions (Shriners and the 64th Elks meeting), civic hospitality and economic impact; discussion of the Coral Gables Corporation’s financial situation and concerns about bankruptcy and investor confidence; city matters including dock rental negotiations with the Clyde Line Steamship Company, local printing contracts, dry-cleaning competition, and municipal budget cuts and public services. Additional pieces cover Miami transportation and streetcar service, police training, Prohibition-era liquor prices and enforcement, entertainment listings, and letters to the editor regarding a proposed “district,” street railway safety, Coral Gables leadership, and public funding for the Miami baseball club.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Coral Gables (Fla.)",
+      "Dade County (Fla.)",
+      "1928-07-14"
+    ],
+    "contributor": [
+      "Al Capone",
+      "H. H. Arnold",
+      "George Merrick",
+      "Dr. J. H. Kellogg",
+      "Ruth Bryan Owen",
+      "Ruth Hanna McCormick",
+      "Virginia Valli",
+      "W. Horne"
+    ],
+    "relation": [
+      "Volume 5, Number 25"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 11.46,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "doc_id": "FI21052701_00023",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052701_00023",
+    "title": "MIAMI LIFE, Saturday, June 4, 1949 (Vol. XXIII, No. 23)",
+    "creator": [
+      "Reubin Clein"
+    ],
+    "publisher": "MIAMI LIFE",
+    "date": "1949-06-04",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Graft investigations—Miami (Fla.)",
+      "Gambling—Florida—Miami",
+      "Police corruption—Florida—Miami",
+      "Grand jury investigations—Florida—Dade County",
+      "Municipal government—Miami (Fla.)",
+      "Elections—Florida—Dade County",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Health https://id.loc.gov/authorities/subjects/sh00006004",
+      "Lobbying—United States",
+      "Pressure groups—United States",
+      "Railroads—Florida East Coast Railway",
+      "Bars (Drinking establishments)—Closing hours—Florida—Miami",
+      "Civic clubs—Florida—Miami",
+      "Miami Springs (Fla.)—Municipal golf courses",
+      "Royal Poinciana Festival—Miami (Fla.)"
+    ],
+    "description": "Issue features editorials and reporting on alleged gambling and graft in Miami, including discussion of anonymous letters accusing officials and calls for grand jury action; coverage of Sheriff Jimmy Sullivan and Gov. Fuller Warren in the context of local politics and law enforcement; debate over bar and private-club curfew enforcement; municipal concerns including a proposed golf course swap involving Miami Springs; commentary on court and police matters and emergency medical care; and local events coverage including the Royal Poinciana Festival and Brickell Avenue poinciana blossoms. Includes syndicated/rewritten national material on lobbying and pressure groups in Washington and a digest of opinions of the Florida attorney general, along with advertisements and entertainment listings.",
+    "coverage": [
+      "Miami (Fla.) https://www.geonames.org/4164138",
+      "Miami Beach (Fla.) https://www.geonames.org/4164143",
+      "Miami Springs (Fla.) https://www.geonames.org/4164223",
+      "Brickell Avenue (Miami, Fla.) https://www.geonames.org/4148852",
+      "1949-06-04"
+    ],
+    "contributor": [
+      "Jimmy Sullivan https://id.loc.gov/authorities/names/no98038993",
+      "Fuller Warren https://id.loc.gov/authorities/names/n99046515",
+      "Chas. L. Gabriel",
+      "Charles L. Gabriel",
+      "Charles Lord",
+      "Reubin Clein",
+      "Ben F. Drucker",
+      "Cecil C. Curry",
+      "Wayne Allen",
+      "Vincent Giblin",
+      "Huttoe",
+      "Dr. M. E. Edelman",
+      "MRS. HELEN DORSEY",
+      "Jerrie Lynn Codrick",
+      "Mrs. Beatrice Hunt",
+      "Miss Mary Louisa Smith",
+      "Ruth Welsh",
+      "Richard W. Ervin",
+      "OSCAR F. MILLER",
+      "Hylan \"Hy\" Kout"
+    ],
+    "relation": [
+      "Vol. XXIII, No. 23"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 11.63,
+    "context_chars": 71370,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

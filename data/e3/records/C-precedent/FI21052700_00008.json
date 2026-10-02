@@ -1,0 +1,93 @@
+{
+  "doc_id": "FI21052700_00008",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00008",
+    "title": "MIAMI LIFE, 1927-03-05 (Volume 4, Number 8)",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life Co.",
+    "date": "1927-03-05",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "Public utilities—Rates—Miami (Fla.)",
+      "Electric power—Rates—Florida",
+      "Transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Street railroads—Accidents—Coral Gables (Fla.)",
+      "Traffic safety—Miami (Fla.)",
+      "Grand juries—Florida—Dade County",
+      "Mentally ill—Institutional care—Florida—Dade County",
+      "Charities—Florida—Miami",
+      "Community Chest—Miami (Fla.)",
+      "American Red Cross https://id.loc.gov/authorities/names/n84161581",
+      "Elections—Florida—Miami",
+      "Poll tax—Florida",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Gambling—Florida—Miami",
+      "Horse racing—Florida—Miami",
+      "Greyhound racing—Florida—Miami Beach"
+    ],
+    "description": "Issue includes editorials and commentary on high electric and power bills attributed to Florida Power & Light Company; discussion of safety concerns and fatalities involving Coral Gables rapid transit/streetcars along Coral Way; notes on civic matters including poll taxes and voting eligibility, city commission politics, and a Dade County grand jury recommendation regarding facilities for the care of the insane at the county stockade. Also covers local charitable fundraising and public sentiment distinguishing the Community Chest from the American Red Cross, along with assorted local columns, letters, legal notices, and extensive advertising and entertainment/sports promotions (including racing and nightlife).",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Coral Way https://www.geonames.org/4151928",
+      "Royal Palm Park https://www.geonames.org/7190020",
+      "1927-03-05"
+    ],
+    "contributor": [
+      "Howard Shank https://id.loc.gov/authorities/names/n84227288",
+      "Dick Merrill https://id.loc.gov/authorities/names/n81047556",
+      "Lysle E. Fesler",
+      "Pete Crossland",
+      "S. C. Ebbets",
+      "Leslie Quigg",
+      "Frank Wharton",
+      "Joe \"Sheik\" O'Farrel"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 4, Number 8"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 15.43,
+    "context_chars": 71619,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

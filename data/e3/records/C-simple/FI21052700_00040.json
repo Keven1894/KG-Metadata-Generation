@@ -1,0 +1,89 @@
+{
+  "doc_id": "FI21052700_00040",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052700_00040",
+    "title": "Miami Life, Vol. 4, No. 38 (1927-10-15)",
+    "creator": [
+      "Wen R. Phillips",
+      "S. C. Ebbets"
+    ],
+    "publisher": "Miami Life",
+    "date": "1927-10-15",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Coral Gables (Fla.)",
+      "Tourism",
+      "Housing and rents",
+      "Landlords and tenants",
+      "Public utilities",
+      "Florida Power & Light Company",
+      "Electric meters",
+      "Municipal government",
+      "Dade County (Fla.) politics",
+      "Public health",
+      "Venereal disease",
+      "Schools",
+      "Ponce de Leon High School (Coral Gables, Fla.)",
+      "Sports",
+      "Boxing"
+    ],
+    "description": "Weekly issue of Miami Life (Vol. 4, No. 38) dated October 15, 1927. Contains editorials and local commentary on the start of the winter season and rising rents; disputes involving city weights-and-measures meter testing and utility overcharges; criticism of Florida Power & Light and power/monopoly issues; notes on school lunch complaints and youth behavior near schools; political items including Sheriff Henry Chase and other local figures; public health reporting on venereal disease cases; coverage of boxing events at Ball Park and Biscayne Fronton; and promotional/advertising content including Coral Gables growth and school enrollment statistics.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Coral Gables (Fla.)",
+      "Dade County (Fla.)",
+      "1927-10-15"
+    ],
+    "contributor": [
+      "J. W. O'Donnell",
+      "George R. Hilty",
+      "Kent Watson",
+      "Johnny Montgomery",
+      "Henry Chase",
+      "Ernest Amos",
+      "Ev Sewell",
+      "Simon Swig"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 4, Number 38"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 7.29,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "doc_id": "FI21052701_00007",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052701_00007",
+    "title": "Miami Life (Miami, Florida), 1949-02-12",
+    "creator": [
+      "Lee Mason",
+      "Russel Kay"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-02-12",
+    "type": "Text; newspaper issue",
+    "format": "Digitized text (OCR)",
+    "language": "en",
+    "subject": [
+      "Psychiatry",
+      "Medical ethics",
+      "Hypnosis",
+      "Mental health treatment",
+      "Court cases",
+      "Miami Beach nightlife",
+      "Radio programs",
+      "Florida Citrus Exposition",
+      "Power outages",
+      "Alcohol-related offenses"
+    ],
+    "description": "Issue includes extensive reporting and commentary alleging abusive psychiatric practices by Dr. T. Earl Moore, including accounts involving Kay Katsufrakis and her husband Peter Manuel Katsufrakis and references to Rev. Joseph Barth; also contains local court and police/courtroom items (including liquor-related offenses), a column on Miami Beach nightlife and entertainment (WINZ radio, clubs and performers), a Russel Kay column on the radio program \"The Greatest Story Ever Told,\" notices about the Florida Citrus Exposition (Winter Haven), and advertisements and business directory listings.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "1949-02-12"
+    ],
+    "contributor": [
+      "T. Earl Moore",
+      "Kay Katsufrakis",
+      "Peter Manuel Katsufrakis",
+      "Gregory Katsufrakis",
+      "Sophie Katsufrakis",
+      "Rev. Joseph Barth",
+      "Judge Curry",
+      "H. Leslie Quigg",
+      "Nathan Mayo",
+      "Millard Caldwell",
+      "Robert Reilly",
+      "R. C. Gardner"
+    ],
+    "relation": [],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 7.97,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 1.0,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": false,
+      "source": true,
+      "rights": false
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "doc_id": "FI21052702_00044",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052702_00044",
+    "title": "Miami Life (Miami, Florida), Vol. 9, No. 44 (1935-07-20)",
+    "creator": [],
+    "publisher": "Miami Life",
+    "date": "1935-07-20",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Local politics",
+      "Corruption allegations",
+      "City government",
+      "Telephone rates",
+      "Public utilities",
+      "Southern Bell Telephone and Telegraph Company",
+      "Florida Power & Light Company",
+      "Labor unions",
+      "Contests",
+      "Women workers",
+      "Retail trade",
+      "Horse racing",
+      "Everglades"
+    ],
+    "description": "Issue includes a front-page story alleging that Stanley Massey, who has accused Miami city workers of graft, was previously arrested on a felony charge and released without posting bond; coverage also discusses City Solicitor Abe Aronovitz and the campaign for a Southern Bell Telephone rate reduction. Other items include the selection of Lillian Bishop as the most attractive working girl at Burdines as part of a Miami Life contest (with prizes and voting coupons), commentary on organizing Southern Bell employees into a company union to blunt A.F. of L. efforts, local political \"palaver\" about the 1936 Florida gubernatorial race, and recurring columns and advertisements including Jockey Jimmy racing tips and local business notices.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Dade County (Fla.)",
+      "Florida",
+      "1935-07-20"
+    ],
+    "contributor": [
+      "Stanley Massey",
+      "Abe Aronovitz",
+      "Lillian Bishop",
+      "Paul Barnes",
+      "Sheriff Coleman",
+      "George A. Worley",
+      "H. H. Bloom",
+      "Arthur Wadsworth Stuckie",
+      "R. Hammerhead Greeby",
+      "Dan Chappell",
+      "George Okell",
+      "Andrew J. Kavanaugh",
+      "W. B. Douglas",
+      "Gov. Sholtz"
+    ],
+    "relation": [
+      "Miami Life, Vol. 9, No. 44"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 7.96,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

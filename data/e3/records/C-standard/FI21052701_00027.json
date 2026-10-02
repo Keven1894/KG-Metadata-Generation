@@ -1,0 +1,83 @@
+{
+  "doc_id": "FI21052701_00027",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052701_00027",
+    "title": "Miami Life, July 2, 1949 (Vol. XXIII, No. 27)",
+    "creator": [
+      "Reubin Clein, Editor"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-07-02",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "health https://id.loc.gov/authorities/subjects/sh00006004",
+      "transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Entertainment events https://id.loc.gov/authorities/subjects/sh96009616",
+      "Freedom of the press",
+      "Medical misconduct",
+      "Water rates—Miami (Fla.)",
+      "Oil exploration—Florida Keys",
+      "Labor unions—Picketing",
+      "Right-wing extremism—United States",
+      "Syphilis—Florida—Prevention"
+    ],
+    "description": "Issue includes editorials and reports on local and state controversies, including defense of radio commentator Barry Gray and extensive allegations concerning Dr. T. Earl Moore (described as Miami's \"Torture Doctor\") and the case of Howard Hartman. Coverage also addresses oil drilling prospects in the Florida Keys, Miami water-rate debates and calls for a referendum, labor union tactics and free-press arguments, public health topics (including syphilis case-finding and health certificates for food handlers), and reprinted commentary urging congressional scrutiny of extreme right-wing influence. Additional local news and entertainment/advertising content appear throughout.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Florida Keys https://www.geonames.org/4155701",
+      "Plantation Key https://www.geonames.org/4168797",
+      "Tavernier Creek https://www.geonames.org/4174871",
+      "1949-07-02"
+    ],
+    "contributor": [
+      "Barry Gray https://id.loc.gov/authorities/names/nb2010032942",
+      "Howard Hartman https://id.loc.gov/authorities/names/n2013032755",
+      "Daniel J. Sullivan https://id.loc.gov/authorities/names/no2017116521",
+      "Fred Koenig https://id.loc.gov/authorities/names/no2025109032",
+      "Standard Oil (of Venezuela) https://id.loc.gov/authorities/names/no2010173666"
+    ],
+    "relation": [
+      "Vol. XXIII, No. 27"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 18.03,
+    "context_chars": 68081,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

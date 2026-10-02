@@ -1,0 +1,87 @@
+{
+  "doc_id": "FI21052700_00039",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00039",
+    "title": "MIAMI LIFE, October 8, 1927 (Volume 4, Number 37)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1927-10-08",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Courthouses—Construction—Miami (Fla.)",
+      "Building failures—Florida",
+      "Landlord and tenant—Florida",
+      "Rent—Florida",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Harbor patrols—Miami (Fla.)",
+      "Theft—Miami (Fla.)",
+      "Water pollution—Miami (Fla.)",
+      "Transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Street railroads—Miami (Fla.)",
+      "City councils—Miami (Fla.)",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Bootlegging—Florida—Miami Beach",
+      "Judicial ethics—Florida—Dade County",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Boxing—Florida—Miami",
+      "Entertainment events https://id.loc.gov/authorities/subjects/sh96009616"
+    ],
+    "description": "Issue includes editorials and local commentary on safety concerns and construction problems at Dade County’s new courthouse; criticism of landlords and apartment operators withholding posted rates ahead of the tourist season; calls for a harbor patrol to address theft and oily bilge dumping and to improve safety along the bay and river; discussion of inadequate streetcar transportation on Flagler Street; and police-court and civic items including liquor-law enforcement and bond forfeiture. Sports coverage and promotion focus on efforts to bring a Jack Dempsey bout to Miami and related arena development, alongside entertainment listings and advertisements.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "Miami River https://www.geonames.org/4164208",
+      "Cocoplum Beach https://www.geonames.org/11002434",
+      "Little River https://www.geonames.org/4177865",
+      "1927-10-08"
+    ],
+    "contributor": [
+      "Harry Platt https://id.loc.gov/authorities/names/n87843336",
+      "J. H. Reynolds https://id.loc.gov/authorities/names/nb2001090064",
+      "Jack Dempsey https://id.loc.gov/authorities/names/n2005175677",
+      "Miami Sports Club, inc."
+    ],
+    "relation": [
+      "Volume 4, Number 37"
+    ],
+    "source": "FIU Libraries dPanther (digitized Miami Life newspaper issue)",
+    "rights": "Digitized for access by FIU Libraries; rights status not stated in provided evidence. Use may be subject to copyright and repository terms."
+  },
+  "provenance": {
+    "latency_s": 10.24,
+    "context_chars": 71230,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

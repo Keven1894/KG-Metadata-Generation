@@ -1,0 +1,85 @@
+{
+  "doc_id": "FI21052702_00050",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00050",
+    "title": "MIAMI LIFE, Saturday, Aug. 31, 1935 (Vol. 9, No. 50)",
+    "creator": [
+      "WEN H. PHILLIPS"
+    ],
+    "publisher": "LIFE PUBLISHING COMPANY",
+    "date": "1935-08-31",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue; OCR text",
+    "language": "eng",
+    "subject": [
+      "Home Owners' Loan Corporation https://id.loc.gov/authorities/names/n81035480",
+      "Federal Savings & Loan Association (Miami, Fla.)",
+      "Mortgage loans—Fraud—Miami (Fla.)",
+      "Tax deeds—Dade County (Fla.)",
+      "Municipal elections—Hialeah (Fla.)",
+      "Traffic accidents—Miami Beach (Fla.)",
+      "Driver licensing—Florida",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "sports https://id.loc.gov/authorities/subjects/sh00007735"
+    ],
+    "description": "Issue includes an investigative front-page account alleging improper fees and bond-discounting practices connected with a Home Owners' Loan Corporation refinancing arranged through the Federal Savings & Loan Association and its president Harry Lipton. Regular columns (\"Wen's Notebook,\" \"Rambles and Rumbles\") cover local politics and civic affairs, including discussion of tax-deed litigation involving W. H. Garrison and municipal election coverage in Hialeah. Miami Beach police commentary addresses rising traffic accident rates and calls for driver licensing; a full-page safety campaign urges traffic-law enforcement and accident prevention. The issue also features entertainment and nightlife items, wrestling promotions, and the newspaper's \"Most Attractive Working Girl\" contest coverage (Grant's/Kress Store).",
+    "coverage": [
+      "Miami, Florida https://www.geonames.org/4164138",
+      "Miami Beach, Florida https://www.geonames.org/4164143",
+      "Hialeah, Florida https://www.geonames.org/4158476",
+      "1935-08-31"
+    ],
+    "contributor": [
+      "Earl Curry https://id.loc.gov/authorities/names/no2012091054",
+      "W. H. Garrison https://id.loc.gov/authorities/names/n2017180017",
+      "Harry Lipton",
+      "H. V. YOCUM",
+      "Miss Daisy Hanjaras",
+      "G. C. Sparks",
+      "L. H. O'Quinn",
+      "George F. Maurer",
+      "JOHN BURKE",
+      "J. N. MORRIS",
+      "Victor J. Tatham"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Vol. 9, No. 50"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 14.67,
+    "context_chars": 70932,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

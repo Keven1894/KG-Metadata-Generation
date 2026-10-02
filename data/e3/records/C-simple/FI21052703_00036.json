@@ -1,0 +1,93 @@
+{
+  "doc_id": "FI21052703_00036",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052703_00036",
+    "title": "Miami Life (Miami, Florida), September 15, 1928 (Vol. 33)",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-09-15",
+    "type": "Text; newspaper issue",
+    "format": "Newspaper text with OCR",
+    "language": "en",
+    "subject": [
+      "Horse racing",
+      "Gambling legislation",
+      "Miami Jockey Club",
+      "Municipal government",
+      "City ordinances",
+      "Dry cleaning industry",
+      "Small business regulation",
+      "Law enforcement",
+      "Alligator hunting regulations",
+      "Sports",
+      "Basketball",
+      "Public safety",
+      "Sexual assault",
+      "Nursing",
+      "Letters to the editor",
+      "Local commentary",
+      "Prohibition",
+      "Rum-running"
+    ],
+    "description": "Issue dated September 15, 1928 (Vol. 33), edited by Wen R. Phillips. Major editorials discuss skepticism about promised winter horse racing in Miami and the need for legalized, supervised racing without political corruption. Coverage includes a dispute over a Miami ordinance requiring dry cleaners and tailors to post a $3,000 bond, criticism of an overzealous Collier County deputy arresting Miami men for killing an alligator out of season, and an appeal to support the Miami Basketball Club. Additional items include local columns and satire, liquor price notes during Prohibition, letters to the editor, and a public-safety editorial urging protection for nurses after a reported assault following a fraudulent registry call.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Coral Gables (Fla.)",
+      "Miami Beach (Fla.)",
+      "Collier County (Fla.)",
+      "Everglades (Fla.)",
+      "Florida",
+      "1928-09-15"
+    ],
+    "contributor": [
+      "Jean Lind",
+      "Ed Romfh",
+      "Jimmie Gilman",
+      "Charlie Leffler",
+      "J. E. Lummus",
+      "Mayor Ev Sewell",
+      "Judge J. W. Storter",
+      "D. M. Donaldson",
+      "Sheriff Thorpe",
+      "Alice Patton"
+    ],
+    "relation": [
+      "Miami Life, Volume 33"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.23,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

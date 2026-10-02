@@ -1,0 +1,97 @@
+{
+  "doc_id": "FI21052701_00028",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052701_00028",
+    "title": "Miami Life, Vol. XXIII, No. 28 (1949-07-09)",
+    "creator": [
+      "Reubin Clein"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-07-09",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)—Politics and government",
+      "Police misconduct—Florida—Miami",
+      "Civil service—Florida—Miami",
+      "Newspapers—Political bias",
+      "Gambling—Law and legislation—Florida",
+      "Bookmaking—Florida",
+      "Prostitution—Florida—Miami",
+      "Public transportation—Florida—Miami",
+      "Bus stops—Planning",
+      "Oil wells and drilling—Florida",
+      "Ku Klux Klan—Florida",
+      "Sales tax—Florida",
+      "Baseball—United States"
+    ],
+    "description": "Issue includes editorials and local reporting focused on Miami politics and policing, including renewed discussion of the Huttoe/Barker incident and criticism of Miami daily newspapers for omitting or distorting facts; coverage of City Commissioner H. Leslie Quigg disputing claims of Ku Klux Klan membership and alleging press misquotation; commentary on proposals for legalized gambling/bookmaking and arguments for controlled prostitution as a response to social problems; a report criticizing Miami Transit Company bus-stop changes as favoring downtown department stores over small businesses; notes on Florida oil exploration and drilling plans (including Levy County and expected Dade County activity); and assorted local court/police-blotter items and sports notes (including Joe DiMaggio).",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "Florida",
+      "1949-07-09"
+    ],
+    "contributor": [
+      "Ben F. Drucker",
+      "H. Leslie Quigg",
+      "Capt. J. E. Barker",
+      "Chief Walter Headley",
+      "Vincent Giblin",
+      "Prof. Hart",
+      "Gov. Warren",
+      "Sen. Claude Pepper",
+      "Thomas E. Lewis",
+      "Dr. J. Riley Staats",
+      "Dr. F. G. Walton Smith",
+      "Leonard Pardue",
+      "Cecil C. Curry",
+      "Richard W. Ervin",
+      "C. G. Lundin",
+      "Russell Kay",
+      "R. T. Folwell",
+      "J. D. MacGregor",
+      "William Pallot",
+      "Thomas B. Dowda",
+      "Joe DiMaggio"
+    ],
+    "relation": [
+      "Miami Life (Miami, Fla.), Vol. XXIII, No. 28"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 17.13,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

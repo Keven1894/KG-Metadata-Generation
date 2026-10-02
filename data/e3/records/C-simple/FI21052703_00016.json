@@ -1,0 +1,111 @@
+{
+  "doc_id": "FI21052703_00016",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052703_00016",
+    "title": "Miami Life — Volume 6, Number 13 (April 21, 1928)",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-04-21",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Shriners convention",
+      "Tourism",
+      "Consumer protection",
+      "Bootlegging",
+      "Liquor enforcement",
+      "Local politics",
+      "Florida gubernatorial race",
+      "Police",
+      "Quigg trial",
+      "Courts",
+      "Elections",
+      "Miami City Club",
+      "Miami River",
+      "Everglades",
+      "Tamiami Trail",
+      "Sports",
+      "Boxing",
+      "Advertising"
+    ],
+    "description": "Issue features commentary urging Miami businesses and residents to welcome visiting Shriners ethically and avoid price-gouging and scams. Reports and satire cover the ongoing trial of Chief of Police Quigg and other officers, local political campaigning and speeches (including Sidney J. Catts and Jim Carson), and concerns about bootleg and adulterated liquor during convention week. Includes local civic and infrastructure notes (Miami River conditions, courthouse, streets), election and candidate notices, and entertainment/sports listings including boxing and theater; mentions the Tamiami Trail opening and Miami City Club activities.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Dade County (Fla.)",
+      "Miami Beach (Fla.)",
+      "Coral Gables (Fla.)",
+      "Hialeah (Fla.)",
+      "Coconut Grove (Miami, Fla.)",
+      "1928-04"
+    ],
+    "contributor": [
+      "Sidney J. Catts",
+      "Jim Carson",
+      "Fons Hathaway",
+      "Doyle Carlton",
+      "Paul Beacom",
+      "E. G. Sewell",
+      "Abe Aronovitz",
+      "Louis Swartz",
+      "Harriet Works",
+      "Judge Rose",
+      "Chief of Police Quigg",
+      "Caudell",
+      "Tibbetts",
+      "Nazeworth",
+      "Acting Chief Reeve",
+      "Gene Tunney",
+      "Eddie Rickenbacker",
+      "Tex Rickard",
+      "George Carter",
+      "Young Stribling",
+      "Young Okum",
+      "W. L. Stribling",
+      "Fred Pine",
+      "Chas. V. Baumgardner",
+      "H. W. Penn",
+      "Ernest Moss",
+      "E. O. Longdyke",
+      "J. H. Watt"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 6, Number 13"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 9.37,
+    "context_chars": 55496,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

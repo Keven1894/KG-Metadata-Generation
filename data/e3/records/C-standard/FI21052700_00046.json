@@ -1,0 +1,90 @@
+{
+  "doc_id": "FI21052700_00046",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00046",
+    "title": "MIAMI LIFE, November 26, 1927 (Volume 4, Number 41)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1927-11-26",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue; OCR text",
+    "language": "eng",
+    "subject": [
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Entertainment events https://id.loc.gov/authorities/subjects/sh96009616",
+      "Politics, Practical https://id.loc.gov/authorities/subjects/sh85104466",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Humor https://id.loc.gov/authorities/subjects/sh2003003666",
+      "Miami (Fla.)—Social life and customs",
+      "Miami (Fla.)—Economic conditions",
+      "Real estate development—Florida—Miami",
+      "Chain stores—Florida—Miami",
+      "Grocery trade—Florida—Miami",
+      "Hospitals—Finance—Florida—Miami",
+      "Efficiency experts—Florida—Miami",
+      "Traffic regulation—Florida—Miami",
+      "Parking—Florida—Miami",
+      "Airports—Florida—Miami",
+      "Race tracks—Cuba—Havana",
+      "Tourism—Florida—Miami",
+      "Prohibition—Florida—Miami"
+    ],
+    "description": "Issue includes editorials and commentary on Miami as a \"playground\" city, including debates over tolerance toward racing, gambling, drinking, and nightlife; criticism of chain grocery practices and calls to patronize local merchants; discussion of real estate prices and promotion of lower-priced lots; and a column on Jackson Memorial Hospital budget cuts and the use of an efficiency expert. Additional local notes cover traffic and parking conditions, sidewalks and street improvements, airport needs, political items, and social/entertainment listings and advertisements for Miami and Miami Beach venues.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Biscayne Bay https://www.geonames.org/4147971",
+      "Havana https://www.geonames.org/4158224",
+      "Nassau https://www.geonames.org/4165603",
+      "1927-11-26"
+    ],
+    "contributor": [
+      "Jackson Memorial Hospital https://id.loc.gov/authorities/names/n79131242",
+      "John Collins https://id.loc.gov/authorities/names/n2001126162",
+      "S. C. EBBETS",
+      "W. (). Pittman",
+      "DON MOORE",
+      "DOROTHY PARMER",
+      "H. F. ATKINSON"
+    ],
+    "relation": [
+      "Volume 4, Number 41"
+    ],
+    "source": "FIU Libraries dPanther (Digital Collections)",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 19.01,
+    "context_chars": 67335,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

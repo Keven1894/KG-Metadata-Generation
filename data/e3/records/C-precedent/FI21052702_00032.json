@@ -1,0 +1,101 @@
+{
+  "doc_id": "FI21052702_00032",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00032",
+    "title": "MIAMI LIFE, April 27, 1935 (Vol. 9, No. 32)",
+    "creator": [
+      "R. J. CLEIN, Publisher."
+    ],
+    "publisher": "LIFE PUBLISHING COMPANY",
+    "date": "1935-04-27",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Chain stores—Taxation—Florida",
+      "Florida Recovery Act",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Municipal elections—Miami (Fla.)",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Grand juries—Florida",
+      "Small loans—Interest rates—Miami (Fla.)",
+      "prohibition https://id.loc.gov/authorities/subjects/sh85107330",
+      "Gambling—Florida",
+      "Nightclubs—Florida",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Libel and slander—Florida"
+    ],
+    "description": "Issue includes editorials and commentary on the Florida Recovery Act aimed at chain stores and on Florida newspaper publishers' opposition; coverage of Miami municipal election campaigning and candidates; reporting and opinion on a jewel-robbery investigation involving Detective Chief Eugene I. Bryant and references to federal grand jury proceedings; a published letter urging major local employers to help employees avoid predatory small-loan firms; a lawsuit claim involving diathermic treatment at Coral Gables Clinic; columns on local gambling and nightlife (including the Beach Club at Palm Beach) and promotional features such as Kentucky Derby selections and local entertainment advertising.",
+    "coverage": [
+      "Miami, Florida https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Jacksonville, Florida https://www.geonames.org/4160021",
+      "Palm Beach, Florida https://www.geonames.org/4177887",
+      "1935"
+    ],
+    "contributor": [
+      "Postal Telegraph Company https://id.loc.gov/authorities/names/no2002078803",
+      "Charles Harrington https://id.loc.gov/authorities/names/nr99030095",
+      "Jack Kehoe https://id.loc.gov/authorities/names/no2001079845",
+      "Florida Power and Light Company",
+      "Western Union",
+      "Southern Bell Telephone Company",
+      "Eugene I Bryant",
+      "Noel Scaffa",
+      "Charles Cali",
+      "Nicky Montone",
+      "Mrs. Margaret Hawksworth Bell",
+      "Dr. Arthur H. Weiland",
+      "Charles H. Dyer",
+      "Coral Gables Clinic Inc.",
+      "Mrs. Ethna Hudson",
+      "Alexander Orr, Jr.",
+      "Robert (Bob) Williams",
+      "Harry Platt",
+      "Orville Rigby",
+      "W. E. Lester",
+      "Parker-Davis",
+      "Morgan and Company",
+      "Old King Bradley",
+      "Dave Sholtz"
+    ],
+    "relation": [
+      "MIAMI LIFE, Vol. 9, No. 32"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 10.48,
+    "context_chars": 72041,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

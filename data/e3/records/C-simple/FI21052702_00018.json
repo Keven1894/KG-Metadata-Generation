@@ -1,0 +1,95 @@
+{
+  "doc_id": "FI21052702_00018",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052702_00018",
+    "title": "Miami Life (Miami, Florida), Vol. 9, No. 18 (January 19, 1935)",
+    "creator": [],
+    "publisher": "Miami Life",
+    "date": "1935-01-19",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)—Social life and customs",
+      "Horse racing",
+      "Hialeah Park Race Track (Hialeah, Fla.)",
+      "Tourism—Florida—Miami",
+      "Nightclubs—Florida—Miami",
+      "Restaurants—Florida—Miami",
+      "Liquor laws—Florida—Dade County",
+      "State societies—Florida—Miami",
+      "Local gossip",
+      "Advertising"
+    ],
+    "description": "Weekly issue featuring local Miami social and nightlife gossip columns (\"They Tell Me,\" \"Things I'd Like to Know\"), extensive horse-racing coverage and tips for Hialeah/Tropical Park (including lists of horses \"ready to go\" and a turfman interview), commentary on Miami Chamber of Commerce efforts involving state societies, and discussion of Dade County liquor licensing/enforcement. Includes a letter to the editor from Mrs. Albert Haupt thanking the paper for coverage of the death of her son George Downs (\"Skeets\" Downs), along with numerous advertisements for clubs, bars, restaurants, services, and local businesses in Miami and Miami Beach.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "1935-01-19"
+    ],
+    "contributor": [
+      "R. Hammerhead Greeby",
+      "George Sheldon",
+      "Louie Duncan",
+      "Bill Parrott",
+      "Chuck Mulcahey",
+      "Bill Heslington",
+      "Dinny Conway",
+      "Harry Houser",
+      "Mercedes",
+      "Gordon Mayer",
+      "Tiny Parker",
+      "Doc Hector Moreau",
+      "Steve \"Big Stick\" Bravo",
+      "George Odom",
+      "Walter Roberts",
+      "Mackey Klein",
+      "Ben Zimmerman",
+      "Anna Lee Strickland",
+      "Ed Swan",
+      "Judge Dunn",
+      "Mrs. Albert Haupt",
+      "George Downs",
+      "Ev Sewell",
+      "Jockey Jimmy",
+      "Fred Featherstone"
+    ],
+    "relation": [
+      "Miami Life, Volume 9, Number 18"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.53,
+    "context_chars": 59466,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

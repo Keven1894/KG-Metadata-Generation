@@ -1,0 +1,98 @@
+{
+  "doc_id": "FI21052701_00034",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052701_00034",
+    "title": "Miami Life (Miami, Fla.), Vol. XXIII, No. 34 (1949-08-20)",
+    "creator": [
+      "Reubin Clein",
+      "Ben F. Drucker"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-08-20",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Dade County (Fla.)",
+      "Miami (Fla.)",
+      "Crime",
+      "Courts",
+      "Embezzlement",
+      "Sex crimes",
+      "Probation",
+      "Housing",
+      "Federal Housing Administration",
+      "Graft and corruption",
+      "Taxation",
+      "Sales tax",
+      "Hurricanes",
+      "Disaster preparedness",
+      "Weather",
+      "Nightlife and entertainment",
+      "Labor relations",
+      "Police",
+      "Traffic court",
+      "Divorce"
+    ],
+    "description": "Issue includes coverage of legal and crime news involving Dr. J. Earl Moore (described as Miami's \"Torture Doctor\") and the sentencing of Howard \"Red\" Hartman on multiple \"crime against nature\" charges; political commentary opposing a Florida sales tax and urging state spending controls; an article criticizing overbuilding and alleging possible graft in FHA-related housing projects; hurricane-season preparedness guidance attributed to the Dade County Red Cross; local civic and municipal notes (sidewalk clearing, traffic court cases, parking enforcement); a weather bureau discussion about increased lightning and hurricane warnings; nightlife and labor-column items by Lee Mason (\"Mason at Midnight\"); and a \"Matrimony Row\" divorce-court roundup.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Dade County (Fla.)",
+      "Miami Beach (Fla.)",
+      "Florida",
+      "1949-08-20"
+    ],
+    "contributor": [
+      "Lee Mason",
+      "J. Earl Moore",
+      "Howard \"Red\" Hartman",
+      "Judge Ben C. Willard",
+      "J. B. Flaherty",
+      "Knox Eldredge",
+      "Floyd (mayor)",
+      "Grady Norton",
+      "Dade County Red Cross",
+      "Joan Chauser",
+      "Herbert Chauser",
+      "Shirley Sherg Fastenberg",
+      "Anthony N. Sherg",
+      "Aaron M. Kanner"
+    ],
+    "relation": [
+      "Vol. XXIII, No. 34"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 7.87,
+    "context_chars": 54704,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

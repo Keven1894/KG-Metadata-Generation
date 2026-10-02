@@ -1,0 +1,84 @@
+{
+  "doc_id": "FI21052702_00016",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052702_00016",
+    "title": "Miami Life (Miami, Florida), Vol. 9, No. 16 (January 5, 1935)",
+    "creator": [],
+    "publisher": "Miami Life",
+    "date": "1935-01-05",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Florida politics",
+      "Governor David Sholtz",
+      "Dade County (Fla.)",
+      "Liquor regulation",
+      "State-controlled liquor stores",
+      "Law enforcement",
+      "Gambling",
+      "Tourism",
+      "Horse racing",
+      "Tropical Park (Miami, Fla.)",
+      "Miami Beach Kennel Club",
+      "Nightclubs",
+      "Entertainment",
+      "Radio programs",
+      "Advertising"
+    ],
+    "description": "Issue of Miami Life (Vol. 9, No. 16) dated January 5, 1935. Contents include political commentary and local opinion pieces (including criticism of Governor Dave Sholtz and discussion of liquor control proposals and Dade County closures), notes on law enforcement and gambling, society/column items, extensive entertainment and nightlife advertising, and sports coverage and promotions related to Tropical Park horse racing and the Miami Beach Kennel Club. Includes radio program schedules and various local business advertisements.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Dade County (Fla.)",
+      "Miami Beach (Fla.)",
+      "1935-01-05"
+    ],
+    "contributor": [
+      "Dave Sholtz",
+      "John Martin",
+      "Frank Altman",
+      "Joe E. Widener",
+      "Vernon Hawthorne",
+      "Albert Bouche",
+      "Jockey Jimmy",
+      "Lillian Roth",
+      "Damon Runyon"
+    ],
+    "relation": [
+      "Miami Life, Vol. 9, No. 16"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 6.95,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

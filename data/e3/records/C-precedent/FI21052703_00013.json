@@ -1,0 +1,89 @@
+{
+  "doc_id": "FI21052703_00013",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00013",
+    "title": "MIAMI LIFE, March 31, 1928 (Volume 6, Number 10)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1928-03-31",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Municipal government—Miami (Fla.)",
+      "City commissions—Florida—Miami",
+      "Public contracts—Florida—Miami",
+      "Bands (Music)—Contracts—Florida—Miami",
+      "Police—Misconduct—Florida—Miami",
+      "Grand juries—Florida—Dade County",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Post offices—Location—Florida—Miami",
+      "Dade County Fair (Fla.)",
+      "Ice industry—Florida—Miami"
+    ],
+    "description": "Issue includes editorials and commentary on Miami city commission actions and local governance, including criticism of out-of-town contracting and a band contract; coverage of a grand jury investigation connected to police matters and broader county affairs; political notes and local civic topics such as proposed sites for a new Miami post office and discussion of the Dade County Fair. Also contains local business commentary (including the ice industry), community columns, entertainment and nightlife listings/advertisements, and multiple paid political advertisements for local offices.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Dade County (Fla.)",
+      "1928",
+      "Central School https://www.geonames.org/4164151"
+    ],
+    "contributor": [
+      "Harry Platt https://id.loc.gov/authorities/names/n87843336",
+      "Roy Smith https://id.loc.gov/authorities/names/nr97003832",
+      "Ev Sewell",
+      "Cliff Reeder",
+      "J. E. Lummus",
+      "John Knight",
+      "Vernon Hawthorne",
+      "Dick Hunt",
+      "Alex Orr",
+      "Chief Quigg",
+      "Hawthorne and Hunt",
+      "Bar Association"
+    ],
+    "relation": [
+      "Volume 6, Number 10"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 14.23,
+    "context_chars": 71154,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "doc_id": "FI21052702_00014",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "FI21052702_00014",
+    "title": "MIAMI LIFE, December 22, 1934 (Vol. 9, No. 14)",
+    "creator": [],
+    "publisher": "LIFE PUBLISHING COMPANY",
+    "date": "1934-12-22",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "racing https://id.loc.gov/authorities/subjects/sh85110265",
+      "National Recovery Administration (U.S.)",
+      "Plumbing industry—Codes of fair competition—Florida—Miami",
+      "Libel and slander—Florida—Miami",
+      "Local taxation—Florida—Dade County",
+      "Liquor laws—Florida",
+      "Elections—Florida—Miami Beach",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255"
+    ],
+    "description": "Issue includes editorial and political commentary on Dade County taxation and state revenue policy (Tallahassee), discussion of a criminal libel case involving Wen Phillips and Reubin Clein in Judge Brown's court and related local political disputes, and extensive local advertising and social items. Coverage also includes horse racing content and promotions (Tropical Park; \"Jockey Jimmy\" turf bulletin), Miami Beach municipal election results and local officeholders, and notices related to National Recovery Administration (NRA) code compliance by Miami-area plumbers and other businesses.",
+    "coverage": [
+      "Miami, Florida https://www.geonames.org/4164138",
+      "Tallahassee https://www.geonames.org/4174715",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Hialeah https://www.geonames.org/4158476",
+      "Professional Building https://www.geonames.org/7216061",
+      "1934"
+    ],
+    "contributor": [
+      "Dan Mahoney https://id.loc.gov/authorities/names/n93015407",
+      "Frank Godwin https://id.loc.gov/authorities/names/n87136346",
+      "Jack Bell https://id.loc.gov/authorities/names/n2002154913",
+      "George Worley https://id.loc.gov/authorities/names/no2020058414",
+      "Wen Phillips",
+      "Reubin Clein",
+      "Mayor E. V. Sewell",
+      "Governor Sholtz",
+      "Judge Brown"
+    ],
+    "relation": [
+      "MIAMI LIFE; Vol. 9, No. 14"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 11.15,
+    "context_chars": 56540,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

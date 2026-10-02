@@ -1,0 +1,80 @@
+{
+  "doc_id": "FI21052702_00037",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00037",
+    "title": "MIAMI LIFE, June 1, 1935 (Vol. 9, No. 37)",
+    "creator": [],
+    "publisher": "LIFE PUBLISHIN( COMPANY (A FLORIDA CORPORATION) https://id.loc.gov/authorities/names/no2019078048",
+    "date": "1935-06-01",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Gambling devices—Florida—Miami",
+      "Marble boards (gambling)",
+      "Slot machines—Florida—Miami",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Police—Florida—Miami",
+      "Municipal government—Florida—Miami Beach",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Labor—Wages—Florida—Miami",
+      "Hotel employees—Florida—Miami",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Dog racing—Florida—Dade County",
+      "racing https://id.loc.gov/authorities/subjects/sh85110265",
+      "Horse racing—Florida",
+      "sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Journalism—Confidential communications"
+    ],
+    "description": "Issue includes editorials and reporting on local economic and labor conditions after the Supreme Court decision ending NRA enforcement, including calls for voluntary maintenance of wages and hours. Prominent coverage attacks illegal gambling in Miami, focusing on the spread of marble-board gambling and alleged syndicate operations, and urges city investigation and enforcement. Political items include state and local office “whispers” and a report that Miami Beach mayor Louis A. Snedigar may resign. The issue also advocates a referendum campaign to end dog racing in Dade County, and contains sports/racing columns and extensive local advertising.",
+    "coverage": [
+      "Miami, Florida https://www.geonames.org/4164138",
+      "Miami Beach, Florida https://www.geonames.org/4164143",
+      "Tallahassee, Florida https://www.geonames.org/4174715",
+      "1935-06-01"
+    ],
+    "contributor": [
+      "Henry L. Doherty https://id.loc.gov/authorities/names/no2021039671",
+      "Bill Frey https://id.loc.gov/authorities/names/n96063770",
+      "Mayor Louis A. Snedigar"
+    ],
+    "relation": [
+      "MIAMI LIFE; Vol. 9, No. 37"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 11.99,
+    "context_chars": 71476,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

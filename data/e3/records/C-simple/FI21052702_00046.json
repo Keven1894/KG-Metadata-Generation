@@ -1,0 +1,87 @@
+{
+  "doc_id": "FI21052702_00046",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00046",
+    "title": "Miami Life (Miami, Florida), Vol. 9, No. 46 (Saturday, August 3, 1935)",
+    "creator": [],
+    "publisher": "Miami Life",
+    "date": "1935-08-03",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Sales tax",
+      "Municipal budgets",
+      "Local government",
+      "Gambling",
+      "Bookmaking",
+      "Horse racing",
+      "Unemployment",
+      "Poverty",
+      "Relief",
+      "Traffic safety",
+      "Automobile accidents",
+      "Police",
+      "Beauty contests",
+      "Miami (Fla.)"
+    ],
+    "description": "Issue includes reports and commentary on Miami municipal finance and opposition to a proposed general sales tax, proposing alternative revenue measures (e.g., theater tax and driver licensing). Articles discuss the economic impact of closing horse-betting \"books\" and the resulting loss of income and fines, linking the crackdown to unemployment and poverty. Coverage also includes a campaign to reduce traffic accidents in Dade County with statements attributed to Acting Chief of Police W. J. McCarthy, and a feature on the \"Most Attractive Working Girl\" contest naming Elsie Shope (Mark Store) as a weekly winner. Additional local columns and advertisements appear throughout.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Greater Miami (Fla.)",
+      "Dade County (Fla.)",
+      "1935"
+    ],
+    "contributor": [
+      "A. D. H. Fossey",
+      "Jack Watson",
+      "Abe Aronovitz",
+      "Ernest R. Coe",
+      "Fritz Gordon",
+      "W. J. McCarthy",
+      "Elsie Shope",
+      "Anita Arguelles",
+      "Meta Harrison",
+      "Clarence L. Wheat",
+      "Fred Pine",
+      "C. J. Gontermann",
+      "H. J. Scullin"
+    ],
+    "relation": [
+      "Miami Life, Vol. 9, No. 46"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 6.76,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

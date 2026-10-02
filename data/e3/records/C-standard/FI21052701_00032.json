@@ -1,0 +1,88 @@
+{
+  "doc_id": "FI21052701_00032",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "FI21052701_00032",
+    "title": "Miami Life, Aug. 6, 1949 (Vol. XXIII, No. 32)",
+    "creator": [
+      "KEUBIN CLEIN https://id.loc.gov/authorities/names/n90699040"
+    ],
+    "publisher": "MIAMI LIFE",
+    "date": "1949-08-06",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Sales tax—Florida",
+      "Taxation—Florida",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Police—Florida—Miami",
+      "Civil rights—Florida—Miami",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Poliomyelitis—Prevention—Florida—Miami",
+      "health https://id.loc.gov/authorities/subjects/sh00006004",
+      "Airplanes—Noise—Florida—Miami",
+      "Municipal water supply—Rates—Florida—Miami",
+      "Tourist trade—Florida",
+      "tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Transportation—Florida—Miami",
+      "transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Real estate development—Florida—Miami",
+      "business https://id.loc.gov/authorities/subjects/sh85018260"
+    ],
+    "description": "Issue includes editorials and local commentary on Miami policing and alleged civil-rights violations (referencing the Huttoe case and a damage suit), criticism of a proposed world’s fair on the city Graves tract, and discussion of municipal governance and development. Coverage also addresses polio precautions related to school reopening and travel, opposition to a Florida sales tax and state revenue debates (including a Governor’s committee hearing), traffic enforcement and public courtesy, aircraft noise over residential areas, municipal water-rate complaints, and assorted local court and civic items, alongside advertisements and subscription/tax-coupon forms.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Bayfront Park https://www.geonames.org/4146892",
+      "Coral Gables https://www.geonames.org/4151871",
+      "1949-08-06"
+    ],
+    "contributor": [
+      "BEN F. DRUCKER",
+      "H. LESLIE QUIGG",
+      "Cecil C. Curry",
+      "George E. Holt",
+      "Warren https://id.loc.gov/authorities/names/n90699040",
+      "Frank Stearns",
+      "Grant Stockdale",
+      "R. L. Daggett",
+      "Hazen Dubois"
+    ],
+    "relation": [
+      "Vol. XXIII, No. 32"
+    ],
+    "source": "FIU Libraries dPanther (Florida International University Digital Collections)",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 12.07,
+    "context_chars": 67142,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

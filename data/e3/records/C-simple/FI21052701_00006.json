@@ -1,0 +1,109 @@
+{
+  "doc_id": "FI21052701_00006",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052701_00006",
+    "title": "Miami Life (Miami, Fla.), Vol. XXIII, No. 6 (February 5, 1949)",
+    "creator": [
+      "Reubin Clein",
+      "Ben F. Drucker"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-02-05",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Florida Power & Light Company",
+      "Public utilities",
+      "Municipal ownership",
+      "Consumer protection",
+      "Retail trade",
+      "Fraud",
+      "Medical malpractice",
+      "Hypnosis",
+      "Suspicious deaths",
+      "Segregation",
+      "Racial discrimination",
+      "Washington (D.C.)",
+      "Gambling",
+      "Dog racing",
+      "Pari-mutuel betting",
+      "Miami International Airport",
+      "Aviation",
+      "Education policy",
+      "Florida Department of Education",
+      "Local courts",
+      "Nuisance (law)",
+      "Opa-locka (Fla.)"
+    ],
+    "description": "Issue includes an editorial criticizing Florida Power & Light profits and advocating municipal acquisition of utility facilities; an investigative report alleging Browning King Co., Inc. sold damaged or inferior men’s clothing at high prices; and a major article linking Miami “Torture Doctor” T. Earl Moore to a pattern of patient harm and to the death of painter D. Kuhl. Additional pieces cover efforts to curb dog-track/summer racing and pari-mutuel gambling, a lawsuit over odors and nuisance from an Opa-locka broiler/slaughter plant, a report on segregation and job discrimination in Washington, D.C., statistics and development plans for Miami International Airport, and a letter from Florida’s new state superintendent of public instruction requesting press support for education.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Greater Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Opa-locka (Fla.)",
+      "Dade County (Fla.)",
+      "Tallahassee (Fla.)",
+      "Washington (D.C.)",
+      "1949-02-05"
+    ],
+    "contributor": [
+      "T. Earl Moore",
+      "D. Kuhl",
+      "Howard R. Hartman",
+      "Sol Brooks (Steinbook)",
+      "Benjamin Wilkes",
+      "Martin Lemlich",
+      "Joseph P. Martin, Jr.",
+      "Fuller Warren",
+      "Dan W. D'Alemberte",
+      "Alto Adams",
+      "Richard W. Ervin",
+      "Thos. D. Bailey",
+      "Gene Ellis",
+      "Edna Peck",
+      "Marjorie Nixon",
+      "Daniel Nixon",
+      "Judge Duval",
+      "A. B. Curry",
+      "Judge Cecil C. Curry",
+      "Mildred E. Gillars"
+    ],
+    "relation": [
+      "Miami Life, Vol. XXIII, No. 6"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 10.58,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

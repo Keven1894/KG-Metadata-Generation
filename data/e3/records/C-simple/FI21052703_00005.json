@@ -1,0 +1,92 @@
+{
+  "doc_id": "FI21052703_00005",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052703_00005",
+    "title": "Miami Life — Volume 5, Number 3 (February 4, 1928)",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-02-04",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Local politics",
+      "Elections",
+      "Law enforcement",
+      "Censorship",
+      "Horse racing",
+      "Jai alai",
+      "Tourism",
+      "Prohibition",
+      "Liquor prices",
+      "Swami Yogananda",
+      "Civil liberties",
+      "Urban development",
+      "Traffic regulation",
+      "Hotels"
+    ],
+    "description": "Issue of Miami Life (Vol. 5, No. 3) dated February 4, 1928, featuring editorials and satire on Miami’s civic climate and politics, including criticism of restrictions on racing and entertainment, commentary on tourism and local governance, and extensive coverage of the controversy surrounding Swami Yogananda’s lectures and efforts to force him out of town. Includes letters to the editor (including one by attorney R. B. Gautier), local news/columns, and advertisements.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Coral Gables (Fla.)",
+      "Dade County (Fla.)",
+      "1928-02-04"
+    ],
+    "contributor": [
+      "R. B. Gautier",
+      "Swami Yogananda",
+      "Chief Quigg",
+      "H. H. Arnold",
+      "Will Rogers",
+      "James M. Carson",
+      "Peter H. Miller",
+      "Victor Murdock",
+      "Fire Chief Coleman",
+      "City Detective Beekham",
+      "Carl Fisher",
+      "Ev Sewell",
+      "Al Capone"
+    ],
+    "relation": [
+      "Miami Life, Volume 5, Number 3"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 11.21,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

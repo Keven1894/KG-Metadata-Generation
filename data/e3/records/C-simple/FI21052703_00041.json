@@ -1,0 +1,108 @@
+{
+  "doc_id": "FI21052703_00041",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052703_00041",
+    "title": "Miami Life, Vol. 6, No. 38 (1928-10-20)",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-10-20",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)",
+      "Coral Gables (Fla.)",
+      "Miami Beach (Fla.)",
+      "Local government",
+      "Municipal politics",
+      "Traffic regulation",
+      "Transportation",
+      "Airports",
+      "Aviation",
+      "Zoning",
+      "Real estate",
+      "Rents",
+      "Tourism",
+      "Bootlegging",
+      "Prohibition",
+      "Crime and courts",
+      "Prisons",
+      "Boxing",
+      "Sports",
+      "Advertising"
+    ],
+    "description": "Weekly issue featuring editorials and local commentary on Miami-area civic and economic conditions, including high seasonal rents and real-estate optimism, calls for zoning regulation, criticism of traffic enforcement, and advocacy for a properly located airport. Includes coverage of Coral Gables municipal maneuvering and civic improvements, discussion of jail conditions, notes on boxing and other local sports, and numerous local advertisements and entertainment notices.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Coral Gables (Fla.)",
+      "Miami Beach (Fla.)",
+      "1928-10-20"
+    ],
+    "contributor": [
+      "A. B. Mack",
+      "R. M. Davidson",
+      "Grover Morgan",
+      "Kane",
+      "W. A. Spain",
+      "C. Lee McGarr",
+      "Joe Yates",
+      "David Letaw",
+      "Harry Letaw",
+      "Col. F. J. O'Leary",
+      "Lehman",
+      "Carl Watkins",
+      "Capt. I. R. Steele",
+      "Matchmaker Slattery",
+      "Earl Hudson",
+      "Bob Godwin",
+      "Doyle Carlton",
+      "W. J. Howey",
+      "Herbert Hoover",
+      "Al Smith",
+      "Jean Linde",
+      "Tex Rickard",
+      "Dr. Dick Merrill",
+      "Mlle. Uldine Utley",
+      "Joe Reichman",
+      "Art Childers"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Vol. 6, No. 38"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 9.32,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

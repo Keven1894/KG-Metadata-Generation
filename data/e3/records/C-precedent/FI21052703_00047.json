@@ -1,0 +1,81 @@
+{
+  "doc_id": "FI21052703_00047",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00047",
+    "title": "Miami Life, 1928-12-01 (Volume 5, Number 39)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-12-01",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue; OCR text",
+    "language": "eng",
+    "subject": [
+      "Municipal government—Florida—Miami",
+      "Traffic regulation—Florida—Miami",
+      "Parking—Florida—Miami",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Tourists—Florida—Miami",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "health https://id.loc.gov/authorities/subjects/sh00006004",
+      "Milk supply—Florida—Miami",
+      "Hospitals—Medical staff privileges—Florida—Miami",
+      "Hotel industry—Florida—Miami",
+      "Rents (Housing)—Florida—Miami",
+      "Greyhound racing—Florida—Miami Beach",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616"
+    ],
+    "description": "Issue includes editorials and commentary on Miami and Miami Beach civic affairs, including criticism of city officials, debate over one-way vs. two-way downtown traffic and parking congestion, and discussion of public finance and local politics. Reports and notices touch on tourism and seasonal business conditions, warnings about criminal schemes targeting visitors, and public health concerns including the city milk supply and Jackson Memorial Hospital staff policies. Also includes local entertainment and sports items (dog/greyhound racing promotions, theatre listings, boxing), real estate and rental-market discussion, and numerous advertisements and political notices related to the Miami Beach mayoral election.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Lincoln Road https://www.geonames.org/4162034",
+      "1928"
+    ],
+    "contributor": [
+      "W. W. Farnham https://id.loc.gov/authorities/names/n80120637",
+      "Fred Girton https://id.loc.gov/authorities/names/n2023027666",
+      "Herbert Hoover https://id.loc.gov/authorities/names/n80104366",
+      "Jackson Memorial Hospital https://id.loc.gov/authorities/names/n79131242",
+      "Val C. Cleary"
+    ],
+    "relation": [
+      "Volume 5, Number 39"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": "Access provided for research and educational use; copyright status not determined."
+  },
+  "provenance": {
+    "latency_s": 9.52,
+    "context_chars": 71784,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

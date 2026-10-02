@@ -1,0 +1,309 @@
+{
+  "doc_id": "FI21052701_00043",
+  "judge": "opus",
+  "n_claims": 55,
+  "n_supported": 52,
+  "n_contradicted": 0,
+  "claim_precision": 0.9455,
+  "per_field": {
+    "subject": {
+      "n": 16,
+      "supported": 15
+    },
+    "description": {
+      "n": 19,
+      "supported": 19
+    },
+    "coverage": {
+      "n": 6,
+      "supported": 4
+    },
+    "contributor": {
+      "n": 13,
+      "supported": 13
+    },
+    "relation": {
+      "n": 1,
+      "supported": 1
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "Jose Aleman is mentioned in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The Immigration and Naturalization Service is mentioned in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The U.S. Department of Justice is mentioned in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "Police brutality is discussed in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The Miami Police Department is mentioned in the issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "subject",
+      "claim": "Municipal elections are covered in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The Miami city commission is mentioned in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The A&P grocery chain is mentioned in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "Monopoly is discussed in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "Consumer protection is discussed in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "Telephone rates are discussed in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "Southern Bell Telephone and Telegraph Company is mentioned in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "Juvenile delinquency is discussed in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "Fake draft cards are discussed in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "Driver's licenses are discussed in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "Traffic safety is discussed in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue features an editorial attacking the A&P grocery chain.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The editorial attacks the A&P grocery chain's advertising campaign.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The editorial identifies publicist Carl Byoir as a former propagandist.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The editorial links Carl Byoir to the A&P grocery chain's advertising campaign.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue continues Miami Life's investigative series on Cuban figure Jose Aleman.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes excerpts from the Havana newspaper El Mundo.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses Jose Aleman's U.S. political connections.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a letter from Immigration and Naturalization Service District Director W. F. Miller.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "In the letter, W. F. Miller denies allegations about a State Department-ordered investigation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "In the letter, W. F. Miller denies allegations about visa cancellation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue reports on alleged police brutality involving officers Dixon and Bush.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue reports on alleged police brutality involving complainant Edward W. Youmans.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue reports on alleged police brutality involving complainant Tex'a G. Sohl.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes commentary from City Manager O. P. Hart about the alleged police brutality.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue contains Miami municipal election candidate statements.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local news items about fake draft cards.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local news items about altered driver's licenses used by minors to obtain alcohol.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes challenges to telephone rates.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes challenges to telephone directory practices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Dade County, Florida.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers the United States.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Cuba.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is dated 1949-10-22.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "W. F. Miller appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Leonard K. Thompson appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Don Sabre Curry appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Edward W. Youmans appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Tex'a G. Sohl appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "O. P. Hart appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "George Smathers appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Carl Byoir appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Robert Butler appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ramon Grau San Martin appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "J. B. Eilenburg appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Cecil C. Curry appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Richard W. Ervin appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is part of Miami Life, Vol. XXIII.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-simple"
+}

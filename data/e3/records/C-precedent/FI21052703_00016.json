@@ -1,0 +1,90 @@
+{
+  "doc_id": "FI21052703_00016",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00016",
+    "title": "MIAMI LIFE, April 21, 1928 (Volume 6, Number 13)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "MIAMI LIFE, INC.",
+    "date": "1928-04-21",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Shriners—Conventions—Miami (Fla.)",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Elections—Florida—1928",
+      "Gubernatorial elections—Florida",
+      "Police—Trials—Miami (Fla.)",
+      "Crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Liquor traffic—Florida",
+      "Prohibition—Florida",
+      "Coast Guard—Florida",
+      "Grand juries—Florida",
+      "Transportation—Tamiami Trail (Fla.)",
+      "Entertainment events https://id.loc.gov/authorities/subjects/sh96009616",
+      "Humor https://id.loc.gov/authorities/subjects/sh2003003666",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260"
+    ],
+    "description": "Issue includes local commentary and humor columns alongside political coverage of a public rally featuring Jim Carson and Sidney J. Catts in the Florida governor’s race, with references to other candidates. Reports and satire address the ongoing Quigg trial involving Miami police, concerns about bootleg liquor and enforcement activity, and civic matters such as street conditions and the Miami City Club opening. The issue also promotes and discusses the forthcoming Shrine convention in Miami, includes entertainment and sports notices (boxing, theater, nightlife), and carries numerous local advertisements and paid political ads.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Hialeah https://www.geonames.org/4158476",
+      "Everglades https://www.geonames.org/4154657",
+      "Bayfront Park https://www.geonames.org/4146892",
+      "Florida",
+      "1928"
+    ],
+    "contributor": [
+      "Jim Carson https://id.loc.gov/authorities/names/n85375214",
+      "Summers https://id.loc.gov/authorities/names/nr93038060",
+      "Doyle Carlton https://id.loc.gov/authorities/names/no2020109639",
+      "Sidney J. Catts",
+      "Mayor Ev Sewell",
+      "Judge Rose",
+      "Chief of Police Quigg",
+      "Caudell",
+      "Eddie Rickenbacker",
+      "Gene Tunney"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 6, Number 13"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": "Access provided for research and educational use; copyright status not determined. Please contact FIU Libraries for rights and reproduction information."
+  },
+  "provenance": {
+    "latency_s": 11.46,
+    "context_chars": 67165,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

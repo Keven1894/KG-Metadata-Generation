@@ -1,0 +1,364 @@
+{
+  "doc_id": "FI21052700_00051",
+  "judge": "gpt55",
+  "n_claims": 66,
+  "n_supported": 51,
+  "n_contradicted": 0,
+  "claim_precision": 0.7727,
+  "per_field": {
+    "subject": {
+      "n": 13,
+      "supported": 13
+    },
+    "description": {
+      "n": 23,
+      "supported": 23
+    },
+    "coverage": {
+      "n": 7,
+      "supported": 7
+    },
+    "contributor": {
+      "n": 22,
+      "supported": 7
+    },
+    "relation": {
+      "n": 1,
+      "supported": 1
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue contains content about Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about New Year.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about local government.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about traffic and parking.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about civic reform.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about tourism.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about the Democratic National Convention.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about Hialeah, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about horse racing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about aviation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about business conditions.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue contains content about nightlife and entertainment.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "This is a weekly issue dated December 31, 1927.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "This issue is Volume 4, Number 46.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Wen R. Phillips edited this issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "This issue includes New Year-themed editorials.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "This issue includes satire about Miami’s prospects for 1928.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "This issue includes criticism of local reformers.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "This issue discusses the impact of local reformers on tourism.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "This issue includes commentary on parking and traffic policies.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "This issue includes commentary on Flagler Street in connection with parking and traffic policies.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "This issue contains pieces about prospects related to the Democratic national convention.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "This issue contains content about Miami Shores lighting.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "This issue contains content about Hialeah racing.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "This issue contains references to a greyhound track.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "This issue contains content about aviation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "This issue contains content about flying field development.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "This issue contains content about local business conditions.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "This issue contains content about restaurant conditions.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "This issue contains columns.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "This issue contains humor.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "This issue contains fiction.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "This issue contains legal notices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "This issue contains extensive local advertising for Miami entertainment and services.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "This issue contains extensive local advertising for Miami Beach entertainment and services.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Dade County, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Hialeah, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Coral Gables, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is dated 1927-12-31.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers the year 1928.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Wen R. Phillips contributed to this issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "S. B. Ebbetts contributed to this issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Chief Quigg contributed to this issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ev Sewell contributed to this issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "George Bean contributed to this issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Henry Chase contributed to this issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Abe Aronovitz contributed to this issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Sidney Catts contributed to this issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Norris McElya contributed to this issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Morrow, Becker & Ewing contributed to this issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Hudson & Cason contributed to this issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "H. D. Clayton contributed to this issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "G. W. Sawyer contributed to this issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Mabel Sawyer contributed to this issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "W. Dewey Smith contributed to this issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Florida Light & Power Co. contributed to this issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Committee of 1000 contributed to this issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ed. C. Romfh contributed to this issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Thos. J. Peters contributed to this issue.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Paul Johnson contributed to this issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ambrose C. Martin contributed to this issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Dr. B. G. Pollock contributed to this issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "This issue is Miami Life, Volume 4, Number 46.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-simple"
+}

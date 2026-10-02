@@ -1,0 +1,94 @@
+{
+  "doc_id": "FI21052700_00012",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00012",
+    "title": "MIAMI LIFE, April 2, 1927",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life Co.",
+    "date": "1927-04-02",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Municipal franchises—Public utilities—Miami (Fla.)",
+      "Public utilities—Rates—Miami (Fla.)",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "Transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Bus transportation—Franchises—Miami (Fla.)",
+      "Municipal elections—Miami (Fla.)",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Taxation—Florida",
+      "Florida—Proposed division",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Real estate business—Florida—Miami",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "Miami (Fla.)—Social life and customs"
+    ],
+    "description": "Issue includes editorials and reporting on City of Miami public-utility and transportation franchise contracts (including criticism of Florida Power & Light Company agreements and bus obligations), discussion of upcoming municipal elections and civic reform demands, and commentary on Florida state politics (including Governor John W. Martin and Park Trammell). Also features local news briefs, society and entertainment listings, sports developments, tourism/seasonal rate commentary, real-estate promotion, letters to the editor, and advertisements and legal notices.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Dade County (Fla.)",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Biscayne Bay https://www.geonames.org/4147971",
+      "Government Cut https://www.geonames.org/4157109",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Tamiami Trail https://www.geonames.org/4174754",
+      "Everglades https://www.geonames.org/4154657",
+      "1927"
+    ],
+    "contributor": [
+      "Abe Aronovitz",
+      "John W. Martin https://id.loc.gov/authorities/names/no2012062904",
+      "Park Trammell https://id.loc.gov/authorities/names/n85336759",
+      "John Randolph https://id.loc.gov/authorities/names/n81061027",
+      "Thomas Jefferson https://id.loc.gov/authorities/names/n85012507",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "Seaboard Air Line Railway https://id.loc.gov/authorities/names/n86111430",
+      "R. HAMMERHEAD GREEBY",
+      "Mrs. Clifton Littlewood",
+      "Leroy Morgan",
+      "J. G. DU PUIS, M. D.",
+      "N. O. PENNY"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Saturday issue"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 12.61,
+    "context_chars": 68418,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

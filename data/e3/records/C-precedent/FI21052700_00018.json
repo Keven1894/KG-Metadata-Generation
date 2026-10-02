@@ -1,0 +1,87 @@
+{
+  "doc_id": "FI21052700_00018",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00018",
+    "title": "Miami Life, 1927-05-14 (Volume 4, Number 17)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1927-05-14",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Local elections—Miami (Fla.)",
+      "City managers—Selection and appointment—Miami (Fla.)",
+      "County division—Miami Beach (Fla.)",
+      "Horse racing—Law and legislation—Florida",
+      "Prohibition https://id.loc.gov/authorities/subjects/sh85107330",
+      "Bootlegging—Florida",
+      "Public welfare—Miami (Fla.)",
+      "American Legion",
+      "Transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Bus transportation—Miami (Fla.)—Miami Beach (Fla.)",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Society https://id.loc.gov/authorities/subjects/sh2021006888",
+      "Entertainment https://id.loc.gov/authorities/subjects/sh96009616"
+    ],
+    "description": "Issue includes editorials and commentary on Dade County and Miami Beach politics, including criticism of legislative representatives and discussion of upcoming city commissioner elections and the selection of a new city manager. Coverage addresses proposals and disputes over horse-racing legislation, talk of recalling Miami Beach mayor Newt Lummus, and debate over forming a separate Miami Beach county. Additional items include discussion of local welfare and unemployment claims, prohibition enforcement and alleged illicit liquor distribution, transportation notices (jitney route change), civic letters to the editor, and local news/columns such as “Little Geraldine.”",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Tallahassee https://www.geonames.org/4174715",
+      "Biscayne Bay https://www.geonames.org/4147971",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Fulford https://www.geonames.org/4047812",
+      "1927-05-14"
+    ],
+    "contributor": [
+      "Earl Wilson https://id.loc.gov/authorities/names/n82084445",
+      "Joe Dillon https://id.loc.gov/authorities/names/no2005102552",
+      "Lysle E. Fesler",
+      "Frank P. Wharton",
+      "J. Newton Lummus, Jr.",
+      "Frank P. Wharton",
+      "Lysle E. Fesler",
+      "S. C. Ebbets"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 4, Number 17"
+    ],
+    "source": "FIU Libraries dPanther (Digital Collections)",
+    "rights": "Access provided for research and educational use; rights status not specified in provided evidence."
+  },
+  "provenance": {
+    "latency_s": 10.11,
+    "context_chars": 71839,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

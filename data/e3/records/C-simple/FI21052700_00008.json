@@ -1,0 +1,93 @@
+{
+  "doc_id": "FI21052700_00008",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052700_00008",
+    "title": "Miami Life, Vol. 4, No. 8 (1927-03-05)",
+    "creator": [
+      "Wen R. Phillips",
+      "Lysle E. Fesler"
+    ],
+    "publisher": "Miami Life",
+    "date": "1927-03-05",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Florida Power & Light Company",
+      "Public utilities rates",
+      "Electricity prices",
+      "Street railways",
+      "Coral Gables Rapid Transit",
+      "Traffic safety",
+      "Automobile accidents",
+      "Gambling",
+      "Race tracks",
+      "Greyhound racing",
+      "Hialeah Park",
+      "Biscayne Kennel Club",
+      "Law enforcement",
+      "Courts",
+      "Grand jury",
+      "Community Chest",
+      "Charities",
+      "American Red Cross",
+      "Local politics",
+      "Dade County (Fla.)"
+    ],
+    "description": "Issue includes editorials and commentary on high electric and power bills attributed to Florida Power & Light, concerns about safety and speed of Coral Gables rapid transit streetcars and related automobile fatalities, and discussion of gambling and race track enforcement. Also covers local civic matters including Community Chest fundraising and a grand jury recommendation regarding facilities for the care of the insane at the county stockade, alongside local columns, letters to the editor, advertisements, and legal notices.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "1927-03-05"
+    ],
+    "contributor": [
+      "Leslie Quigg",
+      "Frank Wharton",
+      "O. W. Pittman",
+      "Effie Knowles",
+      "Fred Armstrong",
+      "Joe \"Sheik\" O'Farrel",
+      "Richard B. Hoit",
+      "Dr. S. M. Zion",
+      "Dr. Wm. Buchanan",
+      "Captain Billy Fawcett"
+    ],
+    "relation": [
+      "Volume 4, Number 8"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 13.4,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

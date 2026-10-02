@@ -1,0 +1,83 @@
+{
+  "doc_id": "FI21052702_00042",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052702_00042",
+    "title": "Miami Life (Miami, Florida), Vol. 9, No. 42 (July 6, 1935)",
+    "creator": [],
+    "publisher": "Miami Life",
+    "date": "1935-07-06",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)—Politics and government",
+      "Police chiefs—Appointments and nominations",
+      "Political corruption",
+      "Gambling—Florida",
+      "Dog racing—Florida",
+      "Slot machines and gaming devices",
+      "Telephone rates—Florida",
+      "Miami Beach (Fla.)—Schools",
+      "Teachers—Employment",
+      "Picnics",
+      "Orphans—Recreation",
+      "Miami Beach (Fla.)—Beaches"
+    ],
+    "description": "Issue includes a prominent editorial opposing the appointment of John Rowland as Miami chief of police, alleging ties to \"Little Tammany\" and \"Hawthornism\" and criticizing his record as an investigator. Coverage also discusses enforcement against mechanical gambling devices (including marble boards), criticism of telephone company practices and rates, and commentary on dog racing and pari-mutuel legislation. Additional local items include Miami Beach school board policy on married teachers, a report on Miami Life’s annual picnic/outing for more than 325 children (including a theater showing and trip to Musa Isle), and a column criticizing the shrinking public beach access at Miami Beach.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "1935-07-06"
+    ],
+    "contributor": [
+      "Tom Stowe",
+      "Andrew J. Kavanaugh",
+      "L. L. Lee",
+      "John Rowland",
+      "Vernon Hawthorne",
+      "A. D. H. Fossey",
+      "Abe Aronovitz",
+      "H. Leslie Quigg",
+      "Esther A. Lapp",
+      "Sonny Sheppard",
+      "Mrs. Chandler"
+    ],
+    "relation": [
+      "Miami Life, Vol. 9, No. 42"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 6.98,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

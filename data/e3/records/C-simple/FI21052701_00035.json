@@ -1,0 +1,92 @@
+{
+  "doc_id": "FI21052701_00035",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052701_00035",
+    "title": "Miami Life (Miami, Fla.), Vol. XXIII, No. 35 (1949-08-27)",
+    "creator": [
+      "Reubin Clein",
+      "Ben F. Drucker"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-08-27",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR-derived)",
+    "language": "en",
+    "subject": [
+      "Miami Beach (Fla.)—Politics and government",
+      "Gambling—Florida—Miami Beach",
+      "Police administration—Miami Beach (Fla.)",
+      "City managers—Florida—Miami Beach",
+      "Sales tax—Florida",
+      "Hurricanes—Florida—Preparedness",
+      "Radio broadcasting—Contests and giveaways—United States",
+      "Fictitious business names—Florida law",
+      "Education—Teachers—Florida",
+      "Claude Pepper",
+      "Fuller Warren"
+    ],
+    "description": "Issue features a lead editorial and reporting alleging Miami Beach City Manager Renshaw protected a gambling syndicate and may face removal and possible criminal charges, including claims of misappropriation of public funds/materials and interference in police gambling enforcement. Additional editorials and columns oppose a proposed Florida sales tax and criticize state political leadership; report on FCC action to ban large radio giveaway programs; discuss hurricane warning broadcasts and disaster communications planning; note Florida teacher education statistics; and include local commentary, letters to the editor, entertainment/nightlife coverage, and advertisements.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "Florida",
+      "1949-08-27"
+    ],
+    "contributor": [
+      "Grady Norton",
+      "Pat Perdue",
+      "Albert W. Simpson",
+      "Ben Shepard",
+      "T. Earl Moore",
+      "Thomas D. Bailey",
+      "Thomas Thursday",
+      "Walter E. Headley",
+      "Fred Borton",
+      "Claude Pepper",
+      "Fuller Warren",
+      "Henry G. Michel",
+      "John R. Lake",
+      "D. Lee Powell",
+      "James D. Poore",
+      "Boh Crossland"
+    ],
+    "relation": [
+      "Miami Life, Vol. XXIII",
+      "Miami Life, No. 35"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.39,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

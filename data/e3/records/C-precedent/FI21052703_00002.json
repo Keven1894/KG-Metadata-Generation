@@ -1,0 +1,85 @@
+{
+  "doc_id": "FI21052703_00002",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00002",
+    "title": "MIAMI LIFE, Saturday, January 14, 1928",
+    "creator": [
+      "WEN P. eHILLIPS https://id.loc.gov/authorities/names/n2006057098"
+    ],
+    "publisher": "Miami Life Co.",
+    "date": "1928-01-14",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "editorial https://id.loc.gov/authorities/subjects/sh85040974",
+      "nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Apartment houses—Landlord and tenant—Florida",
+      "Police—Florida—Miami Beach",
+      "Public morals—Florida—Miami",
+      "Horse racing—Florida—Miami",
+      "Aviation—Florida—Miami",
+      "Radio—Florida—Opa-locka",
+      "Electric utilities—Rates—Florida—Miami",
+      "Coast Guard—Florida—Miami",
+      "Prohibition—Florida—Miami",
+      "Hotels—Florida—Miami Beach",
+      "Nightclubs—Florida—Miami"
+    ],
+    "description": "Issue includes editorials and commentary on Miami’s public tolerance and leisure culture (including racing and nightlife), letters to the editor, and local civic concerns. Coverage discusses a proposed approach to eliminating drawbridges on the Miami River, landlord-tenant enforcement and police response in Miami Beach, and notes on aviation and radio communications (including reporting tied to Opa-locka). The issue also contains political commentary, society/column items, and extensive advertisements for hotels, restaurants, clubs, entertainment, and local businesses in Miami and Miami Beach.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Miami River https://www.geonames.org/4164208",
+      "Biscayne Bay https://www.geonames.org/4147971",
+      "Opa-locka https://www.geonames.org/4167003",
+      "Coral Gables https://www.geonames.org/4151871",
+      "1928-01-14"
+    ],
+    "contributor": [
+      "S. B. EBBETTS",
+      "John Kimble https://id.loc.gov/authorities/names/n2006057098",
+      "Bill Smith https://id.loc.gov/authorities/names/n82109727",
+      "Wen R. Phillps"
+    ],
+    "relation": [],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 12.37,
+    "context_chars": 71805,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 1.0,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": false,
+      "source": true,
+      "rights": false
+    }
+  }
+}

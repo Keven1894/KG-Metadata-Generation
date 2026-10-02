@@ -1,0 +1,87 @@
+{
+  "doc_id": "FI21052702_00041",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00041",
+    "title": "MIAMI LIFE, June 29, 1935 (Vol. 9, No. 41)",
+    "creator": [],
+    "publisher": "LIFE PUBLISHING COMPANY",
+    "date": "1935-06-29",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue with OCR text",
+    "language": "eng",
+    "subject": [
+      "Gambling devices—Florida",
+      "Marble games—Law and legislation—Florida",
+      "Telephone—Rates—Miami (Fla.)",
+      "Southern Bell Telephone and Telegraph Company https://id.loc.gov/authorities/names/n84112337",
+      "Municipal elections—Miami (Fla.)",
+      "Publicity boards—Miami (Fla.)",
+      "Journalists—Crimes against—Miami (Fla.)",
+      "Jackson Memorial Hospital https://id.loc.gov/authorities/names/n79131242",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "prohibition https://id.loc.gov/authorities/subjects/sh85107330",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "tourism https://id.loc.gov/authorities/subjects/sh85136255"
+    ],
+    "description": "Issue includes editorials and local political commentary on Miami municipal affairs (including criticism of \"Sewellism\" and actions of Commissioners Williams and Rigby), discussion of alleged gambling operations (marble boards and \"Lucky\" games at Miami Beach), and reporting on a shooting of a Tribune reporter in the Tribune offices with the victim hospitalized at Jackson Memorial Hospital. Also covers a dispute over Southern Bell telephone rates and property valuation before the State Railroad Commission, along with recurring columns (\"Rambles and Rumbles,\" \"Tips & Topics\"), notices and advertisements, and community items including a planned July 4 outing for children.",
+    "coverage": [
+      "Miami, Florida https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "1935-06-29"
+    ],
+    "contributor": [
+      "W. Keith Phillips https://id.loc.gov/authorities/names/n80139297",
+      "Southern Bell Telephone and Telegraph Company https://id.loc.gov/authorities/names/n84112337",
+      "Jackson Memorial Hospital https://id.loc.gov/authorities/names/n79131242",
+      "Ev Sewell",
+      "Abe Aronovitz",
+      "Mayor Fossey",
+      "Commissioner Rigby",
+      "Commissioner Williams",
+      "Commissioner Orr",
+      "Shannon Cormack",
+      "O. B. White",
+      "Gov. Sholtz",
+      "C. L. Wheat"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Vol. 9, No. 41"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 10.71,
+    "context_chars": 71540,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

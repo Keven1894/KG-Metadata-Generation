@@ -1,0 +1,81 @@
+{
+  "doc_id": "FI21052702_00034",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00034",
+    "title": "MIAMI LIFE, May 11, 1935 (Vol. 9, No. 34)",
+    "creator": [],
+    "publisher": "Life Publishing Company https://id.loc.gov/authorities/names/no2019078048",
+    "date": "1935-05-11",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue; OCR text",
+    "language": "eng",
+    "subject": [
+      "Municipal elections—Miami (Fla.)",
+      "City councils—Elections—Miami (Fla.)",
+      "Politics, Practical https://id.loc.gov/authorities/subjects/sh85104466",
+      "Loan sharks—Florida",
+      "Wages—Assignments—Florida",
+      "Crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Coral Gables (Fla.)—Public safety",
+      "Hotels—Employees—Florida",
+      "National Recovery Administration (U.S.)",
+      "Boxing—Florida",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Entertainment events https://id.loc.gov/authorities/subjects/sh96009616",
+      "Mother's Day"
+    ],
+    "description": "Issue includes local political coverage and election commentary (including discussion of a recall effort and Miami city commission candidates), reporting on alleged labor and wage abuses connected to the Miami-Biltmore and Henry L. Doherty, and a campaign by major employers to resist illegal small-loan and salary-assignment practices. Also contains community columns, sports coverage (boxing at the Miami Beach Arena), Mothers' Day editorial content, and extensive local advertising.",
+    "coverage": [
+      "Miami, Florida https://www.geonames.org/4164138",
+      "Coral Gables, Florida https://www.geonames.org/4151871",
+      "Miami Beach, Florida https://www.geonames.org/4164143",
+      "Biscayne Bay https://www.geonames.org/4147971",
+      "1935-05-11"
+    ],
+    "contributor": [
+      "Henry L. Doherty https://id.loc.gov/authorities/names/no2021039671",
+      "Hardy https://id.loc.gov/authorities/names/no91001724",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "Postal Telegraph Company https://id.loc.gov/authorities/names/no2002078803",
+      "Sewell https://id.loc.gov/authorities/names/n96801150"
+    ],
+    "relation": [
+      "MIAMI LIFE, Vol. 9, No. 34"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": "Access provided for research and educational use; rights status not specified in provided evidence."
+  },
+  "provenance": {
+    "latency_s": 17.72,
+    "context_chars": 68139,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 0.9,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

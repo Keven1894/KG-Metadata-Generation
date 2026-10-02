@@ -1,0 +1,86 @@
+{
+  "doc_id": "FI21052702_00004",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00004",
+    "title": "MIAMI LIFE, October 13, 1934 (VOL. 9, No. 4)",
+    "creator": [
+      "Wen IL PHILLIPS"
+    ],
+    "publisher": "MIAMI LIFE",
+    "date": "1934-10-13",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Miami Beach (Fla.)—Politics and government",
+      "Miami (Fla.)—Politics and government",
+      "politics — https://id.loc.gov/authorities/subjects/sh85104466",
+      "Gambling—Florida—Miami Beach",
+      "Racing—Florida",
+      "racing — https://id.loc.gov/authorities/subjects/sh85110265",
+      "sports — https://id.loc.gov/authorities/subjects/sh00007735",
+      "entertainment — https://id.loc.gov/authorities/subjects/sh96009616",
+      "nightlife — https://id.loc.gov/authorities/subjects/sh2008001027",
+      "business — https://id.loc.gov/authorities/subjects/sh85018260",
+      "tourism — https://id.loc.gov/authorities/subjects/sh85136255",
+      "Radio broadcasting—Florida—Miami",
+      "Baseball—United States",
+      "Horse racing—Florida—1934-1935 season"
+    ],
+    "description": "Issue includes Wen IL PHILLIPS' \"NOTEBOOK\" column with commentary on baseball (including 3rd-baseman Owen and Judge Landis), local Miami Beach political controversy involving arrests and elections, and references to federal involvement. Contains extensive radio program schedules for WQAM/WIOD and a horse-racing column (\"HORSE SENSE\" / \"JOCKEY JIMMY\") with track dates and betting tips. Also includes local society/club notes, poems and humor pieces, and numerous advertisements for Miami and Miami Beach businesses, nightlife venues, and services.",
+    "coverage": [
+      "Miami — https://www.geonames.org/4164138",
+      "Miami Beach — https://www.geonames.org/4164143",
+      "Biscayne Bay — https://www.geonames.org/4147971",
+      "1934-10-13"
+    ],
+    "contributor": [
+      "Marv Owen — https://id.loc.gov/authorities/names/n97081113",
+      "Kenesaw Mountain Landis — https://id.loc.gov/authorities/names/n90669802",
+      "Carrie Jacobs Bond — https://id.loc.gov/authorities/names/n85049048",
+      "Charles Lindbergh — https://id.loc.gov/authorities/names/n86802565",
+      "Franklin D. Roosevelt — https://id.loc.gov/authorities/names/n79022932",
+      "Dan Mahoney — https://id.loc.gov/authorities/names/n93015407",
+      "John Kimble",
+      "CAPT. JOE TRAEGER",
+      "Sam Marley",
+      "Dororthy Parmer"
+    ],
+    "relation": [
+      "MIAMI LIFE; Vol. 9, No. 4"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": "Copyright 1934 by MIAMI LIFE; digitized for research and educational use. Rights status not evaluated; users are responsible for determining copyright and obtaining permissions as needed."
+  },
+  "provenance": {
+    "latency_s": 13.09,
+    "context_chars": 66822,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

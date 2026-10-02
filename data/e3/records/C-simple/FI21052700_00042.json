@@ -1,0 +1,94 @@
+{
+  "doc_id": "FI21052700_00042",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052700_00042",
+    "title": "Miami Life, Volume 4, Number 37 (1927-10-29)",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life",
+    "date": "1927-10-29",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper text (OCR)",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Coral Gables (Fla.)",
+      "Dade County (Fla.)",
+      "Tourism",
+      "Winter season",
+      "Municipal finance",
+      "Bond issues",
+      "Public utilities",
+      "Electric power industry",
+      "Florida Power & Light Company",
+      "Rent and housing",
+      "Transportation",
+      "Local politics",
+      "Hotels",
+      "Everglades Hotel (Miami, Fla.)",
+      "University of Miami"
+    ],
+    "description": "Issue includes editorials and local commentary on the approaching 1927–1928 winter tourist season in Greater Miami, warning against price gouging and criticizing the defeat of a municipal auditorium bond issue. Coverage includes disputes involving Florida Power & Light (including meter concerns and criticism of utility promotional leaflets), complaints about local transportation and noise from buses, notes on political races and civic affairs, and announcements tied to seasonal openings such as the Everglades Hotel. Also includes assorted columns, advertisements, and community items referencing Miami, Miami Beach, Coral Gables, and Hialeah.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Greater Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Coral Gables (Fla.)",
+      "Hialeah (Fla.)",
+      "Dade County (Fla.)",
+      "1927-10-29"
+    ],
+    "contributor": [
+      "S. C. Ebbets",
+      "Harry Platt",
+      "Henry Chase",
+      "A. G. Hartridge",
+      "Walter Chandler",
+      "George Merrick",
+      "Carl Fisher",
+      "John Martin",
+      "Doyle Carlton",
+      "Sidney Catts",
+      "Fons Hathaway",
+      "Simon Swig"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 4, Number 37"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 7.95,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

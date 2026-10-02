@@ -1,0 +1,94 @@
+{
+  "doc_id": "FI21052701_00043",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052701_00043",
+    "title": "Miami Life — Vol. XXIII, No. 43 (Saturday, October 22, 1949)",
+    "creator": [
+      "Reubin Clein",
+      "Ben F. Drucker"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-10-22",
+    "type": "Text; newspaper issue",
+    "format": "Digitized text (OCR)",
+    "language": "en",
+    "subject": [
+      "Jose Aleman",
+      "Immigration and Naturalization Service",
+      "U.S. Department of Justice",
+      "Police brutality",
+      "Miami Police Department",
+      "Municipal elections",
+      "Miami city commission",
+      "A&P grocery chain",
+      "Monopoly",
+      "Consumer protection",
+      "Telephone rates",
+      "Southern Bell Telephone and Telegraph Company",
+      "Juvenile delinquency",
+      "Fake draft cards",
+      "Driver's licenses",
+      "Traffic safety"
+    ],
+    "description": "Issue features an editorial attacking the A&P grocery chain and its advertising campaign, identifying publicist Carl Byoir as a former propagandist and linking him to the campaign. Prominent coverage continues Miami Life's investigative series on Cuban figure Jose Aleman, including excerpts from Havana newspaper El Mundo and discussion of U.S. political connections. Includes a letter from Immigration and Naturalization Service District Director W. F. Miller denying allegations about a State Department-ordered investigation and visa cancellation. Reports on alleged police brutality involving officers Dixon and Bush and complainants Edward W. Youmans and Tex'a G. Sohl, with commentary from City Manager O. P. Hart. Also contains Miami municipal election candidate statements and other local news items such as fake draft cards and altered driver’s licenses used by minors to obtain alcohol, and challenges to telephone rates and directory practices.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "United States",
+      "Cuba",
+      "1949-10-22"
+    ],
+    "contributor": [
+      "W. F. Miller",
+      "Leonard K. Thompson",
+      "Don Sabre Curry",
+      "Edward W. Youmans",
+      "Tex'a G. Sohl",
+      "O. P. Hart",
+      "George Smathers",
+      "Carl Byoir",
+      "Robert Butler",
+      "Ramon Grau San Martin",
+      "J. B. Eilenburg",
+      "Cecil C. Curry",
+      "Richard W. Ervin"
+    ],
+    "relation": [
+      "Miami Life, Vol. XXIII"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 9.36,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

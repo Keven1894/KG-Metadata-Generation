@@ -1,0 +1,87 @@
+{
+  "doc_id": "FI21052702_00004",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "FI21052702_00004",
+    "title": "MIAMI LIFE, October 13, 1934 (VOL. 9, No. 4)",
+    "creator": [
+      "Wen IL PHILLIPS"
+    ],
+    "publisher": "MIAMI LIFE",
+    "date": "1934-10-13",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Politics (Practical) https://id.loc.gov/authorities/subjects/sh85104466",
+      "Miami Beach (Fla.)—Politics and government",
+      "Miami (Fla.)—Politics and government",
+      "Federal aid—Political aspects—Florida",
+      "Gambling—Florida",
+      "Horse racing—Florida",
+      "Racing https://id.loc.gov/authorities/subjects/sh85110265",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Baseball—World Series—1934",
+      "Entertainment events https://id.loc.gov/authorities/subjects/sh96009616",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Radio broadcasting—Program schedules—Florida"
+    ],
+    "description": "Issue includes Wen IL PHILLIPS' \"NOTEBOOK\" column with commentary on the 1934 World Series incident involving 3rd-baseman Owen and Judge Landis, and extensive local political coverage focused on Miami Beach (including discussion of Val Cleary, Abraham Frank Katzentine, and Cox-News influence, with references to state and federal involvement). Also features horse-racing coverage and tips (\"HORSE SENSE\" / \"JOCKEY JIMMY\"), radio program schedules for WQAM/WIOD, local society/column items (\"Round the Town\"), and numerous advertisements for Miami and Miami Beach businesses and nightlife venues.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Biscayne Bay https://www.geonames.org/4147971",
+      "1934-10-13"
+    ],
+    "contributor": [
+      "Marv Owen https://id.loc.gov/authorities/names/n97081113",
+      "Kenesaw Mountain Landis https://id.loc.gov/authorities/names/n90669802",
+      "Carrie Jacobs Bond https://id.loc.gov/authorities/names/n85049048",
+      "Charles Lindbergh https://id.loc.gov/authorities/names/n86802565",
+      "Franklin D. Roosevelt https://id.loc.gov/authorities/names/n79022932",
+      "Dan Mahoney https://id.loc.gov/authorities/names/n93015407",
+      "Abraham Frank Katzentine",
+      "Val Cleary",
+      "Governor Sholtz",
+      "Sanders Gramling",
+      "John Levi"
+    ],
+    "relation": [
+      "VOL. 9, No. 4"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 9.18,
+    "context_chars": 70572,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

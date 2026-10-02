@@ -1,0 +1,81 @@
+{
+  "doc_id": "FI21052702_00037",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00037",
+    "title": "MIAMI LIFE, June 1, 1935 (Vol. 9, No. 37)",
+    "creator": [
+      "R. J. Clein"
+    ],
+    "publisher": "LIFE PUBLISHIN( COMPANY https://id.loc.gov/authorities/names/no2019078048",
+    "date": "1935-06-01",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Gambling—Florida—Miami",
+      "Marble board gambling machines—Miami (Fla.)",
+      "Racketeering—Florida—Miami",
+      "Crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Labor conditions—Hotel employees—Miami (Fla.)",
+      "Wages—Hotel employees—Miami (Fla.)",
+      "National Recovery Administration (U.S.)",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Dog racing—Florida—Dade County",
+      "Petitions—Florida—Dade County",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Municipal government—Miami Beach (Fla.)",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Racing https://id.loc.gov/authorities/subjects/sh85110265",
+      "Entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027"
+    ],
+    "description": "Issue features editorials and reporting on local civic and business conditions following the Supreme Court decision ending the NRA, including calls for voluntary maintenance of wages and hours. Prominent coverage condemns illegal marble board gambling operations in downtown Miami, alleging racketeering and lack of enforcement, and discusses the scale of the activity and its impact on the city. The issue also advocates organizing petitions to force a referendum to end dog racing in Dade County, includes political rumor items about state and local offices, and reports on Miami Beach municipal affairs including expected resignation of Mayor Louis A. Snedigar. Regular columns and local-interest pieces address sports and racing tips, nightlife/entertainment notices, and community commentary.",
+    "coverage": [
+      "Miami, Florida https://www.geonames.org/4164138",
+      "Miami Beach, Florida https://www.geonames.org/4164143",
+      "Tallahassee, Florida https://www.geonames.org/4174715",
+      "1935-06-01"
+    ],
+    "contributor": [
+      "Henry L. Doherty https://id.loc.gov/authorities/names/no2021039671",
+      "Bill Frey https://id.loc.gov/authorities/names/n96063770",
+      "Mayor Louis A. Snedigar"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Vol. 9, No. 37"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 10.79,
+    "context_chars": 67699,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

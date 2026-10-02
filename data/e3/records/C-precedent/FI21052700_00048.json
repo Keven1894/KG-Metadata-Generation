@@ -1,0 +1,96 @@
+{
+  "doc_id": "FI21052700_00048",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00048",
+    "title": "MIAMI LIFE, December 10, 1927 (Volume 4, Number 43)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "MIAMI LIFE. INC.",
+    "date": "1927-12-10",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Advertising—Miami (Fla.)",
+      "Newspapers—Florida—Miami",
+      "Street lighting—Miami (Fla.)",
+      "Public utilities—Florida—Miami",
+      "Grand juries—Florida—Dade County",
+      "County government—Florida—Dade County",
+      "Bankruptcy—Florida—Miami",
+      "Drugstores—Florida—Miami",
+      "Food sanitation—Meat—Florida—Miami",
+      "Eggs—Grading and inspection—Florida",
+      "Libel and slander—Florida",
+      "Transportation—Street railroads—Florida—Miami",
+      "Tamiami Trail (Fla.)",
+      "Coral Gables (Fla.)—Real estate development and investment"
+    ],
+    "description": "Issue includes editorials and local commentary on Miami’s winter economy and tourism (including competition with Havana and the loss of horse racing), advertising practices and high-pressure sales, and civic conditions such as street lighting and transit service. Reports and columns discuss court and legal matters (including a libel case involving Tom Arnold), grand jury findings on Dade County expenditures, and public health concerns (meat grinding sanitation). Additional content covers Florida egg grading legislation and increased production, promotional material on the Tamiami Trail and regional development, and assorted society/campus notes and advertisements.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Havana https://www.geonames.org/4158224",
+      "Hialeah https://www.geonames.org/4158476",
+      "Bayshore Park https://www.geonames.org/4166107",
+      "Dade County (Fla.)",
+      "1927-12"
+    ],
+    "contributor": [
+      "W. F. Brown https://id.loc.gov/authorities/names/n88651847",
+      "Ted Elliot https://id.loc.gov/authorities/names/nb99058267",
+      "Tom Arnold https://id.loc.gov/authorities/names/n50001553",
+      "Ev Sewell",
+      "Frank Shutts",
+      "Jimmie Cox",
+      "Chief of Police Quigg",
+      "Hugh Peters",
+      "Small and Small",
+      "R. Hammerhead Greeby",
+      "Charles W. Heiser",
+      "George K. McKenna"
+    ],
+    "relation": [
+      "Volume 4, Number 43"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": "Access provided for research and educational use; copyright status not determined."
+  },
+  "provenance": {
+    "latency_s": 11.54,
+    "context_chars": 71116,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

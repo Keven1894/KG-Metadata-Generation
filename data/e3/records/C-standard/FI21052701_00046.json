@@ -1,0 +1,88 @@
+{
+  "doc_id": "FI21052701_00046",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052701_00046",
+    "title": "Miami Life, Nov. 12, 1949",
+    "creator": [
+      "Reubin Clein"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-11-12",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Grand juries—Florida—Dade County",
+      "Crime commissions—Florida—Miami",
+      "Municipal elections—Florida—Miami",
+      "City councils—Florida—Miami",
+      "Sewage disposal plants—Florida—Miami",
+      "Airports—Safety measures—Florida—Miami",
+      "Public transportation—Bus service—Florida—Miami",
+      "Labor laws and legislation—Florida",
+      "Shoplifting—Florida—Miami Beach",
+      "politics (https://id.loc.gov/authorities/subjects/sh85104466)",
+      "crime (https://id.loc.gov/authorities/subjects/sh85033993)",
+      "business (https://id.loc.gov/authorities/subjects/sh85018260)",
+      "transportation (https://id.loc.gov/authorities/subjects/sh2001008994)",
+      "health (https://id.loc.gov/authorities/subjects/sh00006004)",
+      "tourism (https://id.loc.gov/authorities/subjects/sh85136255)"
+    ],
+    "description": "Issue includes extensive editorial and political coverage of the Dade County grand jury report and its role in Miami municipal elections, with discussion of the Miami \"Crime Commission\" and candidates including H. Leslie Quigg and others. Additional local reporting addresses Miami sewage disposal planning and financing, airport safety concerns involving training planes, Pan American air cargo activity, Miami Transit bus routing and traffic hazards, labor-law enforcement regarding employee rest facilities, and brief crime/courts items including mistaken arrest and shoplifting cases. Regular columns and community notices appear, including Freedom House membership drive information and radio schedules.",
+    "coverage": [
+      "Miami (https://www.geonames.org/4164138)",
+      "Miami Beach (https://www.geonames.org/4164143)",
+      "Biscayne Bay (https://www.geonames.org/4147971)",
+      "Miami River (https://www.geonames.org/4164208)",
+      "Tallahassee (https://www.geonames.org/4174715)",
+      "Washington, D.C. (https://id.loc.gov/authorities/names/n79018774)",
+      "Perrine (https://www.geonames.org/4168238)",
+      "1949-11-12"
+    ],
+    "contributor": [
+      "Reubin Clein",
+      "Danny Sullivan (https://id.loc.gov/authorities/names/n97025753)",
+      "John S. Knight (https://id.loc.gov/authorities/names/n87830348)",
+      "Claude Pepper (https://id.loc.gov/authorities/names/n81071811)",
+      "Fuller Warren (https://id.loc.gov/authorities/names/n99046515)",
+      "Freedom House (https://id.loc.gov/authorities/names/n81021395)",
+      "Pan American World Airways (https://id.loc.gov/authorities/names/n81009272)"
+    ],
+    "relation": [
+      "Vol. XXIII, No. 46"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": "Rights status not provided in issue OCR; provided for research and educational use via FIU Libraries dPanther."
+  },
+  "provenance": {
+    "latency_s": 11.18,
+    "context_chars": 68470,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

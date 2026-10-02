@@ -1,0 +1,90 @@
+{
+  "doc_id": "FI21052701_00004",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "FI21052701_00004",
+    "title": "Miami Life, Saturday, Jan. 22, 1949 (Vol. XXIII, No. 4)",
+    "creator": [
+      "Reubin Clein"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-01-22",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Crime in Miami, Florida https://id.loc.gov/authorities/subjects/sh85033993",
+      "Gambling—Florida—Miami area",
+      "Racetracks—Florida—Hialeah Park",
+      "Police—Florida—Miami",
+      "Charities—Florida—Miami",
+      "Salvation Army—Florida—Miami https://id.loc.gov/authorities/names/n79046615",
+      "Blind—Services for—Florida—Miami",
+      "Lighthouse for the Blind https://id.loc.gov/authorities/names/no2005001513",
+      "Public utilities—Florida",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Health https://id.loc.gov/authorities/subjects/sh00006004",
+      "National health insurance—United States",
+      "Advertising—False and misleading—United States",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Entertainment events—Florida—Miami https://id.loc.gov/authorities/subjects/sh96009616",
+      "Nightlife—Florida—Miami https://id.loc.gov/authorities/subjects/sh2008001027"
+    ],
+    "description": "Issue includes editorials and commentary on local crime and gambling connected to Hialeah Park and a critique of a purported \"Crime Commission\"; a major piece attacking the Miami Salvation Army’s charitable practices using the case of blind itinerant Ira Corwin and referencing assistance from the Lighthouse for the Blind; discussion of Florida politics and public-utility policy involving Gov. Warren and the Florida Power & Light Company; coverage of national health legislation debates (including Sen. Pepper) and reporting on patent-medicine and drug-industry lobbying and advertising claims; plus local court/police notes, taxation commentary, and extensive entertainment and nightclub advertising.",
+    "coverage": [
+      "Miami, Florida https://www.geonames.org/4164138",
+      "Greater Miami https://www.geonames.org/4157383",
+      "Hialeah Park https://www.geonames.org/6332591",
+      "Jackson Memorial Hospital https://www.geonames.org/4160003",
+      "1949-01-22"
+    ],
+    "contributor": [
+      "Danny Sullivan https://id.loc.gov/authorities/names/n97025753",
+      "Frank Mitchell https://id.loc.gov/authorities/names/n82262761",
+      "Fuller Warren https://id.loc.gov/authorities/names/n99046515",
+      "Salvation Army https://id.loc.gov/authorities/names/n79046615",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "Lighthouse for the Blind https://id.loc.gov/authorities/names/no2005001513",
+      "Claude Pepper",
+      "Harry Willis",
+      "Cecil C. Curry",
+      "Ben F. Drucker"
+    ],
+    "relation": [
+      "Miami Life, Vol. XXIII, No. 4"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 12.93,
+    "context_chars": 68005,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

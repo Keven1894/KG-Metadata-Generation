@@ -1,0 +1,91 @@
+{
+  "doc_id": "FI21052700_00045",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00045",
+    "title": "MIAMI LIFE, 1927-11-19 (Volume 4, Number 40)",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1927-11-19",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Tourism—Florida—Miami https://id.loc.gov/authorities/subjects/sh85136255",
+      "Nightlife—Florida—Miami https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Entertainment—Florida—Miami https://id.loc.gov/authorities/subjects/sh96009616",
+      "Sports—Florida—Miami https://id.loc.gov/authorities/subjects/sh00007735",
+      "Prohibition—Florida https://id.loc.gov/authorities/subjects/sh85107330",
+      "Liquor traffic—Bahamas",
+      "Coast Guard—United States",
+      "Taxation—United States",
+      "Grand juries—Florida—Dade County",
+      "Municipal finance—Florida—Miami",
+      "Harbors—Florida—Miami",
+      "Labor unions—Musicians—Florida—Miami",
+      "Apartments—Florida—Miami Beach",
+      "Public schools—Parent-teacher associations—Florida—Miami",
+      "Thanksgiving Day"
+    ],
+    "description": "Issue includes editorials and local commentary on Miami’s tourist season and civic harmony; criticism of federal actions including income tax assessments and prosecution delays; coverage of Prohibition-era rum-running and related events involving Nassau, Bimini, Gun Cay, Cat Cay, and Havana; discussion of Miami and Miami Beach municipal matters (harbor equipment and contracting, street work, parks/cleanup, policing, and grand jury activity); notes on labor conditions for local musicians; sports and entertainment listings including boxing and university athletics; and letters to the editor on apartment economics and community affairs.",
+    "coverage": [
+      "Miami (Fla.) https://www.geonames.org/4164138",
+      "Miami Beach (Fla.) https://www.geonames.org/4164143",
+      "Nassau https://www.geonames.org/4165603",
+      "Havana https://www.geonames.org/4158224",
+      "Bimini https://www.geonames.org/4147890",
+      "Cat Cay https://id.loc.gov/authorities/subjects/sh98000114",
+      "1927"
+    ],
+    "contributor": [
+      "E. H. Jones https://id.loc.gov/authorities/names/n81060350",
+      "R. Hammerhead Greeby",
+      "J. B. Lemon",
+      "District Attorney Gober",
+      "State's Attorney Hawthorne",
+      "Richard Hunt",
+      "Chief Quigg",
+      "Virgil Ector",
+      "Boatswain Christensen",
+      "\"Pop\" Nesle",
+      "Joe Copps"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 4, Number 40"
+    ],
+    "source": "FIU Libraries dPanther (digitized Miami Life newspaper issue)",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 11.12,
+    "context_chars": 67534,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "doc_id": "FI21052700_00007",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00007",
+    "title": "MIAMI LIFE, February 26, 1927 (Volume 4, Number 7)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life Co.",
+    "date": "1927-02-26",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "Electric utilities—Rates—Florida",
+      "Monopolies—Florida",
+      "Municipal government—Miami (Fla.)",
+      "Police—Salaries and pensions—Miami (Fla.)",
+      "Public employees—Layoffs—Miami (Fla.)",
+      "Miami Beach Railway Company—Franchises",
+      "Bus lines—Franchises—Miami (Fla.)",
+      "Transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Prohibition https://id.loc.gov/authorities/subjects/sh85107330",
+      "Coast Guard—Florida—Fort Lauderdale",
+      "Liquor traffic—Florida",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Entertainment https://id.loc.gov/authorities/subjects/sh96009616"
+    ],
+    "description": "Issue includes editorials and commentary on local public affairs in Greater Miami, including criticism of Florida Power & Light Company’s electric rates and alleged political influence; discussion of Miami city budget cuts affecting police and other municipal employees; and analysis of the City of Miami’s agreement with the Miami Beach Railway Company regarding bus operations and profit-sharing. Also includes items on tourism and entertainment in Miami Beach/Coral Gables, letters to the editor about policing and civic conditions, and reporting/commentary related to Prohibition-era enforcement involving Coast Guard boat 248 and liquor seizures.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Rockland https://www.geonames.org/4170355",
+      "1927"
+    ],
+    "contributor": [
+      "Howard Shank https://id.loc.gov/authorities/names/n84227288",
+      "Dick Merrill https://id.loc.gov/authorities/names/n81047556",
+      "George Carter https://id.loc.gov/authorities/names/n50032385",
+      "Hudson Burr https://id.loc.gov/authorities/names/n2009164527",
+      "LYSLE E. FESLER",
+      "PETE CROSSLAND",
+      "S. C. EBBETS"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 4, Number 7"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": "Access provided for research and educational use; rights status not specified in provided evidence."
+  },
+  "provenance": {
+    "latency_s": 13.22,
+    "context_chars": 67834,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

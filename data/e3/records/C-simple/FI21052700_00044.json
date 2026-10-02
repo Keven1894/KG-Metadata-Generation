@@ -1,0 +1,94 @@
+{
+  "doc_id": "FI21052700_00044",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052700_00044",
+    "title": "Miami Life (Miami, Florida), Volume 4, Number 39 (November 12, 1927)",
+    "creator": [
+      "Wen R. Phillips (editor)"
+    ],
+    "publisher": "Miami Life",
+    "date": "1927-11-12",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Miami River",
+      "Public utilities",
+      "Utility meters",
+      "Deposits (utilities)",
+      "City government",
+      "Miami Beach politics",
+      "Traffic regulation",
+      "Public health",
+      "Restaurant licensing",
+      "Tourism",
+      "Travel agencies",
+      "University of Miami",
+      "Sports",
+      "Boxing",
+      "Theater",
+      "Civic organizations"
+    ],
+    "description": "Issue includes editorials and columns on Miami civic affairs and local controversies, including criticism of utility meter deposits and the city’s use of meter testers; discussion of the Miami River as an unsightly and obstructed feature needing cleanup and improved bridge design; commentary on tourism promotion and “fly-by-night” travel agencies; notes on restaurant permit applications and licensing; public health statistics countering epidemic rumors; traffic-law enforcement and tail-light arrests; Miami Beach council politics and selection of a successor to councilman Bill Scott; University of Miami campus notes and sports coverage; boxing promotions and entertainment listings (films and stage productions such as “What Price Glory” and “The Dover Road”).",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Coral Gables (Fla.)",
+      "Hialeah (Fla.)",
+      "1927-11-12"
+    ],
+    "contributor": [
+      "Wen R. Phillips",
+      "Bill Scott",
+      "Mayor Lummus",
+      "James M. Cox",
+      "H. R. V. Lee",
+      "Rod",
+      "Motorcycle Policeman Crews",
+      "Judge Tom Norfleet",
+      "Colonel Goodrich",
+      "J. C. Brown",
+      "Kent Watson",
+      "Humbert J. Fugazy",
+      "Victor McLaglen",
+      "Edmund Lowe",
+      "Dolores Del Rio"
+    ],
+    "relation": [
+      "Miami Life, Volume 4, Number 39"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 6.92,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

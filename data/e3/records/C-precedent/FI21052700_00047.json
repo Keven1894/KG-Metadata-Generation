@@ -1,0 +1,89 @@
+{
+  "doc_id": "FI21052700_00047",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00047",
+    "title": "MIAMI LIFE, 1927-12-03 (Volume 4, Number 42)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "MIAMI LIFE, INC.",
+    "date": "1927-12-03",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Miami (Fla.)—Politics and government",
+      "Municipal finance—Florida—Miami",
+      "Embezzlement—Florida—Miami",
+      "Employment agencies—Corrupt practices—Florida—Miami",
+      "Tourism—Florida—Miami",
+      "Prostitution—Florida—Miami",
+      "Prohibition—Law enforcement—Florida—Miami",
+      "Traffic regulations—Florida—Miami",
+      "Elks—Conventions and congresses—Florida—Miami",
+      "Shriners—Conventions and congresses—Florida—Miami",
+      "Coast Guard—Florida—Miami—Trials (Homicide)",
+      "Boxing—Florida—Miami"
+    ],
+    "description": "Issue includes editorials and local commentary on the 1927–1928 winter tourist season and Miami amusements; reports and opinion on city government and finance surrounding the W. A. Means embezzlement case; discussion of employment-bureau wage deductions and other petty graft; coverage of convention funding disputes involving the Elks and mention of the Shriners; notes on federal prosecution in the \"Red\" Shannon case; police-court and vice items; sports coverage including boxing at the Coliseum; and Miami Beach Democratic Club announcements and political commentary.",
+    "coverage": [
+      "Miami Beach https://www.geonames.org/4164143",
+      "Biscayne Bay https://www.geonames.org/4147971",
+      "Causeway https://www.geonames.org/4150277",
+      "Opa-locka https://www.geonames.org/4167003",
+      "Miami (Fla.)",
+      "1927-12-03"
+    ],
+    "contributor": [
+      "Bob Taylor https://id.loc.gov/authorities/names/n80004599",
+      "Fritz Gordon https://id.loc.gov/authorities/names/n86849625",
+      "W. A. Means",
+      "Judge Heffernan",
+      "Henry R. Chase",
+      "Newt Lummus",
+      "Sidney J. Catts",
+      "Judge Stoneman"
+    ],
+    "relation": [
+      "Volume 4, Number 42"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": "Rights status not stated in issue; provided for research and educational use via FIU Libraries dPanther."
+  },
+  "provenance": {
+    "latency_s": 10.07,
+    "context_chars": 71116,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

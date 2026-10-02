@@ -1,0 +1,32 @@
+{
+  "trace": "data/freeze/e1_structured_check_trace.jsonl",
+  "trace_run_id": "e1-trace-replay-2026-09-03",
+  "shuffle_seed": 20260903,
+  "unit": "unique (entity_type, lowercased surface, candidate_uri) with gate_outcome in accept/score_reject/temporal_reject",
+  "n_items_with_case_variants": 6,
+  "n_items": 917,
+  "items_by_outcome": {
+    "temporal_reject": 37,
+    "score_reject": 319,
+    "accept": 561
+  },
+  "trace_rows_by_outcome": {
+    "temporal_reject": 55,
+    "score_reject": 827,
+    "accept": 2948
+  },
+  "items_by_entity_type": {
+    "person": 451,
+    "place": 210,
+    "org": 237,
+    "subject": 19
+  },
+  "items_by_authority_source": {
+    "lcnaf": 688,
+    "geonames": 192,
+    "lc-geographic": 13,
+    "lcsh": 24
+  },
+  "n_items_mixed_outcomes": 0,
+  "note": "sort_order is a seeded random permutation; any labelled prefix is a simple random sample."
+}

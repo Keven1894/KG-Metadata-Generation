@@ -1,0 +1,86 @@
+{
+  "doc_id": "FI21052702_00039",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00039",
+    "title": "MIAMI LIFE, 1935-06-15 (Vol. 9, No. 39)",
+    "creator": [],
+    "publisher": "Miami Life",
+    "date": "1935-06-15",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Gambling devices—Marble boards—Miami (Fla.)",
+      "Racketeering—Miami (Fla.)",
+      "Missing persons—Florida—Miami",
+      "Court clerks—Florida—Miami",
+      "Embezzlement—Florida—Miami",
+      "Liquor stores—Florida—Miami",
+      "National Recovery Administration (U.S.)",
+      "Race tracks—Florida—Miami—Public opinion",
+      "Boxing—Heavyweight championship"
+    ],
+    "description": "Issue features prominent local reporting on a municipal court crackdown on illegal gambling devices (marble boards, dice machines) and related racketeering, including a subpoena involving Bill Frey and actions by city officials. It also covers the disappearance of George F. McCall, Clerk of Criminal Court, discussing alleged office shortages and his business interests. Additional content includes editorials and advertisements promoting keeping faith with the NRA, columns on racing and sports (including commentary on the Braddock–Baer fight), and local society/entertainment notes and advertising.",
+    "coverage": [
+      "Miami, Florida https://www.geonames.org/4164138",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Bayfront Park https://www.geonames.org/4146892",
+      "1935"
+    ],
+    "contributor": [
+      "Bill Frey https://id.loc.gov/authorities/names/n96063770",
+      "C. J. Davis https://id.loc.gov/authorities/names/n80135069",
+      "Forrest Nelson https://id.loc.gov/authorities/names/n85097150",
+      "Judge Dunn",
+      "Abe Aronovitz",
+      "Mrs. Margaret Magrath",
+      "George F. McCall",
+      "Percy Wright",
+      "Norman McKay"
+    ],
+    "relation": [
+      "Vol. 9, No. 39"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 10.07,
+    "context_chars": 67580,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

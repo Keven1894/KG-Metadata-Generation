@@ -1,0 +1,99 @@
+{
+  "doc_id": "FI21052700_00005",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052700_00005",
+    "title": "Miami Life — Saturday, February 12, 1927",
+    "creator": [
+      "Wen R. Phillips",
+      "Lysle E. Fesler",
+      "Howard Shank",
+      "S. C. Ebbets"
+    ],
+    "publisher": "Miami Life",
+    "date": "1927-02-12",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Municipal government",
+      "Public transportation",
+      "Bus lines",
+      "Contracts",
+      "Taxation",
+      "Tourism",
+      "Law enforcement",
+      "Oil exploration",
+      "Real estate speculation",
+      "Sports",
+      "Society news",
+      "Entertainment"
+    ],
+    "description": "Issue includes letters to the editor on overtaxation, tourism hospitality and policing, and municipal services in the southwest section; a continuing investigative editorial series criticizing the City of Miami–Miami Beach Railway bus agreement (profits, rate-setting, and long-term contract terms); reporting on oil drilling and speculative leases west of Miami on the Tamiami Trail; local commentary and humor columns; sports coverage (boxing, tennis, golf); society column by June Jasmine; and extensive local advertising and event notices (including Biscayne Fronton and nightclubs).",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "Coral Gables (Fla.)",
+      "Tamiami Trail (Fla.)",
+      "1927-02-12"
+    ],
+    "contributor": [
+      "J. F.",
+      "A 1925 Millionaire",
+      "A. C.",
+      "Ex-Hawkeye",
+      "W. J. B.",
+      "June Jasmine",
+      "Thomas J. Peters",
+      "B. B. Tatum",
+      "Ray Parker",
+      "Captain Jaudon",
+      "Mr. Tiechenor",
+      "Mr. Romfh",
+      "Mr. Gilman",
+      "Walter L. Greene",
+      "Judge Penney",
+      "Molla Mallory",
+      "Bob Gifford",
+      "Mrs. R. W. Gipson",
+      "Bea Gottlieb",
+      "Edward J. Lang"
+    ],
+    "relation": [],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 11.86,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 1.0,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": false,
+      "source": true,
+      "rights": false
+    }
+  }
+}

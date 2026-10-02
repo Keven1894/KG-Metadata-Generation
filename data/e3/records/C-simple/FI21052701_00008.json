@@ -1,0 +1,98 @@
+{
+  "doc_id": "FI21052701_00008",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052701_00008",
+    "title": "Miami Life (Miami, Fla.), Vol. XXIII, No. 8 (Saturday, February 19, 1949)",
+    "creator": [
+      "Reubin Clein (Editor)"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-02-19",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR-derived)",
+    "language": "en",
+    "subject": [
+      "Gambling",
+      "Monopoly",
+      "Miami Beach (Fla.)",
+      "Police corruption",
+      "Organized crime",
+      "Psychiatry",
+      "Medical ethics",
+      "Divorce",
+      "Domestic violence",
+      "Salvation Army",
+      "Charitable organizations",
+      "Race relations",
+      "Segregation",
+      "Music",
+      "Nightclubs",
+      "Tourism"
+    ],
+    "description": "Issue includes investigative and editorial coverage alleging an illegal gambling “syndicate”/monopoly operating in Miami Beach with political and police protection, including discussion of concessions and tribute payments. Continues extensive reporting on “Dr. T. E. Moore” (the “Torture Doctor”), printing correspondence and court-record-based allegations from multiple wives involving cruelty and related legal actions. Publishes a detailed Salvation Army reply addressing fundraising, finances, and services, plus additional local commentary and entertainment/music columns and advertisements.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "1949-02-19"
+    ],
+    "contributor": [
+      "Colin Drake",
+      "Dr. T. E. Moore",
+      "Joe Barth",
+      "Dorothy G. Moore",
+      "Elspeth Moore",
+      "Claude Renshaw",
+      "Pat Perdue",
+      "Sheriff Jimmy Sullivan",
+      "Julie Levitt",
+      "Sam Cohen",
+      "Eddie Rosenbaum",
+      "Harold Salvey",
+      "Charlie Friedman",
+      "Albert Orsborn",
+      "Albert E. Chesham",
+      "Ernest Pickering",
+      "R. T. Bergren",
+      "J. Sherman, M.D.",
+      "Dr. Joseph S. Stewart",
+      "Eddie V. Rickenbacker"
+    ],
+    "relation": [
+      "Miami Life, Vol. XXIII, No. 8"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 7.6,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

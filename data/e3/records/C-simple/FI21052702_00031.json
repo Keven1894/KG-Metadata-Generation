@@ -1,0 +1,94 @@
+{
+  "doc_id": "FI21052702_00031",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052702_00031",
+    "title": "Miami Life (Miami, Florida), Vol. 9, No. 31 (April 20, 1935)",
+    "creator": [],
+    "publisher": "Miami Life",
+    "date": "1935-04-20",
+    "type": "Text; newspaper issue",
+    "format": "Digitized text (OCR)",
+    "language": "en",
+    "subject": [
+      "Florida politics",
+      "Sales tax",
+      "Governor David Sholtz",
+      "Dan Chappell",
+      "Chain stores",
+      "Florida Recovery Act",
+      "Miami municipal elections",
+      "City commissioners",
+      "Small business",
+      "Consumer taxation",
+      "Racing",
+      "Horse racing tips",
+      "Sports",
+      "Miami Beach",
+      "Easter sunrise service",
+      "Pan-American Exposition (proposed)",
+      "Loan companies",
+      "Usury",
+      "Public safety",
+      "Hitchhiking",
+      "High school students"
+    ],
+    "description": "Issue dated April 20, 1935 (Vol. 9, No. 31). Front-page political commentary criticizes Governor David Sholtz’s proposed statewide sales tax and legislative practices, praising Representative Dan Chappell’s planned radio address and opposing chain-store dominance through discussion of a proposed “Florida Recovery Act.” Local politics coverage includes the crowded Miami city commission race and candidate mentions. Additional content includes columns and advertisements, extensive horse-racing “Jockey Jimmy” tip material, sports talk (including Babe Ruth), a proposal for a 1936 Pan-American exposition in Miami, commentary on small-loan companies and interest rates, notices about Easter sunrise travel to Miami Beach, and a warning about Miami High School students hitchhiking.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Dade County (Fla.)",
+      "Florida",
+      "Miami Beach (Fla.)",
+      "1935-04-20"
+    ],
+    "contributor": [
+      "David Sholtz",
+      "Dan Chappell",
+      "Huey Long",
+      "Harold G. George",
+      "Tom Stowe",
+      "R. Hammerhead Greeby",
+      "Babe Ruth",
+      "Mayor Sewell",
+      "W. E. Lester",
+      "N. N. \"Nate\" Bauer",
+      "A. Patrick Cannon",
+      "Jockey Jimmy"
+    ],
+    "relation": [
+      "Miami Life, Vol. 9, No. 31"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.38,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

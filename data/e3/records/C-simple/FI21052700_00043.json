@@ -1,0 +1,84 @@
+{
+  "doc_id": "FI21052700_00043",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00043",
+    "title": "Miami Life (Miami, Fla.), Vol. 4, no. 38 (1927-11-05)",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life",
+    "date": "1927-11-05",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)—Politics and government",
+      "Taxation—Florida—Miami",
+      "Transportation—Florida—Miami",
+      "Jitney buses—Florida—Miami",
+      "Airports—Planning—Florida—Miami",
+      "Miami Beach (Fla.)—Politics and government",
+      "Police—Florida—Miami",
+      "Crime—Florida—Miami",
+      "Public utilities—Florida—Miami",
+      "Florida Power & Light Company",
+      "Courthouses—Florida—Miami-Dade County",
+      "Prohibition—Law and legislation—United States"
+    ],
+    "description": "Weekly issue of the Miami Life newspaper dated November 5, 1927 (Vol. 4, No. 38), edited by Wen R. Phillips. Includes editorials and local commentary on Miami’s economic dependence on tourism, taxation complaints in Buena Vista, concerns about the new county courthouse settling, and Miami Beach civic politics following the death of councilman Bill Scott. Covers the upcoming November 10 vote on legalizing jitney routes and related legal disputes, reports on police arrests of bandits, and discusses public utilities and finance with excerpts about Florida Power & Light Co. Features a proposed municipal airport site in Biscayne Bay with an accompanying map and argument for immediate airport development, along with assorted local notes, society items, sports coverage, and advertisements.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "1927-11-05"
+    ],
+    "contributor": [
+      "S. C. Ebbets",
+      "Bart Riley",
+      "Bill Scott",
+      "Newt Lummus",
+      "J. C. Brown",
+      "John Reid",
+      "Bill Burbridge",
+      "L. J. Crews",
+      "Robert Moods",
+      "Cecil Knight"
+    ],
+    "relation": [
+      "Miami Life, Volume 4, Number 38"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.08,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

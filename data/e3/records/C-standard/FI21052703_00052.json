@@ -1,0 +1,108 @@
+{
+  "doc_id": "FI21052703_00052",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00052",
+    "title": "MIAMI LIFE, 1929-01-05 (Vol. 5, No. 19)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life",
+    "date": "1929-01-05",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue; OCR text",
+    "language": "eng",
+    "subject": [
+      "Miami (Fla.)—Politics and government",
+      "Law enforcement—Florida—Dade County",
+      "Sheriffs—Florida—Dade County",
+      "Jury system—Florida—Dade County",
+      "Coroners' inquests—Florida—Dade County",
+      "Traffic accidents—Florida—Miami",
+      "Automobile travel—Taxation—Florida",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Entertainment events https://id.loc.gov/authorities/subjects/sh96009616",
+      "Greyhound racing—Florida—Miami Beach",
+      "Aviation meets—Florida—Miami",
+      "Prohibition—Florida—Miami",
+      "Lake Okeechobee Hurricane, 1928",
+      "Disaster victims—Florida—Lake Okeechobee Region",
+      "Crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Politics, Practical https://id.loc.gov/authorities/subjects/sh85104466",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Society 5.0 https://id.loc.gov/authorities/subjects/sh2021006888"
+    ],
+    "description": "Issue includes editorials and local commentary on government neglect and memorialization of victims of the 1928 Lake Okeechobee storm; criticism of Dade County coroner’s inquests and justice-of-the-peace jury practices; discussion of Miami policing levels and traffic accidents; and an article on Florida automobile taxes and road funding. Columns and notices cover the start of the winter/tourist season, the incoming sheriff (“Pop” Lehman), Miami Beach municipal court appointment, and assorted local items. Substantial entertainment and sports coverage/advertising appears for nightclubs, theatres, greyhound racing (Miami Beach and Coral Gables), and other events, alongside brief notes on prohibition enforcement and aviation activities (Pan-American air meet).",
+    "coverage": [
+      "Miami, Florida https://www.geonames.org/4164138",
+      "Miami Beach, Florida https://www.geonames.org/4164143",
+      "Coral Gables, Florida https://www.geonames.org/4151871",
+      "Lake Okeechobee https://www.geonames.org/4166833",
+      "Biscayne Bay https://www.geonames.org/4147971",
+      "1929-01-05",
+      "1928"
+    ],
+    "contributor": [
+      "W. W. Farnham https://id.loc.gov/authorities/names/n80120637",
+      "Fred Girton https://id.loc.gov/authorities/names/n2023027666",
+      "O. S. PARMER",
+      "Hal W. Potter",
+      "E. Bruce Youngs",
+      "\"Pop\" Lehman",
+      "A. Frank Katzentine",
+      "S. Grover Morrow",
+      "Chief of Police Reeve",
+      "Van Loon",
+      "Robert Malone",
+      "Paul J. Simpson",
+      "Moulton Bickham",
+      "Whitney Engleman",
+      "B. C. Dove",
+      "Squire Spencer",
+      "Squire Penney",
+      "Squire Gorman",
+      "Jack Dempsey",
+      "Tex Rickard",
+      "Arthur Hand",
+      "Joe Reichman",
+      "Gertrude Moody",
+      "E. G. Sewell"
+    ],
+    "relation": [
+      "Vol. 5, No. 19"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 12.55,
+    "context_chars": 67597,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

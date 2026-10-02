@@ -1,0 +1,90 @@
+{
+  "doc_id": "FI21052703_00032",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00032",
+    "title": "MIAMI LIFE, August 18, 1928 (Volume 5, Number 30)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-08-18",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue with OCR text",
+    "language": "eng",
+    "subject": [
+      "Municipal government—Coral Gables (Fla.)",
+      "Public safety administration—Coral Gables (Fla.)",
+      "George Merrick https://id.loc.gov/authorities/names/n87847755",
+      "Hurricanes—Florida",
+      "Weather https://id.loc.gov/authorities/subjects/sh85145843",
+      "Lions Club",
+      "School cafeterias—Florida",
+      "Carbonated beverages—Health aspects",
+      "Royal S. Copeland https://id.loc.gov/authorities/names/no97067269",
+      "Milk—Sanitation—Miami (Fla.)",
+      "Raw milk—Health risks",
+      "Food laws and regulations—Miami (Fla.)",
+      "Police uniforms and equipment—Miami (Fla.)",
+      "Fire departments—Personnel management—Miami (Fla.)",
+      "Justices of the peace—Dade County (Fla.)",
+      "Transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "Prohibition https://id.loc.gov/authorities/subjects/sh85107330",
+      "Bootlegging—Florida",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Health https://id.loc.gov/authorities/subjects/sh00006004"
+    ],
+    "description": "Issue includes editorials and local commentary on Coral Gables city politics and the resignation of public safety director \"Pop\" Lehman; a satirical piece about legislating hurricanes and controlling hurricane reporting (mentioning Weatherman Gray); discussion of school cafeteria policies and children’s beverages citing Senator Royal S. Copeland; recurring columns (\"Round the Town\") with local anecdotes including Jim Allison’s estate; criticism of justice-of-the-peace offices, city infrastructure and traffic safety, and calls for improvements to parks and public works. Additional coverage addresses milk sanitation and proposals for certified/pasteurized milk, city food ordinances, police and fire department management, and Prohibition-era liquor supply and pricing; includes society column items and local advertisements.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Thirteenth Street https://www.geonames.org/4175208",
+      "1928-08-18"
+    ],
+    "contributor": [
+      "George Merrick https://id.loc.gov/authorities/names/n87847755",
+      "Gray https://id.loc.gov/authorities/names/n90655392",
+      "Royal S. Copeland https://id.loc.gov/authorities/names/no97067269",
+      "Jim Allison https://id.loc.gov/authorities/names/n78024424",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "Columbus Hotel https://id.loc.gov/authorities/names/n88059104"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 5, Number 30"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 12.31,
+    "context_chars": 67844,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "doc_id": "FI21052703_00022",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00022",
+    "title": "MIAMI LIFE, 1928-06-02",
+    "creator": [
+      "WEN PHIiLIPS"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-06-02",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "society https://id.loc.gov/authorities/subjects/sh2021006888",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "humor https://id.loc.gov/authorities/subjects/sh2003003666",
+      "editorial https://id.loc.gov/authorities/subjects/sh85040974",
+      "Primary elections—Florida—Dade County",
+      "Political campaigns—Florida—1928",
+      "Newspapers—Political aspects—Florida",
+      "Sheriffs—Election—Florida—Dade County",
+      "Animal welfare—Florida—Dade County",
+      "Cruelty to animals—Florida—Dade County",
+      "Greyhound racing—Florida—Hialeah",
+      "Public schools—Finance—Florida—Dade County",
+      "Manufacturing industries—Florida—Miami",
+      "Airports—Florida—Miami"
+    ],
+    "description": "Issue includes extensive editorial and political coverage ahead of the June 1928 primary election, criticizing local daily newspapers’ campaign reporting and discussing races for governor, U.S. senator, sheriff, and other county offices. Also features election-related humor and commentary (including explanations of second-choice voting), reports on alleged cruelty to animals connected with coursing in Hialeah and related civic responses, and local civic/business pieces on Dade County school costs, small manufacturing, and the donation/adoption of an airport. Includes entertainment and community items such as a juvenile movie contest at Roney Plaza pools and numerous political advertisements.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Hialeah https://www.geonames.org/4158476",
+      "Tampa https://www.geonames.org/4174757",
+      "1928"
+    ],
+    "contributor": [
+      "Doyle E. Carlton https://id.loc.gov/authorities/names/n99271197",
+      "John W. Martin https://id.loc.gov/authorities/names/no2012062904",
+      "James M. Cox https://id.loc.gov/authorities/names/n84069097",
+      "Pat Whitaker https://id.loc.gov/authorities/names/no2010076047",
+      "Ruth Bryan Owen https://id.loc.gov/authorities/names/n90644770",
+      "M. P. (POP) Lehman",
+      "Henry R. Chase",
+      "Louis Allen",
+      "Harriet M. Works",
+      "Fons Hathaway"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), published weekly; issue dated Saturday, June 2, 1928"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 10.73,
+    "context_chars": 72036,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "doc_id": "FI21052703_00040",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00040",
+    "title": "MIAMI LIFE, 1928-10-13",
+    "creator": [
+      "WEN PHILLIPS"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-10-13",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Jackson Memorial Hospital—Administration and politics https://id.loc.gov/authorities/names/n79131242",
+      "Municipal hospitals—Miami (Fla.)",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "City government—Coral Gables (Fla.)",
+      "Public utilities—Customer service—Miami (Fla.)",
+      "Transportation—Street railroads and buses—Coral Gables (Fla.)",
+      "Tourism—Miami (Fla.) https://id.loc.gov/authorities/subjects/sh85136255",
+      "Hurricanes—Relief—Florida",
+      "American National Red Cross—Finance",
+      "Prohibition—Florida",
+      "Bootlegging—Florida",
+      "Crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Bombings—Florida",
+      "Dry cleaning industry—Prices—Miami (Fla.)",
+      "Entertainment events https://id.loc.gov/authorities/subjects/sh96009616",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Society (Social life and customs)—Miami (Fla.)"
+    ],
+    "description": "Issue includes editorials and local commentary on politics and public services in Greater Miami, including criticism of Jackson Memorial Hospital’s administration and alleged political influence over patient care; discussion of an expected heavy winter tourist season; coverage of Coral Gables municipal politics and staffing changes in transportation and city management; notes on Hialeah civic finances and taxpayer disputes; commentary on Red Cross hurricane-relief fundraising; reports and satire touching on bootlegging and liquor prices during Prohibition; and brief items on crime and business conditions, alongside entertainment, nightlife, sports, and society columns and advertisements.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Hialeah https://www.geonames.org/4158476",
+      "Lake Okeechobee https://www.geonames.org/4166833",
+      "Tamiami Trail https://www.geonames.org/4174754",
+      "1928-10-13"
+    ],
+    "contributor": [
+      "Arthur M. Mack https://id.loc.gov/authorities/names/n97042240",
+      "R. M. Davidson https://id.loc.gov/authorities/names/no99007254",
+      "George Merrick https://id.loc.gov/authorities/names/n87847755",
+      "Jackson Memorial Hospital https://id.loc.gov/authorities/names/n79131242"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), issue dated 1928-10-13"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": "Rights status not provided in OCR evidence; for access and use conditions see FIU Libraries dPanther."
+  },
+  "provenance": {
+    "latency_s": 10.94,
+    "context_chars": 68016,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

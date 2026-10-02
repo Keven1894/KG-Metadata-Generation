@@ -1,0 +1,85 @@
+{
+  "doc_id": "FI21052703_00004",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00004",
+    "title": "Miami Life, January 28, 1928 (Volume 5, Number 2)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1928-01-28",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Tourism—Florida—Miami https://id.loc.gov/authorities/subjects/sh85136255",
+      "Entertainment—Florida—Miami https://id.loc.gov/authorities/subjects/sh96009616",
+      "Nightlife—Florida—Miami https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Prohibition—Florida—Miami https://id.loc.gov/authorities/subjects/sh85107330",
+      "Politics—Florida—Miami https://id.loc.gov/authorities/subjects/sh85104466",
+      "Business—Florida—Miami https://id.loc.gov/authorities/subjects/sh85018260",
+      "Chambers of commerce—Florida—Miami",
+      "Public safety—Florida—Miami",
+      "Transportation—Streetcars—Florida—Miami",
+      "Racial segregation—Transportation—Florida—Miami",
+      "Parking regulations—Florida—Miami",
+      "Receivership—Florida—Miami",
+      "Real estate development—Florida—Miami",
+      "Overseas Highway (Fla.)",
+      "Florida Keys—Roads",
+      "Editorial cartoons https://id.loc.gov/authorities/subjects/sh85040974"
+    ],
+    "description": "Issue includes editorials and commentary on Miami’s tourist season and entertainment restrictions, criticizing law-enforcement actions affecting venues and dancing hours; discussion of local politics and civic institutions including the Miami Chamber of Commerce; columns on public safety and traffic/parking enforcement; commentary on receiverships and financial conditions; coverage touching on transportation conditions and segregation on streetcars/buses; and promotional/civic booster content including discussion of the opening of Florida’s Overseas Highway to Key West, alongside advertisements and humor/verse features.",
+    "coverage": [
+      "Miami, Florida https://www.geonames.org/4164138",
+      "Miami Beach, Florida https://www.geonames.org/4164143",
+      "Biscayne Bay https://www.geonames.org/4147971",
+      "Lincoln Road https://www.geonames.org/4162034",
+      "1928-01-28"
+    ],
+    "contributor": [
+      "Gene Tunney https://id.loc.gov/authorities/names/n95074598",
+      "Jim Carson https://id.loc.gov/authorities/names/n85375214",
+      "Chamber of Commerce https://id.loc.gov/authorities/names/n89607178",
+      "Meade Bros. https://id.loc.gov/authorities/names/n95068058",
+      "Sheriff Henry Chase",
+      "Welton Snow"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 5, Number 2"
+    ],
+    "source": "FIU Libraries dPanther (Florida International University)",
+    "rights": "Rights status not provided in issue OCR; provided for research and educational use. Copyright may apply; users are responsible for determining rights for reuse."
+  },
+  "provenance": {
+    "latency_s": 11.09,
+    "context_chars": 67786,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

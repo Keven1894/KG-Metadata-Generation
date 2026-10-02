@@ -1,0 +1,106 @@
+{
+  "doc_id": "FI21052703_00004",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052703_00004",
+    "title": "Miami Life — Volume 5, Number 2 (January 28, 1928)",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1928-01-28",
+    "type": "Text; newspaper issue",
+    "format": "Newspaper text with OCR",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)",
+      "Tourism",
+      "Entertainment regulation",
+      "Blue laws",
+      "Prohibition",
+      "Liquor prices",
+      "Local politics",
+      "Law enforcement",
+      "Transportation",
+      "Segregation",
+      "Streetcars",
+      "Chamber of commerce",
+      "Real estate",
+      "Receiverships",
+      "Coral Gables (Fla.)",
+      "Overseas Highway (Florida Keys)",
+      "Miami Beach (Fla.)",
+      "Public safety",
+      "Traffic and parking"
+    ],
+    "description": "Issue includes editorials and commentary on Miami’s enforcement of “blue laws” affecting tourist entertainment (closures and restrictions on dancing and venues), criticism of professional receiverships and civic opportunism, and notes on traffic/parking and public safety. Reports and opinion pieces address inadequate public transportation and racial segregation on streetcars/buses, local Chamber of Commerce turmoil, and real estate conditions. Features include humor/poetry columns, a satirical piece involving “Rye K. Hammerhead Greeby,” coverage of the Florida Overseas Highway opening and its significance for Coral Gables and regional growth, and letters to the editor (including complaints about a cat show judging). Advertisements and local notices appear throughout.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "Coral Gables (Fla.)",
+      "Florida Keys (Fla.)",
+      "Key West (Fla.)",
+      "1928-01-28"
+    ],
+    "contributor": [
+      "Rye K. Hammerhead Greeby",
+      "Gene Tunney",
+      "Al Capone",
+      "Senator Swanson",
+      "Henry Chase",
+      "Welton Snow",
+      "Charles W. Helser",
+      "Ev Sewell",
+      "President Burwell",
+      "Mr. Carpenter",
+      "Miss Tegler",
+      "Mr. Matthews",
+      "Meade Bros.",
+      "Ambrose C. Martin",
+      "Frank D. Wilson",
+      "William Dews",
+      "H. J. Evans",
+      "Paul N. Feist",
+      "Earl Hudson",
+      "Chief Quigg",
+      "Inspector Gibson",
+      "Walter Woodman"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 5, Number 2"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 13.97,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

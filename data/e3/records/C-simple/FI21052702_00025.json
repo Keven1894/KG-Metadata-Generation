@@ -1,0 +1,94 @@
+{
+  "doc_id": "FI21052702_00025",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052702_00025",
+    "title": "Miami Life (Miami, Florida), Vol. 9, No. 25 (March 9, 1935)",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life",
+    "date": "1935-03-09",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Telephone rates",
+      "Southern Bell Telephone",
+      "Public utilities",
+      "Florida Power & Light Company",
+      "Railroad Commission (Florida)",
+      "Miami city government",
+      "Court and jail conditions",
+      "Milk prices",
+      "Horse racing",
+      "Tropical Park (Miami, Fla.)",
+      "Hialeah Park (Hialeah, Fla.)",
+      "Nightclubs",
+      "Entertainment",
+      "Motion picture industry",
+      "Housing modernization",
+      "Federal Housing Administration"
+    ],
+    "description": "Issue includes Wen R. Phillips' \"Notebook\" column criticizing high telephone rates and calling for action and investigation involving the Florida Railroad Commission and related figures; local commentary on jail/court conditions and a drunk-driving case; discussion of milk price regulation; extensive horse-racing coverage and advertisements including \"Jockey Jimmy\" selections for Tropical Park following Hialeah; nightlife and entertainment listings and club promotions; commentary on movie-industry schemes; letters to the editor including one retracting criticism of Florida Power & Light and another supporting criticism of government regulation; and home modernization/FHA plumbing improvement advertisements.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "Coral Gables (Fla.)",
+      "Tallahassee (Fla.)",
+      "1935-03-09"
+    ],
+    "contributor": [
+      "Jockey Jimmy",
+      "Abe Aronovitz",
+      "Frank B. Shutts",
+      "Henry L. Doherty",
+      "Ernest Stevenson",
+      "Judge Dunn",
+      "Tom Grady",
+      "Harry Platt",
+      "F. P. Owen",
+      "E. P. Owen",
+      "Karl G. Adams",
+      "J. G. Berger",
+      "W. C. Palm Island",
+      "Joseph M. Schenck"
+    ],
+    "relation": [
+      "Miami Life, Volume 9, Number 25"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 7.97,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

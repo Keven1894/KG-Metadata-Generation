@@ -1,0 +1,83 @@
+{
+  "doc_id": "FI21052702_00051",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052702_00051",
+    "title": "Miami Life (Miami, Florida), Vol. 9, No. 51 (1935-09-07)",
+    "creator": [
+      "Life Publishing Company"
+    ],
+    "publisher": "Miami Life",
+    "date": "1935-09-07",
+    "type": "Text; newspaper issue",
+    "format": "Digitized text (OCR)",
+    "language": "en",
+    "subject": [
+      "Labor Day hurricane (1935)",
+      "Florida Keys",
+      "World War I veterans",
+      "Disaster relief",
+      "Weather forecasting",
+      "Federal Emergency Relief Administration (FERA)",
+      "Florida East Coast Railway",
+      "Evacuation trains",
+      "Traffic accidents",
+      "Miami (Fla.)",
+      "Hialeah (Fla.) politics",
+      "Federal Savings and Loan associations",
+      "Beauty contests"
+    ],
+    "description": "Issue includes a major editorial and feature coverage of the 1935 Labor Day hurricane disaster in the Florida Keys, emphasizing the deaths of World War I veterans in government camps, criticism of \"ordinary precautions\" warnings, and failures/delays in evacuation by train. Also reports on Hialeah municipal politics and allegations involving a Federal Savings & Loan Association, publishes Miami traffic fatality statistics and safety commentary, and continues the paper’s \"Most Attractive Working Girl\" contest featuring winner Miss Evelyn Butler (Kress Store).",
+    "coverage": [
+      "Miami, Florida, United States",
+      "Florida Keys, Florida, United States",
+      "1935-09"
+    ],
+    "contributor": [
+      "Wen R. Phillips",
+      "Evelyn Butler",
+      "A. E. Lichtenstein",
+      "Ed Rice",
+      "Charles Collar",
+      "G. C. Sparks",
+      "Harry Lipton",
+      "L. H. O'Quinn",
+      "George Merrick"
+    ],
+    "relation": [
+      "Miami Life, Vol. 9, No. 51"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 13.52,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

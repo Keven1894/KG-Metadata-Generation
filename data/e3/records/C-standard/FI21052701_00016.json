@@ -1,0 +1,97 @@
+{
+  "doc_id": "FI21052701_00016",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "FI21052701_00016",
+    "title": "MIAMI LIFE, Saturday, April 16, 1949 (Vol. XXIII, No. 16)",
+    "creator": [
+      "REUBIN CLEIN"
+    ],
+    "publisher": "MIAMI LIFE",
+    "date": "1949-04-16",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue with OCR text",
+    "language": "eng",
+    "subject": [
+      "Florida Power & Light Co.—Electric rates—Miami (Fla.)",
+      "Electric utilities—Rates—Florida",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Medical misconduct—Florida",
+      "Psychiatry—Fraud—Miami (Fla.)",
+      "Gambling—Law enforcement—Florida",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Boxing—Safety measures",
+      "Horse racing—Florida",
+      "Dog racing—Florida",
+      "Freedom House https://id.loc.gov/authorities/names/n81021395",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Foundations—Taxation—United States",
+      "Employment agencies—Fraud—Miami (Fla.)",
+      "Rent control—Florida"
+    ],
+    "description": "Issue includes investigative and editorial coverage of Florida Power & Light billing and electric-rate regulation; allegations of abuse and misconduct involving Dr. T. Earl Moore and calls for action by medical authorities and Gov. Warren; commentary on gambling enforcement and proposals affecting racing (including opposition to summer dog racing in Miami); local court and civic items; notices of cultural events (Freedom House Forum presentation of Ibsen’s “Peer Gynt,” veterans dance) and community announcements; and opinion pieces on politics, civil-rights legislation, and tax-avoidance through foundations, along with letters to the editor and local advertising.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Booker T. Washington High School https://www.geonames.org/4148585",
+      "Florida",
+      "1949"
+    ],
+    "contributor": [
+      "Fuller Warren https://id.loc.gov/authorities/names/n99046515",
+      "C. G. Walker https://id.loc.gov/authorities/names/n2007211864",
+      "Judge Cecil C. Curry",
+      "Judge Bandel",
+      "Judge Stanley Milledge",
+      "Sheriff Sullivan",
+      "Mike Gorman",
+      "Mrs. L. R. Bunker",
+      "MRS. RUTH TRICE",
+      "EDWARD EVANS",
+      "Henning Heldt",
+      "Publisher Knight",
+      "Claude Pepper",
+      "Rep. George Smathers",
+      "Hubert Humphrey",
+      "Commissioner H. Leslie Quigg"
+    ],
+    "relation": [
+      "Vol. XXIII, No. 16"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 13.12,
+    "context_chars": 67379,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

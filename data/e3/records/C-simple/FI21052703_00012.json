@@ -1,0 +1,93 @@
+{
+  "doc_id": "FI21052703_00012",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052703_00012",
+    "title": "Miami Life (Miami, Florida), Volume 5, Number 10 (March 24, 1928)",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-03-24",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Police misconduct",
+      "Grand jury investigations",
+      "City government",
+      "Miami (Fla.) politics",
+      "Municipal bands",
+      "Public schools",
+      "Child welfare",
+      "Public health",
+      "Bootlegging",
+      "Elections"
+    ],
+    "description": "Issue includes editorials and local reporting on a sensational police investigation in Miami, criticizing city commissioners for inaction and discussing indictments involving Chief of Police H. Leslie Quigg and alleged jail torture. Additional pieces address a dispute over hiring an outside band versus forming a Miami Municipal Band, efforts to provide midday meals for schoolchildren, concerns about unsanitary mattress resale practices, local political campaigns and candidates, preparations for a major Shrine convention and city beautification, sports and entertainment notices, and assorted local briefs and advertisements.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Dade County (Fla.)",
+      "Miami Beach (Fla.)",
+      "Coral Gables (Fla.)",
+      "1928-03-24"
+    ],
+    "contributor": [
+      "H. Leslie Quigg",
+      "Mayor E. V. Sewell",
+      "State's Attorney Hawthorne",
+      "Dade County Bar Association",
+      "Municipal Judge Stoneman",
+      "Roy Smith",
+      "Erdell Mutchler",
+      "Walter Sheaffer",
+      "Henry Chase",
+      "W. E. Bradfield",
+      "W. H. Coombs",
+      "Dr. Ziebold",
+      "Ruth Bryan Owen",
+      "Joe Sears",
+      "R. E. Hall",
+      "Charles M. Fisher",
+      "Fred Pine",
+      "Frank Clark",
+      "R. Hammerhead Greeby",
+      "Miami Federation of Musicians"
+    ],
+    "relation": [
+      "Miami Life, Volume 5, Number 10"
+    ],
+    "source": "FIU dPanther",
+    "rights": "Copyright 1928 by Miami Life Co.; permission must be obtained from the publisher for reproduction of material."
+  },
+  "provenance": {
+    "latency_s": 7.74,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

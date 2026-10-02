@@ -1,0 +1,105 @@
+{
+  "doc_id": "FI21052700_00028",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052700_00028",
+    "title": "Miami Life, Volume 4, Number 26 (1927-07-23)",
+    "creator": [
+      "Wen R. Phillips",
+      "Lysle E. Fesler"
+    ],
+    "publisher": "Miami Life",
+    "date": "1927-07-23",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)--Politics and government",
+      "Municipal corruption",
+      "Public utilities--Rates",
+      "Florida Power & Light Company",
+      "Taxation--Florida",
+      "Real estate development--Florida",
+      "Transportation--Miami Beach (Fla.)",
+      "Jitneys",
+      "Bridges--Florida",
+      "Baker's Haulover (Fla.)",
+      "Seminole Indians--Hunting",
+      "Police--Miami Beach (Fla.)",
+      "Airports--Miami (Fla.)",
+      "Tourism--Florida",
+      "Boxing"
+    ],
+    "description": "Weekly issue featuring editorials and local commentary on alleged corruption and \"sinister influences\" in Miami civic life, including criticism of politicians, lawyers, courts, and public utilities. Articles address high property tax assessments, Miami Beach policing and budget cuts, the unrepaired Baker's Haulover bridge and its impact on north beach development, and a call to protect jitney service on Miami Beach against proposed agreements with the railway company. Additional pieces discuss restrictions on Seminole hunting, Miami airport management, local advertising and business promotions, and popular culture items including coverage of the Dempsey–Sharkey boxing match.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "Baker's Haulover (Fla.)",
+      "1927-07-23"
+    ],
+    "contributor": [
+      "F. E. Edwards",
+      "H. W. Penney",
+      "Taylor (County Solicitor)",
+      "C. C. Small",
+      "Dr. E. J. Woods",
+      "Wharton (City Manager)",
+      "Mr. Green (City Assessor)",
+      "F. B. Stoneman",
+      "Fred Osius",
+      "Marvin Miller",
+      "Officer Hicks",
+      "Mr. Quigg",
+      "Frank W. Riokard",
+      "R. Hammerhead Greeby",
+      "Ev Sewell",
+      "Ed Romfh",
+      "Harry Platt",
+      "Cliff Reeder",
+      "Bart Riley",
+      "Engineer Cotton",
+      "Dexter Malone",
+      "Henry Rudich",
+      "Governor Martin",
+      "Herman Dann",
+      "J. R. Marshall",
+      "C. E. Barrett"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 4, Number 26"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 14.46,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

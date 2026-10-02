@@ -1,0 +1,94 @@
+{
+  "doc_id": "FI21052700_00010",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052700_00010",
+    "title": "Miami Life, Volume 4, Number 10 (1927-03-19)",
+    "creator": [
+      "Wen R. Phillips (editor)"
+    ],
+    "publisher": "Miami Life Co.",
+    "date": "1927-03-19",
+    "type": "Text; newspaper issue",
+    "format": "Digitized text (OCR)",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Local government",
+      "Municipal contracts",
+      "Public transportation",
+      "Florida Power & Light Company",
+      "Taxes",
+      "Real estate",
+      "Tourism",
+      "Prohibition",
+      "Liquor prices",
+      "Community Chest",
+      "Civic organizations",
+      "Lions Club",
+      "Entertainment",
+      "Advertising"
+    ],
+    "description": "Issue includes editorials and columns on Miami and Miami Beach civic affairs, including criticism of the Florida Power & Light bus agreement and discussion of taxes, assessments, and poll tax/registration. Contains commentary on tourism and pricing, Prohibition-era liquor prices, and local civic groups (e.g., Lions Club and Community Chest). Features local humor/columns (\"They Tell Me,\" \"Little Geraldine\"), a satirical report about West Central Miami voting to eliminate summer from the calendar, and a news item about a Florida Power & Light meter-reader (\"Hammerhead Greeby\") arrested over empty fire extinguishers. Includes numerous local advertisements and legal notices.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "1927-03-19"
+    ],
+    "contributor": [
+      "Ed Romfh",
+      "Frank Wharton",
+      "Florida Power & Light Company",
+      "H. L. Mencken",
+      "American Mercury",
+      "Adam McAdam",
+      "Hammerhead Greeby",
+      "Guy Reeve",
+      "Mayor Ambrose Peebles",
+      "Gerry Curtis",
+      "O. S. Parmer",
+      "George F. Holly",
+      "Effie Knowles",
+      "Fred Armstrong",
+      "Nat Brown",
+      "Marcus Cohen"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 4, Number 10"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 7.36,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

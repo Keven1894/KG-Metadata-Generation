@@ -1,0 +1,90 @@
+{
+  "doc_id": "FI21052703_00042",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052703_00042",
+    "title": "Miami Life — 1928-10-27",
+    "creator": [
+      "Wyn R. Phillips"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-10-27",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)",
+      "Coral Gables (Fla.)",
+      "Local government",
+      "Municipal administration",
+      "Labor disputes",
+      "Motion picture theaters",
+      "Wages",
+      "Licenses",
+      "Prohibition",
+      "Bootlegging",
+      "Traffic and parking",
+      "Retail trade",
+      "Dry cleaning industry",
+      "Republican Party (Fla.)",
+      "Elections",
+      "University of Miami",
+      "Sports"
+    ],
+    "description": "Issue dated October 27, 1928, published in Miami, Florida and edited by Wyn R. Phillips. Articles and editorials cover a labor dispute involving movie theater operators and stagehands (including picketing and threats), criticism of city licensing enforcement against a theater producer, commentary on Florida election/appointment laws and local Republican politics, and civic complaints such as downtown parking behavior. Additional pieces discuss Prohibition-era bootlegging and informers, dry cleaning price competition, Coral Gables municipal controversies (including petitions regarding the superintendent of municipal transportation), local religious events, and community notes and advertisements.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Coral Gables (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "1928-10-27"
+    ],
+    "contributor": [
+      "A. J. Kleist, Jr.",
+      "Burton-Garrett Players",
+      "John W. Martin",
+      "George Bean",
+      "Glenn Skipper",
+      "Uldine Utley",
+      "J. T. Holdsworth",
+      "A. B. Mack",
+      "Mayor Montanus",
+      "R. M. Davidson",
+      "Chief Kline",
+      "Rudolph Kay"
+    ],
+    "relation": [],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 7.8,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 1.0,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": false,
+      "source": true,
+      "rights": false
+    }
+  }
+}

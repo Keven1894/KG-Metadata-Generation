@@ -1,0 +1,95 @@
+{
+  "doc_id": "FI21052700_00023",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052700_00023",
+    "title": "Miami Life, Volume 4, Number 21 (1927-06-18)",
+    "creator": [
+      "Wen R. Phillips",
+      "Lysle E. Fesler",
+      "S. C. Ebbets"
+    ],
+    "publisher": "Miami Life",
+    "date": "1927-06-18",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)—Politics and government",
+      "City managers",
+      "Municipal administration",
+      "Public utilities franchises",
+      "Harbors",
+      "Conventions and conferences",
+      "Lions Clubs International",
+      "Shriners",
+      "Real estate development",
+      "Coral Gables (Fla.)",
+      "Oil prospecting",
+      "Everglades (Fla.)",
+      "Horse racing",
+      "Hialeah (Fla.)",
+      "Legal notices",
+      "Foreclosure sales"
+    ],
+    "description": "Issue includes editorials and local commentary on Miami municipal governance, urging the new city commission to hire a capable city manager and address public utility franchises, harbor administration, and public improvements. Coverage highlights Miami as a growing convention city, with reports and satire related to the Lions convention and anticipated future conventions (including Shriners and Elks), plus discussion of the need for a downtown auditorium. Additional pieces touch on rumors of oil in the Everglades and concerns about triggering another real-estate boom; local society and gossip columns; parade highlights; and a substantial legal notice announcing a master’s foreclosure sale in Dade County.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "Coral Gables (Fla.)",
+      "Hialeah (Fla.)",
+      "Everglades (Fla.)",
+      "1927-06"
+    ],
+    "contributor": [
+      "Claude Renshaw",
+      "R. Hammerhead Greeby",
+      "Frank Wharton",
+      "Randall (Postmaster, Hialeah)",
+      "Thomas J. Pancoast",
+      "Grover Morrow",
+      "William Jennings Bryan",
+      "Dr. Leo Hendrick Baekeland",
+      "Chief Wood",
+      "Lelia Russell",
+      "Thomas Hutton",
+      "Ernest L. Hutton"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 4, Number 21"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 11.02,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "doc_id": "FI21052701_00041",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052701_00041",
+    "title": "Miami Life, Oct. 8, 1949 (Vol. XXIII, No. 41)",
+    "creator": [
+      "Reubin Clein"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-10-08",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue; OCR text",
+    "language": "eng",
+    "subject": [
+      "Crime Commission activities—Miami (Fla.)",
+      "Newspapers—Fires and fire prevention—Miami (Fla.)",
+      "Press corruption—United States",
+      "American Medical Association—Political activity https://id.loc.gov/authorities/names/n50000652",
+      "Minnesota State Medical Association https://id.loc.gov/authorities/names/n80058645",
+      "National health insurance—United States",
+      "Gambling—Florida",
+      "Pari-mutuel betting—Florida",
+      "Churches and social problems—Florida",
+      "African Americans—Suffrage—Florida—Miami",
+      "Municipal elections—Florida—Miami",
+      "Anti-communist oaths—Florida",
+      "Miami International Airport—Statistics",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "sports https://id.loc.gov/authorities/subjects/sh00007735"
+    ],
+    "description": "Issue includes editorials and local political coverage criticizing the Miami Crime Commission and discussing federal investigations of gambling; a detailed account and commentary on the Miami Herald warehouse fire and fire-safety practices; reporting on city commission election qualification issues including the anti-Communist oath; discussion of African American voter registration and municipal services, with references to access to public facilities and beaches; coverage of church opposition to racetrack gambling; a continuing piece on alleged press bribery tied to medical associations and opposition to a national health program; local court and police-blotter items; and business/civic reporting including Miami International Airport passenger and cargo statistics, alongside regular columns and advertisements.",
+    "coverage": [
+      "Miami (Fla.) https://www.geonames.org/4164138",
+      "Miami Beach (Fla.) https://www.geonames.org/4164143",
+      "Coconut Grove (Miami, Fla.) https://www.geonames.org/4151460",
+      "Virginia Key (Fla.) https://www.geonames.org/4176528",
+      "Orange Bowl (Miami, Fla.) https://www.geonames.org/6946363",
+      "Biscayne Bay (Fla.) https://www.geonames.org/4147971",
+      "1949-10-08"
+    ],
+    "contributor": [
+      "Dan Sullivan https://id.loc.gov/authorities/names/no2017160189",
+      "H. Leslie Quigg",
+      "Perrine Palmer",
+      "Correll",
+      "O. L. Nickerson",
+      "Rev. Robert B. Giffen",
+      "James E. Murray",
+      "John Knight",
+      "Robert Hansen",
+      "James A. Henderson",
+      "Frank Clark",
+      "Cecil C. Curry",
+      "George Okell",
+      "Fuller Warren",
+      "Russell Kay"
+    ],
+    "relation": [
+      "Miami Life (Miami, Fla.), Vol. XXIII, No. 41"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 11.6,
+    "context_chars": 72226,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "doc_id": "FI21052702_00029",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052702_00029",
+    "title": "Miami Life (Miami, Florida), Vol. 9, No. 2 (April 6, 1935)",
+    "creator": [
+      "Life Publishing Company"
+    ],
+    "publisher": "Miami Life",
+    "date": "1935-04-06",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Gambling",
+      "Dog racing",
+      "Horse racing",
+      "Florida Legislature",
+      "Local politics",
+      "City commission elections",
+      "Loan sharks",
+      "Blackmail",
+      "Miami social life",
+      "Sports"
+    ],
+    "description": "Issue includes political commentary and local opinion pieces (including discussion of Miami voters and city commission politics), criticism of gambling and the state-controlled racing system with figures from Florida dog tracks and horse parks, and columns such as \"They Tell Me\" and \"Things I'd Like to Know.\" Also features consumer warnings about loan sharks and discussion of \"blackmail\" accusations, plus racing coverage and betting tips/\"secret reports\" (Bowie, Maryland and other tracks), along with extensive local advertising.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Dade County (Fla.)",
+      "Miami Beach (Fla.)",
+      "Coral Gables (Fla.)",
+      "Florida",
+      "1935"
+    ],
+    "contributor": [
+      "J. M. Phillips",
+      "Jockey Jimmy",
+      "Tom Stowe",
+      "Rod Higgins",
+      "R. Hammerhead Greeby",
+      "Vernon Hawthorne",
+      "Oscar Davis",
+      "Arthur Hempe",
+      "John Levi",
+      "Mayor Sewell",
+      "Rep. Mark Wilcox",
+      "E. C. Collins",
+      "Paul Jeans",
+      "Sam McCreary",
+      "Frank Mitchell"
+    ],
+    "relation": [
+      "Miami Life, Vol. 9, No. 2"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 10.0,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

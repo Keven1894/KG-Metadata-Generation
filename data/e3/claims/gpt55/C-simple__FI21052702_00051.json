@@ -1,0 +1,229 @@
+{
+  "doc_id": "FI21052702_00051",
+  "judge": "gpt55",
+  "n_claims": 39,
+  "n_supported": 39,
+  "n_contradicted": 0,
+  "claim_precision": 1.0,
+  "per_field": {
+    "subject": {
+      "n": 13,
+      "supported": 13
+    },
+    "description": {
+      "n": 13,
+      "supported": 13
+    },
+    "coverage": {
+      "n": 3,
+      "supported": 3
+    },
+    "contributor": {
+      "n": 9,
+      "supported": 9
+    },
+    "relation": {
+      "n": 1,
+      "supported": 1
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses the 1935 Labor Day hurricane.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the Florida Keys.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses World War I veterans.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses disaster relief.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses weather forecasting.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the Federal Emergency Relief Administration (FERA).",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses the Florida East Coast Railway.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses evacuation trains.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses traffic accidents.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses politics in Hialeah, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses Federal Savings and Loan associations.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses beauty contests.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a major editorial about the 1935 Labor Day hurricane disaster in the Florida Keys.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes feature coverage of the 1935 Labor Day hurricane disaster in the Florida Keys.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue emphasizes deaths of World War I veterans in government camps during the 1935 Labor Day hurricane disaster.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue criticizes warnings described as \"ordinary precautions\" in connection with the 1935 Labor Day hurricane disaster.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue reports failures in evacuation by train in connection with the 1935 Labor Day hurricane disaster.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue reports delays in evacuation by train in connection with the 1935 Labor Day hurricane disaster.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue reports on Hialeah municipal politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue reports allegations involving a Federal Savings & Loan Association.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue publishes Miami traffic fatality statistics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes safety commentary related to Miami traffic fatalities.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue continues the paper's \"Most Attractive Working Girl\" contest.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue features the contest winner Miss Evelyn Butler.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "Miss Evelyn Butler is identified as being associated with the Kress Store.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is associated with Miami, Florida, United States.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is associated with the Florida Keys, Florida, United States.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is associated with September 1935.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Wen R. Phillips appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Evelyn Butler appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "A. E. Lichtenstein appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Ed Rice appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Charles Collar appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "G. C. Sparks appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "Harry Lipton appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "L. H. O'Quinn appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "George Merrick appears in the issue.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is identified as Miami Life, Volume 9, Number 51.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-simple"
+}

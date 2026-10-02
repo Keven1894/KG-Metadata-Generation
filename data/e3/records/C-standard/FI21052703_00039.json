@@ -1,0 +1,87 @@
+{
+  "doc_id": "FI21052703_00039",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00039",
+    "title": "MIAMI LIFE, Saturday, Oct. 6, 1928",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-10-06",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue with OCR text",
+    "language": "eng",
+    "subject": [
+      "Hurricanes—Florida—Miami region",
+      "Weather https://id.loc.gov/authorities/subjects/sh85145843",
+      "Tourism—Florida—Miami",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Municipal government—Florida—Miami",
+      "Municipal finance—Florida—Hialeah",
+      "Police—Florida—Coral Gables",
+      "Plumbing—Law and legislation—Florida—Miami",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Editorial cartoons https://id.loc.gov/authorities/subjects/sh85040974",
+      "Alligators—Hunting—Florida—Everglades region",
+      "Wildlife conservation—Florida—Everglades region"
+    ],
+    "description": "Issue dated October 6, 1928, published in Miami, Florida. Contains editorials and satirical local-political commentary, including discussion of hurricane history and storm risk in the Miami area; tourism and seasonal business conditions; municipal controversies in Coral Gables and Hialeah (police department disruption, taxpayer demands for accounting, and bond/deficit issues); Miami city commission actions and a proposed apartment-filling advertising scheme; a new Miami plumbing ordinance and licensing requirements; sports notes and promotion of local teams; entertainment and nightlife listings; and a letter regarding enforcement actions against illegal alligator killing along the Tamiami Trail/Everglades area.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Hialeah https://www.geonames.org/4158476",
+      "Biscayne Bay https://www.geonames.org/4147971",
+      "Coconut Grove https://www.geonames.org/4151460",
+      "Everglades https://www.geonames.org/4154657",
+      "Palm Beach County https://www.geonames.org/4177887",
+      "1928-10-06"
+    ],
+    "contributor": [
+      "John M. Martin https://id.loc.gov/authorities/names/n91052623",
+      "Adam Richards https://id.loc.gov/authorities/names/nb2017005016",
+      "Harriet Works https://id.loc.gov/authorities/names/no95036924",
+      "Ev Sewell",
+      "Carl Holmer",
+      "Newton Lewis",
+      "WINIFRED JAMES"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Vol. 4, no. 36"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": "Digitized for access by FIU Libraries; rights status not specified in provided evidence. Users are responsible for determining copyright and permissions for reuse."
+  },
+  "provenance": {
+    "latency_s": 10.99,
+    "context_chars": 68001,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

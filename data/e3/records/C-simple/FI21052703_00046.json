@@ -1,0 +1,113 @@
+{
+  "doc_id": "FI21052703_00046",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052703_00046",
+    "title": "Miami Life — Volume 5, Number 38 (1928-11-24)",
+    "creator": [
+      "Wen R. Phillips",
+      "O. S. Parmer"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-11-24",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Traffic regulation",
+      "One-way streets",
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Employment",
+      "Women workers",
+      "Teacher salaries",
+      "Education",
+      "Florida politics",
+      "Governor John W. Martin",
+      "Herbert Hoover",
+      "Publicity budgets",
+      "Greyhound racing",
+      "Dog racing",
+      "Kennel clubs",
+      "Police",
+      "Crime prevention",
+      "American flag etiquette",
+      "Labor disputes",
+      "Motion picture theaters",
+      "Florida Power & Light Company",
+      "Public utilities",
+      "Franchises",
+      "Municipal ownership",
+      "Coral Gables (Fla.)",
+      "Sports venues",
+      "College football",
+      "University of Miami"
+    ],
+    "description": "Issue includes editorials and local commentary on Miami’s switch from one-way to two-way downtown streets and anticipated traffic accidents; employment conditions affecting working women; low teacher pay in Dade County; Governor John W. Martin’s criticism of Dade County and threats regarding betting; concerns about American flag etiquette at a Flagler Street barbecue stand; police efforts to remove con artists and other “undesirables”; discussion of whether to spend $50,000 on northern publicity given reports that president-elect Herbert Hoover will visit Miami; promotion and satire around greyhound/dog racing (Miami Beach Kennel Club and a humorous “Souse Beach Handicap”); notes on labor conflict involving the Capitol theatre; letters and material on Florida Power & Light franchise disputes (including Fort Myers); and local items on Coral Gables’ Coliseum leasing controversy and upcoming University of Miami football.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "Coral Gables (Fla.)",
+      "Fort Myers (Fla.)",
+      "1928-11"
+    ],
+    "contributor": [
+      "Marjorie Stoneman Douglas",
+      "John W. Martin",
+      "Herbert Hoover",
+      "Officer King",
+      "Frank J. Novak, Jr.",
+      "F. A. Powel",
+      "F. E. Kane",
+      "Mayor Montanus",
+      "W. H. Ebsary",
+      "Guy F. Springer",
+      "J. C. Penney",
+      "Val C. Cleary",
+      "W. A. Pickert",
+      "Sid Sutherland",
+      "O. O. McIntyre",
+      "Roy Martin",
+      "Eddie Hartnett",
+      "Al Jenning",
+      "Chief Wood",
+      "Mickey McGee"
+    ],
+    "relation": [
+      "Miami Life, Volume 5, Number 38"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 10.01,
+    "context_chars": 59581,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

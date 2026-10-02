@@ -1,0 +1,91 @@
+{
+  "doc_id": "FI21052703_00050",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052703_00050",
+    "title": "Miami Life (Miami, Florida), 1928-12-29, Volume 5, Number 12",
+    "creator": [
+      "Wen R. Phillips",
+      "O. S. Parmer",
+      "W. W. Farnham",
+      "Fred Girton",
+      "Bob Purvis",
+      "Hal W. Potter",
+      "S. C. Ebb"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-12-29",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Christmas season",
+      "Charity and philanthropy",
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Tourism",
+      "Real estate development",
+      "Greyhound racing",
+      "Golf",
+      "Nightclubs and entertainment",
+      "Milk supply and prices",
+      "Local politics and elections",
+      "Sports and boxing",
+      "Advertising"
+    ],
+    "description": "Weekly issue featuring Christmas-themed editorials and satire, including appeals for charitable giving and commentary on holiday shopping and Miami’s winter tourist season. Articles discuss investment and development news (including Tex Rickard’s involvement in a Miami Beach dog track and Carl G. Fisher’s golf courses), local amusements and nightlife, and a society column. Includes letters to the editor on the cost and quality of milk for children and a request to locate a woman who left an unaddressed Christmas package. Contains extensive local advertising and event notices for Miami and Miami Beach.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Greater Miami (Fla.)",
+      "1928-12"
+    ],
+    "contributor": [
+      "Tex Rickard",
+      "George R. K. Carter",
+      "Carl G. Fisher",
+      "Frank B. Shutts",
+      "Hilard Spaulding",
+      "Fred Pine",
+      "Governor Carlton",
+      "Vernon Hawthorne",
+      "F. W. Fahnestock",
+      "John Charles Thomas"
+    ],
+    "relation": [
+      "Miami Life, Volume 5, Number 12"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 9.32,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

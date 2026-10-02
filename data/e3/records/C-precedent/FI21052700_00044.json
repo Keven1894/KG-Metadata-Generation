@@ -1,0 +1,88 @@
+{
+  "doc_id": "FI21052700_00044",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00044",
+    "title": "MIAMI LIFE, November 12, 1927 (Volume 4, Number 39)",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1927-11-12",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Public utilities—Deposits—Miami (Fla.)",
+      "Meters (Utilities)—Testing—Miami (Fla.)",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "Miami River—Sanitation and cleanup",
+      "Bridges—Miami River",
+      "Tourist trade—Florida—Miami",
+      "Restaurants—Licenses—Miami (Fla.)",
+      "Public health—Miami (Fla.)",
+      "Traffic regulations—Miami (Fla.)",
+      "Miami Beach (Fla.)—Politics and government",
+      "Police—Awards and decorations",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Health https://id.loc.gov/authorities/subjects/sh00006004",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616"
+    ],
+    "description": "Issue includes local commentary and letters on utility meter deposits and meter-testing, including discussion of Florida Power & Light Company; civic concerns about the Miami River as an unsightly and obstructed waterway and calls for cleanup and improved bridge design; Miami Beach city council politics and selection of a successor to the late Bill Scott; notes on restaurant permitting and public health conditions in Miami; traffic-law enforcement and auto licensing complaints; and extensive entertainment and sports listings and coverage (theaters, civic theater productions, and boxing events).",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Miami River https://www.geonames.org/4164208",
+      "Hialeah https://www.geonames.org/4158476",
+      "Flamingo Park https://www.geonames.org/4155557",
+      "1927-11-12"
+    ],
+    "contributor": [
+      "Little Nell https://id.loc.gov/authorities/names/no98018110",
+      "James M. Cox https://id.loc.gov/authorities/names/n84069097",
+      "Bill Scott https://id.loc.gov/authorities/names/n90702533",
+      "Levi https://id.loc.gov/authorities/names/no98070119",
+      "Mead https://id.loc.gov/authorities/names/n83041917",
+      "Henning https://id.loc.gov/authorities/names/n97031127"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 4, Number 39"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 10.15,
+    "context_chars": 71844,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

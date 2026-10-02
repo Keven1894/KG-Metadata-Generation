@@ -1,0 +1,314 @@
+{
+  "doc_id": "FI21052702_00041",
+  "judge": "opus",
+  "n_claims": 56,
+  "n_supported": 55,
+  "n_contradicted": 0,
+  "claim_precision": 0.9821,
+  "per_field": {
+    "subject": {
+      "n": 16,
+      "supported": 16
+    },
+    "description": {
+      "n": 20,
+      "supported": 19
+    },
+    "coverage": {
+      "n": 3,
+      "supported": 3
+    },
+    "contributor": {
+      "n": 13,
+      "supported": 13
+    },
+    "relation": {
+      "n": 4,
+      "supported": 4
+    }
+  },
+  "claims": [
+    {
+      "field": "subject",
+      "claim": "The issue discusses gambling devices in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses marble games in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses laws or legislation about marble games in Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses telephone rates in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue mentions the Southern Bell Telephone and Telegraph Company.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses municipal elections in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses publicity boards in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses crimes against journalists in Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue mentions Jackson Memorial Hospital.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses politics.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses crime.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses business.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses prohibition.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses entertainment.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses nightlife.",
+      "verdict": "supported"
+    },
+    {
+      "field": "subject",
+      "claim": "The issue discusses tourism.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes editorials.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes local political commentary on Miami municipal affairs.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes criticism of \"Sewellism.\"",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses actions of Commissioner Williams.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses actions of Commissioner Rigby.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses alleged gambling operations.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses marble boards.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue discusses \"Lucky\" games at Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue reports on a shooting of a Tribune reporter.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The shooting occurred in the Tribune offices.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The victim of the shooting was hospitalized at Jackson Memorial Hospital.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue covers a dispute over Southern Bell telephone rates.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue covers a dispute over property valuation.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The dispute was before the State Railroad Commission.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a recurring column titled \"Rambles and Rumbles.\"",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a recurring column titled \"Tips & Topics.\"",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes notices.",
+      "verdict": "unsupported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes advertisements.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes community items.",
+      "verdict": "supported"
+    },
+    {
+      "field": "description",
+      "claim": "The issue includes a community item about a planned July 4 outing for children.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami, Florida.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue covers Miami Beach.",
+      "verdict": "supported"
+    },
+    {
+      "field": "coverage",
+      "claim": "The issue is dated 1935-06-29.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue mentions W. Keith Phillips.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue mentions the Southern Bell Telephone and Telegraph Company.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue mentions Jackson Memorial Hospital.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue mentions Ev Sewell.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue mentions Abe Aronovitz.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue mentions Mayor Fossey.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue mentions Commissioner Rigby.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue mentions Commissioner Williams.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue mentions Commissioner Orr.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue mentions Shannon Cormack.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue mentions O. B. White.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue mentions Gov. Sholtz.",
+      "verdict": "supported"
+    },
+    {
+      "field": "contributor",
+      "claim": "The issue mentions C. L. Wheat.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is part of the newspaper Miami Life.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Volume 9 of Miami Life.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "The issue is Number 41 of Miami Life.",
+      "verdict": "supported"
+    },
+    {
+      "field": "relation",
+      "claim": "Miami Life is associated with Miami, Florida.",
+      "verdict": "supported"
+    }
+  ],
+  "reused_claims": true,
+  "tier": "C-precedent"
+}

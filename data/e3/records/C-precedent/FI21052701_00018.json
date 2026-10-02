@@ -1,0 +1,91 @@
+{
+  "doc_id": "FI21052701_00018",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052701_00018",
+    "title": "Miami Life, April 30, 1949 (Vol. XXIII, No. 18)",
+    "creator": [
+      "Reubin Clein"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-04-30",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Police brutality—Florida—Miami",
+      "Civil rights—Florida—Miami",
+      "Crime Commission—Dade County (Fla.)",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Gambling—Florida—Dade County",
+      "Bookmaking—Florida—Dade County",
+      "Racetracks—Economic aspects—Florida—Dade County",
+      "Labor unions—United States",
+      "Fair Deal (U.S. politics)",
+      "Traffic accidents—Florida—Dade County",
+      "Divorce—Florida—Miami Beach",
+      "Restaurants—Florida—Miami—Employees—Age requirements",
+      "Oil wells—Florida—Collier County"
+    ],
+    "description": "Issue includes coverage of an alleged beating involving Detective Lt. C. O. Huttoe and Chief of Detectives James Barker; editorials criticizing the Dade County Crime Commission and discussing law enforcement practices and civil rights; reporting on a child-molestation allegation and related court proceedings before Justice of the Peace Edwin Lee Mason; discussion of bookmaking and racetrack gambling and their economic impact on Dade County; local event planning for a Coconut Harvest Festival and Luau at Crandon Park/Key Biscayne; notes on a Collier County oil well near Sunniland/Immokalee; and additional local commentary including a divorce scandal item and a report on employment of minors at a Miami restaurant/bar.",
+    "coverage": [
+      "Miami, Fla. https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Crandon Park https://www.geonames.org/4152232",
+      "Key Biscayne https://www.geonames.org/4160789",
+      "Sunniland https://www.geonames.org/7219568",
+      "Immokalee https://www.geonames.org/4159553",
+      "1949-04-30"
+    ],
+    "contributor": [
+      "James Barker https://id.loc.gov/authorities/names/no2016021028",
+      "Edwin Lee Mason",
+      "C. O. Huttoe",
+      "Ben F. Drucker",
+      "TATEM Wofford",
+      "Ben Cohen",
+      "Joseph E. Jaobson",
+      "Esther Jacobson",
+      "Ross Williams",
+      "Melvin Richards",
+      "Jack Kofoed",
+      "R. B. Gautier"
+    ],
+    "relation": [
+      "Vol. XXIII, No. 18"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 9.06,
+    "context_chars": 71485,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

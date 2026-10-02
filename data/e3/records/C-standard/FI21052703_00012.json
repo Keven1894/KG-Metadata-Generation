@@ -1,0 +1,93 @@
+{
+  "doc_id": "FI21052703_00012",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00012",
+    "title": "Miami Life, March 24, 1928 (Volume 5, Number 10)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1928-03-24",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue; OCR-derived text",
+    "language": "eng",
+    "subject": [
+      "Police brutality—Florida—Miami",
+      "Grand juries—Florida—Dade County",
+      "Municipal government—Florida—Miami",
+      "City commissioners—Florida—Miami",
+      "Elections—Florida—Dade County",
+      "Political campaigns—Florida",
+      "Municipal bands—Florida—Miami",
+      "Public contracts—Florida—Miami",
+      "Public health—Mattresses—Sanitation—Florida—Miami",
+      "Bootlegging—Florida—Miami",
+      "Bridges—Florida—Miami",
+      "Parks—Florida—Miami",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Health https://id.loc.gov/authorities/subjects/sh00006004",
+      "Entertainment events https://id.loc.gov/authorities/subjects/sh96009616",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260"
+    ],
+    "description": "Issue features editorials and commentary on a sensational police investigation in Miami, including discussion of alleged jail torture and indictments involving the police department and criticism of city commissioners. Coverage includes debate over municipal spending and whether Miami should employ a local municipal band versus an outside band, along with political campaign news and advertisements for local and state offices ahead of the June 1928 Democratic primary. Additional local items address public health concerns (mattress sterilization), tourism and preparations for visiting Shriners, city infrastructure and beautification (parks, bridges, sidewalks), entertainment listings, sports/fight promotion, legal notices, and extensive commercial advertising.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Bayshore Park https://www.geonames.org/4166107",
+      "Buena Vista https://www.geonames.org/4149264",
+      "1928-03"
+    ],
+    "contributor": [
+      "Charlie Haynes https://id.loc.gov/authorities/names/n88156044",
+      "Roy Smith https://id.loc.gov/authorities/names/nr97003832",
+      "H. Leslie Quigg",
+      "Mayor Sewell",
+      "Sheriff Henry Chase",
+      "State's Attorney Hawthorne",
+      "Dade County Bar Association",
+      "Miami Federation of Musicians",
+      "Southern Bell Telephone & Telegraph Company https://id.loc.gov/authorities/names/n84112337",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 5, Number 10"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 10.43,
+    "context_chars": 67974,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

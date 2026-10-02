@@ -1,0 +1,81 @@
+{
+  "doc_id": "FI21052701_00033",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052701_00033",
+    "title": "Miami Life, 1949-08-13 (Vol. XXIII, No. 33)",
+    "creator": [
+      "Reubin Clein"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-08-13",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Sales tax—Florida",
+      "Taxation—Public opinion—Florida",
+      "Miami Beach (Fla.)—Politics and government",
+      "City managers—Florida—Miami Beach",
+      "Gambling—Florida—Miami Beach",
+      "Police—Florida—Miami Beach",
+      "Medical misconduct—Florida—Miami",
+      "Embezzlement—Florida—Miami",
+      "Birthmarks",
+      "Home ownership"
+    ],
+    "description": "Issue includes an exposé alleging misconduct by Dr. Earl Moore and urging investigation by medical licensing authorities; editorials and repeated ballot coupons opposing a proposed Florida sales tax and calling for a public vote; coverage of Miami Beach city government focusing on City Manager Claude Renshaw and alleged protection of a gambling syndicate; local court and policing items, including city court cases and allegations of vindictive enforcement; and regular features/columns plus health and real-estate guidance articles.",
+    "coverage": [
+      "Miami (https://www.geonames.org/4164138)",
+      "Miami Beach (https://www.geonames.org/4164143)",
+      "Coral Gables (https://www.geonames.org/4151871)",
+      "Bayfront Park (https://www.geonames.org/4146892)",
+      "Normandy Isle (https://www.geonames.org/4166074)",
+      "Collins Avenue (https://www.geonames.org/10287148)",
+      "Lincoln Road (https://www.geonames.org/4162034)",
+      "1949"
+    ],
+    "contributor": [
+      "Earl Moore (https://id.loc.gov/authorities/names/n83127824)",
+      "Claude Renshaw (https://id.loc.gov/authorities/names/n97073195)",
+      "Bill Burbridge (https://id.loc.gov/authorities/names/n91008642)",
+      "Lee Powell (https://id.loc.gov/authorities/names/no91018980)",
+      "Ben F. Drucker"
+    ],
+    "relation": [
+      "Vol. XXIII, No. 33"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.63,
+    "context_chars": 72240,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

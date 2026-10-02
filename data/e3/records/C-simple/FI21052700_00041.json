@@ -1,0 +1,94 @@
+{
+  "doc_id": "FI21052700_00041",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052700_00041",
+    "title": "Miami Life, Volume 4, Number 39 (October 22, 1927)",
+    "creator": [
+      "Wen R. Phillips",
+      "S. C. Ebbets"
+    ],
+    "publisher": "Miami Life",
+    "date": "1927-10-22",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)",
+      "Dade County (Fla.)",
+      "Local politics",
+      "Elections",
+      "Public works",
+      "Auditoriums",
+      "Municipal finance",
+      "Welfare services",
+      "Public health",
+      "Criminal justice",
+      "Pardons",
+      "Banks and banking",
+      "Homestead Bank",
+      "Utilities",
+      "Florida Power & Light Company",
+      "Sports",
+      "Boxing",
+      "Football",
+      "Entertainment",
+      "Theaters",
+      "Miami Beach (Fla.)",
+      "Coral Gables (Fla.)"
+    ],
+    "description": "Issue includes editorials and local commentary on the upcoming October 27 election concerning an $800,000 auditorium/convention hall proposal; discussion of Miami Beach and Coral Gables venues versus a Miami facility and references to Mayor Ev Sewell and publisher Frank B. Shutts. Reports criticize the City of Miami welfare board's grocery-order system and pricing at its provision store, and discuss criminal justice topics including publicity in a justice of the peace court and Florida's pardoning process. Additional items cover the Homestead Bank situation and a possible transfer of a municipal power company to Florida Power & Light, local business and development notes, entertainment listings, and sports coverage including boxing at the Ball Park and a humorous preview of a 'Greeby Hiccough School' football game.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Coral Gables (Fla.)",
+      "Dade County (Fla.)",
+      "1927-10-22"
+    ],
+    "contributor": [
+      "Frank B. Shutts",
+      "Ev Sewell",
+      "Grover Morrow",
+      "Sidney Catts",
+      "George Ade",
+      "James Whitcomb Riley",
+      "Ted Elliott",
+      "Leslie C. Smith"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 4, Number 39"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 7.64,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

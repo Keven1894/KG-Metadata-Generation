@@ -1,0 +1,91 @@
+{
+  "doc_id": "FI21052701_00028",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052701_00028",
+    "title": "Miami Life, July 9, 1949 (Vol. XXIII, No. 28)",
+    "creator": [
+      "Reubin Clein"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-07-09",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Miami (Fla.)—Politics and government",
+      "Miami Beach (Fla.)—Politics and government",
+      "Newspapers—Political aspects—Florida—Miami",
+      "Police—Florida—Miami",
+      "Civil service—Florida—Miami",
+      "Ku Klux Klan (Organization)—Florida—Miami",
+      "Gambling—Law and legislation—Florida",
+      "Bookmaking—Florida—Miami Beach",
+      "Transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Bus lines—Florida—Miami",
+      "Small business—Florida—Miami",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Parks—Florida—Key Biscayne",
+      "Crandon Park https://www.geonames.org/4152232",
+      "Oil wells—Florida",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Courts—Florida—Miami",
+      "Alcoholism—Florida—Miami"
+    ],
+    "description": "Issue features political commentary and local civic disputes, including extensive discussion of the Huttoe case involving Miami police officials (Capt. J. E. Barker and Chief Walter Headley) and criticism of Miami daily newspapers’ handling of related facts. Coverage includes City Commissioner H. Leslie Quigg’s denial of Ku Klux Klan membership and allegations of press misquotation; debate over legalized gambling and bookmaking (with attention to Miami Beach’s tourist economy); and a report on Miami Transit bus-stop changes and their impact on small businesses and traffic. Additional items include local court news (drunkenness, disturbances, firearms incident), a University of Miami professors’ debate on climate factors, and reports on Florida oil exploration and development, with mention of Crandon Park and Miami Beach as recreational/tourism concerns.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Crandon Park https://www.geonames.org/4152232",
+      "1949-07-09"
+    ],
+    "contributor": [
+      "J. E. Barker https://id.loc.gov/authorities/names/nb2008002008",
+      "Vincent Giblin https://id.loc.gov/authorities/names/no2010196896",
+      "Chief Walter Headley",
+      "H. Leslie Quigg",
+      "Prof. Hart",
+      "Thomas E. Lewis",
+      "Cecil C. Curry",
+      "R. W. Van Brunt",
+      "Dr. J. Riley Staats",
+      "F. G. Walton Smith"
+    ],
+    "relation": [
+      "Miami Life (Miami, Fla.), Vol. XXIII, No. 28"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 12.95,
+    "context_chars": 67188,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "doc_id": "FI21052702_00003",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052702_00003",
+    "title": "Miami Life (Miami, Florida), Vol. 9, No. 3 (October 6, 1934)",
+    "creator": [
+      "Won R. Phillips"
+    ],
+    "publisher": "Miami Life",
+    "date": "1934-10-06",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR-derived)",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)",
+      "Landlord and tenant",
+      "Rent regulation",
+      "Housing",
+      "Tourism",
+      "American Legion",
+      "New Deal",
+      "Local government",
+      "Radio broadcasting schedules",
+      "Horse racing",
+      "Gambling tip sheets",
+      "Hotels",
+      "Coral Gables (Fla.)",
+      "Miami Beach (Fla.)"
+    ],
+    "description": "Weekly issue containing local commentary and columns including \"Women's Notebook\" (Won R. Phillips) and an editorial on Miami landlords and rent gouging, linking housing costs to tourism and the upcoming American Legion convention. Includes discussion of New Deal politics and public utilities (Louis McHenry Howe; Henry L. Doherty/Cities Service), assorted local notes and gossip items, extensive radio program schedules (WIOD/WQAM), horse-racing coverage and advertisements for \"Jockey Jimmy's\" betting tips, and numerous local business advertisements and classifieds for Miami and nearby areas.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Coral Gables (Fla.)",
+      "Miami Beach (Fla.)",
+      "1934-10-06"
+    ],
+    "contributor": [
+      "Louis McHenry Howe",
+      "Henry L. Doherty",
+      "Frank B. Shutts",
+      "Ben Field",
+      "Police Chief McCreary",
+      "Carson Bradford",
+      "Jack Combs",
+      "Howard Livingston",
+      "Geo. Christie",
+      "Miriam Bell",
+      "Lionel Barrymore",
+      "Jean Harlow",
+      "Frances M. Graves",
+      "Jim Farley",
+      "S. Bobo Dean",
+      "James M. Cox",
+      "John O'Donnell",
+      "Doris Fleeson"
+    ],
+    "relation": [
+      "Miami Life, Volume 9, Number 3"
+    ],
+    "source": "FIU dPanther",
+    "rights": "Copyright 1934 by Miami Life; reproduction forbidden unless permission is obtained from the editor (as printed in issue)."
+  },
+  "provenance": {
+    "latency_s": 7.45,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

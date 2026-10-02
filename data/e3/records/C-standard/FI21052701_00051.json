@@ -1,0 +1,110 @@
+{
+  "doc_id": "FI21052701_00051",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "FI21052701_00051",
+    "title": "Miami Life, Dec. 17, 1949 (Vol. XXIII, No. 51)",
+    "creator": [
+      "Reubin Clein"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-12-17",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Miami (Fla.)—Politics and government",
+      "Miami Beach (Fla.)—Politics and government",
+      "Tax assessment—Florida—Miami",
+      "Municipal consolidation—Florida—Miami",
+      "Water supply—Rates—Florida—Miami",
+      "Gambling—Racetracks—Florida—Miami",
+      "Suicide—Florida—Miami",
+      "Police shootings—Florida—Miami",
+      "African Americans—Violence against—Florida—Miami",
+      "Civil rights—Florida—Miami Beach",
+      "Seminole Indians—Government relations",
+      "Pensions—United States",
+      "Welfare state—Great Britain",
+      "politics — https://id.loc.gov/authorities/subjects/sh85104466",
+      "crime — https://id.loc.gov/authorities/subjects/sh85033993",
+      "business — https://id.loc.gov/authorities/subjects/sh85018260",
+      "entertainment — https://id.loc.gov/authorities/subjects/sh96009616",
+      "nightlife — https://id.loc.gov/authorities/subjects/sh2008001027",
+      "society — https://id.loc.gov/authorities/subjects/sh2021006888"
+    ],
+    "description": "Issue features editorials and local political coverage including discussion of Miami city politics (including H. Leslie Quigg and recall procedures), proposed consolidation of city and county tax assessor functions and its impact on property assessments, and debate over water rate increases. Includes commentary on gambling and racetracks, a column criticizing an alleged police killing of a Black man, and reporting on civil-rights concerns raised by vagrancy arrests. National political commentary addresses a proposed $100-per-month pension plan attributed to Secretary of Labor Maurice J. Tobin and arguments about the welfare state. Also includes a claim by Princess Red Rock regarding federal funds for Seminoles, along with regular columns and extensive local advertising and entertainment listings.",
+    "coverage": [
+      "Miami — https://www.geonames.org/4164138",
+      "Miami Beach — https://www.geonames.org/4164143",
+      "Dinner Key — https://www.geonames.org/4153283",
+      "Tamiami Canal — https://www.geonames.org/4174748",
+      "University of Miami — https://www.geonames.org/4176262",
+      "Miami Senior High School — https://www.geonames.org/4164146",
+      "Surfside — https://www.geonames.org/4174518",
+      "1949-12-17"
+    ],
+    "contributor": [
+      "H. Leslie Quigg",
+      "Newt Lummus",
+      "Mayor Wolfarth",
+      "Circuit Judge Holt",
+      "Pat Perdue",
+      "J. E. (Ted) Preston",
+      "Theodore E. Seelye",
+      "William Charles",
+      "Robert Floyd",
+      "Maurice J. Tobin",
+      "President Truman",
+      "Louie Handel",
+      "Perrine Palmer, Jr.",
+      "Cecil Curry",
+      "Pennekamp",
+      "Princess Red Rock",
+      "Louis Johnson",
+      "Mildred Williams",
+      "Judge Wayne Allen",
+      "Dr. Everett Smith",
+      "Thomas Mingo",
+      "Gertrude Mingo",
+      "Mary Sue Lawrence",
+      "Pansy Harris",
+      "Morilla Glover"
+    ],
+    "relation": [
+      "Vol. XXIII, No. 51"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 14.42,
+    "context_chars": 67445,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "doc_id": "FI21052702_00017",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00017",
+    "title": "MIAMI LIFE, January 12, 1935 (Vol. 9, No. 17)",
+    "creator": [],
+    "publisher": "Miami Life Publishing Company",
+    "date": "1935-01-12",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue with OCR text",
+    "language": "eng",
+    "subject": [
+      "Horse racing—Florida",
+      "Tropical Park (Miami, Fla.)",
+      "Hialeah Park Race Track (Hialeah, Fla.)",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Racing https://id.loc.gov/authorities/subjects/sh85110265",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Entertainment events https://id.loc.gov/authorities/subjects/sh96009616",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Politics, Practical https://id.loc.gov/authorities/subjects/sh85104466",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Wine and liquor industry—Exhibitions—Florida—Miami",
+      "International Wine and Liquor Exposition (Miami, Fla.)",
+      "Disabled American Veterans—Fundraising",
+      "Forget-Me-Not Day (Disabled American Veterans)"
+    ],
+    "description": "Issue includes local commentary and notebook-style columns about Miami’s winter season, tourism, nightlife, and civic affairs, with references to Florida politics and public officials. Substantial coverage and advertising relate to South Florida horse racing (Tropical Park and the upcoming Hialeah meet), including a handicapping/track-service promotion and racing-related notices. The issue also promotes the International Wine and Liquor Exposition in Miami and includes community notices such as a Disabled American Veterans Forget-Me-Not Day drive, alongside extensive local business and entertainment advertising.",
+    "coverage": [
+      "Miami, Florida https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Biscayne Bay https://www.geonames.org/4147971",
+      "Bayfront Park https://www.geonames.org/4146892",
+      "Tallahassee https://www.geonames.org/4174715",
+      "Jacksonville https://www.geonames.org/4160021",
+      "1935-01-12"
+    ],
+    "contributor": [
+      "Vernon Hawthorne https://id.loc.gov/authorities/names/n80151101",
+      "John Sewell https://id.loc.gov/authorities/names/nr94013847",
+      "Dave Sholtz",
+      "Louis F. Snedigar",
+      "Alec Ott",
+      "HAMMERHEAD GREEBY",
+      "JOCKEY JIMMY",
+      "Disabled American Veterans of the World War, Summerall Chapter No. 10"
+    ],
+    "relation": [
+      "MIAMI LIFE; Vol. 9, No. 17"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 12.44,
+    "context_chars": 65536,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

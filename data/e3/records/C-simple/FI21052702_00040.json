@@ -1,0 +1,90 @@
+{
+  "doc_id": "FI21052702_00040",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052702_00040",
+    "title": "Miami Life (Miami, Florida), Vol. 9, No. 40, June 22, 1935",
+    "creator": [],
+    "publisher": "Miami Life",
+    "date": "1935-06-22",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Telephone rates",
+      "Southern Bell Telephone Company",
+      "Public utilities regulation",
+      "Florida Railroad Commission",
+      "Miami (Fla.)",
+      "Crime",
+      "Jewel robbery",
+      "Miami-Biltmore Hotel",
+      "Marble board gambling",
+      "Slot machines",
+      "Municipal court",
+      "Police",
+      "Kidnapping legislation",
+      "Boxing",
+      "Horse racing tips"
+    ],
+    "description": "Issue includes investigative and editorial coverage alleging excessive telephone rates charged by the Southern Bell Telephone Company in Miami and criticizing inaction by the Florida Railroad Commission; reports on federal investigation activity related to the Miami-Biltmore jewel robbery suspects Nicky Montone and Charles Cali and mentions clerk George F. McCall; extensive reporting on municipal crackdown on marble board and mechanical gambling devices led by City Solicitor Abe Aronovitz; opinion column opposing proposed laws making it a felony to pay ransom to kidnappers; sports/boxing commentary (including Carnera–Louis) and racing tip advertisements/columns (\"Jockey Jimmy\").",
+    "coverage": [
+      "Miami, Florida",
+      "Miami Beach, Florida",
+      "Dade County, Florida",
+      "1935-06-22"
+    ],
+    "contributor": [
+      "Abe Aronovitz",
+      "Nicky Montone",
+      "Charles Cali",
+      "G. A. Worley",
+      "George F. McCall",
+      "Noel Scaffa",
+      "Eugene (Rat) Bryant",
+      "Andrew J. Kavanaugh",
+      "Gov. Sholtz",
+      "Tom Stowe",
+      "Henry L. Doherty",
+      "Arthur Wadsworth Stuckie",
+      "Judge Landis",
+      "Spearman Lewis",
+      "Viola B. Johnson"
+    ],
+    "relation": [
+      "Miami Life, Vol. 9, No. 40"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 9.06,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

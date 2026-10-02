@@ -1,0 +1,97 @@
+{
+  "doc_id": "FI21052701_00027",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052701_00027",
+    "title": "Miami Life (Miami, Fla.), Vol. XXIII, No. 27 (1949-07-02)",
+    "creator": [
+      "Reubin Clein"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-07-02",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Barry Gray",
+      "Freedom of speech",
+      "Medical misconduct",
+      "Dr. T. Earl Moore",
+      "Crime and corruption",
+      "Labor unions",
+      "Taft-Hartley Act",
+      "Water rates",
+      "Municipal utilities",
+      "Oil exploration",
+      "Florida Keys",
+      "Public health",
+      "Syphilis",
+      "Right-wing extremism",
+      "Press criticism",
+      "Miami politics"
+    ],
+    "description": "Issue includes editorials and reports on free-speech controversy involving radio commentator Barry Gray; renewed allegations against Dr. T. Earl Moore (dubbed the “Torture Doctor”) and associates; discussion of Florida Keys oil drilling prospects; commentary on labor tactics and press freedom following a Florida Supreme Court picketing ruling; debate over proposed Miami water-rate increases and calls for a referendum; public health coverage including a Florida campaign to find infectious syphilis cases; and reprinted material urging congressional scrutiny of extreme right-wing influence in press, radio, and lobbying.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Dade County (Fla.)",
+      "Miami Beach (Fla.)",
+      "Florida Keys (Fla.)",
+      "Florida",
+      "1949"
+    ],
+    "contributor": [
+      "Ben F. Drucker",
+      "Dr. T. Earl Moore",
+      "Barry Gray",
+      "Howard Hartman",
+      "Daniel J. Sullivan",
+      "John S. Knight",
+      "Ben Willard",
+      "Luther Voltz",
+      "Thomas B. Hamilton",
+      "H. Leslie Quigg",
+      "Perrine Palmer Jr.",
+      "William Charles",
+      "O. P. Hart",
+      "Wilson T. Sowder",
+      "Eugene D. O'Sullivan",
+      "George Veldes",
+      "Scott Christopher"
+    ],
+    "relation": [
+      "Miami Life, Vol. XXIII, No. 27"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 9.43,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

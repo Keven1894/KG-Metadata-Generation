@@ -1,0 +1,87 @@
+{
+  "doc_id": "FI21052703_00038",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052703_00038",
+    "title": "Miami Life (Miami, Fla.), September 29, 1928 (Vol. 35, no. not stated)",
+    "creator": [
+      "Wen R. Philips"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-09-29",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Hurricanes",
+      "Disaster relief",
+      "American National Red Cross",
+      "Lake Okeechobee hurricane (1928)",
+      "Palm Beach County (Fla.)",
+      "Belle Glade (Fla.)",
+      "Hialeah (Fla.)",
+      "Municipal finance",
+      "Gambling",
+      "Liquor traffic",
+      "Theater"
+    ],
+    "description": "Issue includes editorials and local commentary on disaster relief following the 1928 hurricane and flooding around Lake Okeechobee, criticizing the American National Red Cross and describing relief work and conditions in the Belle Glade area. Additional pieces discuss Hialeah city politics and finances (Taxpayers League), deny rumors that Miami Life took gambling “protection” money, report on liquor ships and warehouses surviving the storm (Bimini/Gun Cay) with price listings, and cover local cultural and civic topics including Miami’s Little Theatre and a letter opposing installation of a Vitaphone at the Olympia Theatre. Masthead lists publication address in the Olympia Building, Miami, Florida, and names Wen R. Philips as editor and publisher.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Dade County (Fla.)",
+      "Miami Beach (Fla.)",
+      "Hialeah (Fla.)",
+      "Palm Beach County (Fla.)",
+      "Belle Glade (Fla.)",
+      "Lake Okeechobee (Fla.)",
+      "Bimini (Bahamas)",
+      "Gun Cay (Bahamas)",
+      "1928-09-29"
+    ],
+    "contributor": [
+      "Al Capone",
+      "R. N. Merrill",
+      "Dr. Ziebold",
+      "Charles F. Baggman",
+      "Richard Hunt",
+      "Hawthorne",
+      "Frank Shutts",
+      "John Watson"
+    ],
+    "relation": [
+      "Vol. 35"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 15.6,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

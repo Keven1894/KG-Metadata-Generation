@@ -1,0 +1,99 @@
+{
+  "doc_id": "FI21052701_00036",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "FI21052701_00036",
+    "title": "MIAMI LIFE, Saturday, Sept. 3, 1949 (Vol. XXIII, No. 36)",
+    "creator": [
+      "n Clem, Editor"
+    ],
+    "publisher": "MIAMI LIFE",
+    "date": "1949-09-03",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue with OCR text",
+    "language": "eng",
+    "subject": [
+      "Parking meters—Miami International Airport",
+      "Miami Beach (Fla.)—Politics and government",
+      "Police misconduct—Miami (Fla.)",
+      "Prostitution—Law enforcement—Miami (Fla.)",
+      "Municipal courts—Miami (Fla.)",
+      "Sales tax—Florida",
+      "Gambling—Florida",
+      "Florida Power & Light Co.—Municipal ownership",
+      "Housing—Rental—Miami (Fla.)",
+      "Public libraries—Site selection—Miami (Fla.)",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "health https://id.loc.gov/authorities/subjects/sh00006004"
+    ],
+    "description": "Issue includes an editorial questioning the legality and advisability of parking meters at the International Airport; extensive coverage of Miami Beach city-manager and council conflict involving Claude Renshaw and police-department appointment powers; reporting on Miami municipal court cases alleging vice-raid abuses and police conduct; advocacy and coupons regarding opposition to a Florida sales tax and discussion of state governance and gambling legislation; local items on rental housing coming to market, school registration fees for transient children, and civic planning including proposed public library location at Bayfront Park. Includes entertainment/nightlife notices and health-related columns and advertisements.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Miami International Airport https://www.geonames.org/4164181",
+      "Crandon Park https://www.geonames.org/4152232",
+      "Bayfront Park https://www.geonames.org/4146892",
+      "Lummus Park https://www.geonames.org/4162994",
+      "1949-09-03"
+    ],
+    "contributor": [
+      "Claude Renshaw https://id.loc.gov/authorities/names/n97073195",
+      "Fuller Warren https://id.loc.gov/authorities/names/n99046515",
+      "Tom Bailey https://id.loc.gov/authorities/names/no2011061355",
+      "Raymond Craig https://id.loc.gov/authorities/names/no2025079007",
+      "John Monohan https://id.loc.gov/authorities/names/no2011047756",
+      "Bob Williams https://id.loc.gov/authorities/names/no2022008414",
+      "Frank Clark https://id.loc.gov/authorities/names/n50062162",
+      "REUBIN CLEIN, Publisher",
+      "BEN F. DRUCKER, Advertising and Business Manager",
+      "Judge Cecil C. Curry",
+      "Richard W. Ervin",
+      "C. M. Gay",
+      "Lewis M. Schott",
+      "Irvin Ilson",
+      "Willard J. Schroll",
+      "Roscoe C. Collins",
+      "George Brautigam",
+      "Martin Lipp"
+    ],
+    "relation": [
+      "Vol. XXIII, No. 36"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 14.24,
+    "context_chars": 68490,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

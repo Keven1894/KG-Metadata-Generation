@@ -1,0 +1,89 @@
+{
+  "doc_id": "FI21052702_00021",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00021",
+    "title": "MIAMI LIFE, February 9, 1935 (VOL. 9, NO. 21)",
+    "creator": [
+      "R. J. Clein https://id.loc.gov/authorities/names/no2019163749"
+    ],
+    "publisher": "LIFE PUBLISHING COMPANY",
+    "date": "1935-02-09",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Grand juries—Florida—Dade County",
+      "Police corruption—Florida—Miami",
+      "Bribery—Florida—Miami",
+      "Gambling—Florida—Miami Beach",
+      "Horse racing—Florida—Hialeah",
+      "Federal Housing Administration—United States",
+      "National Housing Act (U.S.)",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "racing https://id.loc.gov/authorities/subjects/sh85110265",
+      "business https://id.loc.gov/authorities/subjects/sh85018260"
+    ],
+    "description": "Issue includes editorial commentary on a Dade County grand jury investigation and allegations of corruption involving local public-safety and police officials, with discussion of bribery and courthouse proceedings. Features an open letter addressed to Postmaster General James A. Farley concerning his stay at the Miami Biltmore Hotel and political optics. Contains local columns and nightlife coverage (including Torch K-9 Club), discussion of the National Housing Act with remarks by an FHA district director, and extensive entertainment, bar/restaurant, and racing-related content including Hialeah Park tips and advertisements.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Dade County Courthouse https://www.geonames.org/6344794",
+      "Jai-Alai Fronton https://www.geonames.org/6946361",
+      "Hialeah Park https://www.geonames.org/6332591",
+      "Ocean Drive https://www.geonames.org/6949147",
+      "1935-02-09"
+    ],
+    "contributor": [
+      "Sam D. McCreary",
+      "T. R. Knight https://id.loc.gov/authorities/names/no2019163749",
+      "Harold Ross",
+      "John R. Mitchell https://id.loc.gov/authorities/names/n89609712",
+      "Jack Adams https://id.loc.gov/authorities/names/no2005065742",
+      "Fritz Gordon https://id.loc.gov/authorities/names/n86849625",
+      "James A. Farley https://id.loc.gov/authorities/names/n79033817",
+      "Franklin D. Roosevelt https://id.loc.gov/authorities/names/n79022932",
+      "Frank C. Hilson"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), VOL. 9, NO. 21"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 17.73,
+    "context_chars": 68491,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

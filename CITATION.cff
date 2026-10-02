@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the paper."
+title: "Layered Assurance for Knowledge-Graph-Mediated Newspaper Metadata: data, code, and notebooks"
+authors:
+  - family-names: Guan
+    given-names: Boyuan
+    orcid: "https://orcid.org/0000-0002-4244-5011"
+  - family-names: Rogers
+    given-names: Jamie
+    orcid: "https://orcid.org/0000-0002-4849-114X"
+  - family-names: Xu
+    given-names: Hailu
+  - family-names: Cui
+    given-names: Wencong
+  - family-names: Bakker
+    given-names: Rebecca
+repository-code: "https://github.com/Keven1894/KG-Metadata-Generation"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Layered Assurance for Knowledge-Graph-Mediated Newspaper Metadata: Traceable Checks, Identity Audit, and Evaluator Dependence"
+  authors:
+    - family-names: Guan
+      given-names: Boyuan
+    - family-names: Rogers
+      given-names: Jamie
+    - family-names: Xu
+      given-names: Hailu
+    - family-names: Cui
+      given-names: Wencong
+    - family-names: Bakker
+      given-names: Rebecca
+  collection-title: "Proceedings of the 2nd Workshop on Smarter Extraction of Scholarly Metadata using Knowledge Graphs, Language Models and Agents (SESAME 2026), co-located with JCDL 2026"
+  publisher:
+    name: "CEUR Workshop Proceedings"
+  year: 2026

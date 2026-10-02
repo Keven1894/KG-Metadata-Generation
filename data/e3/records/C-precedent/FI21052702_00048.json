@@ -1,0 +1,85 @@
+{
+  "doc_id": "FI21052702_00048",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00048",
+    "title": "MIAMI LIFE, Saturday, Aug. 17, 1935 (Vol. 9, No. 48)",
+    "creator": [],
+    "publisher": "Miami Life",
+    "date": "1935-08-17",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue with OCR text",
+    "language": "eng",
+    "subject": [
+      "Bankruptcy—Fraud and corruption—Miami (Fla.)",
+      "Receivers—Corruption—Miami Beach (Fla.)",
+      "Municipal government—Miami (Fla.)",
+      "Theft—Miami (Fla.)",
+      "Traffic accidents—Prevention—Miami (Fla.)",
+      "Automobile driving—Safety measures—Miami (Fla.)",
+      "Pedestrian safety—Miami (Fla.)",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027"
+    ],
+    "description": "Issue includes investigative and editorial coverage alleging graft and collusion in Miami-area bankruptcy proceedings, naming a referee, receiver, and others connected with a Miami Beach gas company bankruptcy and related business dealings. Additional local commentary addresses city governance and enforcement (including criticism of handling of employee theft), a Chamber of Commerce traffic-safety campaign with a full-page safety message, and community features such as the newspaper’s “Most Attractive Working Girl” contest (Courthouse winner Mary Buckley). Regular columns and items cover Miami Beach development notes, social/news briefs, and sports/racing content including “Jockey Jimmy” track reports and advertisements.",
+    "coverage": [
+      "Miami, Florida https://www.geonames.org/4164138",
+      "Miami Beach, Florida https://www.geonames.org/4164143",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Venetian Pool(s) https://www.geonames.org/4176379",
+      "1935"
+    ],
+    "contributor": [
+      "Joe Morris https://id.loc.gov/authorities/names/n2008028781",
+      "W. Keith Phillips https://id.loc.gov/authorities/names/n80139297",
+      "Harry Hunter https://id.loc.gov/authorities/names/no2021006500",
+      "Mary Buckley https://id.loc.gov/authorities/names/no90005865",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "People's Gas Company https://id.loc.gov/authorities/names/n92051553",
+      "Blackstone Hotel https://id.loc.gov/authorities/names/no2023093466",
+      "L. Earl Curry",
+      "L. M. Gerstel",
+      "Ernie Seiler",
+      "S. Noah Hartnett"
+    ],
+    "relation": [
+      "Vol. 9, No. 48"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 14.07,
+    "context_chars": 72260,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

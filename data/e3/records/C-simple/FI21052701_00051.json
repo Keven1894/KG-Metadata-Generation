@@ -1,0 +1,99 @@
+{
+  "doc_id": "FI21052701_00051",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052701_00051",
+    "title": "Miami Life, Vol. XXIII, No. 51 (December 17, 1949)",
+    "creator": [
+      "Reubin Clein"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-12-17",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper text (OCR)",
+    "language": "en",
+    "subject": [
+      "Miami Beach (Fla.)",
+      "Miami (Fla.)",
+      "Local politics and government",
+      "Municipal utilities",
+      "Water rates",
+      "Tax assessment",
+      "Tax consolidation",
+      "Recall elections",
+      "Gambling",
+      "Pari-mutuel betting",
+      "Racetracks",
+      "Police shootings",
+      "Civil rights",
+      "Race relations",
+      "Social welfare",
+      "Old-age pensions",
+      "Labor policy",
+      "Seminole Indians",
+      "Federal Indian policy",
+      "Hotels",
+      "Local business"
+    ],
+    "description": "Issue includes editorials and local reporting on Miami and Miami Beach politics, including debate over water-rate increases and proposed consolidation of city and county tax assessor functions, with discussion of recall procedures and the political fallout involving H. Leslie Quigg and Mayor Wolfarth. Features a major critique of legal gambling and racetracks as drivers of corruption and human misery, and an editorial alleging a cold-blooded police killing of a Black man in \"Colored Town\" and calling for accountability. National policy coverage discusses Secretary of Labor Maurice J. Tobin's proposed $100-per-month pension plan and opposition from wealthy interests, alongside commentary on the \"Welfare State.\" Additional items include complaints about hotels hiring outside contractors over Miami firms, court and vagrancy cases, and a report alleging federal funds for Seminoles are mishandled by Indian agents.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "United States",
+      "1949-12-17"
+    ],
+    "contributor": [
+      "Ben F. Drucker",
+      "H. Leslie Quigg",
+      "Newt Lummus",
+      "Mayor Wolfarth",
+      "William Charles",
+      "Robert Floyd",
+      "J. E. (Ted) Preston",
+      "Maurice J. Tobin",
+      "Louis Johnson",
+      "Princess Red Rock",
+      "Judge Wayne Allen",
+      "Judge Cecil C. Curry",
+      "Perrine Palmer Jr.",
+      "Louie Handel",
+      "Pennekamp"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume XXIII, Number 51"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.64,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

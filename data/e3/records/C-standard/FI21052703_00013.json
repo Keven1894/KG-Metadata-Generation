@@ -1,0 +1,91 @@
+{
+  "doc_id": "FI21052703_00013",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00013",
+    "title": "Miami Life, March 31, 1928 (Volume 6, Number 10)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1928-03-31",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Municipal government—Miami (Fla.)",
+      "Public contracts—Miami (Fla.)",
+      "City commissions—Miami (Fla.)",
+      "Police—Misconduct—Florida—Miami",
+      "Grand juries—Florida—Dade County",
+      "Courthouses—Florida—Dade County",
+      "Elections—Florida—Dade County",
+      "Publicity printing—Florida—Miami",
+      "Post offices—Location—Florida—Miami",
+      "Dade County Fair (Fla.)",
+      "Ice industry—Florida—Miami",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "tourism https://id.loc.gov/authorities/subjects/sh85136255"
+    ],
+    "description": "Issue includes editorials and commentary on Miami city commission actions and contracting, including criticism of awarding a municipal band contract to the Scotch Highlanders Band and discussion of local musicians. Coverage also addresses a police scandal and grand jury investigations, with references to State's Attorney Vernon Hawthorne and assistant Dick Hunt, and speculation about broader inquiry into county courthouse affairs. Additional pieces discuss proposed sites for a new Miami post office (including the Central School site), the Dade County Fair, and Miami-area business topics such as the ice industry; the issue also contains local columns, political notes, and extensive advertising and entertainment listings.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Dade County (Fla.)",
+      "Central School https://www.geonames.org/4164151",
+      "1928-03-31"
+    ],
+    "contributor": [
+      "Harry Platt https://id.loc.gov/authorities/names/n87843336",
+      "Roy Smith https://id.loc.gov/authorities/names/nr97003832",
+      "Vernon Hawthorne",
+      "Dick Hunt",
+      "Alex Orr",
+      "Ev Sewell",
+      "Cliff Reeder",
+      "J. E. Lummus",
+      "John Knight",
+      "Chief Quigg",
+      "Scotch Highlanders Band",
+      "Bar Association"
+    ],
+    "relation": [
+      "Volume 6, Number 10"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 11.02,
+    "context_chars": 66963,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

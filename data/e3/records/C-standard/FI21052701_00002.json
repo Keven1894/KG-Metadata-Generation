@@ -1,0 +1,86 @@
+{
+  "doc_id": "FI21052701_00002",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052701_00002",
+    "title": "Miami Life, Saturday, Jan. 8, 1949 (Vol. XXIII, No. 2)",
+    "creator": [
+      "Reubin Clein"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-01-08",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Municipal ownership—Electric utilities—Miami (Fla.)",
+      "Florida Power & Light Co.—Franchises",
+      "Public utilities—Rates—Miami (Fla.)",
+      "Railroads—Florida East Coast Railway—Safety",
+      "Employee death benefits",
+      "Transportation—Bus service—Miami (Fla.) https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Air pollution—Carbon monoxide—Health hazards",
+      "Flood control—Florida",
+      "Labor disputes—Newspaper industry",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "health https://id.loc.gov/authorities/subjects/sh00006004",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616"
+    ],
+    "description": "Issue includes editorials and local reporting on a dispute over the Miami newspaper strike and press influence (referencing President Truman), criticism of Florida East Coast Railroad for failing to send condolences to the family of a maintenance worker killed while attempting a rescue, and a major argument urging municipal ownership/control of Miami’s electric utility franchise (Florida Power & Light) as a key civic issue. Additional coverage addresses proposed expansion of state railroad commission authority over municipal transit, complaints about diesel bus exhaust fumes as a public health hazard, notes on city/county tax exemptions and filings, flood-control needs in Florida, selected crime/court items, and entertainment listings and club advertisements in Greater Miami.",
+    "coverage": [
+      "Miami (Fla.) https://www.geonames.org/4164138",
+      "Miami Beach (Fla.) https://www.geonames.org/4164143",
+      "Coral Gables (Fla.) https://www.geonames.org/4151871",
+      "1949-01-08"
+    ],
+    "contributor": [
+      "Harry S. Truman https://id.loc.gov/authorities/names/n79029742",
+      "Thomas D. Bailey https://id.loc.gov/authorities/names/n00064381",
+      "Ed. C. Luster",
+      "Ben F. Drucker",
+      "Perrine Palmer, Jr.",
+      "William \"Buck\" Weaver",
+      "Floyd (Mayor)",
+      "Abe Aronovitz",
+      "Celia Levin",
+      "A. I. Schuster"
+    ],
+    "relation": [
+      "Miami Life (Miami, Fla.), Vol. XXIII, No. 2"
+    ],
+    "source": "FIU Libraries dPanther (digitized Miami Life newspaper)",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 12.39,
+    "context_chars": 67205,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

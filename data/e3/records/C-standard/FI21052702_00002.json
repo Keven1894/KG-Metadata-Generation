@@ -1,0 +1,94 @@
+{
+  "doc_id": "FI21052702_00002",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "FI21052702_00002",
+    "title": "MIAMI LIFE, Saturday, September 29, 1934",
+    "creator": [],
+    "publisher": "Miami Life",
+    "date": "1934-09-29",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper page images with OCR text",
+    "language": "eng",
+    "subject": [
+      "Tourist camps—Health conditions—Miami (Fla.)",
+      "Malaria—Florida",
+      "Civil service—Florida",
+      "Liquor traffic—Taxation—United States",
+      "Alcohol law enforcement—Florida",
+      "Bars (Drinking establishments)—Florida—Miami",
+      "Wrestling—Florida—Miami",
+      "Theaters—Programs—Florida—Miami",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "health https://id.loc.gov/authorities/subjects/sh00006004",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466"
+    ],
+    "description": "Issue includes letters to the editor about health and sanitation conditions in Miami-area tourist camps and concerns about malaria; local column items and announcements; notices about the Pan American Civil Service Institute opening; discussion of liquor regulation and enforcement in Florida; and entertainment listings and advertisements including wrestling at Biscayne Fronton and theatre calendars, along with local business advertising in Miami, Miami Beach, and Coral Gables.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Coral Gables https://www.geonames.org/4151871",
+      "1934"
+    ],
+    "contributor": [
+      "Bob Moore https://id.loc.gov/authorities/names/n80070620",
+      "MRS. K. B.",
+      "T. E. FITZGERALD",
+      "F. W. POPE",
+      "Nat Findie",
+      "Henry Palmer",
+      "Leo Rosen",
+      "Jack Cleary",
+      "Pete Robineau",
+      "Guy Reeves",
+      "J. D. O'Brien",
+      "Mayor Everglades George Sewell",
+      "Edward Martin",
+      "Mrs. Pearl Hamblen",
+      "Mrs. Frances J. Berner",
+      "George Romanoff",
+      "Sammy Miller",
+      "Billy Baldwin",
+      "Dr. Wm E. Budreau",
+      "Lester DeVay"
+    ],
+    "relation": [
+      "MIAMI LIFE (newspaper)"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 10.19,
+    "context_chars": 21184,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "doc_id": "FI21052703_00011",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00011",
+    "title": "MIAMI LIFE, 1928-03-17 (Volume 5, Number 9)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1928-03-17",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Municipal government—Miami (Fla.)",
+      "Police misconduct—Miami (Fla.)",
+      "Elections—Florida—Dade County",
+      "Street railroads—Florida—Miami",
+      "Public transportation—Service quality—Miami (Fla.) https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "Public utilities—Florida—Miami",
+      "Prohibition https://id.loc.gov/authorities/subjects/sh85107330",
+      "Tourism—Florida—Miami https://id.loc.gov/authorities/subjects/sh85136255",
+      "Nightlife—Florida—Miami https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Entertainment—Florida—Miami https://id.loc.gov/authorities/subjects/sh96009616",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Business—Florida—Miami https://id.loc.gov/authorities/subjects/sh85018260",
+      "Beauty contests—Florida—Miami",
+      "University of Miami",
+      "Dade County Fair (Miami, Fla.)"
+    ],
+    "description": "Issue includes editorials and commentary on Miami city commission actions and local politics, including discussion of police matters and upcoming elections/primaries. Coverage criticizes streetcar service and operations of the Miami Beach Railway (noted as a subsidiary of Florida Power & Light), and discusses municipal purchasing debates (domestic vs. foreign materials) and public facilities needs for visitors. Regular columns and local notes address tourism, entertainment and nightlife, prohibition enforcement, civic events, and community institutions (including the University of Miami), alongside political advertisements and notices (e.g., Miss Miami contest and candidate announcements).",
+    "coverage": [
+      "Miami (Fla.)",
+      "Dade County (Fla.)",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Coconut Grove https://www.geonames.org/4151460",
+      "Biscayne Bay https://www.geonames.org/4147971",
+      "Bayshore Park https://www.geonames.org/4166107",
+      "1928-03-17"
+    ],
+    "contributor": [
+      "Sewell https://id.loc.gov/authorities/names/n96801150",
+      "Knight https://id.loc.gov/authorities/names/n95096599",
+      "Platt https://id.loc.gov/authorities/names/n2006165123",
+      "Reeder",
+      "Lummus",
+      "League of Women Voters",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 5, Number 9"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 10.47,
+    "context_chars": 72160,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

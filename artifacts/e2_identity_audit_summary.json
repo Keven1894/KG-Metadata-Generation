@@ -1,0 +1,128 @@
+{
+  "generated_from": "e2_identity_labels.jsonl",
+  "status": "SUBMISSION FREEZE — 2026-09-05 21:30 UTC; fixed 406-decision analysis cutoff",
+  "population": 917,
+  "labelled": 406,
+  "coverage": 0.4427,
+  "reviewers": 5,
+  "blocks": {
+    "R1": {
+      "assigned": "1-100",
+      "completed_prefix": 45
+    },
+    "R2": {
+      "assigned": "101-200",
+      "completed_prefix": 100
+    },
+    "R3": {
+      "assigned": "201-300",
+      "completed_prefix": 61
+    },
+    "R4": {
+      "assigned": "301-400",
+      "completed_prefix": 100
+    },
+    "R5": {
+      "assigned": "401-500",
+      "completed_prefix": 100
+    }
+  },
+  "items_by_outcome": {
+    "accept": 561,
+    "score_reject": 319,
+    "temporal_reject": 37
+  },
+  "outcome_x_label": {
+    "accept|correct": 81,
+    "accept|indeterminate": 13,
+    "accept|true_nil": 29,
+    "accept|wrong": 130,
+    "score_reject|correct": 22,
+    "score_reject|indeterminate": 2,
+    "score_reject|true_nil": 15,
+    "score_reject|wrong": 96,
+    "temporal_reject|true_nil": 2,
+    "temporal_reject|wrong": 16
+  },
+  "rates": {
+    "accepted_link_precision": {
+      "k": 81,
+      "n": 240,
+      "p": 0.3375,
+      "lo": 0.28065337442469745,
+      "hi": 0.3994668347602816,
+      "indeterminate": 13
+    },
+    "accepted_link_precision_unit": "unique (entity_type, surface, candidate_uri) decision",
+    "accepted_link_precision_occurrence_weighted": {
+      "k": 865,
+      "n": 1476,
+      "p": 0.5860433604336044,
+      "lo": 0.5607237963114313,
+      "hi": 0.6109161954282252
+    },
+    "occurrence_weighted_note": "weights each decision by card_uri_occurrences; its interval is optimistic because occurrences of one decision are not independent",
+    "lexical_refusal_correctness": {
+      "k": 111,
+      "n": 133,
+      "p": 0.8345864661654135,
+      "lo": 0.7622347543029068,
+      "hi": 0.8881522625106938,
+      "indeterminate": 2
+    },
+    "temporal_refusal_correctness": {
+      "k": 18,
+      "n": 18,
+      "p": 1.0,
+      "lo": 0.8241154494176252,
+      "hi": 1.0,
+      "indeterminate": 0
+    }
+  },
+  "severity_of_wrong": {
+    "critical": 209,
+    "major": 33,
+    "minor": 0
+  },
+  "residual_reason_all_labels": {
+    "definition": "all reviewed rows carrying a residual reason",
+    "n": 150,
+    "counts": {
+      "same_name_same_era": 60,
+      "out_of_kb": 49,
+      "org_alias_or_parent": 14,
+      "insufficient_context": 14,
+      "equivalent_identifier": 8,
+      "editorial_not_identity": 5
+    }
+  },
+  "residual_reason_wrong_or_true_nil": {
+    "definition": "manuscript subset: rows labeled wrong or true_nil and carrying a residual reason",
+    "n": 141,
+    "counts": {
+      "same_name_same_era": 59,
+      "out_of_kb": 49,
+      "org_alias_or_parent": 14,
+      "equivalent_identifier": 8,
+      "insufficient_context": 6,
+      "editorial_not_identity": 5
+    }
+  },
+  "residual_reason_accepted_wrong_or_true_nil": {
+    "definition": "manuscript §6 subset: rows with gate_outcome = accept, labeled wrong or true_nil, and carrying a residual reason (accepted-error denominator)",
+    "n": 81,
+    "counts": {
+      "same_name_same_era": 37,
+      "out_of_kb": 30,
+      "org_alias_or_parent": 6,
+      "equivalent_identifier": 4,
+      "editorial_not_identity": 3,
+      "insufficient_context": 1
+    }
+  },
+  "effort": {
+    "wall_clock_min_per_item": 1.37,
+    "focused_min_per_item": 0.643,
+    "projected_person_hours_full_population": 20.9
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "doc_id": "FI21052703_00034",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00034",
+    "title": "MIAMI LIFE, Saturday, Sept. 1, 1928 (Volume 5, Number 31)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-09-01",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Horse racing—Florida—Hialeah (https://id.loc.gov/authorities/subjects/sh85110265)",
+      "Tourism—Florida—Miami (https://id.loc.gov/authorities/subjects/sh85136255)",
+      "Entertainment—Florida—Miami (https://id.loc.gov/authorities/subjects/sh96009616)",
+      "Nightlife—Florida—Miami (https://id.loc.gov/authorities/subjects/sh2008001027)",
+      "Prohibition—Florida—Miami (https://id.loc.gov/authorities/subjects/sh85107330)",
+      "Gambling—Florida—Miami",
+      "Police—Florida—Miami",
+      "Traffic regulations—Florida—Miami",
+      "Chamber of Commerce—Florida—Miami (https://id.loc.gov/authorities/names/n97041415)",
+      "University of Miami—Finance",
+      "Coral Gables (Fla.)—Politics and government",
+      "Harbors—Florida—Miami",
+      "Banks and banking—Florida—Miami"
+    ],
+    "description": "Issue includes editorials and commentary on whether Miami will have horse racing in the coming winter season (including discussion of Hialeah and the Miami Jockey Club), the city’s tourist-oriented promotion versus industrial development, and enforcement actions against gambling and liquor during prohibition. Additional pieces address the Miami Chamber of Commerce’s financial difficulties and staff reductions, police training and examinations, traffic and one-way street policies, funding plans connected to the University of Miami and Coral Gables city commission actions, concerns about double punishment for drunk driving, and calls for improvements to Miami’s harbor facilities. The issue also contains society columns, Nassau/rum-running notes, entertainment listings, and local advertisements.",
+    "coverage": [
+      "Miami (https://www.geonames.org/4164138)",
+      "Hialeah (https://www.geonames.org/4158476)",
+      "Coral Gables (https://www.geonames.org/4151871)",
+      "University of Miami (https://www.geonames.org/4176262)",
+      "1928-09-01"
+    ],
+    "contributor": [
+      "John W. Martin (https://id.loc.gov/authorities/names/no2012062904)",
+      "Carpenter (https://id.loc.gov/authorities/names/no2020075116)",
+      "Joseph Adams (https://id.loc.gov/authorities/names/n82131991)",
+      "Chamber of Commerce (Miami) (https://id.loc.gov/authorities/names/n97041415)"
+    ],
+    "relation": [
+      "Miami Life, Volume 5, Number 31"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 9.31,
+    "context_chars": 67931,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

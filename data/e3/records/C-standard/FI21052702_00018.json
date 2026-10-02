@@ -1,0 +1,83 @@
+{
+  "doc_id": "FI21052702_00018",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00018",
+    "title": "MIAMI LIFE, January 19, 1935 (Vol. 9, No. 18)",
+    "creator": [],
+    "publisher": "LIFE PUBLISHING COMPANY https://id.loc.gov/authorities/names/no2019078048",
+    "date": "1935-01-19",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue; OCR text",
+    "language": "eng",
+    "subject": [
+      "Horse racing https://id.loc.gov/authorities/subjects/sh85110265",
+      "Hialeah Park (Fla.)",
+      "Tropical Park (Miami, Fla.)",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Liquor law enforcement—Florida",
+      "State societies—New York (State)—Miami (Fla.)",
+      "Chambers of commerce—Florida—Miami",
+      "Grand juries—Florida—Dade County",
+      "Murder investigations—Florida—Dade County"
+    ],
+    "description": "Issue includes extensive local columns and nightlife items, with prominent coverage of horse racing and handicapping at Hialeah and Tropical Park (including lists of horses and betting commentary). Contains the recurring gossip/column features (e.g., \"THEY TELL ME\" and \"THINGS I'd Like to Know\"), discussion of Miami tourism and state societies and the Miami Chamber of Commerce, and commentary on local law enforcement and courts including references to liquor licensing enforcement and a Dade County murder investigation (\"Skeets\" Downs). Numerous advertisements for Miami and Miami Beach clubs, restaurants, bars, and services.",
+    "coverage": [
+      "Miami, Florida https://www.geonames.org/4164138",
+      "Miami Beach, Florida https://www.geonames.org/4164143",
+      "Hialeah Park https://www.geonames.org/6332591",
+      "Tropical Park https://www.geonames.org/4175747",
+      "1935-01-19"
+    ],
+    "contributor": [
+      "George Sheldon https://id.loc.gov/authorities/names/n2015056230",
+      "Mr. Greer",
+      "Mr. Sewell",
+      "Jockey Jimmy",
+      "R. Ham-imrhead Greeby",
+      "Albert Haupt",
+      "George Downs",
+      "Mr. & Mrs. Albert Haupt"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Vol. 9, No. 18"
+    ],
+    "source": "FIU Libraries dPanther (Digital Collections)",
+    "rights": "Rights status not provided in issue; provided for research/educational use via FIU Libraries dPanther. Copyright may apply."
+  },
+  "provenance": {
+    "latency_s": 12.27,
+    "context_chars": 67255,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 0.9,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

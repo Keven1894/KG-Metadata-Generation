@@ -1,0 +1,79 @@
+{
+  "doc_id": "FI21052702_00030",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052702_00030",
+    "title": "Miami Life (Miami, Florida), Vol. 9, No. 30 (April 13, 1935)",
+    "creator": [],
+    "publisher": "Miami Life",
+    "date": "1935-04-13",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Gambling",
+      "Pari-mutuel betting",
+      "Horse racing",
+      "Dog racing",
+      "Loan sharks",
+      "Usury",
+      "Slot machines",
+      "Marble machines",
+      "Liquor taxation",
+      "Prohibition",
+      "Miami (Fla.)",
+      "Florida politics"
+    ],
+    "description": "Issue includes editorials and commentary on Florida gambling policy and enforcement, criticizing monopolistic gambling interests (including Col. E. R. Bradley) and advocating legalization/regulation; an exposé on loan sharks and usury practices in Miami; discussion of slot machines and marble-machine gambling; and a column warning about fake racing tipsters alongside horse-racing notes and forecasts. Also includes local society/campus chatter and assorted local advertisements.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Dade County (Fla.)",
+      "Tallahassee (Fla.)",
+      "Florida",
+      "1935-04-13"
+    ],
+    "contributor": [
+      "David Sholtz",
+      "Col. E. R. Bradley",
+      "Josepha E. Widener",
+      "Tom Stowe",
+      "Jockey Jimmy",
+      "Eddie Peyton"
+    ],
+    "relation": [
+      "Miami Life, Vol. 9, No. 30"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 6.35,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "doc_id": "FI21052702_00049",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052702_00049",
+    "title": "Miami Life (Miami, Florida), Vol. 9, No. 49 (Saturday, August 24, 1935)",
+    "creator": [],
+    "publisher": "Miami Life",
+    "date": "1935-08-24",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper text (OCR)",
+    "language": "en",
+    "subject": [
+      "Traffic safety",
+      "Drunk driving",
+      "Law enforcement",
+      "Federal Bureau of Investigation",
+      "Public corruption",
+      "Bankruptcy",
+      "Federal grand jury",
+      "Savings and loan associations",
+      "Insurance practices",
+      "Miami politics and government",
+      "Beauty contests",
+      "Working women",
+      "Horse racing",
+      "Wrestling"
+    ],
+    "description": "Issue includes commentary and local political reporting on Miami Safety Director Andrew J. Kavanaugh (including speculation about federal \"G-man\" connections) and a stated crackdown on drunken drivers and traffic violations as part of a safety campaign. Articles allege questionable practices involving the Federal Savings & Loan Association of Miami and the J. M. Lipton Insurance Agency, and discuss anticipated federal grand jury scrutiny of bankruptcy-related dealings. The paper also reports results of Miami Life's \"Most Attractive Working Girl\" contest (Eunice Chandler named winner) and promotes ongoing beauty-contest voting, alongside entertainment and sports items including Florida racing dates, handicapping tips, and wrestling promotion news.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "1935-08-24"
+    ],
+    "contributor": [
+      "Andrew J. Kavanaugh",
+      "J. Edgar Hoover",
+      "Eunice Chandler",
+      "Abe Aronovitz",
+      "L. L. Lee",
+      "Harry J. Lipton",
+      "J. M. Lipton",
+      "Walter H. Donovan",
+      "Mrs. M. A. Miner"
+    ],
+    "relation": [
+      "Miami Life, Vol. 9, No. 49"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 6.82,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

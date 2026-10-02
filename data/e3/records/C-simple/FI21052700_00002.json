@@ -1,0 +1,93 @@
+{
+  "doc_id": "FI21052700_00002",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052700_00002",
+    "title": "Miami Life — Saturday, January 22, 1927 (Page Two–Five)",
+    "creator": [],
+    "publisher": "Miami Life",
+    "date": "1927-01-22",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper text (OCR)",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)—Social life and customs",
+      "Miami Beach (Fla.)—Entertainment",
+      "Horse racing—Florida—Hialeah",
+      "Greyhound racing—Florida—Miami",
+      "Golf—Florida",
+      "Tourism—Florida—Miami",
+      "Prohibition—Florida",
+      "Local journalism and commentary"
+    ],
+    "description": "Issue includes local humor columns (\"Little Geraldine\"), civic satire and commentary on Miami-area development and politics, and extensive entertainment and advertising content. Notable items include a hole-by-hole satirical \"survey\" of the Dade County golf course; coverage and promotion of Hialeah racing and Miami Beach nightlife; notices and ads for performances and exhibitions (including Suzanne Lenglen at the Biscayne Fronton); and editorial-style discussion of gambling/racing, prohibition enforcement, and local civic affairs.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Hialeah (Fla.)",
+      "Dade County (Fla.)",
+      "1927-01-22"
+    ],
+    "contributor": [
+      "R. Hammerhead Greeby",
+      "Oldwish",
+      "Wilcox (assistant city manager, Hialeah)",
+      "J. J. Murphy",
+      "E. O. Wilson",
+      "I. J. Brundage",
+      "I. A. Cardwell",
+      "P. E. Hackney",
+      "D. C. Freeman",
+      "P. A. Lassiter",
+      "A. K. Ewing",
+      "Chief Quimby",
+      "Wm. A. Ennis",
+      "Rufus Bartlett",
+      "Glenn Curtiss",
+      "Jimmy (surname unclear)",
+      "Kent Watson",
+      "William Bolles",
+      "Connie Almy",
+      "Stanley Comstock",
+      "Sheriff Chase",
+      "Governor Martin",
+      "Suzanne Lenglen",
+      "Sidney S. Lenz"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), 1927-01-22 issue"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 14.05,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

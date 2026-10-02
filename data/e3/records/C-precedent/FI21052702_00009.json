@@ -1,0 +1,85 @@
+{
+  "doc_id": "FI21052702_00009",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00009",
+    "title": "MIAMI LIFE, November 17, 1934 (Vol. 9, No. 9)",
+    "creator": [],
+    "publisher": "LIFE PUBLISHING COMPANY",
+    "date": "1934-11-17",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Horse racing—Florida",
+      "Pari-mutuel betting—Florida",
+      "Miami Jockey Club",
+      "Municipal government—Miami (Fla.)",
+      "Taxation—Miami (Fla.)",
+      "Liquor industry and trade—Exhibitions—Miami (Fla.)",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Transportation https://id.loc.gov/authorities/subjects/sh2001008994"
+    ],
+    "description": "Issue includes local political commentary on Miami city commission conflict with Mayor Sewell and proposed business/liquor fees; extensive coverage of a legal challenge involving the Miami Jockey Club and pari-mutuel operations (interrogatories filed in Dade Circuit Court naming Joseph E. Widener and others); and announcements and promotional coverage related to racing and sports (including Hialeah race track and boxing). Also contains radio program schedules, nightlife/entertainment listings, advertisements, and community notes/columns.",
+    "coverage": [
+      "Miami, Florida https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Bayfront Park https://www.geonames.org/4146892",
+      "Hialeah race track https://www.geonames.org/4158488",
+      "1934-11-17"
+    ],
+    "contributor": [
+      "Joseph E. Widener https://id.loc.gov/authorities/names/n86047552",
+      "Mayor Sewell",
+      "A. D. H. Fossey",
+      "Attorney Bart A. Riley",
+      "Charles R. Myers",
+      "Buck Leatherman",
+      "Duncan, Hamlin & Duncan",
+      "Abe Harlow",
+      "Abraham Frank Katzentine",
+      "Val C. Cleary",
+      "Federal Judge Ritter"
+    ],
+    "relation": [
+      "MIAMI LIFE; Vol. 9, No. 9"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 9.08,
+    "context_chars": 71734,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "doc_id": "FI21052700_00016",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00016",
+    "title": "MIAMI LIFE, April 30, 1927 (Volume 4, Number 15)",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1927-04-30",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Municipal elections—Miami (Fla.)",
+      "City councils—Elections—Miami (Fla.)",
+      "Public utilities—Franchises—Miami (Fla.)",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "Transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Bus transportation—Miami (Fla.)",
+      "Street railroads—Miami (Fla.)",
+      "Florida East Coast Railway https://id.loc.gov/authorities/names/n86132803",
+      "African American railroad employees—Florida",
+      "Racial discrimination—Employment—Florida",
+      "Courthouses—Design and construction—Miami (Fla.)",
+      "Public contracts—Miami-Dade County (Fla.)",
+      "Flood relief—Mississippi River Flood, 1927",
+      "American Red Cross—Relief work",
+      "Oil wells—Exploration—Florida",
+      "Everglades drainage—Florida",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466"
+    ],
+    "description": "Issue features editorials and commentary on the upcoming Miami city election, including criticism and satire about voting, reform claims, and public-utility franchises associated with Florida Power & Light. Coverage includes discussion of courthouse construction contracts and inspection concerns, transportation and transit issues (buses, jitneys, and rail lines), and a column on racial employment practices on the Florida East Coast Railway. The issue also references flood relief efforts for the Mississippi Valley and includes political advertisements and local civic notices.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Biscayne Bay https://www.geonames.org/4147971",
+      "1927"
+    ],
+    "contributor": [
+      "Harry Platt https://id.loc.gov/authorities/names/n87843336",
+      "James Donn https://id.loc.gov/authorities/names/n86096463",
+      "Ev Sewell",
+      "Leroy Morgan",
+      "Avery Guyton",
+      "Charles V. Baumgardner",
+      "Bill Scott",
+      "Ed Faris",
+      "R. Hammerhead Greeby",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "Florida East Coast Railway https://id.loc.gov/authorities/names/n86132803",
+      "American Red Cross"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 4, Number 15"
+    ],
+    "source": "FIU Libraries dPanther (Florida International University)",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 12.44,
+    "context_chars": 67700,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

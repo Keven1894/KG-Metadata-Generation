@@ -1,0 +1,93 @@
+{
+  "doc_id": "FI21052703_00022",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00022",
+    "title": "MIAMI LIFE, Saturday, June 2, 1928",
+    "creator": [
+      "WEN PHILLIPS"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-06-02",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue; OCR text",
+    "language": "eng",
+    "subject": [
+      "Political campaigns—Florida",
+      "Politics—Florida https://id.loc.gov/authorities/subjects/sh85104466",
+      "Newspapers—Political aspects—Florida",
+      "Elections—Florida",
+      "Sheriffs—Election—Dade County (Fla.)",
+      "Second-choice voting",
+      "Cruelty to animals—Florida",
+      "Greyhound racing—Florida",
+      "Crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Humor https://id.loc.gov/authorities/subjects/sh2003003666",
+      "Entertainment events https://id.loc.gov/authorities/subjects/sh96009616",
+      "Society https://id.loc.gov/authorities/subjects/sh2021006888",
+      "Editorial cartoons https://id.loc.gov/authorities/subjects/sh85040974",
+      "Public schools—Finance—Dade County (Fla.)",
+      "Manufacturing industries—Miami (Fla.)"
+    ],
+    "description": "Issue includes extensive editorial and political coverage ahead of the June 5, 1928 primary, criticizing local newspaper campaign reporting and discussing Florida races including governor, U.S. Senate, and Dade County offices (notably the sheriff’s race and the mechanics of second-choice voting). Also features local news and commentary on animal-cruelty concerns related to coursing at Hialeah, community entertainment and youth events (a juvenile movie contest at Roney Plaza pools), society and humor columns, and editorials on Dade County school finances and local manufacturing/industry.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Dade County (Fla.)",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Hialeah https://www.geonames.org/4158476",
+      "Tampa https://www.geonames.org/4174757",
+      "Florida",
+      "1928"
+    ],
+    "contributor": [
+      "Doyle E. Carlton https://id.loc.gov/authorities/names/n99271197",
+      "John W. Martin https://id.loc.gov/authorities/names/no2012062904",
+      "James M. Cox https://id.loc.gov/authorities/names/n84069097",
+      "Pat Whitaker https://id.loc.gov/authorities/names/no2010076047",
+      "Ruth Bryan Owen https://id.loc.gov/authorities/names/n90644770",
+      "M. P. (POP) Lehman",
+      "Henry R. Chase",
+      "Louis Allen",
+      "Fred Pine",
+      "Bob Taylor",
+      "Harriet M. Works"
+    ],
+    "relation": [
+      "Published weekly at 815-16 Olympia Building, Miami, Florida, by Miami Life",
+      "Entered as second class matter, April 11, 1925, at the post office at Miami, Fla."
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 10.31,
+    "context_chars": 67899,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

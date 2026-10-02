@@ -1,0 +1,84 @@
+{
+  "doc_id": "FI21052703_00039",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00039",
+    "title": "MIAMI LIFE, October 6, 1928",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-10-06",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Hurricanes—Florida—Miami region",
+      "Everglades—Flood control",
+      "Alligators—Hunting—Florida",
+      "Municipal government—Florida—Hialeah",
+      "Police administration—Florida—Coral Gables",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Weather https://id.loc.gov/authorities/subjects/sh85145843",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466"
+    ],
+    "description": "Issue dated October 6, 1928, featuring editorials and satirical news items on Miami-area civic affairs and politics, including discussion of hurricane history and expectations, tourism and seasonal business conditions, municipal controversies in Coral Gables and Hialeah, and commentary on flood control and wildlife protection along the Tamiami Trail/Everglades. Includes sports notes, local entertainment listings, and extensive advertising.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Hialeah https://www.geonames.org/4158476",
+      "Biscayne Bay https://www.geonames.org/4147971",
+      "Coconut Grove https://www.geonames.org/4151460",
+      "Everglades https://www.geonames.org/4154657",
+      "Palm Beach County https://www.geonames.org/4177887",
+      "1928-10"
+    ],
+    "contributor": [
+      "John M. Martin https://id.loc.gov/authorities/names/n91052623",
+      "Adam Richards https://id.loc.gov/authorities/names/nb2017005016",
+      "Harriet Works https://id.loc.gov/authorities/names/no95036924",
+      "Ev Sewell",
+      "Carl Holmer",
+      "Newton Lewis",
+      "WINIFRED JAMES"
+    ],
+    "relation": [
+      "Number 36",
+      "October Sixth, Nineteen Twenty-eight"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.31,
+    "context_chars": 71814,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

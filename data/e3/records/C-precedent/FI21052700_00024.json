@@ -1,0 +1,99 @@
+{
+  "doc_id": "FI21052700_00024",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "FI21052700_00024",
+    "title": "Miami Life, 1927-06-25 (Volume 4, Number 22)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life, Inc.",
+    "date": "1927-06-25",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Municipal government—Florida—Miami",
+      "City managers—Florida—Miami",
+      "Chamber of Commerce (Miami) https://id.loc.gov/authorities/names/n97041415",
+      "Publicity—Florida—Miami",
+      "Drunk driving—Florida—Miami",
+      "Transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Airports—Florida—Miami",
+      "Biscayne Bay https://www.geonames.org/4147971",
+      "Dinner Key https://www.geonames.org/4153283",
+      "Coastal engineering—Florida—Miami Beach",
+      "Erosion control—Florida—Miami Beach",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Prohibition https://id.loc.gov/authorities/subjects/sh85107330",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512",
+      "Boxing https://id.loc.gov/authorities/subjects/sh00007735",
+      "Entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260"
+    ],
+    "description": "Issue includes editorials and commentary on Miami municipal affairs, including criticism of City Manager Wharton and discussion of Mayor/Commissioner Sewell and the Chamber of Commerce’s handling of city publicity funds. Coverage also addresses a campaign against drunken drivers, proposals and considerations for an airport site (including Biscayne Bay and Dinner Key), and Miami Beach coastal erosion and bond financing for oceanfront protection. Regular columns, local gossip items, letters to the editor, and notices appear alongside sports coverage featuring boxing bouts and other community events and advertisements.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Biscayne Bay https://www.geonames.org/4147971",
+      "Dinner Key https://www.geonames.org/4153283",
+      "Royal Palm Park https://www.geonames.org/7190020",
+      "1927-06-25"
+    ],
+    "contributor": [
+      "Lysle E. Fesler",
+      "S. C. Ebbets",
+      "Ev Sewell",
+      "C. W. Heiser",
+      "Fred Weede",
+      "Tom Arnold",
+      "City Manager Wharton",
+      "HARRY PLATT",
+      "EARL HUDSON",
+      "AL WHITE",
+      "DANDY \"KID\" DORLAND",
+      "TOMMY MADDEN",
+      "BEN SPIVEY",
+      "EMEL SCHIAVONE",
+      "Chamber of Commerce (Miami) https://id.loc.gov/authorities/names/n97041415",
+      "Florida Power & Light Company https://id.loc.gov/authorities/names/n79075512"
+    ],
+    "relation": [
+      "Volume 4, Number 22"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 11.37,
+    "context_chars": 71470,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

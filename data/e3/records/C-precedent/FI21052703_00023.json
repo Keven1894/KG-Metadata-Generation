@@ -1,0 +1,91 @@
+{
+  "doc_id": "FI21052703_00023",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00023",
+    "title": "Miami Life, June 9, 1928",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-06-09",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Municipal government—Coral Gables (Fla.)",
+      "Elections—Florida—Dade County",
+      "politics (https://id.loc.gov/authorities/subjects/sh85104466)",
+      "Miami Chamber of Commerce (https://id.loc.gov/authorities/names/n97041415)",
+      "entertainment (https://id.loc.gov/authorities/subjects/sh96009616)",
+      "nightlife (https://id.loc.gov/authorities/subjects/sh2008001027)",
+      "prohibition (https://id.loc.gov/authorities/subjects/sh85107330)",
+      "Gambling—Florida—Miami Beach",
+      "Slot machines—Florida—Miami Beach",
+      "Tourism—Florida—Miami",
+      "tourism (https://id.loc.gov/authorities/subjects/sh85136255)"
+    ],
+    "description": "Weekly issue featuring strong editorial commentary on Coral Gables city politics and the removal of George Merrick from the city commission, along with election-related satire and commentary on Dade County politics. Includes a letter from congressional nominee Ruth Bryan Owen, discussion of convention financing (Shriners and upcoming Elks), notes on Miami Beach law enforcement and slot-machine raids, coverage of Miami Chamber of Commerce growth, and local columns and advertisements reflecting entertainment, nightlife, and Prohibition-era liquor trade.",
+    "coverage": [
+      "Miami (https://www.geonames.org/4164138)",
+      "Coral Gables (https://www.geonames.org/4151871)",
+      "Miami Beach (https://www.geonames.org/4164143)",
+      "Bayfront Park (https://www.geonames.org/4146892)",
+      "Bryan Park (https://www.geonames.org/4149125)",
+      "Baker's Haulover (https://id.loc.gov/authorities/names/no2013055346)",
+      "1928"
+    ],
+    "contributor": [
+      "George Merrick (https://id.loc.gov/authorities/names/n87847755)",
+      "Ruth Bryan Owen (https://id.loc.gov/authorities/names/n90644770)",
+      "Ruth Hanna McCormick (https://id.loc.gov/authorities/names/n91072883)",
+      "Mark Hanna (https://id.loc.gov/authorities/names/n00108089)",
+      "William Jennings Bryan (https://id.loc.gov/authorities/names/n80044871)",
+      "Woodrow Wilson (https://id.loc.gov/authorities/names/n79046299)",
+      "Champ Clark (https://id.loc.gov/authorities/names/no2010100232)",
+      "Miami Chamber of Commerce (https://id.loc.gov/authorities/names/n97041415)",
+      "Harry B. McCarthy",
+      "M. P. \"Pop\" Lehman",
+      "Fred Pine",
+      "Dan Chappell",
+      "Sidney J. Catts",
+      "Ernest Cotton",
+      "Estelle Taylor"
+    ],
+    "relation": [
+      "Vol. 5, no. 20"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": "Digitized for access by FIU Libraries; rights status not specified in provided evidence. Use may be subject to copyright and repository terms."
+  },
+  "provenance": {
+    "latency_s": 10.1,
+    "context_chars": 73058,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

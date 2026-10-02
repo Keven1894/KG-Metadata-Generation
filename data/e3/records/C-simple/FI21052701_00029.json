@@ -1,0 +1,93 @@
+{
+  "doc_id": "FI21052701_00029",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052701_00029",
+    "title": "Miami Life (Miami, Fla.), Vol. XXIII, No. 29 (1949-07-16)",
+    "creator": [
+      "Reubin Clein",
+      "Ben F. Drucker"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-07-16",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Florida Power & Light Company",
+      "Public ownership",
+      "Utilities",
+      "Florida state government finance",
+      "Taxation",
+      "Miami city government",
+      "Police misconduct",
+      "Grand jury investigations",
+      "Journalism and press criticism",
+      "Public health and medicine regulation",
+      "Parks and recreation planning",
+      "Florida oil development"
+    ],
+    "description": "Issue includes editorials and local reporting on Miami and Florida politics and civic affairs, including advocacy for state/public ownership of Florida Power & Light and other utilities; criticism of Miami police leadership and the handling of the Lieut. C. O. Huttoe case and related grand jury matters; commentary on state budget/tax debates and press positions; and assorted local items such as federal restrictions on refilling sleeping-pill prescriptions, parks and playground expansion plans, and notes on Florida oil development. Also contains letters to the editor, columns, and advertisements.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "Florida",
+      "1949"
+    ],
+    "contributor": [
+      "C. O. Huttoe",
+      "Prof. Hart",
+      "Danner",
+      "Perrine Palmer, Jr.",
+      "Steve Harris",
+      "W. W. Davenport",
+      "Julius F. Parker",
+      "Millard F. Caldwell",
+      "Fuller Warren",
+      "Glenn Mincer",
+      "Dan Mahoney",
+      "Don Petit",
+      "Peter Niles",
+      "Cecil Curry",
+      "Murray Sanders",
+      "Reubin Clein",
+      "Ben F. Drucker"
+    ],
+    "relation": [
+      "Miami Life, Vol. XXIII, No. 29"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 7.49,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

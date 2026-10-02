@@ -1,0 +1,89 @@
+{
+  "doc_id": "FI21052703_00040",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00040",
+    "title": "Miami Life, 1928-10-13",
+    "creator": [
+      "WEN PHILLIPS"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-10-13",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Jackson Memorial Hospital—Administration",
+      "Hospitals—Political aspects—Miami (Fla.)",
+      "Public health—Political aspects—Miami (Fla.)",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Winter resorts—Florida—Miami",
+      "Coral Gables (Fla.)—Politics and government",
+      "Municipal government—Coral Gables (Fla.)",
+      "Public transportation—Coral Gables (Fla.)",
+      "Hialeah (Fla.)—Politics and government",
+      "Municipal finance—Hialeah (Fla.)",
+      "Lake Okeechobee (Fla.)—Flood control",
+      "Hurricanes—Florida—Relief",
+      "American National Red Cross—Finance",
+      "Bombings—Florida—Miami",
+      "Dry cleaning industry—Prices—Florida—Miami",
+      "Prohibition—Florida—Miami",
+      "Bootlegging—Florida—Miami",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Crime https://id.loc.gov/authorities/subjects/sh85033993"
+    ],
+    "description": "Issue features editorials and local commentary on alleged political interference and patient care at Jackson Memorial hospital; predictions of a strong winter tourist season for Miami; criticism of Coral Gables city commission actions affecting the transportation department and other municipal offices; discussion of Hialeah civic finances and calls for administrative resignation and election; coverage of hurricane relief and skepticism about National Red Cross spending; notes on Lake Okeechobee flood-control advocacy; report on a bombing at a Flagler Street cleaning plant amid dry-cleaning price disputes; and recurring nightlife/bootlegging price listings, entertainment notices, and society items for Greater Miami.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Coral Gables https://www.geonames.org/4151871",
+      "Hialeah https://www.geonames.org/4158476",
+      "Lake Okeechobee https://www.geonames.org/4166833",
+      "Tamiami Trail https://www.geonames.org/4174754",
+      "1928"
+    ],
+    "contributor": [
+      "Jackson Memorial Hospital https://id.loc.gov/authorities/names/n79131242",
+      "Arthur M. Mack https://id.loc.gov/authorities/names/n97042240",
+      "R. M. Davidson https://id.loc.gov/authorities/names/no99007254",
+      "George Merrick https://id.loc.gov/authorities/names/n87847755"
+    ],
+    "relation": [],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 15.13,
+    "context_chars": 72117,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 1.0,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": false,
+      "source": true,
+      "rights": false
+    }
+  }
+}

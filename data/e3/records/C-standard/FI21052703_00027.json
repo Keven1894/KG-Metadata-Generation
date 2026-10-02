@@ -1,0 +1,83 @@
+{
+  "doc_id": "FI21052703_00027",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00027",
+    "title": "MIAMI LIFE, 1928-07-07 (Noue 5 umber 24)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-07-07",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "B. P. O. E. convention—Miami (Fla.)",
+      "Conventions and visitors—Miami (Fla.)",
+      "nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "prohibition https://id.loc.gov/authorities/subjects/sh85107330",
+      "Mosquitoes—Florida—Miami area",
+      "Public safety—Miami (Fla.)",
+      "Police administration—Miami (Fla.)",
+      "Municipal budgets—Miami (Fla.)",
+      "Publicity—Miami (Fla.)",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466"
+    ],
+    "description": "Issue dated Saturday, July 7, 1928, published in Miami, Florida. Coverage centers on preparations for the B. P. O. E. (Elks) convention and the expected influx of visitors, including commentary on Miami publicity and civic spending. Includes a humorous \"Guide to Miami\" focused on nightlife and getting back to hotels, local opinion pieces on city services and budgets (police/fire protection, sanitation, parks), notes on mosquitoes (including references to Biscayne Key and Miami Beach), and prohibition-era items about enforcement and bootlegging. Also contains letters to the editor regarding the Miami Police Department and the Director of Public Safety, along with substantial local advertising and entertainment listings.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Biscayne Key https://www.geonames.org/4160789",
+      "Hialeah https://www.geonames.org/4158476",
+      "Fort Pierce https://www.geonames.org/7259773",
+      "1928-07"
+    ],
+    "contributor": [
+      "Rose Mahoney https://id.loc.gov/authorities/names/no2007050896",
+      "Dan Moody https://id.loc.gov/authorities/names/n96022858",
+      "NATHAN MIIA",
+      "H. H. ARNOLD",
+      "F. A. HATHAWAY"
+    ],
+    "relation": [
+      "Noue 5 umber 24",
+      "Miami Life (Miami, Florida, 1927-1949)"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": "Access provided for research and educational use; rights status not specified in OCR evidence."
+  },
+  "provenance": {
+    "latency_s": 10.02,
+    "context_chars": 55376,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

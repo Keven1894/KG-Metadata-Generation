@@ -1,0 +1,81 @@
+{
+  "doc_id": "FI21052703_00028",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00028",
+    "title": "MIAMI LIFE, July 14, 1928 (Volue 5 Number 25)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-07-14",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue with OCR text",
+    "language": "eng",
+    "subject": [
+      "Conventions and congresses—Miami (Fla.)",
+      "Benevolent and Protective Order of Elks—Conventions",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Street railroads—Florida—Miami",
+      "Traffic regulation—Florida—Miami",
+      "Coral Gables (Fla.)—Economic conditions",
+      "Real estate development—Florida—Coral Gables",
+      "Municipal finance—Florida—Miami",
+      "Prohibition https://id.loc.gov/authorities/subjects/sh85107330",
+      "Bootlegging—Florida—Miami",
+      "Harbors—Florida—Miami",
+      "Dry cleaning industry—Florida—Miami",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Editorial https://id.loc.gov/authorities/subjects/sh85040974"
+    ],
+    "description": "Issue includes editorials and commentary on Miami hosting major conventions (including the Elks), civic hospitality and tourism, and local municipal matters. Coverage addresses Coral Gables Corporation financial troubles and their perceived impact on Florida real estate confidence; Miami harbor/dock rental negotiations; concerns about excessive numbers of dry-cleaning establishments; and criticism of local transportation and streetcar service and traffic enforcement. Also includes prohibition-era notes on liquor availability and prices, satirical local bulletins, letters to the editor on a proposed vice district and on city funding for the Miami baseball club, and entertainment listings and advertisements.",
+    "coverage": [
+      "Miami (Fla.) https://www.geonames.org/4164138",
+      "Miami Beach (Fla.) https://www.geonames.org/4164143",
+      "Coral Gables (Fla.) https://www.geonames.org/4151871",
+      "1928-07-14"
+    ],
+    "contributor": [
+      "Jackson Memorial Hospital https://id.loc.gov/authorities/names/n79131242",
+      "Peggy Hopkins Joyce https://id.loc.gov/authorities/names/n87914463",
+      "George Merrick"
+    ],
+    "relation": [
+      "Miami Life, Volue 5, Number 25"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 10.69,
+    "context_chars": 71592,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

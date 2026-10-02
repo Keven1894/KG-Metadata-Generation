@@ -1,0 +1,205 @@
+{
+  "instrument": "pairwise_v4_reanalysis",
+  "no_new_api_calls": true,
+  "judges": {
+    "self": {
+      "n_results": 609,
+      "by_pair": {
+        "C-simple_vs_C-precedent": {
+          "n": 203,
+          "unconditional_counts": {
+            "tie": 158,
+            "C-simple": 29,
+            "C-precedent": 16
+          },
+          "swap_consistent": 45,
+          "swap_consistent_pct": 22.17,
+          "n_ties": 158
+        },
+        "C-simple_vs_C-standard": {
+          "n": 203,
+          "unconditional_counts": {
+            "tie": 160,
+            "C-simple": 25,
+            "C-standard": 18
+          },
+          "swap_consistent": 43,
+          "swap_consistent_pct": 21.18,
+          "n_ties": 160
+        },
+        "C-standard_vs_C-precedent": {
+          "n": 203,
+          "unconditional_counts": {
+            "tie": 181,
+            "C-standard": 12,
+            "C-precedent": 10
+          },
+          "swap_consistent": 22,
+          "swap_consistent_pct": 10.84,
+          "n_ties": 181
+        }
+      },
+      "summary_file": {
+        "C-simple_vs_C-standard": {
+          "C-simple": 25,
+          "C-standard": 18,
+          "tie": 160,
+          "n": 203
+        },
+        "C-simple_vs_C-precedent": {
+          "C-simple": 29,
+          "C-precedent": 16,
+          "tie": 158,
+          "n": 203
+        },
+        "C-standard_vs_C-precedent": {
+          "C-standard": 12,
+          "C-precedent": 10,
+          "tie": 181,
+          "n": 203
+        }
+      }
+    },
+    "opus": {
+      "n_results": 609,
+      "by_pair": {
+        "C-simple_vs_C-precedent": {
+          "n": 203,
+          "unconditional_counts": {
+            "C-simple": 136,
+            "tie": 57,
+            "C-precedent": 10
+          },
+          "swap_consistent": 146,
+          "swap_consistent_pct": 71.92,
+          "n_ties": 57
+        },
+        "C-simple_vs_C-standard": {
+          "n": 203,
+          "unconditional_counts": {
+            "C-simple": 119,
+            "tie": 69,
+            "C-standard": 15
+          },
+          "swap_consistent": 134,
+          "swap_consistent_pct": 66.01,
+          "n_ties": 69
+        },
+        "C-standard_vs_C-precedent": {
+          "n": 203,
+          "unconditional_counts": {
+            "C-standard": 56,
+            "tie": 94,
+            "C-precedent": 53
+          },
+          "swap_consistent": 110,
+          "swap_consistent_pct": 54.19,
+          "n_ties": 94
+        }
+      },
+      "summary_file": {
+        "C-simple_vs_C-standard": {
+          "C-simple": 119,
+          "C-standard": 15,
+          "tie": 69,
+          "n": 203
+        },
+        "C-simple_vs_C-precedent": {
+          "C-simple": 136,
+          "C-precedent": 10,
+          "tie": 57,
+          "n": 203
+        },
+        "C-standard_vs_C-precedent": {
+          "C-standard": 56,
+          "C-precedent": 53,
+          "tie": 94,
+          "n": 203
+        }
+      }
+    },
+    "gpt55": {
+      "n_results": 609,
+      "by_pair": {
+        "C-simple_vs_C-precedent": {
+          "n": 203,
+          "unconditional_counts": {
+            "C-simple": 141,
+            "tie": 28,
+            "C-precedent": 34
+          },
+          "swap_consistent": 175,
+          "swap_consistent_pct": 86.21,
+          "n_ties": 28
+        },
+        "C-simple_vs_C-standard": {
+          "n": 203,
+          "unconditional_counts": {
+            "C-simple": 136,
+            "C-standard": 38,
+            "tie": 29
+          },
+          "swap_consistent": 174,
+          "swap_consistent_pct": 85.71,
+          "n_ties": 29
+        },
+        "C-standard_vs_C-precedent": {
+          "n": 203,
+          "unconditional_counts": {
+            "C-precedent": 65,
+            "C-standard": 65,
+            "tie": 73
+          },
+          "swap_consistent": 130,
+          "swap_consistent_pct": 64.04,
+          "n_ties": 73
+        }
+      },
+      "summary_file": {
+        "C-simple_vs_C-standard": {
+          "C-simple": 136,
+          "C-standard": 38,
+          "tie": 29,
+          "n": 203
+        },
+        "C-simple_vs_C-precedent": {
+          "C-simple": 141,
+          "C-precedent": 34,
+          "tie": 28,
+          "n": 203
+        },
+        "C-standard_vs_C-precedent": {
+          "C-standard": 65,
+          "C-precedent": 65,
+          "tie": 73,
+          "n": 203
+        }
+      }
+    }
+  },
+  "ocr_truncation": {
+    "n_issues": 203,
+    "ocr_chars_gt_60000": 182,
+    "ocr_unreadable": 0,
+    "truncation_rule": "pairwise_judge.py / claim eval keep head+tail when len>60000",
+    "over_ids_sample": [
+      "FI21052700_00002",
+      "FI21052700_00003",
+      "FI21052700_00004",
+      "FI21052700_00005",
+      "FI21052700_00006",
+      "FI21052700_00007",
+      "FI21052700_00008",
+      "FI21052700_00009",
+      "FI21052700_00010",
+      "FI21052700_00011",
+      "FI21052700_00012",
+      "FI21052700_00013",
+      "FI21052700_00014",
+      "FI21052700_00015",
+      "FI21052700_00016"
+    ]
+  },
+  "gpt55_mean_vs_wilcoxon": "GPT-5.5 G0\u2192G1: Wilcoxon p\u22480.0099 but bootstrap CI on the mean delta includes 0 (claim_delta_ci.csv). These are different estimands; do not treat as a conflict.",
+  "latex_binomial_table": "latex/tables/tab_pairwise_binomial.tex already matches unconditional W/T/L"
+}

@@ -1,0 +1,101 @@
+{
+  "doc_id": "FI21052701_00045",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052701_00045",
+    "title": "Miami Life (Miami, Fla.), Vol. X, No. 45 (1949-11-05)",
+    "creator": [
+      "Reubin Clein",
+      "B. F. Trucker"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-11-05",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)--Politics and government",
+      "Municipal elections--Florida--Miami",
+      "City commissioners--Florida--Miami",
+      "Crime Commission--Miami (Fla.)",
+      "Sales tax--Florida--Dade County",
+      "Taxation--Florida--Dade County",
+      "Cuba--Politics and government",
+      "Jose Manuel Aleman",
+      "United States--Foreign loans--Cuba",
+      "Gambling--Florida--Miami",
+      "Liquor control--Florida--Miami",
+      "Communist Party--Florida--Miami",
+      "Ku Klux Klan--Florida",
+      "Public utilities--Telephone--Florida",
+      "Southern Bell Telephone and Telegraph Company",
+      "Orange Bowl (Miami, Fla.)"
+    ],
+    "description": "Issue focuses on Miami municipal politics ahead of the November 15, 1949 primary election, including a Miami Life poll showing leading city commission candidates (Quigg, Bandel, Palmer, Thomson, Dunn) and criticism of the Greater Miami Crime Commission’s political influence and director Robert H. Givens Jr.’s resignation and endorsements. Coverage includes opposition to Dade County taxation and the new sales tax, letters protesting high assessments and county services, and a report on O. L. Nickerson repudiating a leaflet claiming Communist Party endorsement. Internationally, the paper reports on Cuban senator Jose Manuel Aleman and a proposed $200 million U.S. loan to Cuba, describing political corruption and opposition by Cuban figures including Grau San Martin and Batista. Additional items include commentary columns, public-utility complaints involving Southern Bell, and local civic notices (e.g., Orange Bowl Queen contest).",
+    "coverage": [
+      "Miami (Fla.)",
+      "Dade County (Fla.)",
+      "Miami Beach (Fla.)",
+      "Cuba",
+      "1949-11"
+    ],
+    "contributor": [
+      "Robert H. Givens Jr.",
+      "Jose Manuel Aleman",
+      "William Wolfarth",
+      "Leonard K. Thomson",
+      "Palmer",
+      "Quigg",
+      "Louie Bandel",
+      "James A. Dunn",
+      "O. L. Nickerson",
+      "J. M. Gusky",
+      "C. R. Gardner",
+      "Bernard R. Campbell",
+      "J. B. Ellenburg",
+      "Claude Pepper",
+      "George Smathers",
+      "Grau San Martin",
+      "Fulgencio Batista",
+      "A. J. Rourke",
+      "Southern Bell Telephone and Telegraph Company",
+      "Greater Miami Council of Churches",
+      "Greater Miami Crime Commission"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume X, Number 45"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 17.46,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

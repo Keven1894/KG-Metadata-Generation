@@ -1,0 +1,79 @@
+{
+  "doc_id": "FI21052703_00003",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00003",
+    "title": "MIAMI LIFE, Saturday, January 21, 1928 (Volume 11, Number 1)",
+    "creator": [
+      "Owen R. Phillips https://id.loc.gov/authorities/names/n82094046"
+    ],
+    "publisher": "Miami Life Co.",
+    "date": "1928-01-21",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Roads—Bridges—Construction—Florida",
+      "University of Miami—Football",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Water hyacinth—Control—Florida",
+      "Fertilizers—Florida",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Prohibition—Florida",
+      "Liquor law enforcement—Florida",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Nassau (Bahamas)—Description and travel",
+      "Humor https://id.loc.gov/authorities/subjects/sh2003003666",
+      "Editorial cartoons https://id.loc.gov/authorities/subjects/sh85040974"
+    ],
+    "description": "Issue includes local commentary and columns (e.g., \"Round the Town\" and \"Looking Back\"), with coverage of transportation and road/bridge construction delays in the Little River area near Seventy-ninth Street; discussion of University of Miami football coaching; a business feature on commercial use of water hyacinths for liquid fertilizer connected to a Fort Lauderdale operation; and extensive travel/tourism reporting on Nassau, Bahamas (including hospitality provided to visiting editors and promotion of steamship travel). Additional content includes humor and society-style items, advertisements, and an editorial on pricing and \"constructive buying.\"",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Little River https://www.geonames.org/4177865",
+      "Little River district https://id.loc.gov/authorities/names/no2007086465",
+      "Seventy-ninth Street https://www.geonames.org/4172551",
+      "Fort Lauderdale https://www.geonames.org/4155966",
+      "the glades https://www.geonames.org/4156815",
+      "1928-01-21"
+    ],
+    "contributor": [
+      "E. C. Lewis https://id.loc.gov/authorities/names/n2023040022"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Volume 11, Number 1"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.84,
+    "context_chars": 71619,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

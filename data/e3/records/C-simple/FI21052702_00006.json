@@ -1,0 +1,91 @@
+{
+  "doc_id": "FI21052702_00006",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00006",
+    "title": "Miami Life (Miami, Florida), Vol. 9, No. 6 (1934-10-27)",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life",
+    "date": "1934-10-27",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "American Legion",
+      "Conventions",
+      "Price gouging",
+      "Rent increases",
+      "Tourism",
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Local politics",
+      "Horse racing",
+      "Radio programs",
+      "Nightclubs",
+      "Restaurants",
+      "Advertising"
+    ],
+    "description": "Weekly issue containing Wen R. Phillips' \"Notebook\" commentary on the American Legion convention in Miami and complaints about price-fixing and sharp rent and food increases; local political notes including Miami Beach election mentions; a poem dedicated to Legionnaires (\"Have You Seen Elmer?\"); extensive radio program listings; horse-racing commentary and betting tips (\"Jockey Jimmy\") including discussion of a trainer suspension for alleged stimulation; and numerous local advertisements for Miami and Miami Beach businesses (bars, restaurants, salons, hotels, services).",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Greater Miami (Fla.)",
+      "1934-10"
+    ],
+    "contributor": [
+      "Capt. Joe Traeger",
+      "Jockey Jimmy",
+      "Gerald D. Bliss",
+      "Mayor Sewell",
+      "Val Cleary",
+      "Art Childers",
+      "Bob Ralston",
+      "E. H. Griffith",
+      "Bill Burbridge",
+      "Ernie Wolfe",
+      "Ed. Keuhling",
+      "Harry Hice",
+      "Dick Mead",
+      "Clay Sutphin",
+      "William Patton",
+      "Dr. J. G. Cattlett"
+    ],
+    "relation": [
+      "Miami Life, Volume 9, Number 6"
+    ],
+    "source": "FIU dPanther",
+    "rights": "Copyright 1934 by Miami Life; reproduction forbidden unless permission is obtained from the Editor."
+  },
+  "provenance": {
+    "latency_s": 7.01,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 1.0,
+    "required": 1.0,
+    "filled_count": 15,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": true
+    }
+  }
+}

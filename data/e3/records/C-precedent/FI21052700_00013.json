@@ -1,0 +1,98 @@
+{
+  "doc_id": "FI21052700_00013",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052700_00013",
+    "title": "MIAMI LIFE, April 9, 1927 (Volume 4, Number 13)",
+    "creator": [
+      "WEN R. PHILLIPS"
+    ],
+    "publisher": "Miami Life Co.",
+    "date": "1927-04-09",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Municipal elections—Miami (Fla.)",
+      "Municipal franchises—Public utilities—Miami (Fla.)",
+      "Florida Power & Light https://id.loc.gov/authorities/names/n79075512",
+      "Municipal golf courses—Miami Beach (Fla.)",
+      "Public transportation—Bus fares—Miami (Fla.)",
+      "Prohibition https://id.loc.gov/authorities/subjects/sh85107330",
+      "Bootlegging—Florida",
+      "Milk industry—Prices—Miami (Fla.)",
+      "Apartment houses—Economic conditions—Miami (Fla.)",
+      "American Legion—Florida",
+      "Drum and bugle corps—Florida",
+      "Seaboard Air Line Railway https://id.loc.gov/authorities/names/n86111430",
+      "Oil wells—Florida",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "Sports https://id.loc.gov/authorities/subjects/sh00007735",
+      "Society https://id.loc.gov/authorities/subjects/sh2021006888"
+    ],
+    "description": "Issue includes editorials and commentary on Miami municipal elections and city finances, criticism of public-utility franchise arrangements involving Florida Power & Light, and discussion of law enforcement and Prohibition-era bootlegging. Coverage also addresses Miami Beach negotiations for a municipally owned golf course, calls for lower consumer prices (including bus fare), and a lengthy discussion of the local milk situation and pricing. Additional items include local civic and political notes, American Legion drum-and-bugle corps news, transportation advertising (Seaboard Air Line Railway), and commentary on Florida oil-boom rumors, along with society/entertainment and sports notices.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Fort Dallas Park https://www.geonames.org/6466264",
+      "Dade County (Fla.)",
+      "Florida",
+      "1927"
+    ],
+    "contributor": [
+      "Pete Crossland",
+      "Lysle E. Fesler",
+      "S. C. Ebbets",
+      "Colonel Frank B. Shutts",
+      "Judge Stoneman",
+      "Olin Kennedy",
+      "Paul Latham",
+      "Virgil A. Ector",
+      "Miss Louise Otter",
+      "Captain Frank",
+      "Drill Master Ryan",
+      "Frank Webb",
+      "Judge Ben Meginnis",
+      "Charles A. Finley",
+      "John G. Kllum",
+      "DR. LORNA M. MURRAY"
+    ],
+    "relation": [
+      "Volume 4, Number 13"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 15.46,
+    "context_chars": 71197,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

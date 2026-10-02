@@ -1,0 +1,82 @@
+{
+  "doc_id": "FI21052702_00020",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00020",
+    "title": "MIAMI LIFE, February 2, 1935 (Vol. 9, no. 20)",
+    "creator": [
+      "Knapp, M. Henry"
+    ],
+    "publisher": "LIFE PUBLISHING COMPANY",
+    "date": "1935-02-02",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue; OCR text",
+    "language": "eng",
+    "subject": [
+      "Grand juries",
+      "Gambling—Florida",
+      "Horse racing—Florida",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "Entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "Politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Racing https://id.loc.gov/authorities/subjects/sh85110265",
+      "Divorce—Florida",
+      "Traffic regulations—Florida—Miami",
+      "Police—Florida—Miami",
+      "Municipal government—Florida—Miami",
+      "Bars (Drinking establishments)—Florida—Miami Beach",
+      "New Deal, 1933-1939"
+    ],
+    "description": "Issue includes editorials and commentary on South Florida tourism and the local economy, criticism of gambling and race-track influence (including Hialeah), discussion of grand jury matters and Miami municipal politics, and local civic concerns such as traffic enforcement and policing. Regular columns and features cover nightlife and entertainment in Miami and Miami Beach, along with advertisements and promotional material for clubs, restaurants, and racing-related tip services.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "South Florida https://www.geonames.org/12217087",
+      "North Florida https://www.geonames.org/12217087",
+      "Palm Beach County https://www.geonames.org/4177887",
+      "1935-02-02"
+    ],
+    "contributor": [
+      "Huey Long https://id.loc.gov/authorities/names/n79023309",
+      "Bob Baker https://id.loc.gov/authorities/names/n80155075",
+      "Arthur A. Perkins"
+    ],
+    "relation": [
+      "Vol. 9, no. 20"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 10.66,
+    "context_chars": 71576,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

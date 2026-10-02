@@ -1,0 +1,102 @@
+{
+  "doc_id": "FI21052701_00026",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052701_00026",
+    "title": "Miami Life (Miami, Fla.), Vol. XXIII, No. 26 (June 25, 1949)",
+    "creator": [
+      "Reubin Clein"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-06-25",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Sales tax opposition",
+      "Florida politics",
+      "Fuller Warren (Governor)",
+      "Miami Herald criticism",
+      "John S. Knight",
+      "Hoover Commission report",
+      "Government efficiency",
+      "Civil service",
+      "Gambling and slot machines",
+      "Gun control",
+      "Crime and municipal court",
+      "City of Miami government",
+      "Coral Gables",
+      "Jackson Memorial Hospital",
+      "School term referendum (Dade County)",
+      "Employment and unemployment (Dade County)",
+      "Marriage law (Florida and Georgia)",
+      "Tourism advertising (Delta Air Lines)"
+    ],
+    "description": "Issue includes editorials and local reporting opposing a Florida state sales tax and criticizing Miami Herald publisher John S. Knight and the use of the Hoover Commission report to argue for cuts to government and civil service. Coverage includes Florida Governor Fuller Warren and state finances; calls for a referendum on Dade County’s extra-long school term; discussion of slot machines and gambling; a report on an Abe Aronovitz lawsuit seeking to block City of Miami payment of legal fees to Rep. George Smathers’ law firm; commentary on gun availability and violence in Miami’s Negro precinct and municipal court cases; notes on Jackson Memorial Hospital conditions; a comparison of Florida and Georgia marriage requirements; and items on employment trends and tourism promotion.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Dade County (Fla.)",
+      "Coral Gables (Fla.)",
+      "Miami Beach (Fla.)",
+      "Florida",
+      "1949-06-25"
+    ],
+    "contributor": [
+      "Ben F. Drucker",
+      "John S. Knight",
+      "Harry S. Truman",
+      "Fuller Warren",
+      "John Pennekamp",
+      "Abe Aronovitz",
+      "George Smathers",
+      "Ray Watson",
+      "Leo Greenfield",
+      "R. B. Gautier, Jr.",
+      "George N. Shaw",
+      "Frank Mitchell",
+      "Danner",
+      "Huttoe",
+      "Albert S. Dubbin",
+      "Cecil C. Curry",
+      "Daniel Galen",
+      "Kenneth Oka",
+      "Lewis M. Schott",
+      "J. A. Bliss"
+    ],
+    "relation": [
+      "Miami Life, Vol. XXIII, No. 26"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.73,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

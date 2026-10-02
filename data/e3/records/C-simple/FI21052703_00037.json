@@ -1,0 +1,93 @@
+{
+  "doc_id": "FI21052703_00037",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052703_00037",
+    "title": "Miami Life (Miami, Fla.), 1928-09-22",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-09-22",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Hurricanes",
+      "Disaster relief",
+      "Okeechobee Hurricane, 1928",
+      "Lake Okeechobee (Fla.)",
+      "West Palm Beach (Fla.)",
+      "Miami (Fla.)",
+      "Red Cross",
+      "Florida politics",
+      "Public utilities",
+      "Florida Power & Light Company",
+      "Radio communication",
+      "Telegraph and telephone service",
+      "Prices and cost of living",
+      "Food prices",
+      "Local government",
+      "Hialeah (Fla.)"
+    ],
+    "description": "Issue dominated by commentary and reporting on the September 1928 hurricane and its catastrophic flooding around Lake Okeechobee, including estimates of deaths, criticism of state leadership and disaster minimization, and discussion of relief efforts. Articles highlight individual and organizational responses (including Jack Cleary’s trip to West Palm Beach, Tropical Radio and Telegraph communications from Hialeah, and Florida Power & Light restoration work), note Red Cross supply delays, and describe relief logistics such as the county stockade serving as a refugee camp. Additional editorials address high food prices in Miami, alleged profiteering, jail purchasing and prisoner conditions, civic politics in Hialeah and Miami Beach, and assorted local news and entertainment listings.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Dade County (Fla.)",
+      "Hialeah (Fla.)",
+      "Miami Beach (Fla.)",
+      "West Palm Beach (Fla.)",
+      "Lake Worth (Fla.)",
+      "Lake Okeechobee region (Fla.)",
+      "Bimini (Bahamas)",
+      "1928-09"
+    ],
+    "contributor": [
+      "John Martin",
+      "Doyle Carlton",
+      "Ed Romfh",
+      "Jack Cleary",
+      "E. F. Bourne",
+      "J. D. Butler",
+      "Tom Norfleet",
+      "Bob Baker",
+      "Louis Allen",
+      "Bruce Youngs",
+      "Pop Lehman",
+      "Lee Gebhart"
+    ],
+    "relation": [],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 15.47,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 1.0,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": false,
+      "source": true,
+      "rights": false
+    }
+  }
+}

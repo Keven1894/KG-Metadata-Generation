@@ -1,0 +1,81 @@
+{
+  "doc_id": "FI21052701_00013",
+  "tier": "C-precedent",
+  "fields": {
+    "identifier": "FI21052701_00013",
+    "title": "MIAMI LIFE, March 26, 1949 (Vol. XXIII, No. 13)",
+    "creator": [
+      "REUBIN CLEIN"
+    ],
+    "publisher": "MIAMI LIFE",
+    "date": "1949-03-26",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Mental health facilities—Florida—Miami",
+      "Psychiatric hospitals—Abuse of patients—Florida—Miami",
+      "Public welfare—Florida—Dade County",
+      "Politics, Practical https://id.loc.gov/authorities/subjects/sh85104466",
+      "Labor unions—Strikes and lockouts—Florida—Miami",
+      "Newspapers—Employees—Strikes—Florida—Miami",
+      "Health https://id.loc.gov/authorities/subjects/sh00006004",
+      "Transportation https://id.loc.gov/authorities/subjects/sh2001008994",
+      "Miami International Airport https://www.geonames.org/4164181",
+      "Pan American World Airways https://id.loc.gov/authorities/names/n81009272",
+      "Tourism https://id.loc.gov/authorities/subjects/sh85136255",
+      "Business https://id.loc.gov/authorities/subjects/sh85018260",
+      "Crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "Biscayne Bay https://www.geonames.org/4147971"
+    ],
+    "description": "Issue features an investigative exposé of conditions and alleged mistreatment of mental patients at the Miami Retreat (7831 N. Miami Court), including a Miami Life photographer’s images and reporting by Gary Rogers. Also includes local political commentary on city/county matters and inflation, discussion of proposed changes to birth and death certificate confidentiality, coverage of Miami International Airport animal shipments involving Pan American World Airways, notes on state mental health training initiatives, labor news regarding the Miami Typographical Union strike/lockout, and additional Miami-area civic and social items and advertisements.",
+    "coverage": [
+      "Miami https://www.geonames.org/4164138",
+      "Biscayne Bay https://www.geonames.org/4147971",
+      "Miami International Airport https://www.geonames.org/4164181",
+      "1949-03-26"
+    ],
+    "contributor": [
+      "Gary Rogers https://id.loc.gov/authorities/names/n87105997",
+      "Roy Singer https://id.loc.gov/authorities/names/no2006039982",
+      "Robert Taft https://id.loc.gov/authorities/names/n85092252",
+      "Floyd https://id.loc.gov/authorities/names/n80040880",
+      "BEN F. DRUCKER"
+    ],
+    "relation": [
+      "Vol. XXIII, No. 13"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 10.42,
+    "context_chars": 71830,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

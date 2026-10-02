@@ -1,0 +1,101 @@
+{
+  "doc_id": "FI21052702_00036",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052702_00036",
+    "title": "Miami Life (Miami, Florida), Vol. 9, No. 36 (May 25, 1935)",
+    "creator": [
+      "N. V. Hawthorne"
+    ],
+    "publisher": "Miami Life",
+    "date": "1935-05-25",
+    "type": "Text; newspaper issue",
+    "format": "text/OCR",
+    "language": "en",
+    "subject": [
+      "Gambling",
+      "Horse racing",
+      "Dog racing",
+      "Race track regulation",
+      "Florida Legislature",
+      "Referendums",
+      "Political corruption",
+      "Grand jury investigations",
+      "Miami Daily News",
+      "Dade County (Fla.) politics",
+      "Tropical Park (Miami, Fla.)",
+      "Hialeah Park Race Track",
+      "Palm Beach (Fla.)",
+      "Boxing",
+      "Tennis"
+    ],
+    "description": "Issue features extensive political commentary and investigative allegations targeting former Dade County state’s attorney Vernon Hawthorne, calling for grand jury scrutiny and criticizing the Miami Daily News. Major coverage argues against a proposed Florida legislative measure requiring signatures from 40% of registered voters to trigger a referendum affecting racing permits, warning it would entrench gambling interests and harm Miami business; includes discussion of racing interests tied to Joseph E. Widener and Col. E. R. Bradley and the transfer of Tropical Park. Also includes sports columns (racing tips, boxing notes, tennis tournament coverage), letters to the editor, and numerous local business advertisements.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Dade County (Fla.)",
+      "Florida",
+      "1935"
+    ],
+    "contributor": [
+      "Joseph E. Widener",
+      "Col. E. R. Bradley",
+      "Bill Dwyer",
+      "Vernon Hawthorne",
+      "Dave Sholtz",
+      "Hayes Lewis",
+      "Tom Stowe",
+      "Jockey Jimmy",
+      "Carl Guggino",
+      "Joe Rivers",
+      "Jim Carson",
+      "Guy Loomis",
+      "Nora Wilson",
+      "Juanita Kempson",
+      "Dick Newcomb",
+      "Elmer Kennedy",
+      "George Bing",
+      "Richard Hunt",
+      "A. Frank Katzen",
+      "Dr. E. C. Thomas",
+      "Harold A. Mann",
+      "Jose Santos",
+      "Alice C. Janson",
+      "J. C. Gottschalk"
+    ],
+    "relation": [
+      "Miami Life, Vol. 9, No. 36"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 7.83,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

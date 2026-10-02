@@ -1,0 +1,92 @@
+{
+  "doc_id": "FI21052703_00021",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052703_00021",
+    "title": "Miami Life (Miami, Florida), Saturday, 1928-05-26 (Volume 6, Number 18)",
+    "creator": [
+      "Wen R. Phillips"
+    ],
+    "publisher": "Miami Life",
+    "date": "1928-05-26",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper issue (OCR text)",
+    "language": "en",
+    "subject": [
+      "Politics and government--Florida",
+      "Elections--Florida--Dade County",
+      "Sheriffs--Election",
+      "United States Senate--Election",
+      "Banking--Dividends",
+      "Juvenile motion picture contest",
+      "Miami Beach (Fla.)",
+      "Miami (Fla.)",
+      "Transportation safety",
+      "Causeways--Florida"
+    ],
+    "description": "Issue includes editorials and campaign coverage focused on Florida and Dade County politics ahead of the June 5, 1928 Democratic primary, including advocacy for Governor John W. Martin for U.S. Senate against Park Trammell and extensive discussion of the Dade County sheriff’s race (\"Pop\" Lehman, Henry Chase, Louis Allen, Bill Smith). Also features a Father’s Day column by editor Wen R. Phillips; a letter from J. E. Lummus (Southern Bank & Trust Company) announcing a five percent dividend to certificate holders; local commentary on Miami/Biscayne Boulevard traffic hazards and causeway improvements; announcements and advertisements; and a detailed notice for a juvenile movie impersonation contest at the Roney Plaza Casino, Miami Beach, with newsreel coverage planned.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "Florida",
+      "1928"
+    ],
+    "contributor": [
+      "John W. Martin",
+      "Park Trammell",
+      "Wen R. Phillips",
+      "J. E. Lummus",
+      "\"Pop\" Lehman",
+      "Henry Chase",
+      "Louis Allen",
+      "W. W. (Bill) Smith",
+      "Ruth Bryan Owen",
+      "Duncan U. Fletcher",
+      "Tom McGahey",
+      "James F. Flood",
+      "Tom Norfleet",
+      "Robert R. Taylor",
+      "L. E. Whiteside",
+      "Perry Smith",
+      "W. Cecil Watson",
+      "A. C. Dressler",
+      "G. A. Worley"
+    ],
+    "relation": [
+      "Miami Life, Volume 6, Number 18"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 9.42,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

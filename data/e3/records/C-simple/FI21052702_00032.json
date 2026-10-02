@@ -1,0 +1,99 @@
+{
+  "doc_id": "FI21052702_00032",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052702_00032",
+    "title": "Miami Life (Miami, Florida), Vol. 9, No. 32 (April 27, 1935)",
+    "creator": [
+      "R. J. Clein"
+    ],
+    "publisher": "Miami Life",
+    "date": "1935-04-27",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR-derived)",
+    "language": "en",
+    "subject": [
+      "Florida Recovery Act",
+      "Chain stores",
+      "A. & P. Stores",
+      "Newspapers",
+      "Editorials",
+      "Municipal elections",
+      "Miami (Fla.) politics and government",
+      "Police corruption",
+      "Crime investigations",
+      "Jewel robbery",
+      "Small loan companies",
+      "Usury",
+      "Labor and employment",
+      "Gambling",
+      "Miami Beach (Fla.)",
+      "Kentucky Derby",
+      "Horse racing"
+    ],
+    "description": "Issue includes editorials and commentary on Florida newspapers opposing the Florida Recovery Act aimed at chain stores, alleging coordinated press influence tied to chain-store advertising. Covers Miami municipal election campaigning and candidates, and reports on a federal investigation involving Miami detective chief Eugene I. Bryant and the purported recovery of Biltmore hotel robbery jewels, including allegations of reward-sharing and attempted bribery. Also features a letter urging major employers to protect workers from high-interest small-loan firms, discussion of gambling at the Beach Club (Miami Beach), and promotional/entertainment columns including Kentucky Derby selections and local nightlife items.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Florida",
+      "1935-04-27"
+    ],
+    "contributor": [
+      "Eugene I. Bryant",
+      "Charles Cali",
+      "Nicky Montone",
+      "Noel Scaffa",
+      "Jack Kehoe",
+      "Mrs. Margaret Hawksworth Bell",
+      "Robert (Bob) Williams",
+      "Alexander Orr, Jr.",
+      "Harry Platt",
+      "Orville Rigby",
+      "Charlie Laughighouse",
+      "Nate Bauer",
+      "W. E. Lester",
+      "Dr. Arthur H. Weiland",
+      "Charles H. Dyer",
+      "Ethna Hudson",
+      "Florida Power and Light Company",
+      "Western Union",
+      "Southern Bell Telephone Company",
+      "Postal Telegraph Company"
+    ],
+    "relation": [
+      "Miami Life, Vol. 9, No. 32"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 8.09,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

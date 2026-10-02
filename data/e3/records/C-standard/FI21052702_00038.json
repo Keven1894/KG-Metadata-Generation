@@ -1,0 +1,87 @@
+{
+  "doc_id": "FI21052702_00038",
+  "tier": "C-standard",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052702_00038",
+    "title": "MIAMI LIFE, June 8, 1935 (Vol. 9, No. 38)",
+    "creator": [
+      "Harold E. Ross https://id.loc.gov/authorities/names/no2022074863"
+    ],
+    "publisher": "Miami Life",
+    "date": "1935-06-08",
+    "type": "Text; newspaper issue",
+    "format": "Digitized newspaper pages with OCR text",
+    "language": "eng",
+    "subject": [
+      "Municipal finance—Florida—Miami",
+      "Public officers—Florida—Miami",
+      "Auditing—Florida—Miami",
+      "Municipal courts—Florida—Miami",
+      "Bail—Florida—Miami",
+      "Bondsmen—Florida—Miami",
+      "Gambling devices—Florida—Miami",
+      "Marble board games—Florida—Miami",
+      "politics https://id.loc.gov/authorities/subjects/sh85104466",
+      "crime https://id.loc.gov/authorities/subjects/sh85033993",
+      "business https://id.loc.gov/authorities/subjects/sh85018260",
+      "entertainment https://id.loc.gov/authorities/subjects/sh96009616",
+      "nightlife https://id.loc.gov/authorities/subjects/sh2008001027",
+      "sports https://id.loc.gov/authorities/subjects/sh00007735"
+    ],
+    "description": "Issue includes local political and civic reporting centered on Miami municipal operations, including the city clerk’s admission that an audit will show an approximately $12,000 shortage attributed to court and bonding practices, and discussion of municipal court procedures and professional bondsmen. Coverage also addresses enforcement against marble board gambling devices and related city legal actions. Regular columns and features appear, including nightlife/entertainment items, advertisements, and a sports section with commentary and local sporting news.",
+    "coverage": [
+      "Miami, Florida https://www.geonames.org/4164138",
+      "Miami Beach https://www.geonames.org/4164143",
+      "Biscayne Bay https://www.geonames.org/4147971",
+      "Tropical Park https://www.geonames.org/4175747",
+      "Fort Dallas Park https://www.geonames.org/6466264",
+      "Opa-locka https://www.geonames.org/4167003",
+      "Coral Gables https://www.geonames.org/4151871",
+      "1935-06-08"
+    ],
+    "contributor": [
+      "Louis Schwartz https://id.loc.gov/authorities/names/n82214071",
+      "A. D. H. Fossey",
+      "Abe Aronovitz",
+      "Parker A. Henderson",
+      "Charles Laughinghouse",
+      "Ben C. Willard",
+      "Tom Stowe"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Vol. 9, No. 38"
+    ],
+    "source": "FIU Libraries dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 10.16,
+    "context_chars": 67852,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

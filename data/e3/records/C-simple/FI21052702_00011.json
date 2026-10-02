@@ -1,0 +1,85 @@
+{
+  "doc_id": "FI21052702_00011",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "FI21052702_00011",
+    "title": "Miami Life — Saturday, December 1, 1934 (Vol. 9, No. 11)",
+    "creator": [],
+    "publisher": "Miami Life",
+    "date": "1934-12-01",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR)",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)—Social life and customs",
+      "Horse racing",
+      "Dog racing",
+      "Hialeah Park Race Track (Hialeah, Fla.)",
+      "New Orleans Fair Grounds Race Course",
+      "National Recovery Administration (U.S.)",
+      "Labor law—Wages",
+      "Radio programs",
+      "Nightclubs",
+      "Bars (Drinking establishments)",
+      "Political advertising"
+    ],
+    "description": "Issue includes local gossip and commentary columns (\"They Tell Me\" and \"I'd Like to Know\"), extensive racing coverage and tips (horse racing at Hialeah and New Orleans Fair Grounds; dog racing column \"Tracking the Dogs\" by \"The Rabbitt\"), and discussion of racing politics and figures (including references to Col. Abe Hallow and J. E. Widener). Also contains a report on N.R.A.-related wage restitution and compliance involving Miami dress manufacturers, along with numerous advertisements for Miami-area bars, restaurants, nightclubs, services, and political ads.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Hialeah (Fla.)",
+      "New Orleans (La.)",
+      "1934-12-01"
+    ],
+    "contributor": [
+      "The Rabbitt",
+      "Col. Abe Hallow",
+      "J. E. Widener",
+      "Marshall Cassidy",
+      "O. F. Whittle",
+      "Fred Keats",
+      "Westbrook Pegler",
+      "Rosa Ponselle",
+      "Kate Smith",
+      "Ed Wynn",
+      "Jack Benny",
+      "Fred Allen",
+      "Nino Martini"
+    ],
+    "relation": [
+      "Miami Life, Vol. 9, No. 11"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 14.8,
+    "context_chars": 51695,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.8667,
+    "required": 0.9,
+    "filled_count": 13,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": false,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}

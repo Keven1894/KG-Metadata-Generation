@@ -1,0 +1,89 @@
+{
+  "doc_id": "FI21052701_00050",
+  "tier": "C-simple",
+  "fields": {
+    "identifier": "https://dpanther.fiu.edu/dpanther/items/FI21052701_00050",
+    "title": "Miami Life, Vol. XXIII, No. 50 (Saturday, December 10, 1949)",
+    "creator": [
+      "Reubin Clein"
+    ],
+    "publisher": "Miami Life",
+    "date": "1949-12-10",
+    "type": "Text; newspaper issue",
+    "format": "Text (OCR-derived)",
+    "language": "en",
+    "subject": [
+      "Miami (Fla.)—Politics and government",
+      "Gambling—Florida—Miami",
+      "Bolita (gambling)—Florida—Miami",
+      "Corruption in government—Florida—Miami",
+      "Taxation—Florida",
+      "Sales tax—Florida",
+      "Public debt—United States",
+      "Tourism—Florida—Miami",
+      "Prostitution—Florida—Miami",
+      "Police courts—Florida—Miami",
+      "Smoking—Health aspects"
+    ],
+    "description": "Issue includes an editorial alleging bolita gambling operations are protected by City Hall and lists purported bolita locations and principals in Miami’s Colored Town; commentary on Miami politics following the Nov. 22 election and skepticism about reform. Articles address repeal of Florida’s sales tax and rising per-capita federal debt, discuss tourism and arguments around legalized gambling/vice, report on a heavy Miami City Court docket, and include a reprinted health piece on tobacco’s effects on longevity. Additional local features cover Pan American aircraft engine upgrades in Miami, Miami fashion industry activity, Gulfstream Park racing notes, radio schedules, and advertisements.",
+    "coverage": [
+      "Miami (Fla.)",
+      "Miami Beach (Fla.)",
+      "Dade County (Fla.)",
+      "1949-12-10"
+    ],
+    "contributor": [
+      "Ben F. Drucker",
+      "Bond",
+      "Don Sabre",
+      "Tonde Leyho",
+      "Walt Swindells",
+      "Cecil C. Curry",
+      "Wayne Allen",
+      "William Wolfarth",
+      "H. Leslie Quigg",
+      "George N. Shaw",
+      "Dick Watson",
+      "Vannevar Bush",
+      "Dean Acheson",
+      "James Byrnes",
+      "J. Strom Thurmond",
+      "Irwin Slater"
+    ],
+    "relation": [
+      "Miami Life (Miami, Florida), Vol. XXIII, No. 50"
+    ],
+    "source": "FIU dPanther",
+    "rights": ""
+  },
+  "provenance": {
+    "latency_s": 7.72,
+    "context_chars": 60055,
+    "model": "gpt-5.2",
+    "parse_ok": true,
+    "hallucinated_uris_removed": 0
+  },
+  "completeness": {
+    "overall": 0.9333,
+    "required": 1.0,
+    "filled_count": 14,
+    "total_fields": 15,
+    "per_field": {
+      "identifier": true,
+      "title": true,
+      "creator": true,
+      "publisher": true,
+      "date": true,
+      "type": true,
+      "format": true,
+      "language": true,
+      "subject": true,
+      "description": true,
+      "coverage": true,
+      "contributor": true,
+      "relation": true,
+      "source": true,
+      "rights": false
+    }
+  }
+}
